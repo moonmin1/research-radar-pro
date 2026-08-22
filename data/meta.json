@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T15:53:29+09:00",
+  "generatedAt": "2026-08-22T17:40:13+09:00",
   "timezone": "Asia/Seoul",
-  "itemCount": 28,
+  "itemCount": 82,
   "pipeline": "curated-first + Europe PMC + bioRxiv + NIH RSS + page-watch",
   "build": "pro-v3",
-  "mode": "offline",
+  "mode": "live",
   "reviewQueueCount": 0,
   "dataNotice": "Editorial records have precedence. Automated items are metadata-only and visibly labelled until reviewed."
 }

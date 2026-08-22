@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-22T15:53:29+09:00",
+  "generatedAt": "2026-08-22T17:40:13+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-08-22T15:53:29+09:00",
+      "lastSuccess": "2026-08-22T17:40:13+09:00",
       "latencyMs": 0,
       "items": 28,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -13,38 +13,38 @@
     {
       "id": "europepmc",
       "label": "Europe PMC",
-      "status": "configured",
-      "lastSuccess": null,
-      "latencyMs": null,
-      "items": 0,
-      "message": "Offline build: collector not executed."
+      "status": "healthy",
+      "lastSuccess": "2026-08-22T17:40:13+09:00",
+      "latencyMs": 1563,
+      "items": 53,
+      "message": "Received 90; retained 53 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
-      "status": "configured",
-      "lastSuccess": null,
-      "latencyMs": null,
+      "status": "healthy",
+      "lastSuccess": "2026-08-22T17:40:13+09:00",
+      "latencyMs": 1081,
       "items": 0,
-      "message": "Offline build: collector not executed."
+      "message": "Received 30; retained 0 after relevance filtering."
     },
     {
       "id": "nih-rss",
       "label": "NIH Guide RSS",
-      "status": "configured",
-      "lastSuccess": null,
-      "latencyMs": null,
-      "items": 0,
-      "message": "Offline build: collector not executed."
+      "status": "healthy",
+      "lastSuccess": "2026-08-22T17:40:13+09:00",
+      "latencyMs": 51,
+      "items": 1,
+      "message": "Received 5; retained 1 after relevance filtering."
     },
     {
       "id": "page-watch",
       "label": "Curated programme page-watch",
-      "status": "configured",
-      "lastSuccess": null,
-      "latencyMs": null,
-      "items": 8,
-      "message": "Offline build: page hashes retained."
+      "status": "healthy",
+      "lastSuccess": "2026-08-22T17:40:13+09:00",
+      "latencyMs": 4472,
+      "items": 7,
+      "message": "Checked 8 pages; 1 change/error flags added."
     }
   ]
 }
