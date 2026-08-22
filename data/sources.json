@@ -1,0 +1,101 @@
+{
+  "europePmc": {
+    "enabled": true,
+    "type": "api",
+    "label": "Europe PMC Articles API",
+    "endpoint": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+    "days": 5,
+    "maxItems": 140
+  },
+  "biorxiv": {
+    "enabled": true,
+    "type": "api",
+    "label": "bioRxiv API",
+    "endpoint": "https://api.biorxiv.org/details/biorxiv",
+    "days": 5,
+    "maxItems": 180
+  },
+  "nihRss": {
+    "enabled": true,
+    "type": "rss",
+    "label": "NIH Guide Funding Opportunities",
+    "endpoint": "https://grants.nih.gov/grants/guide/newsfeed/fundingopps.xml",
+    "maxItems": 80
+  },
+  "pageWatch": {
+    "enabled": true,
+    "type": "html-watch",
+    "label": "Curated program and event pages",
+    "pages": [
+      {
+        "id": "rockefeller-phd",
+        "name": "Rockefeller Graduate Admissions",
+        "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/",
+        "topics": [
+          "us-opportunity"
+        ]
+      },
+      {
+        "id": "cshl-phd",
+        "name": "CSHL PhD Admissions",
+        "url": "https://www.cshl.edu/phd-program/how-to-apply/",
+        "topics": [
+          "us-opportunity"
+        ]
+      },
+      {
+        "id": "cshl-urp",
+        "name": "CSHL Undergraduate Research Program",
+        "url": "https://www.cshl.edu/education/undergraduate-research-program/",
+        "topics": [
+          "us-opportunity"
+        ]
+      },
+      {
+        "id": "rockefeller-surf",
+        "name": "Rockefeller SURF",
+        "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/",
+        "topics": [
+          "us-opportunity"
+        ]
+      },
+      {
+        "id": "stowers-scholars",
+        "name": "Stowers Research Scholars",
+        "url": "https://www.stowers.org/gradschool/research-scholars",
+        "topics": [
+          "us-opportunity"
+        ]
+      },
+      {
+        "id": "janelia-visiting",
+        "name": "Janelia Visiting Scientists",
+        "url": "https://www.janelia.org/you-janelia/visiting-scientists",
+        "topics": [
+          "us-opportunity",
+          "single-molecule"
+        ]
+      },
+      {
+        "id": "cshl-meetings",
+        "name": "CSHL Meetings",
+        "url": "https://meetings.cshl.edu/",
+        "topics": [
+          "events-funding",
+          "3d-genome",
+          "epigenetics",
+          "ivg-germline"
+        ]
+      },
+      {
+        "id": "wellcome-events",
+        "name": "Wellcome Connecting Science events",
+        "url": "https://coursesandconferences.wellcomeconnectingscience.org/",
+        "topics": [
+          "events-funding",
+          "epigenetics"
+        ]
+      }
+    ]
+  }
+}

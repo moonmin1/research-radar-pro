@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-08-22T15:53:29+09:00",
+  "sources": [
+    {
+      "id": "curated",
+      "label": "Curated editorial layer",
+      "status": "healthy",
+      "lastSuccess": "2026-08-22T15:53:29+09:00",
+      "latencyMs": 0,
+      "items": 28,
+      "message": "Editorial records have deduplication priority over automated metadata."
+    },
+    {
+      "id": "europepmc",
+      "label": "Europe PMC",
+      "status": "configured",
+      "lastSuccess": null,
+      "latencyMs": null,
+      "items": 0,
+      "message": "Offline build: collector not executed."
+    },
+    {
+      "id": "biorxiv",
+      "label": "bioRxiv",
+      "status": "configured",
+      "lastSuccess": null,
+      "latencyMs": null,
+      "items": 0,
+      "message": "Offline build: collector not executed."
+    },
+    {
+      "id": "nih-rss",
+      "label": "NIH Guide RSS",
+      "status": "configured",
+      "lastSuccess": null,
+      "latencyMs": null,
+      "items": 0,
+      "message": "Offline build: collector not executed."
+    },
+    {
+      "id": "page-watch",
+      "label": "Curated programme page-watch",
+      "status": "configured",
+      "lastSuccess": null,
+      "latencyMs": null,
+      "items": 8,
+      "message": "Offline build: page hashes retained."
+    }
+  ]
+}

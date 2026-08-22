@@ -1,0 +1,57 @@
+{
+  "3d-genome": {
+    "label": "3D Genome",
+    "group": "research",
+    "color": "#1f8f78"
+  },
+  "cohesin-ctcf": {
+    "label": "Cohesin · CTCF",
+    "group": "research",
+    "color": "#16765f"
+  },
+  "enhancer-promoter": {
+    "label": "Enhancer–Promoter",
+    "group": "research",
+    "color": "#2e7d92"
+  },
+  "epigenetics": {
+    "label": "Epigenetics",
+    "group": "research",
+    "color": "#775bb3"
+  },
+  "ivg-germline": {
+    "label": "IVG · Germline",
+    "group": "research",
+    "color": "#d05e44"
+  },
+  "developmental-biology": {
+    "label": "Development",
+    "group": "research",
+    "color": "#b8762f"
+  },
+  "single-molecule": {
+    "label": "Single-Molecule & Imaging",
+    "group": "methods",
+    "color": "#356da4"
+  },
+  "crispr-engineering": {
+    "label": "CRISPR · Engineering",
+    "group": "methods",
+    "color": "#62733a"
+  },
+  "mechanobiology": {
+    "label": "Mechanobiology",
+    "group": "research",
+    "color": "#93643f"
+  },
+  "us-opportunity": {
+    "label": "미국 연구기회",
+    "group": "opportunity",
+    "color": "#2465a7"
+  },
+  "events-funding": {
+    "label": "행사 · Funding",
+    "group": "opportunity",
+    "color": "#a47a21"
+  }
+}

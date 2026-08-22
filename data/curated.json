@@ -1,0 +1,1796 @@
+{
+  "items": [
+    {
+      "id": "stowers-research-scholars",
+      "title": "Stowers Research Scholars Program",
+      "titleKo": "Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램",
+      "kind": "postbac",
+      "topics": [
+        "us-opportunity",
+        "developmental-biology",
+        "epigenetics"
+      ],
+      "source": {
+        "name": "Stowers Institute for Medical Research",
+        "type": "institution",
+        "authority": 5,
+        "url": "https://www.stowers.org/gradschool/research-scholars"
+      },
+      "publishedAt": "2026-08-22",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": "Kansas City, Missouri, USA",
+      "url": "https://www.stowers.org/gradschool/research-scholars",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "학사학위 취득 후 시작하는 6개월 full-time mentored research program이며 최대 18개월까지 연장될 수 있다. 공식 FAQ는 citizenship 제한 없이 지원 가능하고 visa sponsorship은 case-by-case라고 명시한다.",
+      "whyItMatters": "미국 PhD 전에 장기간 미국 연구경험을 확보할 수 있는 현실적인 경로이며, chromatin·development·genomics와 맞는 lab을 직접 골라 PI에게 접근하는 구조다.",
+      "recommendedAction": "관심 lab 3곳을 추린 뒤 각 lab의 최근 3년 논문, 기술 적합성, postbac 수용 가능성을 조사해 PI contact packet을 준비한다.",
+      "tags": [
+        "postbac",
+        "international",
+        "visa sponsorship",
+        "rolling",
+        "Stowers",
+        "research experience"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "postbac",
+          "early-career"
+        ],
+        "visa": "case-by-case sponsorship",
+        "funding": "compensation and benefits listed by program",
+        "confidence": 0.98,
+        "notes": "Completed B.S./B.A. required before start; no fixed deadline."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.99,
+        "note": "Program and FAQ verified."
+      },
+      "signals": {
+        "baseRelevance": 96,
+        "novelty": 70,
+        "actionability": 100,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "open",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "janelia-visiting-scientist",
+      "title": "Janelia Visiting Scientist Program",
+      "titleKo": "Janelia Visiting Scientist Program — non-US citizen 및 J-1 paperwork 지원",
+      "kind": "visiting",
+      "topics": [
+        "us-opportunity",
+        "single-molecule",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "HHMI Janelia Research Campus",
+        "type": "institution",
+        "authority": 5,
+        "url": "https://www.janelia.org/you-janelia/visiting-scientists"
+      },
+      "publishedAt": "2026-08-22",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": "Ashburn, Virginia, USA",
+      "url": "https://www.janelia.org/you-janelia/visiting-scientists",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Graduate student부터 senior investigator까지 Janelia scientist와 공동 프로젝트를 제안하는 visiting program이다. 비미국 시민도 지원 가능하며, 공식 FAQ는 프로그램과 HHMI visa office가 J-1 등 필요한 paperwork를 지원한다고 명시한다.",
+      "whyItMatters": "advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.",
+      "recommendedAction": "현재 기술 gap을 기준으로 Janelia host 3명을 추리고, home lab–Janelia 간 상호보완성이 분명한 1-page collaboration concept를 만든다.",
+      "tags": [
+        "visiting scientist",
+        "J-1",
+        "international",
+        "HHMI",
+        "advanced imaging",
+        "collaboration"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "masters",
+          "graduate",
+          "postdoc",
+          "early-career"
+        ],
+        "visa": "J-1 paperwork support",
+        "funding": "proposal-dependent",
+        "confidence": 0.98,
+        "notes": "A specific arrangement and host collaboration are expected."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.99,
+        "note": "Program FAQ verified."
+      },
+      "signals": {
+        "baseRelevance": 94,
+        "novelty": 65,
+        "actionability": 92,
+        "authority": 100
+      },
+      "featured": false,
+      "status": "open",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "utah-2027-intl-restriction",
+      "title": "University of Utah Bioscience PhD Fall 2027 international applicant restriction",
+      "titleKo": "University of Utah Bioscience PhD 2027 — 미국 밖 international applicant 심사 제외",
+      "kind": "phd",
+      "topics": [
+        "us-opportunity"
+      ],
+      "source": {
+        "name": "University of Utah Bioscience PhD Programs",
+        "type": "institution",
+        "authority": 5,
+        "url": "https://bioscience.utah.edu/prospective/guidelines.php"
+      },
+      "publishedAt": "2026-08-22",
+      "deadlineAt": "2026-12-01",
+      "eventStart": "2027-08-20",
+      "eventEnd": null,
+      "location": "Salt Lake City, Utah, USA",
+      "url": "https://bioscience.utah.edu/prospective/guidelines.php",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Fall 2027 cycle에서 현재 미국 밖에 있는 international applicant는 고려하지 않고, 미국 내 valid nonimmigrant status 보유자만 심사한다. 공식 마감은 2026년 12월 1일이다.",
+      "whyItMatters": "한국에서 직접 지원하는 사용자는 이번 cycle의 Utah Bioscience를 지원 목록에서 제외해야 한다. 단순 관심도 점수보다 eligibility exclusion을 우선 적용해야 하는 대표 사례다.",
+      "recommendedAction": "지원 tracker에서 “ineligible this cycle”로 표시하고, 향후 policy reversal만 page-watch로 감시한다.",
+      "tags": [
+        "US PhD",
+        "international restriction",
+        "Fall 2027",
+        "ineligible from abroad"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official"
+      },
+      "eligibility": {
+        "international": false,
+        "careerStages": [
+          "masters",
+          "graduate"
+        ],
+        "visa": "outside-US applicants excluded for 2027 cycle",
+        "funding": "PhD funding program-specific",
+        "confidence": 1.0,
+        "notes": "Only international applicants already in the U.S. with valid nonimmigrant status are considered."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 1.0,
+        "note": "Official application guidelines verified."
+      },
+      "signals": {
+        "baseRelevance": 86,
+        "novelty": 95,
+        "actionability": 100,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "restricted",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "acoustic-pgclc-2026",
+      "title": "Acoustic cell patterning reveals geometry- and substrate-dependent vasculogenesis and human embryo model development",
+      "titleKo": "Soft substrate의 acoustic cell patterning이 human embryo model과 PGCLC specification을 유도",
+      "kind": "paper",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology",
+        "mechanobiology"
+      ],
+      "source": {
+        "name": "Nature Communications",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41467-026-76976-5"
+      },
+      "publishedAt": "2026-08-21",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41467-026-76976-5",
+      "doi": "10.1038/s41467-026-76976-5",
+      "pmid": null,
+      "authors": [
+        "Zhaoyi Xu",
+        "Weiping Li",
+        "Xufeng Xue",
+        "Jianping Fu",
+        "Cheri X. Deng"
+      ],
+      "summary": "Ultrasound-based acoustic cell patterning으로 hPSC cluster를 compliant substrate에 배치했을 때 epiblast-like tissue, BMP-dependent amniogenesis, primordial germ cell-like specification이 나타났다. 동일한 공간 패턴을 stiff substrate의 microcontact printing으로 만들었을 때는 이 발달 특징이 재현되지 않았다.",
+      "whyItMatters": "IVG의 초기 병목을 growth factor 조합만으로 보지 않고 spatial geometry와 substrate mechanics가 germline competence를 결정하는 변수로 확장한다. 사용자의 mechanobiology × developmental epigenetics 관심과 직접 연결된다.",
+      "recommendedAction": "ACP 조건, substrate modulus, BMP dependency, PGCLC marker panel을 figure 단위로 정리하고 기존 2D micropattern embryo model과 비교한다.",
+      "tags": [
+        "PGCLC",
+        "hPSC",
+        "acoustic patterning",
+        "soft substrate",
+        "amniogenesis",
+        "mechanobiology"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.99,
+        "note": "Publisher page verified."
+      },
+      "signals": {
+        "baseRelevance": 99,
+        "novelty": 100,
+        "actionability": 76,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "new",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "cgamp-fret-2026",
+      "title": "A versatile cGAMP reporter reveals principles of cGAS activation by DNA damage and chromosome instability",
+      "titleKo": "Improved FRET cGAMP reporter가 DNA-damage 후 rare cGAS activation을 직접 포착",
+      "kind": "method",
+      "topics": [
+        "single-molecule",
+        "epigenetics",
+        "crispr-engineering"
+      ],
+      "source": {
+        "name": "Nature Cell Biology",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41556-026-02037-0"
+      },
+      "publishedAt": "2026-08-21",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41556-026-02037-0",
+      "doi": "10.1038/s41556-026-02037-0",
+      "pmid": null,
+      "authors": [],
+      "summary": "mTurquoise2–STING_CDN–YPet 기반 FRET reporter를 microscopy, flow cytometry, purified biochemical assay에 적용했다. DNA damage 후 cGAMP production은 대다수 세포가 아니라 약 10%의 subpopulation에서 약하게 발생했고, micronuclear cGAS accumulation만으로 activation을 예측할 수 없었다.",
+      "whyItMatters": "FRET sensor를 live-cell, population, purified system으로 연결하는 assay architecture가 매우 선명하다. 향후 3D epi-editor 또는 cohesin regulator의 biochemical–cellular validation workflow 설계에 참고할 수 있다.",
+      "recommendedAction": "Reporter dynamic range, calibration, mutant control, imaging interval, rare-event statistics를 실험 설계 체크리스트로 추출한다.",
+      "tags": [
+        "FRET",
+        "cGAMP",
+        "cGAS",
+        "live imaging",
+        "flow cytometry",
+        "biochemical reconstitution"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.99,
+        "note": "Publisher page verified."
+      },
+      "signals": {
+        "baseRelevance": 91,
+        "novelty": 98,
+        "actionability": 88,
+        "authority": 100
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "chromatin-decompaction-mechanics-2026",
+      "title": "Chromatin decompaction within the nucleus increases plasma membrane tension promoting NETosis execution, independently of transcription",
+      "titleKo": "Chromatin decompaction이 transcription과 독립적으로 plasma-membrane tension을 증가시킨다",
+      "kind": "paper",
+      "topics": [
+        "epigenetics",
+        "mechanobiology"
+      ],
+      "source": {
+        "name": "Nature Communications",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41467-026-76578-1"
+      },
+      "publishedAt": "2026-08-20",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41467-026-76578-1",
+      "doi": "10.1038/s41467-026-76578-1",
+      "pmid": null,
+      "authors": [],
+      "summary": "NETosis와 U2OS model에서 chromatin decompaction이 H1, HP1α, H3의 chromatin dissociation과 함께 cell osmolarity, volume, plasma-membrane tension을 높였다. U2OS에서는 cytoskeleton 및 transcription과 독립적인 causal effect가 확인됐다.",
+      "whyItMatters": "기존의 mechanics→chromatin 방향뿐 아니라 chromatin state→whole-cell mechanics의 역방향 인과축을 제시한다. LEMD3–H3K9me3–HP1 및 nuclear deformation 프로젝트의 해석 범위를 넓힌다.",
+      "recommendedAction": "H1/HP1 dissociation, osmolyte model, membrane tension assay를 현재 chondrocyte hypothesis와 연결해 실험 가능한 prediction을 작성한다.",
+      "tags": [
+        "chromatin decompaction",
+        "HP1α",
+        "H1",
+        "membrane tension",
+        "NETosis",
+        "nuclear mechanics"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.99,
+        "note": "Publisher page verified."
+      },
+      "signals": {
+        "baseRelevance": 98,
+        "novelty": 100,
+        "actionability": 80,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "new",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "rbm46-oogenesis-2026",
+      "title": "RBM46 promotes meiotic initiation during oogenesis",
+      "titleKo": "RBM46–MEIOC–YTHDC2 complex가 female meiotic initiation을 촉진",
+      "kind": "paper",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Biochemical and Biophysical Research Communications",
+        "type": "journal",
+        "authority": 4,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42217413/"
+      },
+      "publishedAt": "2026-08-20",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42217413/",
+      "doi": "10.1016/j.bbrc.2026.154058",
+      "pmid": "42217413",
+      "authors": [
+        "Jiawei Li",
+        "Jun Shen",
+        "Yanqiu Ma",
+        "Jian Zhou"
+      ],
+      "summary": "Rbm46 deficiency는 embryonic ovary에서 CCNA2 derepression, leptotene arrest, germ-cell apoptosis를 유발했다. RBM46–MEIOC–YTHDC2 complex가 Lin28a와 Mga 3′UTR를 표적으로 하여 meiotic program으로 전환하는 post-transcriptional gate를 형성한다.",
+      "whyItMatters": "PGCLC 이후 정상적인 meiotic entry는 IVG의 핵심 병목이다. transcription factor induction만으로 설명되지 않는 mRNA decay 기반 competence control을 제공한다.",
+      "recommendedAction": "STRA8–MEIOSIN axis와 RBM46 complex를 upstream/downstream 관계로 도식화하고 IVG culture에서 측정할 marker를 구분한다.",
+      "tags": [
+        "RBM46",
+        "MEIOC",
+        "YTHDC2",
+        "oogenesis",
+        "meiotic entry",
+        "Lin28a",
+        "Mga"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "abstract-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.99,
+        "note": "PubMed and publisher metadata verified."
+      },
+      "signals": {
+        "baseRelevance": 97,
+        "novelty": 96,
+        "actionability": 82,
+        "authority": 80
+      },
+      "featured": true,
+      "status": "new",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "stowers-summer",
+      "title": "Stowers Summer Scholars Program",
+      "titleKo": "Stowers Summer Scholars — 국제학생·visa support 가능",
+      "kind": "internship",
+      "topics": [
+        "us-opportunity"
+      ],
+      "source": {
+        "name": "Stowers Institute for Medical Research",
+        "type": "institution",
+        "authority": 4,
+        "url": "https://www.stowers.org/gradschool/summer-scholars"
+      },
+      "publishedAt": "2026-08-19",
+      "deadlineAt": null,
+      "eventStart": "2027 Summer",
+      "eventEnd": "2027 Summer",
+      "location": "Kansas City, Missouri, USA",
+      "url": "https://www.stowers.org/gradschool/summer-scholars",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "2026 cycle은 8주 연구, 5,000달러 salary, 교통·숙소를 제공했고 국제학생을 받았으며 합격자의 visa 절차를 기관 Immigration Services가 지원했다. 2027 cycle 일정은 아직 확인되지 않았다.",
+      "whyItMatters": "Chromatin regulation, chromosome structure, developmental genetics, stem cells를 연구하는 기관이라 사용자의 관심과 매우 잘 맞는다. 국제학생과 visa support가 명시된 점도 강점이다.",
+      "recommendedAction": "석사과정 시작 여부가 eligibility를 막을 수 있으므로 2027 공고에서 ‘beginning a master’s program’ 제한을 최우선 확인해야 한다.",
+      "tags": [
+        "International",
+        "Chromatin",
+        "Development",
+        "Visa support",
+        "Undergraduate"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "undergraduate",
+          "postbac",
+          "masters",
+          "early-career"
+        ],
+        "visa": "check-official-page",
+        "funding": "check-official-page",
+        "confidence": 0.55,
+        "notes": "Eligibility is re-checked by curated overrides and page-watch."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 95,
+        "novelty": 55,
+        "actionability": 75,
+        "authority": 80
+      },
+      "featured": true,
+      "status": "watch",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "cshl-urp",
+      "title": "Cold Spring Harbor Laboratory Undergraduate Research Program",
+      "titleKo": "CSHL Undergraduate Research Program — 다음 cycle 감시",
+      "kind": "internship",
+      "topics": [
+        "us-opportunity"
+      ],
+      "source": {
+        "name": "Cold Spring Harbor Laboratory",
+        "type": "institution",
+        "authority": 4,
+        "url": "https://www.cshl.edu/education/undergraduate-research-program/"
+      },
+      "publishedAt": "2026-08-19",
+      "deadlineAt": null,
+      "eventStart": "2027 Summer",
+      "eventEnd": "2027 Summer",
+      "location": "Cold Spring Harbor, New York, USA",
+      "url": "https://www.cshl.edu/education/undergraduate-research-program/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "전 세계 undergraduate를 대상으로 약 20명을 선발하는 여름 연구 프로그램이다. 2026 cycle은 종료되었으며 2027 일정은 아직 공식 발표되지 않았다.",
+      "whyItMatters": "국제 학부생을 명시적으로 받는 드문 미국 생명과학 연구 프로그램이다. 다만 사용자의 졸업·대학원 입학 시점 때문에 2027 eligibility가 제한될 가능성이 높다.",
+      "recommendedAction": "‘현재 학부 재학’ 요건과 DGIST 입학 시점을 대조해 실제 지원 가능 여부를 먼저 판단해야 한다.",
+      "tags": [
+        "International",
+        "Undergraduate",
+        "Research internship",
+        "Genomics",
+        "Quantitative biology"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "undergraduate",
+          "postbac",
+          "masters",
+          "early-career"
+        ],
+        "visa": "check-official-page",
+        "funding": "check-official-page",
+        "confidence": 0.55,
+        "notes": "Eligibility is re-checked by curated overrides and page-watch."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 92,
+        "novelty": 55,
+        "actionability": 75,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "watch",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "rockefeller-surf",
+      "title": "Chemers Neustein Summer Undergraduate Research Fellowship",
+      "titleKo": "Rockefeller SURF — 국제학생 가능, 다음 cycle 감시",
+      "kind": "internship",
+      "topics": [
+        "us-opportunity"
+      ],
+      "source": {
+        "name": "The Rockefeller University",
+        "type": "institution",
+        "authority": 4,
+        "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/"
+      },
+      "publishedAt": "2026-08-19",
+      "deadlineAt": null,
+      "eventStart": "2027 Summer",
+      "eventEnd": "2027 Summer",
+      "location": "New York, USA",
+      "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "2026 프로그램은 10주, stipend 6,500달러와 비통근자 무료 housing을 제공했고 국제학생 지원이 가능했다. 2027 cycle 날짜는 아직 공식 업데이트되지 않았다.",
+      "whyItMatters": "국제학생을 명시적으로 허용하고 housing까지 제공하는 미국 biomedical summer program이라는 점에서 가치가 높다. 그러나 sophomores/juniors 중심이므로 졸업 시점 eligibility를 주의해야 한다.",
+      "recommendedAction": "다음 공고가 나오면 degree status와 J-1/visa 처리 방식을 즉시 확인해야 한다.",
+      "tags": [
+        "International",
+        "Undergraduate",
+        "SURF",
+        "Housing",
+        "Stipend"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "undergraduate",
+          "postbac",
+          "masters",
+          "early-career"
+        ],
+        "visa": "check-official-page",
+        "funding": "check-official-page",
+        "confidence": 0.55,
+        "notes": "Eligibility is re-checked by curated overrides and page-watch."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 88,
+        "novelty": 55,
+        "actionability": 75,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "watch",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "hnrnpk-ep-loop-2026",
+      "title": "hnRNPK condensates facilitate enhancer–promoter looping and RNA polymerase II recruitment",
+      "titleKo": "hnRNPK condensate가 nascent RNA를 매개로 enhancer–promoter looping과 Pol II recruitment를 연결",
+      "kind": "paper",
+      "topics": [
+        "3d-genome",
+        "enhancer-promoter",
+        "epigenetics"
+      ],
+      "source": {
+        "name": "Nature Genetics",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41588-026-02710-y"
+      },
+      "publishedAt": "2026-08-12",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41588-026-02710-y",
+      "doi": "10.1038/s41588-026-02710-y",
+      "pmid": null,
+      "authors": [],
+      "summary": "hnRNPK가 enhancer와 promoter에서 전사되는 nascent RNA를 선호적으로 결합해 E–P loop와 transcription을 촉진하고, RPB3를 통해 Pol II를 condensate 안에 모집한다. Au–Kline syndrome mutation은 condensate를 gel-like state로 바꾸며 loop와 Pol II recruitment를 낮췄다.",
+      "whyItMatters": "CTCF/cohesin 중심의 구조 모델과 별개로 RNA–RBP–condensate가 E–P communication을 조직하는 직접적 mechanism을 제공한다. 사용자의 mediator/condensate 질문에 핵심적인 논문이다.",
+      "recommendedAction": "RIC-seq, H3K27ac HiChIP, RNase perturbation, phase-separation assay가 각각 necessity와 sufficiency를 어떻게 지지하는지 분리해 읽는다.",
+      "tags": [
+        "hnRNPK",
+        "enhancer–promoter",
+        "condensate",
+        "nascent RNA",
+        "RNA polymerase II",
+        "HiChIP"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "may-require-access"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.99,
+        "note": "Publisher page verified."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 95,
+        "actionability": 84,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "important",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "cshl-phd",
+      "title": "Cold Spring Harbor Laboratory School of Biological Sciences — 2027 Entry",
+      "titleKo": "CSHL Biological Sciences PhD 2027 입학 지원",
+      "kind": "phd",
+      "topics": [
+        "us-opportunity"
+      ],
+      "source": {
+        "name": "Cold Spring Harbor Laboratory",
+        "type": "institution",
+        "authority": 4,
+        "url": "https://www.cshl.edu/phd-program/how-to-apply/"
+      },
+      "publishedAt": "2026-08-01",
+      "deadlineAt": "2026-12-01",
+      "eventStart": "2027-09-01",
+      "eventEnd": "2027-09-01",
+      "location": "Cold Spring Harbor, New York, USA",
+      "url": "https://www.cshl.edu/phd-program/how-to-apply/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "지원서는 2026년 9월에 열리고 마감은 12월 1일이다. Biology뿐 아니라 physics, engineering, mathematics, computer science 배경도 장려하며 국제 학생에게 TOEFL/IELTS를 요구한다.",
+      "whyItMatters": "3D genome, quantitative biology, single-molecule·genomics 환경과 직접 맞닿아 있다. DGIST 석사 후 미국 박사 후보군으로 적합성이 높다.",
+      "recommendedAction": "현재는 지원보다 CSHL faculty map과 요구되는 quantitative evidence를 역산해 석사 동안 준비할 항목을 정하는 단계다.",
+      "tags": [
+        "US PhD",
+        "International",
+        "Genomics",
+        "Chromatin",
+        "Opens September"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "undergraduate",
+          "postbac",
+          "masters",
+          "early-career"
+        ],
+        "visa": "check-official-page",
+        "funding": "check-official-page",
+        "confidence": 0.55,
+        "notes": "Eligibility is re-checked by curated overrides and page-watch."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 86,
+        "novelty": 55,
+        "actionability": 75,
+        "authority": 80
+      },
+      "featured": true,
+      "status": "watch",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "biology-genomes-2027",
+      "title": "Biology of Genomes 2027",
+      "titleKo": "CSHL Biology of Genomes 2027",
+      "kind": "conference",
+      "topics": [
+        "events-funding"
+      ],
+      "source": {
+        "name": "Cold Spring Harbor Laboratory",
+        "type": "event-organizer",
+        "authority": 4,
+        "url": "https://meetings.cshl.edu/meetings.aspx?meet=GENOME"
+      },
+      "publishedAt": "2026-08-01",
+      "deadlineAt": "2027-02-19",
+      "eventStart": "2027-05-11",
+      "eventEnd": "2027-05-15",
+      "location": "Cold Spring Harbor, New York, USA",
+      "url": "https://meetings.cshl.edu/meetings.aspx?meet=GENOME",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "2027년 5월 11–15일 열리는 CSHL genome meeting이며 abstract 마감은 2027년 2월 19일이다. 3D genome에 한정된 회의는 아니지만 최신 genomics methods와 regulatory genomics 흐름을 넓게 접할 수 있다.",
+      "whyItMatters": "DGIST 석사 진학 후 초기 데이터가 확보된다면 poster submission을 노릴 수 있는 중기 목표다.",
+      "recommendedAction": "2026년 하반기부터 제출 가능한 preliminary result와 travel funding 경로를 준비해야 한다.",
+      "tags": [
+        "Genomics",
+        "3D genome",
+        "Methods",
+        "CSHL",
+        "USA"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": "check-official-page",
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 85,
+        "novelty": 55,
+        "actionability": 90,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "open",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "rockefeller-phd",
+      "title": "Rockefeller University Graduate Program in Bioscience — 2027 Entry",
+      "titleKo": "Rockefeller University Bioscience PhD 2027 입학 지원",
+      "kind": "phd",
+      "topics": [
+        "us-opportunity"
+      ],
+      "source": {
+        "name": "The Rockefeller University",
+        "type": "institution",
+        "authority": 4,
+        "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/"
+      },
+      "publishedAt": "2026-08-01",
+      "deadlineAt": "2026-12-01",
+      "eventStart": "2027-09-01",
+      "eventEnd": "2027-09-01",
+      "location": "New York, USA",
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "2027년 가을 입학 지원 마감은 2026년 12월 1일이다. 국제 학위 소지자가 지원할 수 있고 GRE와 TOEFL 점수를 요구하지 않는다고 명시되어 있다.",
+      "whyItMatters": "미국 유학 구조를 이해하는 benchmark로 좋지만, 사용자는 DGIST 석사 후 미국 박사를 계획하므로 이번 cycle의 실제 지원보다는 future target lab 분석이 더 적절하다.",
+      "recommendedAction": "관심 PI와 학생 선발 방식, rotation 구조, 최근 graduate placement를 조사해 장기 지원 목록에 반영할 수 있다.",
+      "tags": [
+        "US PhD",
+        "International",
+        "Bioscience",
+        "No GRE",
+        "New York"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "undergraduate",
+          "postbac",
+          "masters",
+          "early-career"
+        ],
+        "visa": "check-official-page",
+        "funding": "check-official-page",
+        "confidence": 0.55,
+        "notes": "Eligibility is re-checked by curated overrides and page-watch."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 79,
+        "novelty": 55,
+        "actionability": 90,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "open",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "meiotic-ctcf-loops",
+      "title": "High-resolution chromatin mapping reveals that CTCF anchors meiotic loops to the chromosome axis",
+      "titleKo": "감수분열 염색체에서 CTCF가 loop를 chromosome axis에 고정한다",
+      "kind": "paper",
+      "topics": [
+        "3d-genome",
+        "cohesin-ctcf",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Nature Communications",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41467-026-73644-6"
+      },
+      "publishedAt": "2026-07-28",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41467-026-73644-6",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Mouse spermatogonia에서 spermatocyte로 넘어가는 과정을 Hi-C와 Micro-C로 고해상도 추적했다. 감수분열 prophase I에서 일부 CTCF site가 chromatin loop의 기저부를 chromosome axis에 연결하며, 저자들은 전형적인 somatic loop extrusion보다 기존 loop들의 결합과 재배열에 가까운 모델을 제시한다.",
+      "whyItMatters": "3D genome과 germline biology가 직접 만나는 논문이다. IVG에서 가장 어려운 구간 중 하나인 meiosis와 chromosome reorganization을 구조적으로 해석할 수 있는 기준점을 제공한다.",
+      "recommendedAction": "Fig. 1–4의 stage-resolved Hi-C/Micro-C와 loop model을 우선 검토할 가치가 높다.",
+      "tags": [
+        "CTCF",
+        "Meiosis",
+        "Micro-C",
+        "Hi-C",
+        "Spermatogenesis"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.95,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 99,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "new",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "epi-editing-feature",
+      "title": "Epigenetic editing makes its mark",
+      "titleKo": "Epigenome editing이 실제 치료·세포공학 단계로 이동하고 있다",
+      "kind": "news",
+      "topics": [
+        "epigenetics",
+        "crispr-engineering"
+      ],
+      "source": {
+        "name": "Nature",
+        "type": "publisher",
+        "authority": 4,
+        "url": "https://www.nature.com/articles/d41586-026-02151-x"
+      },
+      "publishedAt": "2026-07-13",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/d41586-026-02151-x",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "DNA와 chromatin의 chemical mark를 locus-specific하게 다시 써서 gene expression을 조절하는 기술의 현재 수준을 정리한 Nature Technology Feature다. durable silencing, delivery, specificity, clinical translation의 병목을 함께 다룬다.",
+      "whyItMatters": "사용자의 3D epi-editor 비전을 기존 1D epigenome editor의 성숙도와 비교할 수 있다. 무엇이 이미 해결됐고 3D manipulation에서 무엇이 새로 필요한지 구분하는 기준 자료다.",
+      "recommendedAction": "기술 분류표를 만든 뒤 dCas9–DNMT/KRAB 계열과 dCas9–cohesin/CTCF 계열의 차이를 정리할 가치가 있다.",
+      "tags": [
+        "Epigenome editing",
+        "DNA methylation",
+        "Histone marks",
+        "CRISPR",
+        "Therapeutics"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "may-require-access"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 96,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 80
+      },
+      "featured": true,
+      "status": "new",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "uk-ivg-regulation",
+      "title": "Modernising regulatory pathways for assisted reproductive technologies: a case study on IVG",
+      "titleKo": "영국이 IVG를 기존 생식의료 법체계에 어떻게 넣을지 선제적으로 검토했다",
+      "kind": "policy",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "UK Regulatory Horizons Council",
+        "type": "government-or-society",
+        "authority": 5,
+        "url": "https://www.gov.uk/government/publications/modernising-regulatory-pathways-for-assisted-reproductive-technologies-a-case-study-on-ivg/modernising-regulatory-pathways-for-assisted-reproductive-technologies-a-case-study-on-in-vitro-gametogenesis-ivg"
+      },
+      "publishedAt": "2026-07-10",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": "United Kingdom",
+      "url": "https://www.gov.uk/government/publications/modernising-regulatory-pathways-for-assisted-reproductive-technologies-a-case-study-on-ivg/modernising-regulatory-pathways-for-assisted-reproductive-technologies-a-case-study-on-in-vitro-gametogenesis-ivg",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "영국 정부 자문 보고서는 IVG가 아직 임상 단계가 아니지만 기존 assisted reproduction 법체계가 이를 평가할 명확한 경로를 제공하지 못한다고 진단한다. 과학적 근거가 축적될 때 단계적으로 적응할 수 있는 규제 경로를 논의한다.",
+      "whyItMatters": "IVG가 연구실 기술에서 제도권 기술로 넘어갈 때 필요한 regulatory architecture를 보여준다. 미국·일본과 비교할 정책 기준점으로 활용할 수 있다.",
+      "recommendedAction": "과학적 milestone과 regulatory milestone을 분리한 IVG roadmap을 만들 때 참고할 가치가 높다.",
+      "tags": [
+        "IVG",
+        "Policy",
+        "ART",
+        "Regulation",
+        "Clinical translation"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "official",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.98,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 88,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "new",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "ivg-hype",
+      "title": "Changing Discourse on In Vitro Gametogenesis: Expectation, Scientific Reality, and the Ethics of Hype",
+      "titleKo": "IVG 담론은 기술 현실보다 임상 기대가 앞서고 있다는 비판",
+      "kind": "commentary",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Monash Bioethics Review",
+        "type": "journal",
+        "authority": 4,
+        "url": "https://link.springer.com/article/10.1007/s40592-026-00295-0"
+      },
+      "publishedAt": "2026-06-05",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://link.springer.com/article/10.1007/s40592-026-00295-0",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "학술·언론 담론이 IVG의 가까운 미래 임상 적용을 전제하는 경향을 분석하고, 실제로는 핵심 기술과 안전성 문제가 해결되지 않았다고 지적한다. 과도한 기대가 basic research의 가치와 정책 논의를 왜곡할 수 있다는 주장이다.",
+      "whyItMatters": "IVG 분야를 냉정하게 평가하는 균형추다. 연구 목표를 제시할 때 ‘임상 적용’보다 정확한 biological bottleneck 해결을 전면에 놓아야 한다는 근거가 된다.",
+      "recommendedAction": "IVG 발표나 연구계획에서 hype를 피하고 현재 달성 수준·미해결 단계·검증 기준을 명확히 분리해야 한다.",
+      "tags": [
+        "IVG",
+        "Hype",
+        "Bioethics",
+        "Science communication",
+        "Katsuhiko Hayashi"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.95,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 86,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "3d-cancer-review",
+      "title": "3D chromatin architecture in cancer: mechanisms of dysregulation and emerging therapeutic strategies",
+      "titleKo": "암에서 3D chromatin dysregulation과 치료 전략을 정리한 리뷰",
+      "kind": "review",
+      "topics": [
+        "3d-genome",
+        "enhancer-promoter",
+        "mechanobiology"
+      ],
+      "source": {
+        "name": "Experimental & Molecular Medicine",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s12276-026-01748-6"
+      },
+      "publishedAt": "2026-06-05",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s12276-026-01748-6",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "CTCF/cohesin 이상, enhancer hijacking, TAD rewiring, compartment 변화가 암 전사 프로그램을 어떻게 바꾸는지 정리한다. Hi-C, HiChIP, single-cell 3D genomics와 3D genome 표적 치료 전략까지 연결한다.",
+      "whyItMatters": "3D genome engineering의 translational endpoint를 검토할 때 유용하다. 다만 기전적 깊이보다 분야 전체 지형을 빠르게 훑는 용도에 가깝다.",
+      "recommendedAction": "입문·발표 배경 정리용으로 읽고, 핵심 주장마다 원 논문으로 역추적하는 방식이 적절하다.",
+      "tags": [
+        "Cancer",
+        "TAD",
+        "Super-enhancer",
+        "Therapeutics",
+        "Phase separation"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.95,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 83,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 100
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "cohesin-early-diff",
+      "title": "Loop extrusion by cohesin plays a role in enhancer-activated gene expression early in differentiation",
+      "titleKo": "Cohesin loop extrusion은 분화 초기에 enhancer 활성화를 돕는다",
+      "kind": "paper",
+      "topics": [
+        "3d-genome",
+        "cohesin-ctcf",
+        "enhancer-promoter"
+      ],
+      "source": {
+        "name": "Nature Communications",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41467-026-73049-5"
+      },
+      "publishedAt": "2026-05-26",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41467-026-73049-5",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Mouse α-globin locus에서 cohesin 급성 제거는 분화 초기의 gene activation을 방해하지만 후기에는 효과가 작았다. Enhancer와 promoter 사이에 CTCF site를 삽입했을 때 방향성에 따라 발현이 저해되어, loop extrusion이 inducible gene의 초기 E–P proximity 형성에 기여함을 보여준다.",
+      "whyItMatters": "‘Cohesin은 항상 필요한가’가 아니라 ‘언제 필요한가’를 분리한다. 사용자가 구상하는 3D epi-editor의 개입 시점과 transient structural priming 가설에 직접 연결된다.",
+      "recommendedAction": "초기/후기 분화 시점별 cohesin 의존성 차이를 연구계획의 temporal control 논리로 활용할 수 있다.",
+      "tags": [
+        "Cohesin",
+        "Loop extrusion",
+        "Enhancer–promoter",
+        "Differentiation",
+        "α-globin"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.95,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 98,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "important",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "polyfunctional-editor",
+      "title": "Simultaneous orthogonal cell engineering by a single CRISPR-Cas9 polyfunctional editor",
+      "titleKo": "하나의 Cas9 editor로 DNA 삽입과 epigenetic silencing을 동시에 수행한다",
+      "kind": "paper",
+      "topics": [
+        "epigenetics",
+        "crispr-engineering"
+      ],
+      "source": {
+        "name": "Nature Communications",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41467-026-72846-2"
+      },
+      "publishedAt": "2026-05-08",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41467-026-72846-2",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Full-length와 truncated gRNA를 구분해 동일한 Cas9 기반 editor가 한 locus에서는 cleavage/transgene insertion을, 다른 locus에서는 durable epigenetic silencing을 수행하도록 설계했다. reciprocal translocation 위험을 줄이면서 multi-locus engineering을 구현했다.",
+      "whyItMatters": "한 플랫폼 안에서 서로 다른 기능을 orthogonal하게 제어하는 설계 원리를 보여준다. 향후 3D architecture editor와 histone/DNA editor를 결합할 때 참고할 수 있다.",
+      "recommendedAction": "gRNA 길이로 effector mode를 분리한 logic을 3D genome effector multiplexing 관점에서 검토할 수 있다.",
+      "tags": [
+        "CRISPR",
+        "Epigenetic silencing",
+        "Multiplexing",
+        "T cells",
+        "Cell engineering"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.95,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 89,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 100
+      },
+      "featured": false,
+      "status": "important",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "max-planck-epi-meeting",
+      "title": "2026 Max Planck Freiburg Epigenetics Meeting",
+      "titleKo": "Max Planck Freiburg Epigenetics Meeting 2026",
+      "kind": "conference",
+      "topics": [
+        "events-funding"
+      ],
+      "source": {
+        "name": "Max Planck Institute of Immunobiology and Epigenetics",
+        "type": "event-organizer",
+        "authority": 4,
+        "url": "https://www.ie-freiburg.mpg.de/6126135/2026_04_01_8th_Epigenetics_Meeting_2026_en"
+      },
+      "publishedAt": "2026-04-13",
+      "deadlineAt": "2026-09-07",
+      "eventStart": "2026-12-02",
+      "eventEnd": "2026-12-04",
+      "location": "Freiburg, Germany",
+      "url": "https://www.ie-freiburg.mpg.de/6126135/2026_04_01_8th_Epigenetics_Meeting_2026_en",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Transcription regulation, chromatin dynamics, inheritance, cancer·disease를 중심으로 27명의 국제 연사를 구성한 소규모 집중형 meeting이다. 등록과 abstract 제출 마감은 2026년 9월 7일이다.",
+      "whyItMatters": "epigenetic memory와 chromatin regulation을 폭넓게 접할 수 있다. 현재 학부 졸업 단계에서는 발표 실적이 없어도 참가 목적과 비용 효율을 따져볼 가치가 있다.",
+      "recommendedAction": "등록비가 높으므로 참가 전 travel grant 또는 institutional support 가능성을 반드시 확인해야 한다.",
+      "tags": [
+        "Chromatin",
+        "Epigenetics",
+        "Transcription",
+        "Inheritance",
+        "Cancer"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": "check-official-page",
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 91,
+        "novelty": 55,
+        "actionability": 90,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "open",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "nipbl-pancreas",
+      "title": "Impaired cohesin loading disrupts pancreatic differentiation by Polycomb-driven chromatin rewiring and loop collapse",
+      "titleKo": "NIPBL 저하는 E–P loop 붕괴와 Polycomb rewiring을 통해 췌장 분화를 방해한다",
+      "kind": "paper",
+      "topics": [
+        "3d-genome",
+        "cohesin-ctcf",
+        "enhancer-promoter"
+      ],
+      "source": {
+        "name": "Communications Biology",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s42003-026-09838-x"
+      },
+      "publishedAt": "2026-03-13",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s42003-026-09838-x",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "hESC pancreatic differentiation에서 NIPBL knockdown이 E–P interaction과 CTCF loop를 약화시키고, PRC domain 간 contact를 증가시켰다. 일부 loop anchor에서 RAD21이 유지되어도 interaction frequency가 감소해 cohesin occupancy와 productive extrusion을 구분한다.",
+      "whyItMatters": "NIPBL–cohesin 축과 PRC compartmentalization의 경쟁을 동시에 보여준다. 사용자의 cohesin loader 기반 3D epi-editor 아이디어에 가장 직접적인 세포 분화 사례다.",
+      "recommendedAction": "NIPBL KD, RAD21 occupancy, H3K27ac/RNF2, Hi-C/HiChIP 조합을 실험 설계 템플릿으로 볼 수 있다.",
+      "tags": [
+        "NIPBL",
+        "Cohesin loading",
+        "Polycomb",
+        "Differentiation",
+        "Enhancer–promoter"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.95,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 97,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 100
+      },
+      "featured": false,
+      "status": "important",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "single-molecule-workshop",
+      "title": "31st International Workshop on Single Molecule Spectroscopy and Super-resolution Microscopy",
+      "titleKo": "Single-molecule spectroscopy·super-resolution microscopy 국제 워크숍",
+      "kind": "workshop",
+      "topics": [
+        "events-funding",
+        "single-molecule"
+      ],
+      "source": {
+        "name": "PicoQuant",
+        "type": "event-organizer",
+        "authority": 4,
+        "url": "https://www.picoquant.com/events/single-molecule-workshop/"
+      },
+      "publishedAt": "2026-02-16",
+      "deadlineAt": "2026-08-31",
+      "eventStart": "2026-10-06",
+      "eventEnd": "2026-10-08",
+      "location": "Berlin, Germany",
+      "url": "https://www.picoquant.com/events/single-molecule-workshop/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "smFRET, FLIM, FCS/FLCS, PALM/STORM/PAINT, single-molecule localization과 quantitative imaging을 다룬다. 2026년 8월 31일이 최종 등록 마감이며, abstract 제출은 이미 종료되었다.",
+      "whyItMatters": "사용자가 희망하는 single-molecule biophysics와 super-resolution imaging을 직접 다루는 행사다. DNA curtain 자체보다 fluorescence-based single-molecule measurement와 imaging 역량 확장에 적합하다.",
+      "recommendedAction": "참가 목적이 기술 습득인지 networking인지 명확히 하고, 비용·여행 대비 얻을 수 있는 method exposure를 평가해야 한다.",
+      "tags": [
+        "smFRET",
+        "STORM",
+        "DNA-PAINT",
+        "FCS",
+        "Single molecule"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": "check-official-page",
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 98,
+        "novelty": 55,
+        "actionability": 90,
+        "authority": 80
+      },
+      "featured": true,
+      "status": "open",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "raichu-normalization",
+      "title": "Boosting the detection of enhancer-promoter loops via normalization methods for chromatin interaction data",
+      "titleKo": "Raichu normalization은 기존 방법이 놓친 E–P loop를 복원한다",
+      "kind": "method",
+      "topics": [
+        "3d-genome",
+        "cohesin-ctcf",
+        "enhancer-promoter"
+      ],
+      "source": {
+        "name": "Nature Communications",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41467-026-69082-z"
+      },
+      "publishedAt": "2026-02-03",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41467-026-69082-z",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Matrix balancing 기반 normalization이 약한 regulatory loop signal을 약화시킬 수 있다는 문제를 제기하고, optimization 기반 Raichu를 제안했다. 기존 ICE/KR 대비 거의 두 배의 loop를 검출하며 다양한 depth, resolution, species, platform에서 작동한다고 보고했다.",
+      "whyItMatters": "실험 신호가 없어서가 아니라 preprocessing에서 사라졌을 가능성을 다룬다. Micro-C/Hi-C 기반 E–P loop 분석을 수행할 때 필수적인 computational caveat다.",
+      "recommendedAction": "향후 데이터 분석 pipeline에서 ICE/KR 단독 결과와 Raichu 결과를 비교하는 benchmark가 필요하다.",
+      "tags": [
+        "Raichu",
+        "Hi-C",
+        "Normalization",
+        "Loop calling",
+        "Enhancer–promoter"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.95,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 94,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 100
+      },
+      "featured": false,
+      "status": "important",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "asrm-ivg",
+      "title": "Ethical considerations of in vitro gametogenesis: an Ethics Committee opinion",
+      "titleKo": "ASRM이 IVG의 임상 적용 전제와 안전성 기준을 공식화했다",
+      "kind": "guideline",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "ASRM / Fertility and Sterility",
+        "type": "government-or-society",
+        "authority": 5,
+        "url": "https://www.asrm.org/practice-guidance/ethics-opinions/ethical-considerations-of-in-vitro-gametogenesis-an-ethics-committee-opinion-asrm-2026/"
+      },
+      "publishedAt": "2026-01-03",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.asrm.org/practice-guidance/ethics-opinions/ethical-considerations-of-in-vitro-gametogenesis-an-ethics-committee-opinion-asrm-2026/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "ASRM은 인간 IVG의 viability와 safety data가 없으며, reproductive use를 고려하기 전에 non-human primate 연구가 충분히 축적되어야 한다고 명시한다. offspring risk, large-scale embryo creation, consent, equity, germline modification 문제를 핵심 쟁점으로 제시한다.",
+      "whyItMatters": "IVG 연구의 실제 translational gate를 보여준다. 단순히 mature gamete 생성 성공만으로 임상에 접근할 수 없고 genetic·epigenetic normality와 장기 안전성 검증이 중심이라는 점을 명확히 한다.",
+      "recommendedAction": "IVG 연구계획에서 efficacy뿐 아니라 imprinting, aneuploidy, transgenerational safety endpoint를 포함해야 한다.",
+      "tags": [
+        "IVG",
+        "Safety",
+        "Ethics",
+        "Non-human primate",
+        "Regulation"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "official",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.98,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 92,
+        "novelty": 80,
+        "actionability": 50,
+        "authority": 100
+      },
+      "featured": false,
+      "status": "important",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "cshl-germ-cells",
+      "title": "Germ Cells 2026",
+      "titleKo": "CSHL Germ Cells 2026",
+      "kind": "conference",
+      "topics": [
+        "events-funding",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Cold Spring Harbor Laboratory",
+        "type": "event-organizer",
+        "authority": 4,
+        "url": "https://meetings.cshl.edu/meetings.aspx?meet=GERM"
+      },
+      "publishedAt": "2026-01-01",
+      "deadlineAt": "2026-07-31",
+      "eventStart": "2026-10-06",
+      "eventEnd": "2026-10-10",
+      "location": "Cold Spring Harbor, New York, USA",
+      "url": "https://meetings.cshl.edu/meetings.aspx?meet=GERM",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Germline specification, gametogenesis, meiosis와 관련된 CSHL biennial meeting이다. Mitinori Saitou가 organizer로 참여하며, 2026년 abstract 마감은 종료되었다.",
+      "whyItMatters": "IVG와 germ-cell biology에서 가장 직접적인 국제 네트워크 중 하나다. 참석하지 못하더라도 프로그램에 등장하는 연구자와 발표 주제를 추적해야 한다.",
+      "recommendedAction": "연사·발표 제목을 IVG lab map과 논문 watchlist로 전환하는 것이 유용하다.",
+      "tags": [
+        "Germ cells",
+        "IVG",
+        "Meiosis",
+        "Saitou",
+        "CSHL"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": "check-official-page",
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 97,
+        "novelty": 55,
+        "actionability": 50,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "closed",
+      "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "cshl-epi-2026",
+      "title": "Epigenetics & Chromatin 2026",
+      "titleKo": "CSHL Epigenetics & Chromatin 2026",
+      "kind": "conference",
+      "topics": [
+        "events-funding"
+      ],
+      "source": {
+        "name": "Cold Spring Harbor Laboratory",
+        "type": "event-organizer",
+        "authority": 4,
+        "url": "https://meetings.cshl.edu/meetings.aspx?meet=EPICH"
+      },
+      "publishedAt": "2026-01-01",
+      "deadlineAt": "2026-06-26",
+      "eventStart": "2026-09-15",
+      "eventEnd": "2026-09-19",
+      "location": "Cold Spring Harbor, New York, USA",
+      "url": "https://meetings.cshl.edu/meetings.aspx?meet=EPICH",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "CSHL의 대표 chromatin meeting으로 2026년 9월 15–19일 열린다. Abstract 마감은 이미 지났지만 프로그램과 발표자 목록은 해당 분야의 최신 연구 흐름을 파악하는 데 유용하다.",
+      "whyItMatters": "향후 미국 학회 네트워크를 설계할 때 우선순위가 높은 회의다. 이번 회차 참가보다 2028년 또는 관련 CSHL course를 장기 목표로 설정하는 편이 현실적이다.",
+      "recommendedAction": "발표자와 세션을 기반으로 관심 lab·method·논문 watchlist를 구축할 수 있다.",
+      "tags": [
+        "Epigenetics",
+        "Chromatin",
+        "CSHL",
+        "USA",
+        "Conference"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": "check-official-page",
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 90,
+        "novelty": 55,
+        "actionability": 50,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "closed",
+      "ingestedBy": "curated-seed"
+    }
+  ],
+  "note": "Editorial baseline. Automated collectors may append records but cannot replace matching DOI/PMID/URL/title entries."
+}

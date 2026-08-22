@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "name": "RO KA Research Radar",
+  "timezone": "Asia/Seoul",
+  "careerStage": "undergraduate-to-masters",
+  "citizenshipContext": "international-applicant-from-korea",
+  "interests": {
+    "3d-genome": 1.0,
+    "cohesin-ctcf": 1.0,
+    "enhancer-promoter": 0.98,
+    "epigenetics": 0.96,
+    "ivg-germline": 0.98,
+    "developmental-biology": 0.9,
+    "single-molecule": 0.86,
+    "crispr-engineering": 0.88,
+    "mechanobiology": 0.78,
+    "us-opportunity": 0.94,
+    "events-funding": 0.72
+  },
+  "preferences": {
+    "openAccessBoost": true,
+    "internationalEligibilityBoost": true,
+    "visaSupportBoost": true,
+    "deadlineWindowDays": 180,
+    "freshnessHalfLifeDays": 21,
+    "dailyBriefSize": 8
+  }
+}

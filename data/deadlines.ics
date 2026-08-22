@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Research Radar//Deadline Feed//KO
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:cshl-phd@research-radar
+DTSTAMP:20260822T065329Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:CSHL Biological Sciences PhD 2027 입학 지원
+DESCRIPTION:현재는 지원보다 CSHL faculty map과 요구되는 quantitative evidence를 역산해 석사
+  동안 준비할 항목을 정하는 단계다.
+URL:https://www.cshl.edu/phd-program/how-to-apply/
+END:VEVENT
+BEGIN:VEVENT
+UID:utah-2027-intl-restriction@research-radar
+DTSTAMP:20260822T065329Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:University of Utah Bioscience PhD 2027 — 미국 밖 international appli
+ cant 심사 제외
+DESCRIPTION:지원 tracker에서 “ineligible this cycle”로 표시하고\, 향후 policy revers
+ al만 page-watch로 감시한다.
+URL:https://bioscience.utah.edu/prospective/guidelines.php
+END:VEVENT
+BEGIN:VEVENT
+UID:single-molecule-workshop@research-radar
+DTSTAMP:20260822T065329Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Single-molecule spectroscopy·super-resolution microscopy 국제 워크숍
+DESCRIPTION:참가 목적이 기술 습득인지 networking인지 명확히 하고\, 비용·여행 대비 얻을 수 있는 method 
+ exposure를 평가해야 한다.
+URL:https://www.picoquant.com/events/single-molecule-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:rockefeller-phd@research-radar
+DTSTAMP:20260822T065329Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Rockefeller University Bioscience PhD 2027 입학 지원
+DESCRIPTION:관심 PI와 학생 선발 방식\, rotation 구조\, 최근 graduate placement를 조사해 장기
+  지원 목록에 반영할 수 있다.
+URL:https://www.rockefeller.edu/education-and-training/graduate-program-i
+ n-bioscience/admissions/
+END:VEVENT
+BEGIN:VEVENT
+UID:cshl-germ-cells@research-radar
+DTSTAMP:20260822T065329Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:CSHL Germ Cells 2026
+DESCRIPTION:연사·발표 제목을 IVG lab map과 논문 watchlist로 전환하는 것이 유용하다.
+URL:https://meetings.cshl.edu/meetings.aspx?meet=GERM
+END:VEVENT
+BEGIN:VEVENT
+UID:biology-genomes-2027@research-radar
+DTSTAMP:20260822T065329Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:CSHL Biology of Genomes 2027
+DESCRIPTION:2026년 하반기부터 제출 가능한 preliminary result와 travel funding 경로를 준비해
+ 야 한다.
+URL:https://meetings.cshl.edu/meetings.aspx?meet=GENOME
+END:VEVENT
+BEGIN:VEVENT
+UID:max-planck-epi-meeting@research-radar
+DTSTAMP:20260822T065329Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Max Planck Freiburg Epigenetics Meeting 2026
+DESCRIPTION:등록비가 높으므로 참가 전 travel grant 또는 institutional support 가능성을 반드시
+  확인해야 한다.
+URL:https://www.ie-freiburg.mpg.de/6126135/2026_04_01_8th_Epigenetics_Mee
+ ting_2026_en
+END:VEVENT
+BEGIN:VEVENT
+UID:cshl-epi-2026@research-radar
+DTSTAMP:20260822T065329Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:CSHL Epigenetics & Chromatin 2026
+DESCRIPTION:발표자와 세션을 기반으로 관심 lab·method·논문 watchlist를 구축할 수 있다.
+URL:https://meetings.cshl.edu/meetings.aspx?meet=EPICH
+END:VEVENT
+END:VCALENDAR
