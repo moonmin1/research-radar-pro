@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Research Radar Pro</title>
+    <link>./</link>
+    <description>3D genome, epigenetics, IVG, single-molecule imaging, and US research opportunities.</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 22 Aug 2026 15:53:29 +0900</lastBuildDate>
+    <item>
+      <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
+      <link>https://www.stowers.org/gradschool/research-scholars</link>
+      <guid isPermaLink="false">stowers-research-scholars</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+      <category>us-opportunity, developmental-biology, epigenetics</category>
+      <description>미국 PhD 전에 장기간 미국 연구경험을 확보할 수 있는 현실적인 경로이며, chromatin·development·genomics와 맞는 lab을 직접 골라 PI에게 접근하는 구조다.</description>
+    </item>
+    <item>
+      <title>Soft substrate의 acoustic cell patterning이 human embryo model과 PGCLC specification을 유도</title>
+      <link>https://www.nature.com/articles/s41467-026-76976-5</link>
+      <guid isPermaLink="false">acoustic-pgclc-2026</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>ivg-germline, developmental-biology, mechanobiology</category>
+      <description>IVG의 초기 병목을 growth factor 조합만으로 보지 않고 spatial geometry와 substrate mechanics가 germline competence를 결정하는 변수로 확장한다. 사용자의 mechanobiology × developmental epigenetics 관심과 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Chromatin decompaction이 transcription과 독립적으로 plasma-membrane tension을 증가시킨다</title>
+      <link>https://www.nature.com/articles/s41467-026-76578-1</link>
+      <guid isPermaLink="false">chromatin-decompaction-mechanics-2026</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>epigenetics, mechanobiology</category>
+      <description>기존의 mechanics→chromatin 방향뿐 아니라 chromatin state→whole-cell mechanics의 역방향 인과축을 제시한다. LEMD3–H3K9me3–HP1 및 nuclear deformation 프로젝트의 해석 범위를 넓힌다.</description>
+    </item>
+    <item>
+      <title>Stowers Summer Scholars — 국제학생·visa support 가능</title>
+      <link>https://www.stowers.org/gradschool/summer-scholars</link>
+      <guid isPermaLink="false">stowers-summer</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>us-opportunity</category>
+      <description>Chromatin regulation, chromosome structure, developmental genetics, stem cells를 연구하는 기관이라 사용자의 관심과 매우 잘 맞는다. 국제학생과 visa support가 명시된 점도 강점이다.</description>
+    </item>
+    <item>
+      <title>hnRNPK condensate가 nascent RNA를 매개로 enhancer–promoter looping과 Pol II recruitment를 연결</title>
+      <link>https://www.nature.com/articles/s41588-026-02710-y</link>
+      <guid isPermaLink="false">hnrnpk-ep-loop-2026</guid>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
+      <category>3d-genome, enhancer-promoter, epigenetics</category>
+      <description>CTCF/cohesin 중심의 구조 모델과 별개로 RNA–RBP–condensate가 E–P communication을 조직하는 직접적 mechanism을 제공한다. 사용자의 mediator/condensate 질문에 핵심적인 논문이다.</description>
+    </item>
+    <item>
+      <title>RBM46–MEIOC–YTHDC2 complex가 female meiotic initiation을 촉진</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/42217413/</link>
+      <guid isPermaLink="false">rbm46-oogenesis-2026</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 정상적인 meiotic entry는 IVG의 핵심 병목이다. transcription factor induction만으로 설명되지 않는 mRNA decay 기반 competence control을 제공한다.</description>
+    </item>
+    <item>
+      <title>CSHL Biological Sciences PhD 2027 입학 지원</title>
+      <link>https://www.cshl.edu/phd-program/how-to-apply/</link>
+      <guid isPermaLink="false">cshl-phd</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+      <category>us-opportunity</category>
+      <description>3D genome, quantitative biology, single-molecule·genomics 환경과 직접 맞닿아 있다. DGIST 석사 후 미국 박사 후보군으로 적합성이 높다.</description>
+    </item>
+    <item>
+      <title>감수분열 염색체에서 CTCF가 loop를 chromosome axis에 고정한다</title>
+      <link>https://www.nature.com/articles/s41467-026-73644-6</link>
+      <guid isPermaLink="false">meiotic-ctcf-loops</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+      <category>3d-genome, cohesin-ctcf, developmental-biology</category>
+      <description>3D genome과 germline biology가 직접 만나는 논문이다. IVG에서 가장 어려운 구간 중 하나인 meiosis와 chromosome reorganization을 구조적으로 해석할 수 있는 기준점을 제공한다.</description>
+    </item>
+    <item>
+      <title>University of Utah Bioscience PhD 2027 — 미국 밖 international applicant 심사 제외</title>
+      <link>https://bioscience.utah.edu/prospective/guidelines.php</link>
+      <guid isPermaLink="false">utah-2027-intl-restriction</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+      <category>us-opportunity</category>
+      <description>한국에서 직접 지원하는 사용자는 이번 cycle의 Utah Bioscience를 지원 목록에서 제외해야 한다. 단순 관심도 점수보다 eligibility exclusion을 우선 적용해야 하는 대표 사례다.</description>
+    </item>
+    <item>
+      <title>Cohesin loop extrusion은 분화 초기에 enhancer 활성화를 돕는다</title>
+      <link>https://www.nature.com/articles/s41467-026-73049-5</link>
+      <guid isPermaLink="false">cohesin-early-diff</guid>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
+      <category>3d-genome, cohesin-ctcf, enhancer-promoter</category>
+      <description>‘Cohesin은 항상 필요한가’가 아니라 ‘언제 필요한가’를 분리한다. 사용자가 구상하는 3D epi-editor의 개입 시점과 transient structural priming 가설에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Epigenome editing이 실제 치료·세포공학 단계로 이동하고 있다</title>
+      <link>https://www.nature.com/articles/d41586-026-02151-x</link>
+      <guid isPermaLink="false">epi-editing-feature</guid>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+      <category>epigenetics, crispr-engineering</category>
+      <description>사용자의 3D epi-editor 비전을 기존 1D epigenome editor의 성숙도와 비교할 수 있다. 무엇이 이미 해결됐고 3D manipulation에서 무엇이 새로 필요한지 구분하는 기준 자료다.</description>
+    </item>
+    <item>
+      <title>영국이 IVG를 기존 생식의료 법체계에 어떻게 넣을지 선제적으로 검토했다</title>
+      <link>https://www.gov.uk/government/publications/modernising-regulatory-pathways-for-assisted-reproductive-technologies-a-case-study-on-ivg/modernising-regulatory-pathways-for-assisted-reproductive-technologies-a-case-study-on-in-vitro-gametogenesis-ivg</link>
+      <guid isPermaLink="false">uk-ivg-regulation</guid>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+      <category>ivg-germline, developmental-biology</category>
+      <description>IVG가 연구실 기술에서 제도권 기술로 넘어갈 때 필요한 regulatory architecture를 보여준다. 미국·일본과 비교할 정책 기준점으로 활용할 수 있다.</description>
+    </item>
+    <item>
+      <title>Single-molecule spectroscopy·super-resolution microscopy 국제 워크숍</title>
+      <link>https://www.picoquant.com/events/single-molecule-workshop/</link>
+      <guid isPermaLink="false">single-molecule-workshop</guid>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+      <category>events-funding, single-molecule</category>
+      <description>사용자가 희망하는 single-molecule biophysics와 super-resolution imaging을 직접 다루는 행사다. DNA curtain 자체보다 fluorescence-based single-molecule measurement와 imaging 역량 확장에 적합하다.</description>
+    </item>
+    <item>
+      <title>Janelia Visiting Scientist Program — non-US citizen 및 J-1 paperwork 지원</title>
+      <link>https://www.janelia.org/you-janelia/visiting-scientists</link>
+      <guid isPermaLink="false">janelia-visiting-scientist</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+      <category>us-opportunity, single-molecule, developmental-biology</category>
+      <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
+    </item>
+    <item>
+      <title>Improved FRET cGAMP reporter가 DNA-damage 후 rare cGAS activation을 직접 포착</title>
+      <link>https://www.nature.com/articles/s41556-026-02037-0</link>
+      <guid isPermaLink="false">cgamp-fret-2026</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>single-molecule, epigenetics, crispr-engineering</category>
+      <description>FRET sensor를 live-cell, population, purified system으로 연결하는 assay architecture가 매우 선명하다. 향후 3D epi-editor 또는 cohesin regulator의 biochemical–cellular validation workflow 설계에 참고할 수 있다.</description>
+    </item>
+    <item>
+      <title>CSHL Undergraduate Research Program — 다음 cycle 감시</title>
+      <link>https://www.cshl.edu/education/undergraduate-research-program/</link>
+      <guid isPermaLink="false">cshl-urp</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>us-opportunity</category>
+      <description>국제 학부생을 명시적으로 받는 드문 미국 생명과학 연구 프로그램이다. 다만 사용자의 졸업·대학원 입학 시점 때문에 2027 eligibility가 제한될 가능성이 높다.</description>
+    </item>
+    <item>
+      <title>Rockefeller SURF — 국제학생 가능, 다음 cycle 감시</title>
+      <link>https://www.rockefeller.edu/education-and-training/surf/application-information/</link>
+      <guid isPermaLink="false">rockefeller-surf</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>us-opportunity</category>
+      <description>국제학생을 명시적으로 허용하고 housing까지 제공하는 미국 biomedical summer program이라는 점에서 가치가 높다. 그러나 sophomores/juniors 중심이므로 졸업 시점 eligibility를 주의해야 한다.</description>
+    </item>
+    <item>
+      <title>Rockefeller University Bioscience PhD 2027 입학 지원</title>
+      <link>https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/</link>
+      <guid isPermaLink="false">rockefeller-phd</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+      <category>us-opportunity</category>
+      <description>미국 유학 구조를 이해하는 benchmark로 좋지만, 사용자는 DGIST 석사 후 미국 박사를 계획하므로 이번 cycle의 실제 지원보다는 future target lab 분석이 더 적절하다.</description>
+    </item>
+    <item>
+      <title>NIPBL 저하는 E–P loop 붕괴와 Polycomb rewiring을 통해 췌장 분화를 방해한다</title>
+      <link>https://www.nature.com/articles/s42003-026-09838-x</link>
+      <guid isPermaLink="false">nipbl-pancreas</guid>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+      <category>3d-genome, cohesin-ctcf, enhancer-promoter</category>
+      <description>NIPBL–cohesin 축과 PRC compartmentalization의 경쟁을 동시에 보여준다. 사용자의 cohesin loader 기반 3D epi-editor 아이디어에 가장 직접적인 세포 분화 사례다.</description>
+    </item>
+    <item>
+      <title>Raichu normalization은 기존 방법이 놓친 E–P loop를 복원한다</title>
+      <link>https://www.nature.com/articles/s41467-026-69082-z</link>
+      <guid isPermaLink="false">raichu-normalization</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+      <category>3d-genome, cohesin-ctcf, enhancer-promoter</category>
+      <description>실험 신호가 없어서가 아니라 preprocessing에서 사라졌을 가능성을 다룬다. Micro-C/Hi-C 기반 E–P loop 분석을 수행할 때 필수적인 computational caveat다.</description>
+    </item>
+    <item>
+      <title>암에서 3D chromatin dysregulation과 치료 전략을 정리한 리뷰</title>
+      <link>https://www.nature.com/articles/s12276-026-01748-6</link>
+      <guid isPermaLink="false">3d-cancer-review</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+      <category>3d-genome, enhancer-promoter, mechanobiology</category>
+      <description>3D genome engineering의 translational endpoint를 검토할 때 유용하다. 다만 기전적 깊이보다 분야 전체 지형을 빠르게 훑는 용도에 가깝다.</description>
+    </item>
+    <item>
+      <title>하나의 Cas9 editor로 DNA 삽입과 epigenetic silencing을 동시에 수행한다</title>
+      <link>https://www.nature.com/articles/s41467-026-72846-2</link>
+      <guid isPermaLink="false">polyfunctional-editor</guid>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+      <category>epigenetics, crispr-engineering</category>
+      <description>한 플랫폼 안에서 서로 다른 기능을 orthogonal하게 제어하는 설계 원리를 보여준다. 향후 3D architecture editor와 histone/DNA editor를 결합할 때 참고할 수 있다.</description>
+    </item>
+    <item>
+      <title>IVG 담론은 기술 현실보다 임상 기대가 앞서고 있다는 비판</title>
+      <link>https://link.springer.com/article/10.1007/s40592-026-00295-0</link>
+      <guid isPermaLink="false">ivg-hype</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+      <category>ivg-germline, developmental-biology</category>
+      <description>IVG 분야를 냉정하게 평가하는 균형추다. 연구 목표를 제시할 때 ‘임상 적용’보다 정확한 biological bottleneck 해결을 전면에 놓아야 한다는 근거가 된다.</description>
+    </item>
+    <item>
+      <title>ASRM이 IVG의 임상 적용 전제와 안전성 기준을 공식화했다</title>
+      <link>https://www.asrm.org/practice-guidance/ethics-opinions/ethical-considerations-of-in-vitro-gametogenesis-an-ethics-committee-opinion-asrm-2026/</link>
+      <guid isPermaLink="false">asrm-ivg</guid>
+      <pubDate>Sat, 03 Jan 2026 12:00:00 +0000</pubDate>
+      <category>ivg-germline, developmental-biology</category>
+      <description>IVG 연구의 실제 translational gate를 보여준다. 단순히 mature gamete 생성 성공만으로 임상에 접근할 수 없고 genetic·epigenetic normality와 장기 안전성 검증이 중심이라는 점을 명확히 한다.</description>
+    </item>
+    <item>
+      <title>CSHL Germ Cells 2026</title>
+      <link>https://meetings.cshl.edu/meetings.aspx?meet=GERM</link>
+      <guid isPermaLink="false">cshl-germ-cells</guid>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+      <category>events-funding, developmental-biology</category>
+      <description>IVG와 germ-cell biology에서 가장 직접적인 국제 네트워크 중 하나다. 참석하지 못하더라도 프로그램에 등장하는 연구자와 발표 주제를 추적해야 한다.</description>
+    </item>
+    <item>
+      <title>CSHL Biology of Genomes 2027</title>
+      <link>https://meetings.cshl.edu/meetings.aspx?meet=GENOME</link>
+      <guid isPermaLink="false">biology-genomes-2027</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
+      <category>events-funding</category>
+      <description>DGIST 석사 진학 후 초기 데이터가 확보된다면 poster submission을 노릴 수 있는 중기 목표다.</description>
+    </item>
+    <item>
+      <title>Max Planck Freiburg Epigenetics Meeting 2026</title>
+      <link>https://www.ie-freiburg.mpg.de/6126135/2026_04_01_8th_Epigenetics_Meeting_2026_en</link>
+      <guid isPermaLink="false">max-planck-epi-meeting</guid>
+      <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
+      <category>events-funding</category>
+      <description>epigenetic memory와 chromatin regulation을 폭넓게 접할 수 있다. 현재 학부 졸업 단계에서는 발표 실적이 없어도 참가 목적과 비용 효율을 따져볼 가치가 있다.</description>
+    </item>
+    <item>
+      <title>CSHL Epigenetics &amp; Chromatin 2026</title>
+      <link>https://meetings.cshl.edu/meetings.aspx?meet=EPICH</link>
+      <guid isPermaLink="false">cshl-epi-2026</guid>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
+      <category>events-funding</category>
+      <description>향후 미국 학회 네트워크를 설계할 때 우선순위가 높은 회의다. 이번 회차 참가보다 2028년 또는 관련 CSHL course를 장기 목표로 설정하는 편이 현실적이다.</description>
+    </item>
+  </channel>
+</rss>

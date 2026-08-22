@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#0b6757">
+  <title>Offline · Research Radar</title>
+  <style>
+    :root{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#16332e;background:#f4f2ec}
+    *{box-sizing:border-box} body{min-height:100vh;margin:0;display:grid;place-items:center;padding:24px;background:radial-gradient(circle at 20% 10%,#d9eee7 0,transparent 38%),#f4f2ec}
+    main{width:min(680px,100%);padding:42px;border:1px solid #cddbd5;border-radius:26px;background:rgba(255,255,255,.86);box-shadow:0 20px 70px rgba(20,55,47,.12)}
+    .mark{width:64px;height:64px;display:grid;place-items:center;border-radius:20px;background:#0b6757;color:white;margin-bottom:26px}.mark svg{width:42px}
+    h1{font-size:clamp(30px,6vw,52px);letter-spacing:-.045em;margin:0 0 14px}p{font-size:17px;line-height:1.75;color:#4d625d;margin:0 0 28px}
+    a{display:inline-flex;padding:13px 18px;border-radius:12px;background:#0b6757;color:white;text-decoration:none;font-weight:750}
+    small{display:block;margin-top:24px;color:#71817d}
+  </style>
+</head>
+<body>
+  <main>
+    <div class="mark" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><circle cx="24" cy="24" r="18" stroke="currentColor" stroke-width="2.5"/><circle cx="24" cy="24" r="10" stroke="currentColor" stroke-width="2.5" opacity=".7"/><path d="M24 24 38 12" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><circle cx="24" cy="24" r="3" fill="currentColor"/></svg></div>
+    <h1>현재 네트워크에 연결되지 않았습니다.</h1>
+    <p>설치 후 한 번 열었던 Research Radar 데이터는 offline snapshot으로 계속 읽을 수 있습니다. 연결이 복구되면 새 데이터가 자동으로 다시 확인됩니다.</p>
+    <a href="./">저장된 Radar 열기</a>
+    <small>Research Radar Pro · offline-first PWA</small>
+  </main>
+</body>
+</html>

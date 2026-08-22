@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="ko" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="3D genome, epigenetics, IVG, single-molecule imaging, 미국 연구기회를 위한 개인화 연구정보 포털">
+  <meta name="theme-color" content="#0b6757">
+  <meta name="color-scheme" content="light dark">
+  <title>Research Radar Pro</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/icons/icon-192.png">
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+  <link rel="stylesheet" href="assets/css/app.css">
+  <script defer src="assets/js/fallback-data.js"></script>
+  <script defer src="assets/js/scoring.js"></script>
+  <script defer src="assets/js/storage.js"></script>
+  <script defer src="assets/js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#mainContent">본문으로 이동</a>
+  <noscript>
+    <div class="noscript">Research Radar는 JavaScript가 필요합니다. 브라우저에서 JavaScript를 활성화하십시오.</div>
+  </noscript>
+
+  <div class="app-shell" id="appShell">
+    <aside class="sidebar" id="sidebar" aria-label="주 메뉴">
+      <div class="brand-row">
+        <button class="brand" type="button" data-route="home" aria-label="Research Radar 홈">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 48 48" role="img"><circle cx="24" cy="24" r="18" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="24" cy="24" r="10" fill="none" stroke="currentColor" stroke-width="2.5" opacity=".78"/><path d="M24 24 38 12" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><circle cx="24" cy="24" r="3" fill="currentColor"/></svg>
+          </span>
+          <span class="brand-copy"><strong>Research Radar</strong><small>PERSONAL SCIENCE INTELLIGENCE</small></span>
+        </button>
+        <button class="sidebar-close icon-button" id="sidebarClose" type="button" aria-label="메뉴 닫기">×</button>
+      </div>
+
+      <nav class="primary-nav" id="primaryNav">
+        <button type="button" class="nav-item is-active" data-route="home"><span data-icon="home"></span><span>오늘의 레이더</span><em id="navTodayCount">0</em></button>
+        <button type="button" class="nav-item" data-route="research"><span data-icon="flask"></span><span>연구 피드</span><em id="navResearchCount">0</em></button>
+        <button type="button" class="nav-item" data-route="opportunities"><span data-icon="plane"></span><span>미국 연구기회</span><em id="navOpportunityCount">0</em></button>
+        <button type="button" class="nav-item" data-route="deadlines"><span data-icon="calendar"></span><span>마감 캘린더</span><em id="navDeadlineCount">0</em></button>
+        <button type="button" class="nav-item" data-route="library"><span data-icon="bookmark"></span><span>내 라이브러리</span><em id="navSavedCount">0</em></button>
+        <button type="button" class="nav-item" data-route="sources"><span data-icon="pulse"></span><span>수집 상태</span><em id="navHealthCount">0</em></button>
+      </nav>
+
+      <section class="sidebar-section" aria-labelledby="topicHeading">
+        <div class="sidebar-heading"><span id="topicHeading">관심 분야</span><button id="resetTopicFilter" type="button">초기화</button></div>
+        <div class="topic-list" id="sidebarTopics"></div>
+      </section>
+
+      <section class="profile-card" id="profileCard">
+        <div class="profile-card-top"><span class="status-dot"></span><strong>개인화 엔진 활성</strong></div>
+        <p>관심도, 최신성, 지원 가능성, source authority를 함께 계산합니다.</p>
+        <button type="button" id="openSettings"><span data-icon="sliders"></span> 개인화 설정</button>
+      </section>
+    </aside>
+
+    <div class="sidebar-scrim" id="sidebarScrim" hidden></div>
+
+    <main class="main" id="mainContent" tabindex="-1">
+      <header class="topbar">
+        <button class="mobile-menu icon-button" id="mobileMenu" type="button" aria-label="메뉴 열기"><span data-icon="menu"></span></button>
+        <div class="page-heading">
+          <div class="eyebrow" id="pageEyebrow">PERSONAL RESEARCH INTELLIGENCE</div>
+          <h1 id="pageTitle">오늘의 레이더</h1>
+        </div>
+        <label class="global-search" for="searchInput">
+          <span data-icon="search"></span>
+          <input id="searchInput" type="search" autocomplete="off" placeholder="논문, 연구자, 기술, 기관 검색  /">
+          <kbd>⌘ K</kbd>
+        </label>
+        <div class="top-actions">
+          <button class="sync-pill" id="syncStatus" type="button" title="데이터 수집 상태 보기"><span class="status-dot"></span><span id="syncText">데이터 확인 중</span></button>
+          <button class="icon-button" id="notificationButton" type="button" aria-label="마감 알림 설정"><span data-icon="bell"></span></button>
+          <button class="icon-button" id="themeButton" type="button" aria-label="테마 전환"><span data-icon="moon"></span></button>
+        </div>
+      </header>
+
+      <div class="ticker" id="ticker" aria-label="마감 임박 알림">
+        <strong>DEADLINE WATCH</strong>
+        <div class="ticker-track" id="tickerTrack"></div>
+        <button type="button" data-route="deadlines">전체 보기 <span aria-hidden="true">→</span></button>
+      </div>
+
+      <div class="content" id="viewRoot" aria-live="polite"></div>
+
+      <footer class="site-footer">
+        <div><strong>Research Radar Pro</strong><span id="footerMeta">데이터 로딩 중</span></div>
+        <div class="footer-links"><a href="feed.xml">RSS</a><a href="data/deadlines.ics">iCalendar</a><button type="button" id="exportStateFooter">내 상태 내보내기</button></div>
+      </footer>
+    </main>
+  </div>
+
+  <div class="drawer-backdrop" id="drawerBackdrop" hidden>
+    <aside class="detail-drawer" id="detailDrawer" role="dialog" aria-modal="true" aria-labelledby="drawerTitle">
+      <button class="drawer-close icon-button" id="drawerClose" type="button" aria-label="상세 패널 닫기">×</button>
+      <div id="drawerContent"></div>
+    </aside>
+  </div>
+
+  <dialog class="settings-dialog" id="settingsDialog">
+    <form method="dialog" class="settings-shell" id="settingsForm">
+      <header><div><span class="eyebrow">PERSONALIZATION</span><h2>개인화 설정</h2><p>점수 계산은 브라우저에서 즉시 다시 수행됩니다.</p></div><button class="icon-button" value="cancel" aria-label="설정 닫기">×</button></header>
+      <div class="settings-body">
+        <section>
+          <h3>관심 분야 가중치</h3>
+          <p class="section-note">0은 숨김이 아니라 낮은 우선순위입니다. Topic filter는 별도로 적용됩니다.</p>
+          <div class="weight-grid" id="weightControls"></div>
+        </section>
+        <section>
+          <h3>기회 필터</h3>
+          <label class="toggle-row"><span><strong>International eligibility 우선</strong><small>국제 지원 가능성이 확인된 기회를 가산</small></span><input type="checkbox" id="prefInternational"><i></i></label>
+          <label class="toggle-row"><span><strong>Visa/J-1 support 우선</strong><small>visa 지원이 명시된 공고를 가산</small></span><input type="checkbox" id="prefVisa"><i></i></label>
+          <label class="toggle-row"><span><strong>Open Access 우선</strong><small>즉시 읽을 수 있는 논문을 소폭 가산</small></span><input type="checkbox" id="prefOA"><i></i></label>
+        </section>
+        <section>
+          <h3>Deadline window</h3>
+          <label class="number-field"><span>마감 감시 범위</span><input type="number" id="prefDeadlineDays" min="14" max="365" step="7"><b>일</b></label>
+        </section>
+      </div>
+      <footer><button type="button" class="button ghost" id="resetProfile">기본값 복원</button><button type="submit" class="button primary" value="save">저장하고 재계산</button></footer>
+    </form>
+  </dialog>
+
+  <dialog class="command-dialog" id="commandDialog">
+    <form method="dialog" class="command-shell">
+      <label><span data-icon="search"></span><input id="commandInput" placeholder="메뉴 또는 항목 검색"></label>
+      <div id="commandResults"></div>
+      <footer><span>↑↓ 이동</span><span>Enter 선택</span><span>Esc 닫기</span></footer>
+    </form>
+  </dialog>
+
+  <div class="toast-region" id="toastRegion" aria-live="polite" aria-atomic="true"></div>
+
+  <template id="loadingTemplate">
+    <div class="loading-grid"><div></div><div></div><div></div><div></div></div>
+  </template>
+</body>
+</html>
