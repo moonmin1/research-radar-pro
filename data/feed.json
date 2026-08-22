@@ -1241,64 +1241,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "the-impact-of-exercise-on-sperm-epigenetic-modification-and-intergener-19a4d47b",
-      "title": "The impact of exercise on sperm epigenetic modification and intergenerational inheritance.",
-      "titleKo": "The impact of exercise on sperm epigenetic modification and intergenerational inheritance.",
-      "kind": "paper",
-      "topics": [
-        "epigenetics",
-        "3d-genome"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42626834"
-      },
-      "publishedAt": "2026-08-21",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42626834",
-      "doi": "10.4103/aja202631",
-      "pmid": "42626834",
-      "authors": [
-        "Guo JM",
-        "Zhou HH",
-        "Qu YC."
-      ],
-      "summary": "Paternal environmental factors can influence offspring health intergenerationally through alterations in sperm epigenetics. Exercise, as a key modifiable lifestyle factor, may similarly affect epigenetic inheritance. Emerging evidence from animal and human studies indicates that exercise modulates sperm DNA methylation and noncoding RNA expression. In animal models, paternal exercise has also been linked to changes in offspring phenotypes. However, inconsistencies exist across studies because of variations in exercise modalities and the specific epigenetic markers analyzed. More importantly, the mechanisms underlying the relationship between sperm epigenetic alterations and offspring phenotypes remain unclear. This review integrates evidence from January 2010 to December 2025 to summarize exercise-induced changes in sperm epigenetics and…",
-      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "epigenetic",
-        "epigenome",
-        "3d genome",
-        "three-dimensional genome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 96,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "loop-statistics-and-fountain-geometry-reveal-effective-two-sided-cohes-634368fc",
       "title": "Loop statistics and fountain geometry reveal effective two-sided cohesin extrusion and crowding-induced arm desynchronization",
       "titleKo": "Loop statistics and fountain geometry reveal effective two-sided cohesin extrusion and crowding-induced arm desynchronization",
@@ -1352,6 +1294,64 @@
       },
       "signals": {
         "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "the-impact-of-exercise-on-sperm-epigenetic-modification-and-intergener-19a4d47b",
+      "title": "The impact of exercise on sperm epigenetic modification and intergenerational inheritance.",
+      "titleKo": "The impact of exercise on sperm epigenetic modification and intergenerational inheritance.",
+      "kind": "paper",
+      "topics": [
+        "epigenetics",
+        "3d-genome"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42626834"
+      },
+      "publishedAt": "2026-08-21",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42626834",
+      "doi": "10.4103/aja202631",
+      "pmid": "42626834",
+      "authors": [
+        "Guo JM",
+        "Zhou HH",
+        "Qu YC."
+      ],
+      "summary": "Paternal environmental factors can influence offspring health intergenerationally through alterations in sperm epigenetics. Exercise, as a key modifiable lifestyle factor, may similarly affect epigenetic inheritance. Emerging evidence from animal and human studies indicates that exercise modulates sperm DNA methylation and noncoding RNA expression. In animal models, paternal exercise has also been linked to changes in offspring phenotypes. However, inconsistencies exist across studies because of variations in exercise modalities and the specific epigenetic markers analyzed. More importantly, the mechanisms underlying the relationship between sperm epigenetic alterations and offspring phenotypes remain unclear. This review integrates evidence from January 2010 to December 2025 to summarize exercise-induced changes in sperm epigenetics and…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome",
+        "3d genome",
+        "three-dimensional genome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 96,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -1644,200 +1644,6 @@
         "single molecule",
         "3d genome",
         "three-dimensional genome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "in-vitro-embryo-production-in-alpacas-lama-pacos-blastocyst-developmen-24f9c5bc",
-      "title": "In vitro embryo production in alpacas (Lama pacos): Blastocyst development from oocytes vitrified by Microdrop or Cryotech technique.",
-      "titleKo": "In vitro embryo production in alpacas (Lama pacos): Blastocyst development from oocytes vitrified by Microdrop or Cryotech technique.",
-      "kind": "paper",
-      "topics": [
-        "ivg-germline",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42612364"
-      },
-      "publishedAt": "2026-08-18",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42612364",
-      "doi": "10.1016/j.cryobiol.2026.105696",
-      "pmid": "42612364",
-      "authors": [
-        "Landeo L",
-        "Giuliano S",
-        "Dalvit G",
-        "Ratto M",
-        "Ruiz J",
-        "Silva M."
-      ],
-      "summary": "We evaluated the use of alpaca oocytes vitrified using the Microdrop or Cryotech technique for in vitro embryo production. Grade I-II COCs (n = 1094) were recovered from slaughterhouse ovaries, and in vitro matured for 36 h. Then, MII oocytes were randomly distributed in groups: a) vitrified using two techniques [Microdrop (VM group; n = 250) or Cryotech (VC group; n = 244)], b) just exposed to the corresponding vitrification/thawing solutions (EM group; n = 200 or EC group; n = 200) or c) non-exposed nor vitrified (i.e. fresh oocytes; control group; n = 200). After treatment administration oocytes from all groups were IVF using epididymal sperm and in vitro cultured for up to 8 days. The vitrification technique and the exposure to vitrification solutions of MII oocytes negatively affected (p < 0.001) the cleavage rate compared to contro…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "vezf1-facilitates-pluripotency-exit-by-regulating-developmental-transc-8317f3dd",
-      "title": "VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy",
-      "titleKo": "VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy",
-      "kind": "paper",
-      "topics": [
-        "cohesin-ctcf",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.64898/2026.08.13.744713"
-      },
-      "publishedAt": "2026-08-18",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.64898/2026.08.13.744713",
-      "doi": "10.64898/2026.08.13.744713",
-      "pmid": null,
-      "authors": [
-        "Mensah IK",
-        "He M",
-        "Zahoor M",
-        "Khan SU",
-        "Emerson ML",
-        "Tan HJ",
-        "Bolden GD",
-        "Utturkar SM",
-        "Gowher H."
-      ],
-      "summary": "Vascular Endothelial Zinc Finger 1 (VEZF1) is essential for embryonic development, but its role in pluripotent state transitions remains unclear. Previous work showed that Vezf1 -/- ESCs exhibit impaired differentiation, reduced Dnmt3b expression, and genome-wide hypomethylation. Here, our systematic investigation shows that VEZF1 is required for pluripotency exit during ESC differentiation. Vezf1 -/- ESCs fail to efficiently repress the pluripotency transcriptional program during differentiation, a defect that persists despite ectopic Dnmt3b expression. Genome-wide analysis revealed VEZF1 occupancy at regulatory regions of genes involved in several signaling pathways, including MAPK, as well as at some pluripotency-associated genes. Many VEZF1- bound MAPK genes showed reduced expression in undifferentiated Vezf1 -/- ESCs, suggesting tha…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf",
-        "early embryo",
-        "embryogenesis"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 97,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "lipidomic-remodeling-during-lipid-rich-mammalian-oocyte-maturation-and-a519bd57",
-      "title": "Lipidomic Remodeling during Lipid-Rich Mammalian Oocyte Maturation and Early Embryo Development",
-      "titleKo": "Lipidomic Remodeling during Lipid-Rich Mammalian Oocyte Maturation and Early Embryo Development",
-      "kind": "paper",
-      "topics": [
-        "ivg-germline",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.21203/rs.3.rs-10591251/v1"
-      },
-      "publishedAt": "2026-08-18",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.21203/rs.3.rs-10591251/v1",
-      "doi": "10.21203/rs.3.rs-10591251/v1",
-      "pmid": null,
-      "authors": [
-        "Miao Y",
-        "Liu X",
-        "Chen S",
-        "Hu R",
-        "Zhu P",
-        "Chu X",
-        "Yang X",
-        "Zhou K",
-        "Wang T",
-        "Shang Y",
-        "Fan Z",
-        "Liu Y",
-        "Zhang X",
-        "Zhou J."
-      ],
-      "summary": "Abstract Many wild mammals (such as American mink, Roe deer, Finless porpoises) accumulate high amounts of lipids during oocyte growth, and these lipids often negatively affect the success of oocyte and embryo cryopreservation, a key assisted reproductive technology used to establish biobanks for endangered mammals. Although a recent study has mapped the lipidomic landscape of lipid-poor mouse and human embryos, the lipid profile in mammals with lipid-rich oocytes and embryos remains largely unexplored. Here, applying pigs as the lipid-rich model, we comprehensively characterized lipid remodeling during porcine oocyte maturation and early embryo development. By integrating transcriptome and translatome sequencing (T&T-seq) data, we demonstrated that triglyceride (TG) lipolysis and phosphatidylinositol (PI) synthesis specifically contribu…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
       ],
       "access": {
         "openAccess": false,
@@ -2494,57 +2300,177 @@
       "ingestedBy": "nih-rss"
     },
     {
-      "id": "crispr-based-epigenome-and-genome-editing-reveal-novel-roles-for-plec-6863f5aa",
-      "title": "CRISPR-based epigenome and genome editing reveal novel roles for PLEC in cartilage biology, mechanobiology, and response to inflammation",
-      "titleKo": "CRISPR-based epigenome and genome editing reveal novel roles for PLEC in cartilage biology, mechanobiology, and response to inflammation",
+      "id": "in-vitro-embryo-production-in-alpacas-lama-pacos-blastocyst-developmen-24f9c5bc",
+      "title": "In vitro embryo production in alpacas (Lama pacos): Blastocyst development from oocytes vitrified by Microdrop or Cryotech technique.",
+      "titleKo": "In vitro embryo production in alpacas (Lama pacos): Blastocyst development from oocytes vitrified by Microdrop or Cryotech technique.",
       "kind": "paper",
       "topics": [
-        "crispr-engineering",
-        "epigenetics",
-        "mechanobiology"
+        "ivg-germline",
+        "developmental-biology"
       ],
       "source": {
         "name": "Europe PMC",
         "type": "index",
         "authority": 4,
-        "url": "https://doi.org/10.21203/rs.3.rs-10171592/v1"
+        "url": "https://europepmc.org/article/MED/42612364"
       },
       "publishedAt": "2026-08-18",
       "deadlineAt": null,
       "eventStart": null,
       "eventEnd": null,
       "location": null,
-      "url": "https://doi.org/10.21203/rs.3.rs-10171592/v1",
-      "doi": "10.21203/rs.3.rs-10171592/v1",
-      "pmid": null,
+      "url": "https://europepmc.org/article/MED/42612364",
+      "doi": "10.1016/j.cryobiol.2026.105696",
+      "pmid": "42612364",
       "authors": [
-        "Sorial AK",
-        "Harissa Z",
-        "Steward N",
-        "Kehayova Y",
-        "Savadipour A",
-        "Rashidi N",
-        "Kim YS",
-        "Roberts JB",
-        "Aubourg GA",
-        "Barter MJ",
-        "Rice SJ",
-        "Feng W",
-        "Zhang B",
-        "Deehan DJ",
-        "Wiche G",
-        "Guilak F."
+        "Landeo L",
+        "Giuliano S",
+        "Dalvit G",
+        "Ratto M",
+        "Ruiz J",
+        "Silva M."
       ],
-      "summary": "Abstract Background Osteoarthritis (OA)-associated single nucleotide polymorphism (SNP) rs11780978 has previously been associated with differential methylation at sites within PLEC gene and differential expression of PLEC in multiple joint tissues, including cartilage. We undertook experiments to identify novel differential methylation sites and used epigenome editing to link rs11780978 associated differential methylation to PLEC expression . Here, we established a novel pipeline using immortalized human chondrogenic cells to determine the role of PLEC. CRISPR based genome editing was employed to replicate plectin deficiency followed by deep phenotyping through cartilage development (chondrogenesis), and homeostasis. Methods Methylation quantitative trait loci (mQTL) analyses of novel CpGs were undertaken. Epigenome editing was employed…",
-      "whyItMatters": "programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
+      "summary": "We evaluated the use of alpaca oocytes vitrified using the Microdrop or Cryotech technique for in vitro embryo production. Grade I-II COCs (n = 1094) were recovered from slaughterhouse ovaries, and in vitro matured for 36 h. Then, MII oocytes were randomly distributed in groups: a) vitrified using two techniques [Microdrop (VM group; n = 250) or Cryotech (VC group; n = 244)], b) just exposed to the corresponding vitrification/thawing solutions (EM group; n = 200 or EC group; n = 200) or c) non-exposed nor vitrified (i.e. fresh oocytes; control group; n = 200). After treatment administration oocytes from all groups were IVF using epididymal sperm and in vitro cultured for up to 8 days. The vitrification technique and the exposure to vitrification solutions of MII oocytes negatively affected (p < 0.001) the cleavage rate compared to contro…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
-        "crispr",
-        "dcas9",
-        "epigenetic",
-        "epigenome",
-        "mechanobiology",
-        "mechanotransduction"
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "vezf1-facilitates-pluripotency-exit-by-regulating-developmental-transc-8317f3dd",
+      "title": "VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy",
+      "titleKo": "VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy",
+      "kind": "paper",
+      "topics": [
+        "cohesin-ctcf",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.64898/2026.08.13.744713"
+      },
+      "publishedAt": "2026-08-18",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.64898/2026.08.13.744713",
+      "doi": "10.64898/2026.08.13.744713",
+      "pmid": null,
+      "authors": [
+        "Mensah IK",
+        "He M",
+        "Zahoor M",
+        "Khan SU",
+        "Emerson ML",
+        "Tan HJ",
+        "Bolden GD",
+        "Utturkar SM",
+        "Gowher H."
+      ],
+      "summary": "Vascular Endothelial Zinc Finger 1 (VEZF1) is essential for embryonic development, but its role in pluripotent state transitions remains unclear. Previous work showed that Vezf1 -/- ESCs exhibit impaired differentiation, reduced Dnmt3b expression, and genome-wide hypomethylation. Here, our systematic investigation shows that VEZF1 is required for pluripotency exit during ESC differentiation. Vezf1 -/- ESCs fail to efficiently repress the pluripotency transcriptional program during differentiation, a defect that persists despite ectopic Dnmt3b expression. Genome-wide analysis revealed VEZF1 occupancy at regulatory regions of genes involved in several signaling pathways, including MAPK, as well as at some pluripotency-associated genes. Many VEZF1- bound MAPK genes showed reduced expression in undifferentiated Vezf1 -/- ESCs, suggesting tha…",
+      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "cohesin",
+        "ctcf",
+        "early embryo",
+        "embryogenesis"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 97,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "lipidomic-remodeling-during-lipid-rich-mammalian-oocyte-maturation-and-a519bd57",
+      "title": "Lipidomic Remodeling during Lipid-Rich Mammalian Oocyte Maturation and Early Embryo Development",
+      "titleKo": "Lipidomic Remodeling during Lipid-Rich Mammalian Oocyte Maturation and Early Embryo Development",
+      "kind": "paper",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.21203/rs.3.rs-10591251/v1"
+      },
+      "publishedAt": "2026-08-18",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-10591251/v1",
+      "doi": "10.21203/rs.3.rs-10591251/v1",
+      "pmid": null,
+      "authors": [
+        "Miao Y",
+        "Liu X",
+        "Chen S",
+        "Hu R",
+        "Zhu P",
+        "Chu X",
+        "Yang X",
+        "Zhou K",
+        "Wang T",
+        "Shang Y",
+        "Fan Z",
+        "Liu Y",
+        "Zhang X",
+        "Zhou J."
+      ],
+      "summary": "Abstract Many wild mammals (such as American mink, Roe deer, Finless porpoises) accumulate high amounts of lipids during oocyte growth, and these lipids often negatively affect the success of oocyte and embryo cryopreservation, a key assisted reproductive technology used to establish biobanks for endangered mammals. Although a recent study has mapped the lipidomic landscape of lipid-poor mouse and human embryos, the lipid profile in mammals with lipid-rich oocytes and embryos remains largely unexplored. Here, applying pigs as the lipid-rich model, we comprehensively characterized lipid remodeling during porcine oocyte maturation and early embryo development. By integrating transcriptome and translatome sequencing (T&T-seq) data, we demonstrated that triglyceride (TG) lipolysis and phosphatidylinositol (PI) synthesis specifically contribu…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
       ],
       "access": {
         "openAccess": false,
@@ -2620,6 +2546,80 @@
       },
       "signals": {
         "baseRelevance": 97,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "crispr-based-epigenome-and-genome-editing-reveal-novel-roles-for-plec-6863f5aa",
+      "title": "CRISPR-based epigenome and genome editing reveal novel roles for PLEC in cartilage biology, mechanobiology, and response to inflammation",
+      "titleKo": "CRISPR-based epigenome and genome editing reveal novel roles for PLEC in cartilage biology, mechanobiology, and response to inflammation",
+      "kind": "paper",
+      "topics": [
+        "crispr-engineering",
+        "epigenetics",
+        "mechanobiology"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.21203/rs.3.rs-10171592/v1"
+      },
+      "publishedAt": "2026-08-18",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-10171592/v1",
+      "doi": "10.21203/rs.3.rs-10171592/v1",
+      "pmid": null,
+      "authors": [
+        "Sorial AK",
+        "Harissa Z",
+        "Steward N",
+        "Kehayova Y",
+        "Savadipour A",
+        "Rashidi N",
+        "Kim YS",
+        "Roberts JB",
+        "Aubourg GA",
+        "Barter MJ",
+        "Rice SJ",
+        "Feng W",
+        "Zhang B",
+        "Deehan DJ",
+        "Wiche G",
+        "Guilak F."
+      ],
+      "summary": "Abstract Background Osteoarthritis (OA)-associated single nucleotide polymorphism (SNP) rs11780978 has previously been associated with differential methylation at sites within PLEC gene and differential expression of PLEC in multiple joint tissues, including cartilage. We undertook experiments to identify novel differential methylation sites and used epigenome editing to link rs11780978 associated differential methylation to PLEC expression . Here, we established a novel pipeline using immortalized human chondrogenic cells to determine the role of PLEC. CRISPR based genome editing was employed to replicate plectin deficiency followed by deep phenotyping through cartilage development (chondrogenesis), and homeostasis. Methods Methylation quantitative trait loci (mQTL) analyses of novel CpGs were undertaken. Epigenome editing was employed…",
+      "whyItMatters": "programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "crispr",
+        "dcas9",
+        "epigenetic",
+        "epigenome",
+        "mechanobiology",
+        "mechanotransduction"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -2949,6 +2949,245 @@
       "ingestedBy": "europepmc"
     },
     {
+      "id": "ucp1-maintains-lipid-homeostasis-and-developmental-competence-through-3674d742",
+      "title": "UCP1 Maintains Lipid Homeostasis and Developmental Competence through MCU-mediated Mitochondrial Calcium Uptake in Bovine Oocytes.",
+      "titleKo": "UCP1 Maintains Lipid Homeostasis and Developmental Competence through MCU-mediated Mitochondrial Calcium Uptake in Bovine Oocytes.",
+      "kind": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42628884"
+      },
+      "publishedAt": "2026-08-21",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42628884",
+      "doi": "10.1016/j.freeradbiomed.2026.08.043",
+      "pmid": "42628884",
+      "authors": [
+        "Luo Y",
+        "Li J",
+        "Wang Y",
+        "Liu H",
+        "Reyimjan Y",
+        "Liang Q",
+        "He J",
+        "Bai J",
+        "Wang Y",
+        "Zou X",
+        "Song Y",
+        "Liu Y",
+        "Sun Y",
+        "Luo J",
+        "Hu H",
+        "Hou Y",
+        "Fu X."
+      ],
+      "summary": "Lipid homeostasis is essential for oocyte quality and developmental competence, and uncoupling protein 1 (UCP1) has been identified as a critical regulator of lipid metabolism in oocytes. However, the downstream molecular mechanism by which UCP1 regulates lipid homeostasis remains unexplored. In this study, we demonstrate that UCP1 inhibition impairs oocyte developmental competence, accompanied by increased lipid accumulation, elevated oxidative stress, and disrupted mitochondrial function. Further investigation revealed that UCP1 inhibition markedly elevated mitochondrial calcium levels, which were associated with upregulation of the mitochondrial calcium uniporter (MCU). Functional inhibition of MCU with Ru360 reduced mitochondrial calcium accumulation and alleviated mitochondrial function, redox homeostasis, and lipid metabolic balanc…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "tetrachloro-1-4-benzoquinone-disrupts-oocyte-quality-through-mitochond-d1d61d48",
+      "title": "Tetrachloro-1,4-benzoquinone disrupts oocyte quality through mitochondrial dysfunction and oxidative stress.",
+      "titleKo": "Tetrachloro-1,4-benzoquinone disrupts oocyte quality through mitochondrial dysfunction and oxidative stress.",
+      "kind": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42628182"
+      },
+      "publishedAt": "2026-08-21",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42628182",
+      "doi": "10.1016/j.ecoenv.2026.120668",
+      "pmid": "42628182",
+      "authors": [
+        "Han B",
+        "Liu L",
+        "Wang G",
+        "Guan M",
+        "Yang L",
+        "Li K",
+        "Xu Y",
+        "He X",
+        "Liu W."
+      ],
+      "summary": "Disinfection byproducts (DBPs) are emerging environmental contaminants with potential reproductive toxicity; however, the effects of tetrachloro-1,4-benzoquinone (TCBQ) on female fertility remain poorly understood. Using a mouse exposure model integrated with ovarian histological analysis, oocyte maturation assays, mitochondrial functional assessment, oxidative stress evaluation, and transcriptomic profiling, we investigated how TCBQ exposure affects follicular development and oocyte competence in pubertal female mice. TCBQ-exposed oocytes displayed abnormal spindle assembly and chromosome misalignment accompanied by mitochondrial dysfunction and early apoptosis. Transcriptomic analysis revealed a significant dysregulation of oxidative phosphorylation and antioxidant defense pathways in TCBQ-treated oocytes. Notably, co-treatment with me…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "disruption-of-gonadal-steroidogenesis-and-reproductive-function-in-gam-0850c5ce",
+      "title": "Disruption of gonadal steroidogenesis and reproductive function in Gambusia affinis after chronic exposure to environmentally relevant and sublethal concentrations of carbamazepine.",
+      "titleKo": "Disruption of gonadal steroidogenesis and reproductive function in Gambusia affinis after chronic exposure to environmentally relevant and sublethal concentrations of carbamazepine.",
+      "kind": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42627461"
+      },
+      "publishedAt": "2026-08-21",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42627461",
+      "doi": "10.1007/s10695-026-01781-2",
+      "pmid": "42627461",
+      "authors": [
+        "Nikhil J",
+        "Chitra KC."
+      ],
+      "summary": "Pharmaceutical contaminants are increasingly recognized as critical pollutants in aquatic ecosystems, with antiepileptic drugs such as carbamazepine (CBZ) frequently detected at environmentally relevant concentrations. This study evaluated the reproductive and endocrine-disrupting effects of CBZ in male and female Gambusia affinis. Fish were exposed to environmentally relevant (13 ng L-1) and sublethal concentrations (2.4 and 4.8 mg L-1) for 60 days. Reproductive indices, including gonadosomatic index, sperm quality parameters, fecundity, oocyte diameter, and histopathology, were assessed alongside hormonal variations (FSH, LH, testosterone, estradiol, cortisol), vitellogenin levels, and the concentrations of steroidogenic enzymes (3β-HSD, 17β-HSD, and aromatase). Results demonstrated that sublethal concentrations of CBZ significantly re…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "a-minimal-cellulosome-like-system-in-cellulosilyticum-lentocellum-cbaad98d",
+      "title": "A minimal cellulosome-like system in Cellulosilyticum lentocellum.",
+      "titleKo": "A minimal cellulosome-like system in Cellulosilyticum lentocellum.",
+      "kind": "paper",
+      "topics": [
+        "cohesin-ctcf"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42615095"
+      },
+      "publishedAt": "2026-08-19",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42615095",
+      "doi": "10.1002/2211-5463.70330",
+      "pmid": "42615095",
+      "authors": [
+        "Allan J",
+        "Alstrom-Moore A",
+        "Black GW."
+      ],
+      "summary": "Cellulosomes are efficient enzymatic nanomachines which have arisen for the degradation of cellulosic biomass. They are found abundantly in soil-dwelling microbes and bacteria which thrive in the stomachs of ruminant mammals. Two protein domains, cohesins and dockerins, characterise cellulosomes. These domains interact with each other to form, in many cases, enormous complexes with as many as 160 individual proteins. However, genome annotation of Cellulosilyticum lentocellum DSM 5427 revealed a single cohesin domain (encoded by Clole_2599) and a single dockerin domain (Clole_2598). Therefore, we recombinantly expressed ClcC and ClcD and found they form a (predicted ~ 104 kDa) heterodimeric complex. We show that this complex formation enhances cellulase activity approximately 2-fold on insoluble microcrystalline cellulose and 1.25-fold on…",
+      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "cohesin",
+        "ctcf"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 75,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
       "id": "short-term-gonadal-cultures-are-sufficient-for-germline-transmission-i-6df4b870",
       "title": "Short-term gonadal cultures are sufficient for germline transmission in a songbird.",
       "titleKo": "Short-term gonadal cultures are sufficient for germline transmission in a songbird.",
@@ -3117,119 +3356,6 @@
       },
       "signals": {
         "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "a-minimal-cellulosome-like-system-in-cellulosilyticum-lentocellum-cbaad98d",
-      "title": "A minimal cellulosome-like system in Cellulosilyticum lentocellum.",
-      "titleKo": "A minimal cellulosome-like system in Cellulosilyticum lentocellum.",
-      "kind": "paper",
-      "topics": [
-        "cohesin-ctcf"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42615095"
-      },
-      "publishedAt": "2026-08-19",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42615095",
-      "doi": "10.1002/2211-5463.70330",
-      "pmid": "42615095",
-      "authors": [
-        "Allan J",
-        "Alstrom-Moore A",
-        "Black GW."
-      ],
-      "summary": "Cellulosomes are efficient enzymatic nanomachines which have arisen for the degradation of cellulosic biomass. They are found abundantly in soil-dwelling microbes and bacteria which thrive in the stomachs of ruminant mammals. Two protein domains, cohesins and dockerins, characterise cellulosomes. These domains interact with each other to form, in many cases, enormous complexes with as many as 160 individual proteins. However, genome annotation of Cellulosilyticum lentocellum DSM 5427 revealed a single cohesin domain (encoded by Clole_2599) and a single dockerin domain (Clole_2598). Therefore, we recombinantly expressed ClcC and ClcD and found they form a (predicted ~ 104 kDa) heterodimeric complex. We show that this complex formation enhances cellulase activity approximately 2-fold on insoluble microcrystalline cellulose and 1.25-fold on…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 75,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "an-er-retention-motif-controls-the-heteromeric-stoichiometry-of-herg1a-0616cfcf",
-      "title": "An ER retention motif controls the heteromeric stoichiometry of hERG1a/1b channels.",
-      "titleKo": "An ER retention motif controls the heteromeric stoichiometry of hERG1a/1b channels.",
-      "kind": "paper",
-      "topics": [
-        "ivg-germline",
-        "single-molecule"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42611991"
-      },
-      "publishedAt": "2026-08-18",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42611991",
-      "doi": "10.1073/pnas.2605305123",
-      "pmid": "42611991",
-      "authors": [
-        "Kannan S",
-        "Ernandez LR",
-        "Robertson GA."
-      ],
-      "summary": "The human ether-à-go-go related gene ( hERG ) encodes a potassium channel essential for cardiac repolarization and neuronal excitability. In the heart, heteromeric assemblies of hERG1a and hERG1b subunits produce cardiac I Kr , and mutations in either subunit are associated with long QT syndrome. Although hERG1a and 1b contain identical transmembrane and C-terminal cytosolic domains, they differ in N-terminal cytosolic domains, with hERG1b harboring an arginine-based endoplasmic reticulum (ER) retention/retrieval motif that limits its surface expression in the absence of hERG1a. While the association of hERG1a and 1b subunits is known to influence channel function, the stoichiometry of heteromeric hERG channels and mechanisms that regulate it have remained unresolved. Here, using single molecule photobleaching step analysis in HeLa cells…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "single-molecule",
-        "single molecule"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 78,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -3720,6 +3846,64 @@
       "ingestedBy": "europepmc"
     },
     {
+      "id": "an-er-retention-motif-controls-the-heteromeric-stoichiometry-of-herg1a-0616cfcf",
+      "title": "An ER retention motif controls the heteromeric stoichiometry of hERG1a/1b channels.",
+      "titleKo": "An ER retention motif controls the heteromeric stoichiometry of hERG1a/1b channels.",
+      "kind": "paper",
+      "topics": [
+        "ivg-germline",
+        "single-molecule"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42611991"
+      },
+      "publishedAt": "2026-08-18",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42611991",
+      "doi": "10.1073/pnas.2605305123",
+      "pmid": "42611991",
+      "authors": [
+        "Kannan S",
+        "Ernandez LR",
+        "Robertson GA."
+      ],
+      "summary": "The human ether-à-go-go related gene ( hERG ) encodes a potassium channel essential for cardiac repolarization and neuronal excitability. In the heart, heteromeric assemblies of hERG1a and hERG1b subunits produce cardiac I Kr , and mutations in either subunit are associated with long QT syndrome. Although hERG1a and 1b contain identical transmembrane and C-terminal cytosolic domains, they differ in N-terminal cytosolic domains, with hERG1b harboring an arginine-based endoplasmic reticulum (ER) retention/retrieval motif that limits its surface expression in the absence of hERG1a. While the association of hERG1a and 1b subunits is known to influence channel function, the stoichiometry of heteromeric hERG channels and mechanisms that regulate it have remained unresolved. Here, using single molecule photobleaching step analysis in HeLa cells…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "single-molecule",
+        "single molecule"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 78,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
       "id": "comprehensive-analysis-of-differentially-expressed-mrnas-lncrnas-and-m-02fefe49",
       "title": "Comprehensive analysis of differentially expressed mRNAs, lncRNAs, and miRNAs involved in ovarian differentiation and development in Qihe gibel carp (Carassius gibelio var. Qihe).",
       "titleKo": "Comprehensive analysis of differentially expressed mRNAs, lncRNAs, and miRNAs involved in ovarian differentiation and development in Qihe gibel carp (Carassius gibelio var. Qihe).",
@@ -4085,61 +4269,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "synergistic-perspectives-how-single-molecule-biophysics-complement-bio-579a4d78",
-      "title": "Synergistic perspectives-How single-molecule biophysics complement biochemical understanding.",
-      "titleKo": "Synergistic perspectives-How single-molecule biophysics complement biochemical understanding.",
-      "kind": "review",
-      "topics": [
-        "single-molecule"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42614055"
-      },
-      "publishedAt": "2026-08-19",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42614055",
-      "doi": "10.1002/1873-3468.70444",
-      "pmid": "42614055",
-      "authors": [
-        "De Bragança S",
-        "Jansen EL",
-        "Eeftens JM."
-      ],
-      "summary": "Single-molecule biophysical techniques enable the study of biological systems by directly observing individual molecules and events, rather than measuring population averages. These approaches reveal transient states, rare events, conformational dynamics, and subpopulations that are often obscured in biochemical assays. The application of single-molecule methods has been limited by technical complexity and the need for specialized instrumentation. Recent standardization of protocols, methodologies, and platforms has lowered these barriers, enabling broader adoption and promoting interdisciplinary collaborations that facilitate integration into biochemical research. In this review, we discuss how ensemble biochemistry and single-molecule approaches are complementary, outline commonly used single-molecule techniques, and illustrate their r…",
-      "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "single-molecule",
-        "single molecule"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 71,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "polyfunctional-editor",
       "title": "Simultaneous orthogonal cell engineering by a single CRISPR-Cas9 polyfunctional editor",
       "titleKo": "하나의 Cas9 editor로 DNA 삽입과 epigenetic silencing을 동시에 수행한다",
@@ -4200,6 +4329,61 @@
       "featured": false,
       "status": "important",
       "ingestedBy": "curated-seed"
+    },
+    {
+      "id": "synergistic-perspectives-how-single-molecule-biophysics-complement-bio-579a4d78",
+      "title": "Synergistic perspectives-How single-molecule biophysics complement biochemical understanding.",
+      "titleKo": "Synergistic perspectives-How single-molecule biophysics complement biochemical understanding.",
+      "kind": "review",
+      "topics": [
+        "single-molecule"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42614055"
+      },
+      "publishedAt": "2026-08-19",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42614055",
+      "doi": "10.1002/1873-3468.70444",
+      "pmid": "42614055",
+      "authors": [
+        "De Bragança S",
+        "Jansen EL",
+        "Eeftens JM."
+      ],
+      "summary": "Single-molecule biophysical techniques enable the study of biological systems by directly observing individual molecules and events, rather than measuring population averages. These approaches reveal transient states, rare events, conformational dynamics, and subpopulations that are often obscured in biochemical assays. The application of single-molecule methods has been limited by technical complexity and the need for specialized instrumentation. Recent standardization of protocols, methodologies, and platforms has lowered these barriers, enabling broader adoption and promoting interdisciplinary collaborations that facilitate integration into biochemical research. In this review, we discuss how ensemble biochemistry and single-molecule approaches are complementary, outline commonly used single-molecule techniques, and illustrate their r…",
+      "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "single-molecule",
+        "single molecule"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 71,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
     },
     {
       "id": "stability-and-reliability-of-carbon-coated-solid-state-nanopores-for-s-c9a8ee1c",
@@ -4347,6 +4531,67 @@
         "Abbruzzetti S."
       ],
       "summary": "Staphylococcus aureus is a widespread human pathogenic bacterium that poses an increasingly serious threat to public health worldwide, due to the emergence and spread of antibiotic-resistant strains. A key virulence mechanism is the acquisition of iron from the heme group of human host's hemoglobin, initiated by hemoglobin binding to receptors exposed on the bacterial surface. Although this interaction is a promising target for new antimicrobials, quantitative data on hemoglobin capture by single bacteria are lacking. In this work, single-molecule localization microscopy is used to directly quantify the number of hemoglobin molecules captured by individual S. aureus cells and resolve their nanoscale spatial distribution at the sub-cellular level. This quantitative approach provides a methodological framework to monitor, with single-molec…",
+      "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "single-molecule",
+        "single molecule"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 71,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "probing-superexchange-interaction-in-a-very-hard-3d-4f-single-molecule-88792242",
+      "title": "Probing superexchange interaction in a very hard 3d-4f single-molecule magnet by inelastic neutron scattering.",
+      "titleKo": "Probing superexchange interaction in a very hard 3d-4f single-molecule magnet by inelastic neutron scattering.",
+      "kind": "paper",
+      "topics": [
+        "single-molecule"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42497901"
+      },
+      "publishedAt": "2026-08-18",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42497901",
+      "doi": "10.1088/1361-648x/ae9024",
+      "pmid": "42497901",
+      "authors": [
+        "Qu S",
+        "Zhai YQ",
+        "Stewart JR",
+        "Liu X",
+        "Ling BK",
+        "Guo H",
+        "Zheng YZ",
+        "Zhao J",
+        "Fu Z."
+      ],
+      "summary": "We report a combined experimental and theoretical investigation of the spin dynamics in the very hard 3d-4f single-molecule magnet (SMM) {Cr 3 Dy 3 }, where a central fluorido bridge ( µ 3 -F - ) suppresses zero-field quantum tunneling of magnetization (QTM). Utilizing inelastic neutron scattering, heat capacity and ac susceptibility techniques, we have probed the low-lying magnetic excitations and their response to applied magnetic fields in polycrystalline samples. Full ab initio calculations, incorporating the experimental data, have provided an unambiguous determination of the ferromagnetic Dy-Dy coupling ( J Dy-Dy = 0.016 meV) mediated by the µ 3 -F - bridge and antiferromagnetic Cr-Dy interactions ( J Cr-Dy = - 0.215 meV). The significant energy gap between the ferrimagnetic ground state and the lowest exchange-induced excited stat…",
       "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [

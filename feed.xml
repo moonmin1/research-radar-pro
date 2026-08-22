@@ -5,7 +5,7 @@
     <link>./</link>
     <description>3D genome, epigenetics, IVG, single-molecule imaging, and US research opportunities.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:40:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:25:46 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -159,20 +159,20 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
-      <title>The impact of exercise on sperm epigenetic modification and intergenerational inheritance.</title>
-      <link>https://europepmc.org/article/MED/42626834</link>
-      <guid isPermaLink="false">the-impact-of-exercise-on-sperm-epigenetic-modification-and-intergener-19a4d47b</guid>
-      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
-      <category>epigenetics, 3d-genome</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
       <title>Loop statistics and fountain geometry reveal effective two-sided cohesin extrusion and crowding-induced arm desynchronization</title>
       <link>https://doi.org/10.64898/2026.08.20.745948</link>
       <guid isPermaLink="false">loop-statistics-and-fountain-geometry-reveal-effective-two-sided-cohes-634368fc</guid>
       <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
       <category>cohesin-ctcf, 3d-genome, enhancer-promoter</category>
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>The impact of exercise on sperm epigenetic modification and intergenerational inheritance.</title>
+      <link>https://europepmc.org/article/MED/42626834</link>
+      <guid isPermaLink="false">the-impact-of-exercise-on-sperm-epigenetic-modification-and-intergener-19a4d47b</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>epigenetics, 3d-genome</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>A histone variant establishes a novel link between chromatin and nuclear RNA decay in spermatogenesis and beyond.</title>
@@ -213,30 +213,6 @@
       <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
       <category>epigenetics, single-molecule, 3d-genome</category>
       <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
-    </item>
-    <item>
-      <title>In vitro embryo production in alpacas (Lama pacos): Blastocyst development from oocytes vitrified by Microdrop or Cryotech technique.</title>
-      <link>https://europepmc.org/article/MED/42612364</link>
-      <guid isPermaLink="false">in-vitro-embryo-production-in-alpacas-lama-pacos-blastocyst-developmen-24f9c5bc</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy</title>
-      <link>https://doi.org/10.64898/2026.08.13.744713</link>
-      <guid isPermaLink="false">vezf1-facilitates-pluripotency-exit-by-regulating-developmental-transc-8317f3dd</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-      <category>cohesin-ctcf, developmental-biology</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Lipidomic Remodeling during Lipid-Rich Mammalian Oocyte Maturation and Early Embryo Development</title>
-      <link>https://doi.org/10.21203/rs.3.rs-10591251/v1</link>
-      <guid isPermaLink="false">lipidomic-remodeling-during-lipid-rich-mammalian-oocyte-maturation-and-a519bd57</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
       <title>Cohesin release-factor Wapl modulates axis and chromatin structure to promote conjunction and separation of meiotic chromosomes.</title>
@@ -319,12 +295,36 @@
       <description>교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
     </item>
     <item>
-      <title>CRISPR-based epigenome and genome editing reveal novel roles for PLEC in cartilage biology, mechanobiology, and response to inflammation</title>
-      <link>https://doi.org/10.21203/rs.3.rs-10171592/v1</link>
-      <guid isPermaLink="false">crispr-based-epigenome-and-genome-editing-reveal-novel-roles-for-plec-6863f5aa</guid>
+      <title>In vitro embryo production in alpacas (Lama pacos): Blastocyst development from oocytes vitrified by Microdrop or Cryotech technique.</title>
+      <link>https://europepmc.org/article/MED/42612364</link>
+      <guid isPermaLink="false">in-vitro-embryo-production-in-alpacas-lama-pacos-blastocyst-developmen-24f9c5bc</guid>
       <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
-      <category>crispr-engineering, epigenetics, mechanobiology</category>
-      <description>programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy</title>
+      <link>https://doi.org/10.64898/2026.08.13.744713</link>
+      <guid isPermaLink="false">vezf1-facilitates-pluripotency-exit-by-regulating-developmental-transc-8317f3dd</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>cohesin-ctcf, developmental-biology</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Lipidomic Remodeling during Lipid-Rich Mammalian Oocyte Maturation and Early Embryo Development</title>
+      <link>https://doi.org/10.21203/rs.3.rs-10591251/v1</link>
+      <guid isPermaLink="false">lipidomic-remodeling-during-lipid-rich-mammalian-oocyte-maturation-and-a519bd57</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Mechanistic insights into the transcription-mediated roles of non-coding RNAs in gene regulation.</title>
+      <link>https://europepmc.org/article/MED/42607885</link>
+      <guid isPermaLink="false">mechanistic-insights-into-the-transcription-mediated-roles-of-non-codi-0bf4e5b9</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+      <category>3d-genome, enhancer-promoter, epigenetics</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
     </item>
   </channel>
 </rss>
