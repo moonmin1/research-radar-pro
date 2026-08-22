@@ -1,0 +1,71 @@
+name: Update Research Radar and deploy Pages
+
+on:
+  schedule:
+    # Every day at 08:05 KST (23:05 UTC)
+    - cron: "5 23 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: research-radar-pages
+  cancel-in-progress: true
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Collect and curate metadata
+        run: python scripts/update_feed.py --live
+
+      - name: Validate feed and application
+        run: python scripts/validate.py
+
+      - name: Build static Pages artifact
+        run: python scripts/build_site.py
+
+      - name: Commit refreshed data
+        shell: bash
+        run: |
+          if git diff --quiet -- data assets/js/fallback-data.js feed.xml; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git config user.name "research-radar-bot"
+          git config user.email "research-radar-bot@users.noreply.github.com"
+          git add data assets/js/fallback-data.js feed.xml
+          git commit -m "chore: refresh research radar [skip ci]"
+          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
