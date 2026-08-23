@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-23T08:25:46+09:00",
+  "generatedAt": "2026-08-23T13:31:17+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-08-23T08:25:46+09:00",
+      "lastSuccess": "2026-08-23T13:31:17+09:00",
       "latencyMs": 0,
-      "items": 28,
+      "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
     },
     {
       "id": "europepmc",
       "label": "Europe PMC",
-      "status": "healthy",
-      "lastSuccess": "2026-08-23T08:25:46+09:00",
-      "latencyMs": 2007,
-      "items": 42,
-      "message": "Received 80; retained 42 after relevance filtering."
+      "status": "configured",
+      "lastSuccess": null,
+      "latencyMs": null,
+      "items": 0,
+      "message": "Offline build: collector not executed."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
-      "status": "healthy",
-      "lastSuccess": "2026-08-23T08:25:46+09:00",
-      "latencyMs": 1183,
+      "status": "configured",
+      "lastSuccess": null,
+      "latencyMs": null,
       "items": 0,
-      "message": "Received 30; retained 0 after relevance filtering."
+      "message": "Offline build: collector not executed."
     },
     {
       "id": "nih-rss",
       "label": "NIH Guide RSS",
-      "status": "healthy",
-      "lastSuccess": "2026-08-23T08:25:46+09:00",
-      "latencyMs": 162,
-      "items": 1,
-      "message": "Received 5; retained 1 after relevance filtering."
+      "status": "configured",
+      "lastSuccess": null,
+      "latencyMs": null,
+      "items": 0,
+      "message": "Offline build: collector not executed."
     },
     {
       "id": "page-watch",
       "label": "Curated programme page-watch",
-      "status": "healthy",
-      "lastSuccess": "2026-08-23T08:25:46+09:00",
-      "latencyMs": 4915,
-      "items": 7,
-      "message": "Checked 8 pages; 1 change/error flags added."
+      "status": "configured",
+      "lastSuccess": null,
+      "latencyMs": null,
+      "items": 10,
+      "message": "Offline build: page hashes retained."
     }
   ]
 }

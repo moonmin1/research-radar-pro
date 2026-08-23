@@ -2,7 +2,8 @@
   'use strict';
 
   const DAY = 86400000;
-  const OPPORTUNITY_KINDS = new Set(['phd', 'internship', 'postbac', 'visiting', 'fellowship', 'funding']);
+  const GRADUATE_KINDS = new Set(['phd', 'masters', 'graduate-program', 'application-assistance']);
+  const OPPORTUNITY_KINDS = new Set(['internship', 'postbac', 'visiting', 'fellowship', 'funding']);
   const EVENT_KINDS = new Set(['conference', 'workshop', 'webinar']);
 
   function clamp(value, min = 0, max = 100) {
@@ -39,7 +40,7 @@
   }
 
   function eligibilityScore(item, profile) {
-    if (!OPPORTUNITY_KINDS.has(item.kind) && !EVENT_KINDS.has(item.kind)) return 65;
+    if (!GRADUATE_KINDS.has(item.kind) && !OPPORTUNITY_KINDS.has(item.kind) && !EVENT_KINDS.has(item.kind)) return 65;
     const e = item.eligibility || {};
     const pref = profile.preferences || {};
     let score = 50;
@@ -81,6 +82,10 @@
     return OPPORTUNITY_KINDS.has(item.kind);
   }
 
+  function isGraduate(item) {
+    return GRADUATE_KINDS.has(item.kind) || item.section === 'graduate';
+  }
+
   function isEvent(item) {
     return EVENT_KINDS.has(item.kind);
   }
@@ -97,7 +102,9 @@
     const access = accessScore(item, profile);
 
     let final;
-    if (isOpportunity(item)) {
+    if (isGraduate(item)) {
+      final = topic * 0.20 + base * 0.10 + eligibility * 0.28 + actionability * 0.14 + deadline * 0.13 + recency * 0.05 + authority * 0.10;
+    } else if (isOpportunity(item)) {
       final = topic * 0.24 + base * 0.13 + eligibility * 0.28 + actionability * 0.17 + deadline * 0.08 + recency * 0.05 + authority * 0.05;
     } else if (isEvent(item)) {
       final = topic * 0.27 + base * 0.13 + eligibility * 0.15 + actionability * 0.18 + deadline * 0.12 + recency * 0.08 + authority * 0.07;
@@ -117,6 +124,8 @@
     if (item.eligibility?.international === true) reasons.push('international applicant 가능');
     if (/j-1|sponsor|paperwork support|visa support/i.test(String(item.eligibility?.visa || ''))) reasons.push('visa/J-1 지원 정보 확인됨');
     if (item.eligibility?.international === false || item.status === 'restricted') reasons.push('현재 사용자 조건에서는 지원 제한');
+    if (isGraduate(item) && /not required|not considered/i.test(String(item.admission?.gre || ''))) reasons.push('GRE 불요 또는 미반영');
+    if (isGraduate(item) && /full tuition|no tuition|stipend/i.test(String(item.admission?.funding || item.eligibility?.funding || ''))) reasons.push('재정지원 정보 확인됨');
     if (item.deadlineAt && deadline >= 82) reasons.push('마감 우선 검토 필요');
 
     return {
@@ -142,8 +151,10 @@
     daysBetween,
     deadlineUrgency,
     isOpportunity,
+    isGraduate,
     isEvent,
     clamp,
+    GRADUATE_KINDS,
     OPPORTUNITY_KINDS,
     EVENT_KINDS
   };

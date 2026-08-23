@@ -13,17 +13,18 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 REQUIRED_ITEM_FIELDS = {
-    "id", "title", "titleKo", "kind", "topics", "source", "publishedAt", "deadlineAt",
+    "id", "title", "titleKo", "kind", "section", "subsection", "topics", "source", "publishedAt", "deadlineAt",
     "eventStart", "eventEnd", "location", "url", "doi", "pmid", "authors", "summary",
     "whyItMatters", "recommendedAction", "tags", "access", "eligibility", "verification",
     "signals", "featured", "status", "ingestedBy",
 }
 ALLOWED_KINDS = {
     "paper", "preprint", "review", "method", "news", "commentary", "guideline", "policy",
-    "conference", "workshop", "webinar", "phd", "internship", "postbac", "visiting",
-    "fellowship", "funding",
+    "conference", "workshop", "webinar", "phd", "masters", "graduate-program", "application-assistance",
+    "internship", "postbac", "visiting", "fellowship", "funding",
 }
 ALLOWED_STATUS = {"new", "important", "open", "watch", "closed", "restricted"}
+ALLOWED_SECTIONS = {"papers", "opportunities", "graduate"}
 REQUIRED_FILES = [
     "index.html", "offline.html", "manifest.webmanifest", "sw.js", "feed.xml", "robots.txt", ".nojekyll",
     "assets/css/app.css", "assets/js/app.js", "assets/js/scoring.js", "assets/js/storage.js", "assets/js/fallback-data.js",
@@ -116,6 +117,15 @@ def main() -> int:
         kind = item.get("kind")
         if kind not in ALLOWED_KINDS:
             errors.append(f"{item_id}: unknown kind {kind!r}")
+        section = item.get("section")
+        if section not in ALLOWED_SECTIONS:
+            errors.append(f"{item_id}: unknown section {section!r}")
+        if not isinstance(item.get("subsection"), str) or not item.get("subsection"):
+            errors.append(f"{item_id}: subsection must be a non-empty string")
+        if kind == "phd" and section != "graduate":
+            errors.append(f"{item_id}: phd items must use section='graduate'")
+        if kind in {"conference", "workshop", "webinar", "internship", "postbac", "visiting", "fellowship", "funding"} and section != "opportunities":
+            errors.append(f"{item_id}: {kind} items must use section='opportunities'")
         status = item.get("status")
         if status not in ALLOWED_STATUS:
             errors.append(f"{item_id}: unknown status {status!r}")

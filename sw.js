@@ -1,5 +1,5 @@
 /* Research Radar Pro service worker: app-shell cache + fresh-data strategy. */
-const VERSION = 'rr-pro-v3-20260822';
+const VERSION = 'rr-pro-v4-three-pillar-20260823';
 const STATIC_CACHE = `${VERSION}-static`;
 const DATA_CACHE = `${VERSION}-data`;
 const APP_SHELL = [

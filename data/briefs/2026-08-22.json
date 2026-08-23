@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-22T17:40:13+09:00",
+  "generatedAt": "2026-08-22T15:53:29+09:00",
   "title": "Research Radar — 2026-08-22",
   "itemIds": [
     "stowers-research-scholars",
@@ -13,9 +13,9 @@
     "cshl-urp"
   ],
   "counts": {
-    "total": 82,
-    "new72h": 36,
-    "opportunities": 9,
+    "total": 28,
+    "new72h": 10,
+    "opportunities": 8,
     "deadlines": 8
   }
 }

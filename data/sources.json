@@ -25,7 +25,7 @@
   "pageWatch": {
     "enabled": true,
     "type": "html-watch",
-    "label": "Curated program and event pages",
+    "label": "Curated graduate, conference, and research-opportunity pages",
     "pages": [
       {
         "id": "rockefeller-phd",
@@ -33,7 +33,8 @@
         "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/",
         "topics": [
           "us-opportunity"
-        ]
+        ],
+        "section": "graduate"
       },
       {
         "id": "cshl-phd",
@@ -41,7 +42,8 @@
         "url": "https://www.cshl.edu/phd-program/how-to-apply/",
         "topics": [
           "us-opportunity"
-        ]
+        ],
+        "section": "graduate"
       },
       {
         "id": "cshl-urp",
@@ -49,7 +51,8 @@
         "url": "https://www.cshl.edu/education/undergraduate-research-program/",
         "topics": [
           "us-opportunity"
-        ]
+        ],
+        "section": "opportunities"
       },
       {
         "id": "rockefeller-surf",
@@ -57,7 +60,8 @@
         "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/",
         "topics": [
           "us-opportunity"
-        ]
+        ],
+        "section": "opportunities"
       },
       {
         "id": "stowers-scholars",
@@ -65,7 +69,8 @@
         "url": "https://www.stowers.org/gradschool/research-scholars",
         "topics": [
           "us-opportunity"
-        ]
+        ],
+        "section": "opportunities"
       },
       {
         "id": "janelia-visiting",
@@ -74,7 +79,8 @@
         "topics": [
           "us-opportunity",
           "single-molecule"
-        ]
+        ],
+        "section": "opportunities"
       },
       {
         "id": "cshl-meetings",
@@ -85,7 +91,8 @@
           "3d-genome",
           "epigenetics",
           "ivg-germline"
-        ]
+        ],
+        "section": "opportunities"
       },
       {
         "id": "wellcome-events",
@@ -94,7 +101,30 @@
         "topics": [
           "events-funding",
           "epigenetics"
-        ]
+        ],
+        "section": "opportunities"
+      },
+      {
+        "id": "mit-biology-phd",
+        "name": "MIT Biology Graduate Admissions",
+        "url": "https://biology.mit.edu/graduate/prospective-students/application-process/",
+        "topics": [
+          "us-opportunity",
+          "epigenetics",
+          "developmental-biology"
+        ],
+        "section": "graduate"
+      },
+      {
+        "id": "stanford-biosciences-phd",
+        "name": "Stanford Biosciences Admissions",
+        "url": "https://biosciences.stanford.edu/how-to-apply/",
+        "topics": [
+          "us-opportunity",
+          "epigenetics",
+          "developmental-biology"
+        ],
+        "section": "graduate"
       }
     ]
   }

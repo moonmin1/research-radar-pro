@@ -1,21 +1,23 @@
 {
   "date": "2026-08-23",
-  "generatedAt": "2026-08-23T08:25:46+09:00",
+  "generatedAt": "2026-08-23T13:31:17+09:00",
   "title": "Research Radar — 2026-08-23",
   "itemIds": [
+    "mit-biology-phd-2027",
+    "stanford-biosciences-phd-2027",
     "stowers-research-scholars",
     "janelia-visiting-scientist",
     "acoustic-pgclc-2026",
     "chromatin-decompaction-mechanics-2026",
     "stowers-summer",
-    "hnrnpk-ep-loop-2026",
-    "cgamp-fret-2026",
-    "cshl-urp"
+    "hnrnpk-ep-loop-2026"
   ],
   "counts": {
-    "total": 86,
-    "new72h": 24,
-    "opportunities": 9,
-    "deadlines": 8
+    "total": 30,
+    "new72h": 9,
+    "papers": 15,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 10
   }
 }

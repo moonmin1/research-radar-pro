@@ -3,12 +3,13 @@
 
   const KEY = 'researchRadarProState.v2';
   const DEFAULT_STATE = {
-    version: 2,
+    version: 3,
     saved: [],
     read: [],
     shortlisted: [],
     archived: [],
     notes: {},
+    applicationStages: {},
     profile: null,
     theme: 'system',
     feedView: 'list',
@@ -26,14 +27,32 @@
       state[key] = Array.isArray(state[key]) ? [...new Set(state[key].map(String))] : [];
     }
     state.notes = state.notes && typeof state.notes === 'object' ? state.notes : {};
+    state.applicationStages = state.applicationStages && typeof state.applicationStages === 'object' ? state.applicationStages : {};
     return state;
   }
 
-  let state = normalize(safeParse(localStorage.getItem(KEY), DEFAULT_STATE));
+  const memoryStore = new Map();
+  const memoryStorage = {
+    getItem(key) { return memoryStore.has(String(key)) ? memoryStore.get(String(key)) : null; },
+    setItem(key, value) { memoryStore.set(String(key), String(value)); },
+    removeItem(key) { memoryStore.delete(String(key)); }
+  };
+  function resolveStorage() {
+    try {
+      const storage = global.localStorage;
+      const probe = `${KEY}.probe`;
+      storage.setItem(probe, '1'); storage.removeItem(probe);
+      return storage;
+    } catch (_) {
+      return memoryStorage;
+    }
+  }
+  const backend = resolveStorage();
+  let state = normalize(safeParse(backend.getItem(KEY), DEFAULT_STATE));
   const listeners = new Set();
 
   function persist() {
-    localStorage.setItem(KEY, JSON.stringify(state));
+    backend.setItem(KEY, JSON.stringify(state));
     listeners.forEach(listener => {
       try { listener(get()); } catch (error) { console.error(error); }
     });
@@ -68,6 +87,15 @@
     if (text && text.trim()) state.notes[id] = text.trim();
     else delete state.notes[id];
     persist();
+  }
+
+  function setApplicationStage(id, stage) {
+    id = String(id);
+    const allowed = new Set(['watch', 'researching', 'preparing', 'submitted', 'interviewing', 'offer', 'excluded']);
+    if (allowed.has(stage)) state.applicationStages[id] = stage;
+    else delete state.applicationStages[id];
+    persist();
+    return state.applicationStages[id] || '';
   }
 
   function setProfile(profile) {
@@ -113,6 +141,7 @@
     toggle,
     setValue,
     setNote,
+    setApplicationStage,
     setProfile,
     resetProfile,
     resetAll,

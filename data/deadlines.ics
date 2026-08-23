@@ -3,8 +3,30 @@ VERSION:2.0
 PRODID:-//Research Radar//Deadline Feed//KO
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
+UID:mit-biology-phd-2027@research-radar
+DTSTAMP:20260823T043117Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:MIT Biology PhD 2027 — 10월 1일 지원 개시\, BAAP 11월 1일까지
+DESCRIPTION:BAAP 참여 가능성을 먼저 검토하고\, 관심 faculty 6–8명과 최근 3년 연구를 정리한 뒤 연구경험 
+ 중심 Statement of Objectives 초안을 만든다.
+URL:https://biology.mit.edu/graduate/prospective-students/application-pro
+ cess/
+END:VEVENT
+BEGIN:VEVENT
+UID:stanford-biosciences-phd-2027@research-radar
+DTSTAMP:20260823T043117Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Stanford Biosciences PhD 2027–28 — 14개 Home Program\, 12월 1일 마감
+DESCRIPTION:Biology·Developmental Biology 계열 Home Program을 비교하고 관심 facult
+ y 8–12명을 실제 지원 형식에 맞춰 우선순위화한다. Knight-Hennessy를 고려한다면 10월 6일 별도 마감을 먼저 관리
+ 한다.
+URL:https://biosciences.stanford.edu/how-to-apply/
+END:VEVENT
+BEGIN:VEVENT
 UID:cshl-phd@research-radar
-DTSTAMP:20260822T232555Z
+DTSTAMP:20260823T043117Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:CSHL Biological Sciences PhD 2027 입학 지원
@@ -14,7 +36,7 @@ URL:https://www.cshl.edu/phd-program/how-to-apply/
 END:VEVENT
 BEGIN:VEVENT
 UID:utah-2027-intl-restriction@research-radar
-DTSTAMP:20260822T232555Z
+DTSTAMP:20260823T043117Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:University of Utah Bioscience PhD 2027 — 미국 밖 international appli
@@ -25,7 +47,7 @@ URL:https://bioscience.utah.edu/prospective/guidelines.php
 END:VEVENT
 BEGIN:VEVENT
 UID:single-molecule-workshop@research-radar
-DTSTAMP:20260822T232555Z
+DTSTAMP:20260823T043117Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Single-molecule spectroscopy·super-resolution microscopy 국제 워크숍
@@ -35,7 +57,7 @@ URL:https://www.picoquant.com/events/single-molecule-workshop/
 END:VEVENT
 BEGIN:VEVENT
 UID:rockefeller-phd@research-radar
-DTSTAMP:20260822T232555Z
+DTSTAMP:20260823T043117Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Rockefeller University Bioscience PhD 2027 입학 지원
@@ -46,7 +68,7 @@ URL:https://www.rockefeller.edu/education-and-training/graduate-program-i
 END:VEVENT
 BEGIN:VEVENT
 UID:cshl-germ-cells@research-radar
-DTSTAMP:20260822T232555Z
+DTSTAMP:20260823T043117Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:CSHL Germ Cells 2026
@@ -55,7 +77,7 @@ URL:https://meetings.cshl.edu/meetings.aspx?meet=GERM
 END:VEVENT
 BEGIN:VEVENT
 UID:biology-genomes-2027@research-radar
-DTSTAMP:20260822T232555Z
+DTSTAMP:20260823T043117Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:CSHL Biology of Genomes 2027
@@ -65,7 +87,7 @@ URL:https://meetings.cshl.edu/meetings.aspx?meet=GENOME
 END:VEVENT
 BEGIN:VEVENT
 UID:max-planck-epi-meeting@research-radar
-DTSTAMP:20260822T232555Z
+DTSTAMP:20260823T043117Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Max Planck Freiburg Epigenetics Meeting 2026
@@ -76,7 +98,7 @@ URL:https://www.ie-freiburg.mpg.de/6126135/2026_04_01_8th_Epigenetics_Mee
 END:VEVENT
 BEGIN:VEVENT
 UID:cshl-epi-2026@research-radar
-DTSTAMP:20260822T232555Z
+DTSTAMP:20260823T043117Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:CSHL Epigenetics & Chromatin 2026

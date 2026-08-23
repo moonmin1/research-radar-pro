@@ -35,7 +35,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 ASSETS_JS = ROOT / "assets" / "js"
 USER_AGENT = "ResearchRadarBot/2.0 (+https://github.com/; curated academic feed)"
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3
 
 TOPIC_KEYWORDS: dict[str, tuple[str, ...]] = {
     "3d-genome": (
@@ -118,6 +118,33 @@ WHY_TEMPLATE = {
 
 RESEARCH_ACTION = "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다."
 OPPORTUNITY_ACTION = "공식 페이지에서 eligibility, deadline, funding, visa/J-1 조건을 재확인한 뒤 지원 추적표에 등록한다."
+
+PAPER_KINDS = {"paper", "preprint", "review", "method", "news", "commentary", "guideline", "policy"}
+EVENT_KINDS = {"conference", "workshop", "webinar"}
+RESEARCH_OPPORTUNITY_KINDS = {"internship", "postbac", "visiting", "fellowship", "funding"}
+GRADUATE_KINDS = {"phd", "masters", "graduate-program", "application-assistance"}
+VALID_SECTIONS = {"papers", "opportunities", "graduate"}
+
+
+def section_for_kind(kind: str | None) -> str:
+    if kind in GRADUATE_KINDS:
+        return "graduate"
+    if kind in EVENT_KINDS or kind in RESEARCH_OPPORTUNITY_KINDS:
+        return "opportunities"
+    return "papers"
+
+
+def subsection_for_kind(kind: str | None, section: str | None = None) -> str:
+    section = section if section in VALID_SECTIONS else section_for_kind(kind)
+    if section == "graduate":
+        return "phd" if kind == "phd" else "other-programs"
+    if section == "opportunities":
+        if kind in EVENT_KINDS:
+            return "events"
+        if kind == "funding":
+            return "funding"
+        return "research-experience"
+    return kind if kind in {"paper", "preprint", "review", "method"} else "insight"
 
 
 def now_kst() -> dt.datetime:
@@ -292,6 +319,8 @@ def auto_item(*, title: str, abstract: str, source_name: str, source_type: str, 
         "title": title,
         "titleKo": title,
         "kind": kind,
+        "section": section_for_kind(kind),
+        "subsection": subsection_for_kind(kind),
         "topics": topics,
         "source": {"name": source_name, "type": "index" if source_type != "nih-rss" else "funder", "authority": 4 if source_type != "biorxiv" else 3, "url": url},
         "publishedAt": published or dt.date.today().isoformat(),
@@ -479,6 +508,7 @@ def page_watch(config: dict[str, Any], previous_hashes: dict[str, str]) -> tuple
                     "name": page.get("name"),
                     "url": page.get("url"),
                     "topics": page.get("topics", []),
+                    "section": page.get("section") or "opportunities",
                     "detectedAt": now_kst().isoformat(),
                     "reason": "Visible page content hash changed; editorial review required.",
                     "status": "needs-review",
@@ -490,6 +520,7 @@ def page_watch(config: dict[str, Any], previous_hashes: dict[str, str]) -> tuple
                 "name": page.get("name"),
                 "url": page.get("url"),
                 "topics": page.get("topics", []),
+                "section": page.get("section") or "opportunities",
                 "detectedAt": now_kst().isoformat(),
                 "reason": f"Page check failed: {type(exc).__name__}: {exc}",
                 "status": "check-failed",
@@ -566,6 +597,7 @@ def generate_rss(items: list[dict[str, Any]], generated_at: str) -> None:
       <link>{x(item.get('url'))}</link>
       <guid isPermaLink="false">{x(item.get('id'))}</guid>
       <pubDate>{email.utils.format_datetime(dt.datetime.fromisoformat((iso_date(item.get('publishedAt')) or dt.date.today().isoformat()) + 'T12:00:00+00:00'))}</pubDate>
+      <category>{x(item.get('section') or 'papers')}</category>
       <category>{x(', '.join(item.get('topics') or []))}</category>
       <description>{x(item.get('whyItMatters') or item.get('summary'))}</description>
     </item>""")
@@ -574,7 +606,7 @@ def generate_rss(items: list[dict[str, Any]], generated_at: str) -> None:
   <channel>
     <title>Research Radar Pro</title>
     <link>./</link>
-    <description>3D genome, epigenetics, IVG, single-molecule imaging, and US research opportunities.</description>
+    <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
     <lastBuildDate>{email.utils.format_datetime(dt.datetime.fromisoformat(generated_at))}</lastBuildDate>
 {chr(10).join(entries)}
@@ -703,6 +735,10 @@ def run(live: bool, strict_network: bool = False) -> int:
     for item in combined:
         item.setdefault("featured", False)
         item.setdefault("status", "new")
+        inferred_section = section_for_kind(item.get("kind"))
+        if item.get("section") not in VALID_SECTIONS:
+            item["section"] = inferred_section
+        item.setdefault("subsection", subsection_for_kind(item.get("kind"), item.get("section")))
         item.setdefault("topics", [])
         item.setdefault("authors", [])
         item.setdefault("tags", [])
@@ -731,7 +767,9 @@ def run(live: bool, strict_network: bool = False) -> int:
         "counts": {
             "total": len(combined),
             "new72h": sum(1 for i in combined if (today - dt.date.fromisoformat(i["publishedAt"])).days <= 3),
-            "opportunities": sum(1 for i in combined if i.get("kind") in {"phd", "postbac", "internship", "visiting", "fellowship", "funding"}),
+            "papers": sum(1 for i in combined if i.get("section") == "papers"),
+            "opportunities": sum(1 for i in combined if i.get("section") == "opportunities"),
+            "graduate": sum(1 for i in combined if i.get("section") == "graduate"),
             "deadlines": sum(1 for i in combined if i.get("deadlineAt")),
         },
     }
@@ -741,10 +779,10 @@ def run(live: bool, strict_network: bool = False) -> int:
         "timezone": "Asia/Seoul",
         "itemCount": len(combined),
         "pipeline": "curated-first + Europe PMC + bioRxiv + NIH RSS + page-watch",
-        "build": "pro-v3",
+        "build": "pro-v4-three-pillar",
         "mode": "live" if live else "offline",
         "reviewQueueCount": len([q for q in review_queue if q.get("status") == "needs-review"]),
-        "dataNotice": "Editorial records have precedence. Automated items are metadata-only and visibly labelled until reviewed.",
+        "dataNotice": "Three-pillar taxonomy: papers, conferences/research opportunities, and graduate admissions. Editorial records have precedence over automated metadata.",
     }
     health_doc = {"generatedAt": generated.isoformat(), "sources": health}
 

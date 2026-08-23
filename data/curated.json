@@ -65,7 +65,9 @@
       },
       "featured": true,
       "status": "open",
-      "ingestedBy": "curated-verified"
+      "ingestedBy": "curated-verified",
+      "section": "opportunities",
+      "subsection": "research-experience"
     },
     {
       "id": "janelia-visiting-scientist",
@@ -134,7 +136,9 @@
       },
       "featured": false,
       "status": "open",
-      "ingestedBy": "curated-verified"
+      "ingestedBy": "curated-verified",
+      "section": "opportunities",
+      "subsection": "research-experience"
     },
     {
       "id": "utah-2027-intl-restriction",
@@ -197,7 +201,23 @@
       },
       "featured": true,
       "status": "restricted",
-      "ingestedBy": "curated-verified"
+      "ingestedBy": "curated-verified",
+      "section": "graduate",
+      "subsection": "phd",
+      "admission": {
+        "cycle": "Fall 2027",
+        "degree": "PhD",
+        "applicationOpen": null,
+        "applicationOpenText": "Application currently available",
+        "deadlineText": "December 1, 2026",
+        "gre": "Program-specific; confirm official page",
+        "english": "Required for eligible international applicants unless exempt",
+        "fee": "Confirm official page",
+        "letters": "Confirm official page",
+        "funding": "Program-specific PhD funding",
+        "applicationAid": null,
+        "researchModel": "This cycle excludes international applicants applying from outside the U.S."
+      }
     },
     {
       "id": "acoustic-pgclc-2026",
@@ -267,7 +287,9 @@
       },
       "featured": true,
       "status": "new",
-      "ingestedBy": "curated-verified"
+      "ingestedBy": "curated-verified",
+      "section": "papers",
+      "subsection": "paper"
     },
     {
       "id": "cgamp-fret-2026",
@@ -331,7 +353,9 @@
       },
       "featured": false,
       "status": "new",
-      "ingestedBy": "curated-verified"
+      "ingestedBy": "curated-verified",
+      "section": "papers",
+      "subsection": "method"
     },
     {
       "id": "chromatin-decompaction-mechanics-2026",
@@ -394,7 +418,9 @@
       },
       "featured": true,
       "status": "new",
-      "ingestedBy": "curated-verified"
+      "ingestedBy": "curated-verified",
+      "section": "papers",
+      "subsection": "paper"
     },
     {
       "id": "rbm46-oogenesis-2026",
@@ -463,7 +489,9 @@
       },
       "featured": true,
       "status": "new",
-      "ingestedBy": "curated-verified"
+      "ingestedBy": "curated-verified",
+      "section": "papers",
+      "subsection": "paper"
     },
     {
       "id": "stowers-summer",
@@ -529,7 +557,9 @@
       },
       "featured": true,
       "status": "watch",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "research-experience"
     },
     {
       "id": "cshl-urp",
@@ -595,7 +625,9 @@
       },
       "featured": false,
       "status": "watch",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "research-experience"
     },
     {
       "id": "rockefeller-surf",
@@ -661,7 +693,9 @@
       },
       "featured": false,
       "status": "watch",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "research-experience"
     },
     {
       "id": "hnrnpk-ep-loop-2026",
@@ -725,7 +759,9 @@
       },
       "featured": true,
       "status": "important",
-      "ingestedBy": "curated-verified"
+      "ingestedBy": "curated-verified",
+      "section": "papers",
+      "subsection": "paper"
     },
     {
       "id": "cshl-phd",
@@ -791,7 +827,23 @@
       },
       "featured": true,
       "status": "watch",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "graduate",
+      "subsection": "phd",
+      "admission": {
+        "cycle": "Fall 2027",
+        "degree": "PhD",
+        "applicationOpen": "2026-09-01",
+        "applicationOpenText": "September 2026",
+        "deadlineText": "December 1, 2026",
+        "gre": "Not required",
+        "english": "TOEFL/IELTS required unless prior degree was taught in English",
+        "fee": "US$75",
+        "letters": "3",
+        "funding": "Full tuition and fees + US$45,000 annual stipend + health/dental coverage",
+        "applicationAid": null,
+        "researchModel": "Small cohort; lab rotations and institute-wide training"
+      }
     },
     {
       "id": "biology-genomes-2027",
@@ -852,7 +904,9 @@
       },
       "featured": false,
       "status": "open",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "events"
     },
     {
       "id": "rockefeller-phd",
@@ -918,7 +972,23 @@
       },
       "featured": false,
       "status": "open",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "graduate",
+      "subsection": "phd",
+      "admission": {
+        "cycle": "Fall 2027",
+        "degree": "PhD",
+        "applicationOpen": null,
+        "applicationOpenText": "2027-entry application available",
+        "deadlineText": "December 1, 2026",
+        "gre": "Not required",
+        "english": "TOEFL not required and not reviewed",
+        "fee": "US$50",
+        "letters": "3–4",
+        "funding": "No tuition + US$55,620 stipend (2026–27) + health/dental/vision + subsidized housing",
+        "applicationAid": null,
+        "researchModel": "Flexible interdisciplinary bioscience program"
+      }
     },
     {
       "id": "meiotic-ctcf-loops",
@@ -981,7 +1051,9 @@
       },
       "featured": true,
       "status": "new",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "paper"
     },
     {
       "id": "epi-editing-feature",
@@ -1043,7 +1115,9 @@
       },
       "featured": true,
       "status": "new",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "insight"
     },
     {
       "id": "uk-ivg-regulation",
@@ -1105,7 +1179,9 @@
       },
       "featured": true,
       "status": "new",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "insight"
     },
     {
       "id": "ivg-hype",
@@ -1167,7 +1243,9 @@
       },
       "featured": false,
       "status": "new",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "insight"
     },
     {
       "id": "3d-cancer-review",
@@ -1230,7 +1308,9 @@
       },
       "featured": false,
       "status": "new",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "review"
     },
     {
       "id": "cohesin-early-diff",
@@ -1293,7 +1373,9 @@
       },
       "featured": true,
       "status": "important",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "paper"
     },
     {
       "id": "polyfunctional-editor",
@@ -1355,7 +1437,9 @@
       },
       "featured": false,
       "status": "important",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "paper"
     },
     {
       "id": "max-planck-epi-meeting",
@@ -1416,7 +1500,9 @@
       },
       "featured": false,
       "status": "open",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "events"
     },
     {
       "id": "nipbl-pancreas",
@@ -1479,7 +1565,9 @@
       },
       "featured": false,
       "status": "important",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "paper"
     },
     {
       "id": "single-molecule-workshop",
@@ -1541,7 +1629,9 @@
       },
       "featured": true,
       "status": "open",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "events"
     },
     {
       "id": "raichu-normalization",
@@ -1604,7 +1694,9 @@
       },
       "featured": false,
       "status": "important",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "method"
     },
     {
       "id": "asrm-ivg",
@@ -1666,7 +1758,9 @@
       },
       "featured": false,
       "status": "important",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "papers",
+      "subsection": "insight"
     },
     {
       "id": "cshl-germ-cells",
@@ -1728,7 +1822,9 @@
       },
       "featured": false,
       "status": "closed",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "events"
     },
     {
       "id": "cshl-epi-2026",
@@ -1789,8 +1885,182 @@
       },
       "featured": false,
       "status": "closed",
-      "ingestedBy": "curated-seed"
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "events"
+    },
+    {
+      "id": "mit-biology-phd-2027",
+      "title": "MIT Biology Graduate Program — 2027 Entry",
+      "titleKo": "MIT Biology PhD 2027 — 10월 1일 지원 개시, BAAP 11월 1일까지",
+      "kind": "phd",
+      "section": "graduate",
+      "subsection": "phd",
+      "topics": [
+        "us-opportunity",
+        "epigenetics",
+        "developmental-biology",
+        "single-molecule"
+      ],
+      "source": {
+        "name": "MIT Department of Biology",
+        "type": "institution",
+        "authority": 5,
+        "url": "https://biology.mit.edu/graduate/prospective-students/application-process/"
+      },
+      "publishedAt": "2026-08-23",
+      "deadlineAt": "2026-12-01",
+      "eventStart": "2027-09-01",
+      "eventEnd": null,
+      "location": "Cambridge, Massachusetts, USA",
+      "url": "https://biology.mit.edu/graduate/prospective-students/application-process/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "온라인 지원은 2026년 10월 1일 열리고 12월 1일 오후 5시(EST)에 마감된다. GRE는 요구하지 않는다. 영어권 학부 교육을 이수하지 않은 non-native English speaker는 TOEFL·IELTS·Cambridge English 중 하나가 필요하며, 학생 주도 지원 준비 프로그램 BAAP는 11월 1일까지 rolling 접수한다.",
+      "whyItMatters": "3D genome·epigenetics·development·biophysics를 폭넓게 연결할 수 있는 장기 미국 PhD 후보군이다. 이번 cycle에 즉시 지원하지 않더라도 BAAP 자료와 지원 구조는 향후 statement·recommendation 전략의 benchmark가 된다.",
+      "recommendedAction": "BAAP 참여 가능성을 먼저 검토하고, 관심 faculty 6–8명과 최근 3년 연구를 정리한 뒤 연구경험 중심 Statement of Objectives 초안을 만든다.",
+      "tags": [
+        "US PhD",
+        "Fall 2027",
+        "No GRE",
+        "BAAP",
+        "International",
+        "Full funding"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "undergraduate",
+          "postbac",
+          "masters",
+          "early-career"
+        ],
+        "visa": "Admitted international students use MIT institutional visa process; confirm after admission",
+        "funding": "Full tuition + stipend + individual health insurance",
+        "confidence": 0.98,
+        "notes": "International application fee waivers are not available. English test rules are conditional on prior education language."
+      },
+      "admission": {
+        "cycle": "Fall 2027",
+        "degree": "PhD",
+        "applicationOpen": "2026-10-01",
+        "applicationOpenText": "October 1, 2026",
+        "deadlineText": "December 1, 2026 · 5:00 pm EST",
+        "gre": "Not required",
+        "english": "Required unless undergraduate education was completed in English",
+        "fee": "US$90; no international fee waiver",
+        "letters": "3; at least 2 academic",
+        "funding": "Full tuition + stipend + individual health insurance",
+        "applicationAid": "BAAP rolling until November 1, 2026",
+        "researchModel": "Doctoral-only program; interdisciplinary options and in-person interviews"
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-23",
+        "confidence": 0.99,
+        "note": "MIT Biology application process and funding pages verified."
+      },
+      "signals": {
+        "baseRelevance": 94,
+        "novelty": 98,
+        "actionability": 92,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "watch",
+      "ingestedBy": "curated-verified"
+    },
+    {
+      "id": "stanford-biosciences-phd-2027",
+      "title": "Stanford Biosciences PhD Programs — Autumn 2027–28 Entry",
+      "titleKo": "Stanford Biosciences PhD 2027–28 — 14개 Home Program, 12월 1일 마감",
+      "kind": "phd",
+      "section": "graduate",
+      "subsection": "phd",
+      "topics": [
+        "us-opportunity",
+        "epigenetics",
+        "developmental-biology",
+        "3d-genome"
+      ],
+      "source": {
+        "name": "Stanford Biosciences",
+        "type": "institution",
+        "authority": 5,
+        "url": "https://biosciences.stanford.edu/how-to-apply/"
+      },
+      "publishedAt": "2026-08-23",
+      "deadlineAt": "2026-12-01",
+      "eventStart": "2027-09-20",
+      "eventEnd": null,
+      "location": "Stanford, California, USA",
+      "url": "https://biosciences.stanford.edu/how-to-apply/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "Autumn 2027–28 지원서는 2026년 9월 중순 열리고 12월 1일 11:59:59 pm(PST)에 마감된다. 14개 Home Program 중 primary와 optional alternative를 선택하며, faculty of interest 8–12명을 순위화한다. 영어시험 면제는 영어권 학위·경력 조건에 따라 결정되고, GRE 정책은 Home Program별로 다르다.",
+      "whyItMatters": "chromatin·development·biophysics·quantitative biology 연구진을 Home Program 경계를 넘어 rotation할 수 있어 장기 목표와 잘 맞는다. 다만 international funding이 제한적이므로 연구 적합도뿐 아니라 실제 funding 구조를 함께 평가해야 한다.",
+      "recommendedAction": "Biology·Developmental Biology 계열 Home Program을 비교하고 관심 faculty 8–12명을 실제 지원 형식에 맞춰 우선순위화한다. Knight-Hennessy를 고려한다면 10월 6일 별도 마감을 먼저 관리한다.",
+      "tags": [
+        "US PhD",
+        "Fall 2027",
+        "14 Home Programs",
+        "International",
+        "Knight-Hennessy",
+        "Rotations"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "undergraduate",
+          "postbac",
+          "masters",
+          "early-career"
+        ],
+        "visa": "Institutional visa process after admission; confirm program-specific requirements",
+        "funding": "Limited fellowships for highly competitive international applicants; Home Program capacity varies",
+        "confidence": 0.98,
+        "notes": "English proficiency exemptions and GRE policies are program-specific. School-based fee waiver is available to international applicants."
+      },
+      "admission": {
+        "cycle": "Autumn 2027–28",
+        "degree": "PhD",
+        "applicationOpen": null,
+        "applicationOpenText": "Mid-September 2026",
+        "deadlineText": "December 1, 2026 · 11:59:59 pm PST",
+        "gre": "Varies by Home Program; Biology does not consider GRE",
+        "english": "Required unless an official exemption criterion is met",
+        "fee": "US$125; school-based international fee waiver available",
+        "letters": "3 required; up to 4",
+        "funding": "Limited international fellowships; verify Home Program",
+        "applicationAid": "Knight-Hennessy deadline: October 6, 2026 · 1:00 pm PST",
+        "researchModel": "14 Home Programs; rotations across Biosciences faculty"
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-23",
+        "confidence": 0.99,
+        "note": "Stanford Biosciences How to Apply and international funding FAQ verified."
+      },
+      "signals": {
+        "baseRelevance": 96,
+        "novelty": 98,
+        "actionability": 95,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "watch",
+      "ingestedBy": "curated-verified"
     }
   ],
-  "note": "Editorial baseline. Automated collectors may append records but cannot replace matching DOI/PMID/URL/title entries."
+  "note": "Verified editorial seed layer. Three-pillar taxonomy: papers / opportunities / graduate."
 }

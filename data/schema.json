@@ -3,11 +3,15 @@
   "$id": "https://example.invalid/research-radar/feed.schema.json",
   "title": "Research Radar Feed",
   "type": "object",
-  "required": ["items"],
+  "required": [
+    "items"
+  ],
   "properties": {
     "items": {
       "type": "array",
-      "items": {"$ref": "#/$defs/item"}
+      "items": {
+        "$ref": "#/$defs/item"
+      }
     }
   },
   "$defs": {
@@ -15,20 +19,88 @@
       "type": "object",
       "additionalProperties": true,
       "required": [
-        "id", "title", "titleKo", "kind", "topics", "source", "publishedAt", "url",
-        "summary", "whyItMatters", "recommendedAction", "verification", "signals", "status", "ingestedBy"
+        "id",
+        "title",
+        "titleKo",
+        "kind",
+        "section",
+        "subsection",
+        "topics",
+        "source",
+        "publishedAt",
+        "url",
+        "summary",
+        "whyItMatters",
+        "recommendedAction",
+        "verification",
+        "signals",
+        "status",
+        "ingestedBy"
       ],
       "properties": {
-        "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9._-]{2,160}$"},
-        "title": {"type": "string", "minLength": 1},
-        "titleKo": {"type": "string", "minLength": 1},
-        "kind": {"type": "string"},
-        "topics": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string"}},
-        "publishedAt": {"type": "string", "format": "date"},
-        "deadlineAt": {"type": ["string", "null"], "format": "date"},
-        "url": {"type": "string", "format": "uri"},
-        "featured": {"type": "boolean"},
-        "status": {"enum": ["new", "important", "open", "watch", "closed", "restricted"]}
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9._-]{2,160}$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "titleKo": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "type": "string"
+        },
+        "topics": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "publishedAt": {
+          "type": "string",
+          "format": "date"
+        },
+        "deadlineAt": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "featured": {
+          "type": "boolean"
+        },
+        "status": {
+          "enum": [
+            "new",
+            "important",
+            "open",
+            "watch",
+            "closed",
+            "restricted"
+          ]
+        },
+        "section": {
+          "type": "string",
+          "enum": [
+            "papers",
+            "opportunities",
+            "graduate"
+          ]
+        },
+        "subsection": {
+          "type": "string",
+          "minLength": 1
+        }
       }
     }
   }
