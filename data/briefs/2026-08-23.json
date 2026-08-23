@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generatedAt": "2026-08-23T13:31:17+09:00",
+  "generatedAt": "2026-08-23T14:49:34+09:00",
   "title": "Research Radar — 2026-08-23",
   "itemIds": [
     "mit-biology-phd-2027",
@@ -13,10 +13,10 @@
     "hnrnpk-ep-loop-2026"
   ],
   "counts": {
-    "total": 30,
-    "new72h": 9,
-    "papers": 15,
-    "opportunities": 10,
+    "total": 75,
+    "new72h": 28,
+    "papers": 59,
+    "opportunities": 11,
     "graduate": 5,
     "deadlines": 10
   }

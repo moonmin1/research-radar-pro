@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:31:17 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:49:34 +0900</lastBuildDate>
     <item>
       <title>MIT Biology PhD 2027 — 10월 1일 지원 개시, BAAP 11월 1일까지</title>
       <link>https://biology.mit.edu/graduate/prospective-students/application-process/</link>
@@ -178,6 +178,159 @@
       <description>국제학생을 명시적으로 허용하고 housing까지 제공하는 미국 biomedical summer program이라는 점에서 가치가 높다. 그러나 sophomores/juniors 중심이므로 졸업 시점 eligibility를 주의해야 한다.</description>
     </item>
     <item>
+      <title>Set mediates chromosome alignment and Cohesin cleavage independently of direct PP2A-B56-binding in oocyte meiosis</title>
+      <link>https://doi.org/10.64898/2026.08.20.745968</link>
+      <guid isPermaLink="false">set-mediates-chromosome-alignment-and-cohesin-cleavage-independently-o-1e14b8a9</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, cohesin-ctcf</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Loss of cohesin subunit Stag1 in zebrafish limits cell cycle progression and is compensated by altered BMP signalling and metabolic pathways</title>
+      <link>https://doi.org/10.64898/2026.08.20.745648</link>
+      <guid isPermaLink="false">loss-of-cohesin-subunit-stag1-in-zebrafish-limits-cell-cycle-progressi-50672d60</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, developmental-biology, 3d-genome, ivg-germline</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Loop statistics and fountain geometry reveal effective two-sided cohesin extrusion and crowding-induced arm desynchronization</title>
+      <link>https://doi.org/10.64898/2026.08.20.745948</link>
+      <guid isPermaLink="false">loop-statistics-and-fountain-geometry-reveal-effective-two-sided-cohes-634368fc</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome, enhancer-promoter</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Spindle maturity shapes human oocyte resilience to cryopreservation stress</title>
+      <link>https://doi.org/10.21203/rs.3.rs-10269180/v1</link>
+      <guid isPermaLink="false">spindle-maturity-shapes-human-oocyte-resilience-to-cryopreservation-st-a046cb1f</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, single-molecule</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
+    </item>
+    <item>
+      <title>The impact of exercise on sperm epigenetic modification and intergenerational inheritance.</title>
+      <link>https://europepmc.org/article/MED/42626834</link>
+      <guid isPermaLink="false">the-impact-of-exercise-on-sperm-epigenetic-modification-and-intergener-19a4d47b</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, 3d-genome</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>A histone variant establishes a novel link between chromatin and nuclear RNA decay in spermatogenesis and beyond.</title>
+      <link>https://doi.org/10.21203/rs.3.rs-8304477/v2</link>
+      <guid isPermaLink="false">a-histone-variant-establishes-a-novel-link-between-chromatin-and-nucle-7ebb13c2</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, epigenetics</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
+      <title>Spastic and non-spastic spinal cord injury induce systemic reproductive impairment via alterations in testicular morphology, microenvironment, spermatogenesis, and modulation of sperm parameters.</title>
+      <link>https://europepmc.org/article/MED/42622507</link>
+      <guid isPermaLink="false">spastic-and-non-spastic-spinal-cord-injury-induce-systemic-reproductiv-bea858a7</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, mechanobiology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다.</description>
+    </item>
+    <item>
+      <title>Conserved sex-biased DNA methylation patterns target key developmental genes and reproductive function in two Poeciliid species.</title>
+      <link>https://europepmc.org/article/MED/42617085</link>
+      <guid isPermaLink="false">conserved-sex-biased-dna-methylation-patterns-target-key-developmental-2c5a3089</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, ivg-germline</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Type I PRMTs Play a Role in Mammalian Embryonic Lineage Specification</title>
+      <link>https://doi.org/10.64898/2026.08.18.745309</link>
+      <guid isPermaLink="false">type-i-prmts-play-a-role-in-mammalian-embryonic-lineage-specification-b07e335b</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>developmental-biology, epigenetics, mechanobiology, ivg-germline</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
+      <title>In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.</title>
+      <link>https://europepmc.org/article/MED/42612791</link>
+      <guid isPermaLink="false">in-vivo-single-molecule-tracking-of-chd-family-chromatin-remodeler-hrp-8f3443b7</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, single-molecule, 3d-genome</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
+    </item>
+    <item>
+      <title>Multiple generation distinct toxicant exposures and epigenetic transgenerational inheritance of sex‑specific outcross impacts on sperm epigenetics and obesity pathology.</title>
+      <link>https://europepmc.org/article/MED/42619535</link>
+      <guid isPermaLink="false">multiple-generation-distinct-toxicant-exposures-and-epigenetic-transge-21cc8e6a</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, ivg-germline</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>The post-transcriptional RNA splicing landscape driving oocyte division</title>
+      <link>https://doi.org/10.64898/2026.08.19.745726</link>
+      <guid isPermaLink="false">the-post-transcriptional-rna-splicing-landscape-driving-oocyte-divisio-8e2f5960</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Notice of Informational Webinar on the NIGMS Basic Biomedical Predoctoral T32 Training Programs</title>
+      <link>http://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-015.html</link>
+      <guid isPermaLink="false">notice-of-informational-webinar-on-the-nigms-basic-biomedical-predocto-d5d6722e</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
+      <category>opportunities</category>
+      <category>events-funding, us-opportunity</category>
+      <description>교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
+    </item>
+    <item>
+      <title>In vitro embryo production in alpacas (Lama pacos): Blastocyst development from oocytes vitrified by Microdrop or Cryotech technique.</title>
+      <link>https://europepmc.org/article/MED/42612364</link>
+      <guid isPermaLink="false">in-vitro-embryo-production-in-alpacas-lama-pacos-blastocyst-developmen-24f9c5bc</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>VEZF1 facilitates pluripotency exit by regulating developmental transcriptional programs and CTCF occupancy</title>
+      <link>https://doi.org/10.64898/2026.08.13.744713</link>
+      <guid isPermaLink="false">vezf1-facilitates-pluripotency-exit-by-regulating-developmental-transc-8317f3dd</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, developmental-biology</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Lipidomic Remodeling during Lipid-Rich Mammalian Oocyte Maturation and Early Embryo Development</title>
+      <link>https://doi.org/10.21203/rs.3.rs-10591251/v1</link>
+      <guid isPermaLink="false">lipidomic-remodeling-during-lipid-rich-mammalian-oocyte-maturation-and-a519bd57</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>CRISPR-based epigenome and genome editing reveal novel roles for PLEC in cartilage biology, mechanobiology, and response to inflammation</title>
+      <link>https://doi.org/10.21203/rs.3.rs-10171592/v1</link>
+      <guid isPermaLink="false">crispr-based-epigenome-and-genome-editing-reveal-novel-roles-for-plec-6863f5aa</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>crispr-engineering, epigenetics, mechanobiology</category>
+      <description>programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
       <title>Rockefeller University Bioscience PhD 2027 입학 지원</title>
       <link>https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/</link>
       <guid isPermaLink="false">rockefeller-phd</guid>
@@ -187,94 +340,31 @@
       <description>미국 유학 구조를 이해하는 benchmark로 좋지만, 사용자는 DGIST 석사 후 미국 박사를 계획하므로 이번 cycle의 실제 지원보다는 future target lab 분석이 더 적절하다.</description>
     </item>
     <item>
-      <title>NIPBL 저하는 E–P loop 붕괴와 Polycomb rewiring을 통해 췌장 분화를 방해한다</title>
-      <link>https://www.nature.com/articles/s42003-026-09838-x</link>
-      <guid isPermaLink="false">nipbl-pancreas</guid>
-      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+      <title>A proteomic signature of oocyte quality from models of varying oocyte developmental competence.</title>
+      <link>https://europepmc.org/article/MED/42625370</link>
+      <guid isPermaLink="false">a-proteomic-signature-of-oocyte-quality-from-models-of-varying-oocyte-de338a53</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, cohesin-ctcf, enhancer-promoter</category>
-      <description>NIPBL–cohesin 축과 PRC compartmentalization의 경쟁을 동시에 보여준다. 사용자의 cohesin loader 기반 3D epi-editor 아이디어에 가장 직접적인 세포 분화 사례다.</description>
+      <category>ivg-germline, us-opportunity</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
     </item>
     <item>
-      <title>Raichu normalization은 기존 방법이 놓친 E–P loop를 복원한다</title>
-      <link>https://www.nature.com/articles/s41467-026-69082-z</link>
-      <guid isPermaLink="false">raichu-normalization</guid>
-      <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+      <title>Induced Pluripotent Stem Cells in Non-Model Species: Applications and Challenges</title>
+      <link>https://doi.org/10.20944/preprints202608.1186.v1</link>
+      <guid isPermaLink="false">induced-pluripotent-stem-cells-in-non-model-species-applications-and-c-4616135d</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, cohesin-ctcf, enhancer-promoter</category>
-      <description>실험 신호가 없어서가 아니라 preprocessing에서 사라졌을 가능성을 다룬다. Micro-C/Hi-C 기반 E–P loop 분석을 수행할 때 필수적인 computational caveat다.</description>
+      <category>developmental-biology, ivg-germline</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>암에서 3D chromatin dysregulation과 치료 전략을 정리한 리뷰</title>
-      <link>https://www.nature.com/articles/s12276-026-01748-6</link>
-      <guid isPermaLink="false">3d-cancer-review</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+      <title>Single-Molecule Force Spectroscopy Reveals a High-Force Requirement for Dissociation of Integrin Transmembrane Domains.</title>
+      <link>https://europepmc.org/article/MED/42629974</link>
+      <guid isPermaLink="false">single-molecule-force-spectroscopy-reveals-a-high-force-requirement-fo-12351090</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, enhancer-promoter, mechanobiology</category>
-      <description>3D genome engineering의 translational endpoint를 검토할 때 유용하다. 다만 기전적 깊이보다 분야 전체 지형을 빠르게 훑는 용도에 가깝다.</description>
-    </item>
-    <item>
-      <title>하나의 Cas9 editor로 DNA 삽입과 epigenetic silencing을 동시에 수행한다</title>
-      <link>https://www.nature.com/articles/s41467-026-72846-2</link>
-      <guid isPermaLink="false">polyfunctional-editor</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, crispr-engineering</category>
-      <description>한 플랫폼 안에서 서로 다른 기능을 orthogonal하게 제어하는 설계 원리를 보여준다. 향후 3D architecture editor와 histone/DNA editor를 결합할 때 참고할 수 있다.</description>
-    </item>
-    <item>
-      <title>IVG 담론은 기술 현실보다 임상 기대가 앞서고 있다는 비판</title>
-      <link>https://link.springer.com/article/10.1007/s40592-026-00295-0</link>
-      <guid isPermaLink="false">ivg-hype</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>IVG 분야를 냉정하게 평가하는 균형추다. 연구 목표를 제시할 때 ‘임상 적용’보다 정확한 biological bottleneck 해결을 전면에 놓아야 한다는 근거가 된다.</description>
-    </item>
-    <item>
-      <title>ASRM이 IVG의 임상 적용 전제와 안전성 기준을 공식화했다</title>
-      <link>https://www.asrm.org/practice-guidance/ethics-opinions/ethical-considerations-of-in-vitro-gametogenesis-an-ethics-committee-opinion-asrm-2026/</link>
-      <guid isPermaLink="false">asrm-ivg</guid>
-      <pubDate>Sat, 03 Jan 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>IVG 연구의 실제 translational gate를 보여준다. 단순히 mature gamete 생성 성공만으로 임상에 접근할 수 없고 genetic·epigenetic normality와 장기 안전성 검증이 중심이라는 점을 명확히 한다.</description>
-    </item>
-    <item>
-      <title>CSHL Germ Cells 2026</title>
-      <link>https://meetings.cshl.edu/meetings.aspx?meet=GERM</link>
-      <guid isPermaLink="false">cshl-germ-cells</guid>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>events-funding, developmental-biology</category>
-      <description>IVG와 germ-cell biology에서 가장 직접적인 국제 네트워크 중 하나다. 참석하지 못하더라도 프로그램에 등장하는 연구자와 발표 주제를 추적해야 한다.</description>
-    </item>
-    <item>
-      <title>CSHL Biology of Genomes 2027</title>
-      <link>https://meetings.cshl.edu/meetings.aspx?meet=GENOME</link>
-      <guid isPermaLink="false">biology-genomes-2027</guid>
-      <pubDate>Sat, 01 Aug 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>events-funding</category>
-      <description>DGIST 석사 진학 후 초기 데이터가 확보된다면 poster submission을 노릴 수 있는 중기 목표다.</description>
-    </item>
-    <item>
-      <title>Max Planck Freiburg Epigenetics Meeting 2026</title>
-      <link>https://www.ie-freiburg.mpg.de/6126135/2026_04_01_8th_Epigenetics_Meeting_2026_en</link>
-      <guid isPermaLink="false">max-planck-epi-meeting</guid>
-      <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>events-funding</category>
-      <description>epigenetic memory와 chromatin regulation을 폭넓게 접할 수 있다. 현재 학부 졸업 단계에서는 발표 실적이 없어도 참가 목적과 비용 효율을 따져볼 가치가 있다.</description>
-    </item>
-    <item>
-      <title>CSHL Epigenetics &amp; Chromatin 2026</title>
-      <link>https://meetings.cshl.edu/meetings.aspx?meet=EPICH</link>
-      <guid isPermaLink="false">cshl-epi-2026</guid>
-      <pubDate>Thu, 01 Jan 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>events-funding</category>
-      <description>향후 미국 학회 네트워크를 설계할 때 우선순위가 높은 회의다. 이번 회차 참가보다 2028년 또는 관련 CSHL course를 장기 목표로 설정하는 편이 현실적이다.</description>
+      <category>single-molecule, mechanobiology</category>
+      <description>정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다. nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다.</description>
     </item>
   </channel>
 </rss>
