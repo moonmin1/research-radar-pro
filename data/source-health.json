@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-24T08:26:29+09:00",
+  "generatedAt": "2026-08-25T08:26:25+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-08-24T08:26:29+09:00",
+      "lastSuccess": "2026-08-25T08:26:25+09:00",
       "latencyMs": 0,
       "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -14,17 +14,17 @@
       "id": "europepmc",
       "label": "Europe PMC",
       "status": "healthy",
-      "lastSuccess": "2026-08-24T08:26:29+09:00",
-      "latencyMs": 1775,
-      "items": 35,
-      "message": "Received 71; retained 35 after relevance filtering."
+      "lastSuccess": "2026-08-25T08:26:25+09:00",
+      "latencyMs": 1440,
+      "items": 28,
+      "message": "Received 52; retained 28 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
       "status": "healthy",
-      "lastSuccess": "2026-08-24T08:26:29+09:00",
-      "latencyMs": 1476,
+      "lastSuccess": "2026-08-25T08:26:25+09:00",
+      "latencyMs": 1561,
       "items": 0,
       "message": "Received 30; retained 0 after relevance filtering."
     },
@@ -32,8 +32,8 @@
       "id": "nih-rss",
       "label": "NIH Guide RSS",
       "status": "healthy",
-      "lastSuccess": "2026-08-24T08:26:29+09:00",
-      "latencyMs": 192,
+      "lastSuccess": "2026-08-25T08:26:25+09:00",
+      "latencyMs": 80,
       "items": 1,
       "message": "Received 5; retained 1 after relevance filtering."
     },
@@ -41,8 +41,8 @@
       "id": "page-watch",
       "label": "Curated programme page-watch",
       "status": "healthy",
-      "lastSuccess": "2026-08-24T08:26:29+09:00",
-      "latencyMs": 5501,
+      "lastSuccess": "2026-08-25T08:26:25+09:00",
+      "latencyMs": 4376,
       "items": 9,
       "message": "Checked 10 pages; 1 change/error flags added."
     }
