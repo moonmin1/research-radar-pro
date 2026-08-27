@@ -1,11 +1,11 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-08-26T08:29:19+09:00",
+  "generatedAt": "2026-08-27T13:26:18+09:00",
   "timezone": "Asia/Seoul",
-  "itemCount": 90,
+  "itemCount": 109,
   "pipeline": "curated-first + Europe PMC + bioRxiv + NIH RSS + page-watch",
   "build": "pro-v4-three-pillar",
   "mode": "live",
-  "reviewQueueCount": 1,
+  "reviewQueueCount": 2,
   "dataNotice": "Three-pillar taxonomy: papers, conferences/research opportunities, and graduate admissions. Editorial records have precedence over automated metadata."
 }
