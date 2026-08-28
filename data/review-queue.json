@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:26:18+09:00",
+  "generatedAt": "2026-08-28T15:49:45+09:00",
   "items": [
     {
       "id": "watch-error-stowers-scholars-2026-08-23",
@@ -93,6 +93,32 @@
       "detectedAt": "2026-08-27T13:26:27+09:00",
       "reason": "Visible page content hash changed; editorial review required.",
       "status": "needs-review"
+    },
+    {
+      "id": "watch-cshl-urp-2026-08-28",
+      "pageId": "cshl-urp",
+      "name": "CSHL Undergraduate Research Program",
+      "url": "https://www.cshl.edu/education/undergraduate-research-program/",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-08-28T15:50:10+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
+    },
+    {
+      "id": "watch-error-stowers-scholars-2026-08-28",
+      "pageId": "stowers-scholars",
+      "name": "Stowers Research Scholars",
+      "url": "https://www.stowers.org/gradschool/research-scholars",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-08-28T15:50:11+09:00",
+      "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
+      "status": "check-failed"
     }
   ]
 }
