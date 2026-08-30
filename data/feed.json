@@ -314,71 +314,6 @@
       "subsection": "paper"
     },
     {
-      "id": "chromatin-decompaction-mechanics-2026",
-      "title": "Chromatin decompaction within the nucleus increases plasma membrane tension promoting NETosis execution, independently of transcription",
-      "titleKo": "Chromatin decompaction이 transcription과 독립적으로 plasma-membrane tension을 증가시킨다",
-      "kind": "paper",
-      "topics": [
-        "epigenetics",
-        "mechanobiology"
-      ],
-      "source": {
-        "name": "Nature Communications",
-        "type": "journal",
-        "authority": 5,
-        "url": "https://www.nature.com/articles/s41467-026-76578-1"
-      },
-      "publishedAt": "2026-08-20",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://www.nature.com/articles/s41467-026-76578-1",
-      "doi": "10.1038/s41467-026-76578-1",
-      "pmid": null,
-      "authors": [],
-      "summary": "NETosis와 U2OS model에서 chromatin decompaction이 H1, HP1α, H3의 chromatin dissociation과 함께 cell osmolarity, volume, plasma-membrane tension을 높였다. U2OS에서는 cytoskeleton 및 transcription과 독립적인 causal effect가 확인됐다.",
-      "whyItMatters": "기존의 mechanics→chromatin 방향뿐 아니라 chromatin state→whole-cell mechanics의 역방향 인과축을 제시한다. LEMD3–H3K9me3–HP1 및 nuclear deformation 프로젝트의 해석 범위를 넓힌다.",
-      "recommendedAction": "H1/HP1 dissociation, osmolyte model, membrane tension assay를 현재 chondrocyte hypothesis와 연결해 실험 가능한 prediction을 작성한다.",
-      "tags": [
-        "chromatin decompaction",
-        "HP1α",
-        "H1",
-        "membrane tension",
-        "NETosis",
-        "nuclear mechanics"
-      ],
-      "access": {
-        "openAccess": true,
-        "fullText": "open"
-      },
-      "eligibility": {
-        "international": null,
-        "careerStages": [],
-        "visa": null,
-        "funding": null,
-        "confidence": null,
-        "notes": null
-      },
-      "verification": {
-        "level": "peer-reviewed",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.99,
-        "note": "Publisher page verified."
-      },
-      "signals": {
-        "baseRelevance": 98,
-        "novelty": 100,
-        "actionability": 80,
-        "authority": 100
-      },
-      "featured": true,
-      "status": "new",
-      "ingestedBy": "curated-verified",
-      "section": "papers",
-      "subsection": "paper"
-    },
-    {
       "id": "stowers-summer",
       "title": "Stowers Summer Scholars Program",
       "titleKo": "Stowers Summer Scholars — 국제학생·visa support 가능",
@@ -508,6 +443,71 @@
       },
       "featured": true,
       "status": "important",
+      "ingestedBy": "curated-verified",
+      "section": "papers",
+      "subsection": "paper"
+    },
+    {
+      "id": "chromatin-decompaction-mechanics-2026",
+      "title": "Chromatin decompaction within the nucleus increases plasma membrane tension promoting NETosis execution, independently of transcription",
+      "titleKo": "Chromatin decompaction이 transcription과 독립적으로 plasma-membrane tension을 증가시킨다",
+      "kind": "paper",
+      "topics": [
+        "epigenetics",
+        "mechanobiology"
+      ],
+      "source": {
+        "name": "Nature Communications",
+        "type": "journal",
+        "authority": 5,
+        "url": "https://www.nature.com/articles/s41467-026-76578-1"
+      },
+      "publishedAt": "2026-08-20",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.nature.com/articles/s41467-026-76578-1",
+      "doi": "10.1038/s41467-026-76578-1",
+      "pmid": null,
+      "authors": [],
+      "summary": "NETosis와 U2OS model에서 chromatin decompaction이 H1, HP1α, H3의 chromatin dissociation과 함께 cell osmolarity, volume, plasma-membrane tension을 높였다. U2OS에서는 cytoskeleton 및 transcription과 독립적인 causal effect가 확인됐다.",
+      "whyItMatters": "기존의 mechanics→chromatin 방향뿐 아니라 chromatin state→whole-cell mechanics의 역방향 인과축을 제시한다. LEMD3–H3K9me3–HP1 및 nuclear deformation 프로젝트의 해석 범위를 넓힌다.",
+      "recommendedAction": "H1/HP1 dissociation, osmolyte model, membrane tension assay를 현재 chondrocyte hypothesis와 연결해 실험 가능한 prediction을 작성한다.",
+      "tags": [
+        "chromatin decompaction",
+        "HP1α",
+        "H1",
+        "membrane tension",
+        "NETosis",
+        "nuclear mechanics"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "open"
+      },
+      "eligibility": {
+        "international": null,
+        "careerStages": [],
+        "visa": null,
+        "funding": null,
+        "confidence": null,
+        "notes": null
+      },
+      "verification": {
+        "level": "peer-reviewed",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.99,
+        "note": "Publisher page verified."
+      },
+      "signals": {
+        "baseRelevance": 98,
+        "novelty": 100,
+        "actionability": 80,
+        "authority": 100
+      },
+      "featured": true,
+      "status": "new",
       "ingestedBy": "curated-verified",
       "section": "papers",
       "subsection": "paper"
@@ -1272,6 +1272,74 @@
       "subsection": "research-experience"
     },
     {
+      "id": "rockefeller-surf",
+      "title": "Chemers Neustein Summer Undergraduate Research Fellowship",
+      "titleKo": "Rockefeller SURF — 국제학생 가능, 다음 cycle 감시",
+      "kind": "internship",
+      "topics": [
+        "us-opportunity"
+      ],
+      "source": {
+        "name": "The Rockefeller University",
+        "type": "institution",
+        "authority": 4,
+        "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/"
+      },
+      "publishedAt": "2026-08-19",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": "New York, USA",
+      "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/",
+      "doi": null,
+      "pmid": null,
+      "authors": [],
+      "summary": "2026 프로그램은 10주, stipend 6,500달러와 비통근자 무료 housing을 제공했고 국제학생 지원이 가능했다. 2027 cycle 날짜는 아직 공식 업데이트되지 않았다.",
+      "whyItMatters": "국제학생을 명시적으로 허용하고 housing까지 제공하는 미국 biomedical summer program이라는 점에서 가치가 높다. 그러나 sophomores/juniors 중심이므로 졸업 시점 eligibility를 주의해야 한다.",
+      "recommendedAction": "다음 공고가 나오면 degree status와 J-1/visa 처리 방식을 즉시 확인해야 한다.",
+      "tags": [
+        "International",
+        "Undergraduate",
+        "SURF",
+        "Housing",
+        "Stipend"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "official-or-open"
+      },
+      "eligibility": {
+        "international": true,
+        "careerStages": [
+          "undergraduate",
+          "postbac",
+          "masters",
+          "early-career"
+        ],
+        "visa": "check-official-page",
+        "funding": "check-official-page",
+        "confidence": 0.55,
+        "notes": "Eligibility is re-checked by curated overrides and page-watch."
+      },
+      "verification": {
+        "level": "official-page",
+        "checkedAt": "2026-08-22",
+        "confidence": 0.9,
+        "note": "Curated seed item; automated jobs re-check source freshness."
+      },
+      "signals": {
+        "baseRelevance": 88,
+        "novelty": 55,
+        "actionability": 75,
+        "authority": 80
+      },
+      "featured": false,
+      "status": "watch",
+      "ingestedBy": "curated-seed",
+      "section": "opportunities",
+      "subsection": "research-experience"
+    },
+    {
       "id": "architectural-logic-of-the-3d-genome-mechanisms-of-dysregulation-and-e-88846697",
       "title": "Architectural logic of the 3D genome: mechanisms of dysregulation and emerging cancer therapeutics.",
       "titleKo": "Architectural logic of the 3D genome: mechanisms of dysregulation and emerging cancer therapeutics.",
@@ -1321,7 +1389,125 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "histone-h3k27ac-spreads-from-enriched-chromatin-domains-into-neighbori-423c6390",
+      "title": "Histone H3K27ac spreads from enriched chromatin domains into neighboring regions upon loss of CTCF binding.",
+      "titleKo": "Histone H3K27ac spreads from enriched chromatin domains into neighboring regions upon loss of CTCF binding.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "cohesin-ctcf",
+        "epigenetics"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42648476"
+      },
+      "publishedAt": "2026-08-26",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42648476",
+      "doi": "10.1016/j.bbagrm.2026.195181",
+      "pmid": "42648476",
+      "authors": [
+        "Kang J",
+        "Kim A."
+      ],
+      "summary": "Acetylation of histone H3 at lysine 27 (H3K27ac) is enriched at enhancers and highly transcribed genes. Our previous study showed that an H3K27ac-enriched chromatin domain expanded into neighboring regions following the deletion of CTCF-binding motifs flanking the domain. In this study, we explored the spreading of H3K27ac on a genome-wide scale by analyzing its distribution around CTCF-binding sites in human K562 cells and examining changes upon CTCF loss. We found that a subset of CTCF-binding sites demarcates H3K27ac-enriched domains. Upon loss of CTCF binding, H3K27ac levels increased in most regions adjacent to these domains, indicating that H3K27ac can spread into neighboring chromatin. This spreading was accompanied by elevated transcription of nearby genes. Chromatin features, including histone modifications, CTCF-binding intensi…",
+      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "cohesin",
+        "ctcf",
+        "epigenetic",
+        "epigenome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 97,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "beneficial-effects-of-melatonin-on-mouse-preimplantation-embryo-develo-993f6d8d",
+      "title": "Beneficial effects of melatonin on mouse preimplantation embryo development and implantation potential: Possible involvement of clathrin-mediated endocytosis.",
+      "titleKo": "Beneficial effects of melatonin on mouse preimplantation embryo development and implantation potential: Possible involvement of clathrin-mediated endocytosis.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "developmental-biology",
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42644824"
+      },
+      "publishedAt": "2026-08-26",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42644824",
+      "doi": "10.1093/reprod/xaag105",
+      "pmid": "42644824",
+      "authors": [
+        "Li Y",
+        "Wang Z."
+      ],
+      "summary": "Melatonin is a pleiotropic hormone with essential roles in mammalian reproduction. Our previous study demonstrated that melatonin promotes human oocyte maturation and early embryo development through enhancement of clathrin-mediated endocytosis (CME). In the present study, we investigated whether a similar melatonin-associated regulatory relationship is also observed during mouse preimplantation embryo development and implantation. Following concentration optimization, mouse zygotes were cultured with 10-9 M melatonin, 20 μM dynasore (a pharmacological inhibitor of dynamin-dependent endocytosis), or their combination. Melatonin supplementation significantly increased blastocyst formation and subsequent implantation potential. Conversely, dynasore treatment reduced blastocyst developmental progression and markedly impaired implantation po…",
+      "whyItMatters": "초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "early embryo",
+        "embryogenesis",
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -1397,333 +1583,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "rockefeller-surf",
-      "title": "Chemers Neustein Summer Undergraduate Research Fellowship",
-      "titleKo": "Rockefeller SURF — 국제학생 가능, 다음 cycle 감시",
-      "kind": "internship",
-      "topics": [
-        "us-opportunity"
-      ],
-      "source": {
-        "name": "The Rockefeller University",
-        "type": "institution",
-        "authority": 4,
-        "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/"
-      },
-      "publishedAt": "2026-08-19",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": "New York, USA",
-      "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/",
-      "doi": null,
-      "pmid": null,
-      "authors": [],
-      "summary": "2026 프로그램은 10주, stipend 6,500달러와 비통근자 무료 housing을 제공했고 국제학생 지원이 가능했다. 2027 cycle 날짜는 아직 공식 업데이트되지 않았다.",
-      "whyItMatters": "국제학생을 명시적으로 허용하고 housing까지 제공하는 미국 biomedical summer program이라는 점에서 가치가 높다. 그러나 sophomores/juniors 중심이므로 졸업 시점 eligibility를 주의해야 한다.",
-      "recommendedAction": "다음 공고가 나오면 degree status와 J-1/visa 처리 방식을 즉시 확인해야 한다.",
-      "tags": [
-        "International",
-        "Undergraduate",
-        "SURF",
-        "Housing",
-        "Stipend"
-      ],
-      "access": {
-        "openAccess": true,
-        "fullText": "official-or-open"
-      },
-      "eligibility": {
-        "international": true,
-        "careerStages": [
-          "undergraduate",
-          "postbac",
-          "masters",
-          "early-career"
-        ],
-        "visa": "check-official-page",
-        "funding": "check-official-page",
-        "confidence": 0.55,
-        "notes": "Eligibility is re-checked by curated overrides and page-watch."
-      },
-      "verification": {
-        "level": "official-page",
-        "checkedAt": "2026-08-22",
-        "confidence": 0.9,
-        "note": "Curated seed item; automated jobs re-check source freshness."
-      },
-      "signals": {
-        "baseRelevance": 88,
-        "novelty": 55,
-        "actionability": 75,
-        "authority": 80
-      },
-      "featured": false,
-      "status": "watch",
-      "ingestedBy": "curated-seed",
-      "section": "opportunities",
-      "subsection": "research-experience"
-    },
-    {
-      "id": "histone-h3k27ac-spreads-from-enriched-chromatin-domains-into-neighbori-423c6390",
-      "title": "Histone H3K27ac spreads from enriched chromatin domains into neighboring regions upon loss of CTCF binding.",
-      "titleKo": "Histone H3K27ac spreads from enriched chromatin domains into neighboring regions upon loss of CTCF binding.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "cohesin-ctcf",
-        "epigenetics"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42648476"
-      },
-      "publishedAt": "2026-08-26",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42648476",
-      "doi": "10.1016/j.bbagrm.2026.195181",
-      "pmid": "42648476",
-      "authors": [
-        "Kang J",
-        "Kim A."
-      ],
-      "summary": "Acetylation of histone H3 at lysine 27 (H3K27ac) is enriched at enhancers and highly transcribed genes. Our previous study showed that an H3K27ac-enriched chromatin domain expanded into neighboring regions following the deletion of CTCF-binding motifs flanking the domain. In this study, we explored the spreading of H3K27ac on a genome-wide scale by analyzing its distribution around CTCF-binding sites in human K562 cells and examining changes upon CTCF loss. We found that a subset of CTCF-binding sites demarcates H3K27ac-enriched domains. Upon loss of CTCF binding, H3K27ac levels increased in most regions adjacent to these domains, indicating that H3K27ac can spread into neighboring chromatin. This spreading was accompanied by elevated transcription of nearby genes. Chromatin features, including histone modifications, CTCF-binding intensi…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf",
-        "epigenetic",
-        "epigenome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 97,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "beneficial-effects-of-melatonin-on-mouse-preimplantation-embryo-develo-993f6d8d",
-      "title": "Beneficial effects of melatonin on mouse preimplantation embryo development and implantation potential: Possible involvement of clathrin-mediated endocytosis.",
-      "titleKo": "Beneficial effects of melatonin on mouse preimplantation embryo development and implantation potential: Possible involvement of clathrin-mediated endocytosis.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "developmental-biology",
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42644824"
-      },
-      "publishedAt": "2026-08-26",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42644824",
-      "doi": "10.1093/reprod/xaag105",
-      "pmid": "42644824",
-      "authors": [
-        "Li Y",
-        "Wang Z."
-      ],
-      "summary": "Melatonin is a pleiotropic hormone with essential roles in mammalian reproduction. Our previous study demonstrated that melatonin promotes human oocyte maturation and early embryo development through enhancement of clathrin-mediated endocytosis (CME). In the present study, we investigated whether a similar melatonin-associated regulatory relationship is also observed during mouse preimplantation embryo development and implantation. Following concentration optimization, mouse zygotes were cultured with 10-9 M melatonin, 20 μM dynasore (a pharmacological inhibitor of dynamin-dependent endocytosis), or their combination. Melatonin supplementation significantly increased blastocyst formation and subsequent implantation potential. Conversely, dynasore treatment reduced blastocyst developmental progression and markedly impaired implantation po…",
-      "whyItMatters": "초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "early embryo",
-        "embryogenesis",
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "epromoter-3d-interaction-associated-regulation-in-t-acute-lymphoblasti-28044d83",
-      "title": "Epromoter 3D interaction-associated regulation in T-acute Lymphoblastic Leukemia",
-      "titleKo": "Epromoter 3D interaction-associated regulation in T-acute Lymphoblastic Leukemia",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "crispr-engineering",
-        "3d-genome",
-        "enhancer-promoter"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.64898/2026.08.25.746923"
-      },
-      "publishedAt": "2026-08-26",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.64898/2026.08.25.746923",
-      "doi": "10.64898/2026.08.25.746923",
-      "pmid": null,
-      "authors": [
-        "Roca Paixao JF",
-        "Manosalva I",
-        "Pinton A",
-        "Cieslak A",
-        "Cardone C",
-        "Sakakini N",
-        "Sadouni N",
-        "Zanzoni A",
-        "Andrieu G",
-        "Asnafi V",
-        "Touzart A",
-        "Spicuglia S."
-      ],
-      "summary": "Background: Promoters have been traditionally seen as contiguous gene-adjacent cis-regulatory elements. Yet, substantial studies corroborate that Epromoters (promoters with enhancer activity) engage in distal forms of gene regulation. Although in the three-dimensional (3D) space enhancer-promoter networks have been well studied, the contribution of the circuits of promoter-promoter (P-P) interactions is poorly understood. Furthermore, whether the regulatory aspects of P-P interactions in cancer may be controlled by physical 3D-mediated Epromoter interactions remains elusive. Results: We show that Epromoter-mediated 3D interactions regulate target genes and participate in cluster co-regulation, playing a critical role in T-cell acute Lymphoblastic Leukemia (T-ALL). To achieve this, we first leveraged survival CRISPR screenings in T-ALL mo…",
-      "whyItMatters": "programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "crispr",
-        "dcas9",
-        "3d genome",
-        "three-dimensional genome",
-        "enhancer-promoter",
-        "enhancer promoter"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 95,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "intrafollicular-hormonal-environment-of-equine-follicles-aspirated-for-4f37de6f",
-      "title": "Intrafollicular Hormonal Environment of Equine Follicles Aspirated for In Vitro Embryo Production.",
-      "titleKo": "Intrafollicular Hormonal Environment of Equine Follicles Aspirated for In Vitro Embryo Production.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42641976"
-      },
-      "publishedAt": "2026-08-25",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42641976",
-      "doi": "10.1016/j.jevs.2026.106134",
-      "pmid": "42641976",
-      "authors": [
-        "Malin K",
-        "de la Fuente A",
-        "Meyers S",
-        "Takahashi K",
-        "Martin-Pelaez S",
-        "Renaudin C",
-        "Dujovne G",
-        "Heil B",
-        "de Castro T",
-        "Conley AJ",
-        "Dini P."
-      ],
-      "summary": "Background During transvaginal oocyte aspiration (TVA), follicle selection is based primarily on ultrasonographic diameter, although follicles of similar size may differ in their physiological and endocrine status. Aims This study aimed to characterize the intrafollicular endocrine environment of equine follicles at aspiration and evaluate associations with oocyte developmental outcomes. Methods Follicular fluid was collected from antral follicles ranging from 5 to 40 mm in diameter prior to routine oocyte aspiration, and concentrations of luteinizing hormone (LH), anti-Müllerian hormone (AMH), and inhibins were quantified. Recovered cumulus-oocyte complexes were subjected to in vitro maturation, intracytoplasmic sperm injection, and embryo culture to assess maturation and blastocyst development. Results AMH concentrations were highest i…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -1790,76 +1650,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "interaction-between-the-chemical-exposome-and-epigenome-in-follicular-06f73cc2",
-      "title": "Interaction between the Chemical Exposome and Epigenome in Follicular Fluid from Patients Undergoing Assisted Reproduction",
-      "titleKo": "Interaction between the Chemical Exposome and Epigenome in Follicular Fluid from Patients Undergoing Assisted Reproduction",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "epigenetics",
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.64898/2026.08.21.26361034"
-      },
-      "publishedAt": "2026-08-25",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.64898/2026.08.21.26361034",
-      "doi": "10.64898/2026.08.21.26361034",
-      "pmid": null,
-      "authors": [
-        "Young AS",
-        "Campbell KA",
-        "Everson TS",
-        "Gennings C",
-        "Braselton ME",
-        "Mullins CE",
-        "Jariwala P",
-        "Smith AK",
-        "Spencer JB",
-        "Hipp H",
-        "Gaskins AJ",
-        "Walker DI."
-      ],
-      "summary": "Endocrine-disrupting chemicals can target ovaries and interfere with key milestones of reproduction. Previously, we found that mixtures of the chemical exposome measured in follicular fluid (FF) were cumulatively associated with lower oocyte yield. Because ovaries age faster than many other organs, our current aim was to evaluate associations of FF chemical mixtures with epigenetic age acceleration and epigenetic pathways in FF cells. FF was collected during oocyte retrieval from 76 patients undergoing assisted reproduction in Atlanta. The exposome was measured using untargeted high-resolution mass spectrometry with gas (GC) and liquid (LC) chromatography. Weighted quantile sum (WQS-RS) indices were constructed for three mixtures of chemicals in association with oocyte yield, separated by instrument configuration (GC, LC-HILIC, LC-C18).…",
-      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "epigenetic",
-        "epigenome",
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -2058,12 +1849,84 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
         "baseRelevance": 92,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "epromoter-3d-interaction-associated-regulation-in-t-acute-lymphoblasti-28044d83",
+      "title": "Epromoter 3D interaction-associated regulation in T-acute Lymphoblastic Leukemia",
+      "titleKo": "Epromoter 3D interaction-associated regulation in T-acute Lymphoblastic Leukemia",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "crispr-engineering",
+        "3d-genome",
+        "enhancer-promoter"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.64898/2026.08.25.746923"
+      },
+      "publishedAt": "2026-08-26",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.64898/2026.08.25.746923",
+      "doi": "10.64898/2026.08.25.746923",
+      "pmid": null,
+      "authors": [
+        "Roca Paixao JF",
+        "Manosalva I",
+        "Pinton A",
+        "Cieslak A",
+        "Cardone C",
+        "Sakakini N",
+        "Sadouni N",
+        "Zanzoni A",
+        "Andrieu G",
+        "Asnafi V",
+        "Touzart A",
+        "Spicuglia S."
+      ],
+      "summary": "Background: Promoters have been traditionally seen as contiguous gene-adjacent cis-regulatory elements. Yet, substantial studies corroborate that Epromoters (promoters with enhancer activity) engage in distal forms of gene regulation. Although in the three-dimensional (3D) space enhancer-promoter networks have been well studied, the contribution of the circuits of promoter-promoter (P-P) interactions is poorly understood. Furthermore, whether the regulatory aspects of P-P interactions in cancer may be controlled by physical 3D-mediated Epromoter interactions remains elusive. Results: We show that Epromoter-mediated 3D interactions regulate target genes and participate in cluster co-regulation, playing a critical role in T-cell acute Lymphoblastic Leukemia (T-ALL). To achieve this, we first leveraged survival CRISPR screenings in T-ALL mo…",
+      "whyItMatters": "programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "crispr",
+        "dcas9",
+        "3d genome",
+        "three-dimensional genome",
+        "enhancer-promoter",
+        "enhancer promoter"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 95,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -2124,12 +1987,80 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
         "baseRelevance": 94,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "intrafollicular-hormonal-environment-of-equine-follicles-aspirated-for-4f37de6f",
+      "title": "Intrafollicular Hormonal Environment of Equine Follicles Aspirated for In Vitro Embryo Production.",
+      "titleKo": "Intrafollicular Hormonal Environment of Equine Follicles Aspirated for In Vitro Embryo Production.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42641976"
+      },
+      "publishedAt": "2026-08-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42641976",
+      "doi": "10.1016/j.jevs.2026.106134",
+      "pmid": "42641976",
+      "authors": [
+        "Malin K",
+        "de la Fuente A",
+        "Meyers S",
+        "Takahashi K",
+        "Martin-Pelaez S",
+        "Renaudin C",
+        "Dujovne G",
+        "Heil B",
+        "de Castro T",
+        "Conley AJ",
+        "Dini P."
+      ],
+      "summary": "Background During transvaginal oocyte aspiration (TVA), follicle selection is based primarily on ultrasonographic diameter, although follicles of similar size may differ in their physiological and endocrine status. Aims This study aimed to characterize the intrafollicular endocrine environment of equine follicles at aspiration and evaluate associations with oocyte developmental outcomes. Methods Follicular fluid was collected from antral follicles ranging from 5 to 40 mm in diameter prior to routine oocyte aspiration, and concentrations of luteinizing hormone (LH), anti-Müllerian hormone (AMH), and inhibins were quantified. Recovered cumulus-oocyte complexes were subjected to in vitro maturation, intracytoplasmic sperm injection, and embryo culture to assess maturation and blastocyst development. Results AMH concentrations were highest i…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -2184,7 +2115,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -2244,12 +2175,81 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
         "baseRelevance": 97,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "interaction-between-the-chemical-exposome-and-epigenome-in-follicular-06f73cc2",
+      "title": "Interaction between the Chemical Exposome and Epigenome in Follicular Fluid from Patients Undergoing Assisted Reproduction",
+      "titleKo": "Interaction between the Chemical Exposome and Epigenome in Follicular Fluid from Patients Undergoing Assisted Reproduction",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "epigenetics",
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.64898/2026.08.21.26361034"
+      },
+      "publishedAt": "2026-08-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.64898/2026.08.21.26361034",
+      "doi": "10.64898/2026.08.21.26361034",
+      "pmid": null,
+      "authors": [
+        "Young AS",
+        "Campbell KA",
+        "Everson TS",
+        "Gennings C",
+        "Braselton ME",
+        "Mullins CE",
+        "Jariwala P",
+        "Smith AK",
+        "Spencer JB",
+        "Hipp H",
+        "Gaskins AJ",
+        "Walker DI."
+      ],
+      "summary": "Endocrine-disrupting chemicals can target ovaries and interfere with key milestones of reproduction. Previously, we found that mixtures of the chemical exposome measured in follicular fluid (FF) were cumulatively associated with lower oocyte yield. Because ovaries age faster than many other organs, our current aim was to evaluate associations of FF chemical mixtures with epigenetic age acceleration and epigenetic pathways in FF cells. FF was collected during oocyte retrieval from 76 patients undergoing assisted reproduction in Atlanta. The exposome was measured using untargeted high-resolution mass spectrometry with gas (GC) and liquid (LC) chromatography. Weighted quantile sum (WQS-RS) indices were constructed for three mixtures of chemicals in association with oocyte yield, separated by instrument configuration (GC, LC-HILIC, LC-C18).…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome",
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -2306,7 +2306,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -2513,72 +2513,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "a-fast-and-simple-one-step-oocyte-vitrification-and-warming-protocol-p-ec5e8029",
-      "title": "A fast and simple one-step oocyte vitrification and warming protocol: proof-of-concept validation in the mouse model.",
-      "titleKo": "A fast and simple one-step oocyte vitrification and warming protocol: proof-of-concept validation in the mouse model.",
-      "kind": "method",
-      "section": "papers",
-      "subsection": "method",
-      "topics": [
-        "ivg-germline",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42632202"
-      },
-      "publishedAt": "2026-08-22",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42632202",
-      "doi": "10.1016/j.cryobiol.2026.105695",
-      "pmid": "42632202",
-      "authors": [
-        "Inoue F",
-        "Acacio M",
-        "Mestres E",
-        "Matía-Algué Q",
-        "Gago S",
-        "Castelló C",
-        "Kobayashi H",
-        "Ogawa M",
-        "Costa-Borges N."
-      ],
-      "summary": "Oocyte vitrification is widely used in fertility preservation and assisted reproductive technologies (ART), but current protocols rely on sequential cryoprotectant exposure steps that are labor-intensive and operator-dependent. This study evaluated the feasibility of a simplified one-step vitrification and warming protocol using mouse metaphase II oocytes. An initial optimization phase using 716 oocytes identified the optimal exposure time to the newly developed vitrification and warming solutions. Subsequently, 876 oocytes were allocated to fresh controls, standard multi-step vitrification, or the optimized one-step protocol. Outcomes included post-warming survival, meiotic spindle integrity, chromosome alignment, reactive oxygen species (ROS) levels, mitochondrial distribution, intracytoplasmic sperm injection (ICSI) outcomes, blastocy…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-27",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "set-mediates-chromosome-alignment-and-cohesin-cleavage-independently-o-1e14b8a9",
       "title": "Set mediates chromosome alignment and Cohesin cleavage independently of direct PP2A-B56-binding in oocyte meiosis",
       "titleKo": "Set mediates chromosome alignment and Cohesin cleavage independently of direct PP2A-B56-binding in oocyte meiosis",
@@ -2718,6 +2652,132 @@
       "ingestedBy": "europepmc"
     },
     {
+      "id": "a-fast-and-simple-one-step-oocyte-vitrification-and-warming-protocol-p-ec5e8029",
+      "title": "A fast and simple one-step oocyte vitrification and warming protocol: proof-of-concept validation in the mouse model.",
+      "titleKo": "A fast and simple one-step oocyte vitrification and warming protocol: proof-of-concept validation in the mouse model.",
+      "kind": "method",
+      "section": "papers",
+      "subsection": "method",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42632202"
+      },
+      "publishedAt": "2026-08-22",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42632202",
+      "doi": "10.1016/j.cryobiol.2026.105695",
+      "pmid": "42632202",
+      "authors": [
+        "Inoue F",
+        "Acacio M",
+        "Mestres E",
+        "Matía-Algué Q",
+        "Gago S",
+        "Castelló C",
+        "Kobayashi H",
+        "Ogawa M",
+        "Costa-Borges N."
+      ],
+      "summary": "Oocyte vitrification is widely used in fertility preservation and assisted reproductive technologies (ART), but current protocols rely on sequential cryoprotectant exposure steps that are labor-intensive and operator-dependent. This study evaluated the feasibility of a simplified one-step vitrification and warming protocol using mouse metaphase II oocytes. An initial optimization phase using 716 oocytes identified the optimal exposure time to the newly developed vitrification and warming solutions. Subsequently, 876 oocytes were allocated to fresh controls, standard multi-step vitrification, or the optimized one-step protocol. Outcomes included post-warming survival, meiotic spindle integrity, chromosome alignment, reactive oxygen species (ROS) levels, mitochondrial distribution, intracytoplasmic sperm injection (ICSI) outcomes, blastocy…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-27",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "the-impact-of-exercise-on-sperm-epigenetic-modification-and-intergener-19a4d47b",
+      "title": "The impact of exercise on sperm epigenetic modification and intergenerational inheritance.",
+      "titleKo": "The impact of exercise on sperm epigenetic modification and intergenerational inheritance.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "epigenetics",
+        "3d-genome"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42626834"
+      },
+      "publishedAt": "2026-08-21",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42626834",
+      "doi": "10.4103/aja202631",
+      "pmid": "42626834",
+      "authors": [
+        "Guo JM",
+        "Zhou HH",
+        "Qu YC."
+      ],
+      "summary": "Paternal environmental factors can influence offspring health intergenerationally through alterations in sperm epigenetics. Exercise, as a key modifiable lifestyle factor, may similarly affect epigenetic inheritance. Emerging evidence from animal and human studies indicates that exercise modulates sperm DNA methylation and noncoding RNA expression. In animal models, paternal exercise has also been linked to changes in offspring phenotypes. However, inconsistencies exist across studies because of variations in exercise modalities and the specific epigenetic markers analyzed. More importantly, the mechanisms underlying the relationship between sperm epigenetic alterations and offspring phenotypes remain unclear. This review integrates evidence from January 2010 to December 2025 to summarize exercise-induced changes in sperm epigenetics and…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome",
+        "3d genome",
+        "three-dimensional genome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-25",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 96,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
       "id": "loop-statistics-and-fountain-geometry-reveal-effective-two-sided-cohes-634368fc",
       "title": "Loop statistics and fountain geometry reveal effective two-sided cohesin extrusion and crowding-induced arm desynchronization",
       "titleKo": "Loop statistics and fountain geometry reveal effective two-sided cohesin extrusion and crowding-induced arm desynchronization",
@@ -2768,6 +2828,131 @@
       "verification": {
         "level": "automated-metadata",
         "checkedAt": "2026-08-24",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "spastic-and-non-spastic-spinal-cord-injury-induce-systemic-reproductiv-bea858a7",
+      "title": "Spastic and non-spastic spinal cord injury induce systemic reproductive impairment via alterations in testicular morphology, microenvironment, spermatogenesis, and modulation of sperm parameters.",
+      "titleKo": "Spastic and non-spastic spinal cord injury induce systemic reproductive impairment via alterations in testicular morphology, microenvironment, spermatogenesis, and modulation of sperm parameters.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline",
+        "mechanobiology"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42622507"
+      },
+      "publishedAt": "2026-08-20",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42622507",
+      "doi": "10.1080/10790268.2026.2709255",
+      "pmid": "42622507",
+      "authors": [
+        "Guha L",
+        "Kumar H."
+      ],
+      "summary": "Context/objectives spinal cord injury (SCI) is frequently associated with male sexual dysfunction, including impaired spermatogenesis and poor semen quality. However, experimental models that accurately reflect injury-level-specific reproductive outcomes remain limited. This study aimed to establish thoracic (spastic) and sacral (non-spastic) SCI rat models and investigate differential effects on testicular architecture, microenvironment integrity, spermatogenesis, and sperm quality. Design Controlled in vivo experimental study. Setting Preclinical laboratory-based investigation. Participants Adult male Sprague-Dawley rats: thoracic sham (T 12 laminectomy), sacral sham (S 2 laminectomy), thoracic SCI (T 12 contusion), and sacral SCI (S 2 contusion). Interventions Induction of level-specific spinal cord contusion injuries at thoracic (T 1…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "mechanobiology",
+        "mechanotransduction"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-24",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "in-vivo-single-molecule-tracking-of-chd-family-chromatin-remodeler-hrp-8f3443b7",
+      "title": "In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.",
+      "titleKo": "In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "epigenetics",
+        "single-molecule",
+        "3d-genome"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42612791"
+      },
+      "publishedAt": "2026-08-18",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42612791",
+      "doi": "10.1016/j.jmb.2026.169992",
+      "pmid": "42612791",
+      "authors": [
+        "Kumari A",
+        "Varde O",
+        "Gopi V",
+        "Rajakumara E",
+        "Nambiar M",
+        "Mehta G."
+      ],
+      "summary": "ATP-dependent chromatin remodelers of the CHD family regulate genome organization and transcription, yet their dynamic behaviour in native chromatin remains unclear. Here, we performed in vivo single-molecule tracking of the CHD remodeler Hrp3 in live Schizosaccharomyces pombe cells to quantify its chromatin interaction dynamics. By generating domain-deletion mutants (Δchromo, ATPase K406A (ATPase-dead), Δcoupling region, DNA binding domains (ΔSANT, ΔSLIDE), and ΔDUF), we systematically dissected the contribution of each domain to DNA binding in vivo. While some observations align with previous in vitro studies, key differences highlight the critical influence of the cellular chromatin environment on remodeler function. We find that Hrp3 exhibits specific binding only with constitutive heterochromatin, but not with euchromatin or faculta…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome",
+        "single-molecule",
+        "single molecule",
+        "3d genome",
+        "three-dimensional genome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-23",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -2846,66 +3031,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "the-impact-of-exercise-on-sperm-epigenetic-modification-and-intergener-19a4d47b",
-      "title": "The impact of exercise on sperm epigenetic modification and intergenerational inheritance.",
-      "titleKo": "The impact of exercise on sperm epigenetic modification and intergenerational inheritance.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "epigenetics",
-        "3d-genome"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42626834"
-      },
-      "publishedAt": "2026-08-21",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42626834",
-      "doi": "10.4103/aja202631",
-      "pmid": "42626834",
-      "authors": [
-        "Guo JM",
-        "Zhou HH",
-        "Qu YC."
-      ],
-      "summary": "Paternal environmental factors can influence offspring health intergenerationally through alterations in sperm epigenetics. Exercise, as a key modifiable lifestyle factor, may similarly affect epigenetic inheritance. Emerging evidence from animal and human studies indicates that exercise modulates sperm DNA methylation and noncoding RNA expression. In animal models, paternal exercise has also been linked to changes in offspring phenotypes. However, inconsistencies exist across studies because of variations in exercise modalities and the specific epigenetic markers analyzed. More importantly, the mechanisms underlying the relationship between sperm epigenetic alterations and offspring phenotypes remain unclear. This review integrates evidence from January 2010 to December 2025 to summarize exercise-induced changes in sperm epigenetics and…",
-      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "epigenetic",
-        "epigenome",
-        "3d genome",
-        "three-dimensional genome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-25",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 96,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "a-histone-variant-establishes-a-novel-link-between-chromatin-and-nucle-7ebb13c2",
       "title": "A histone variant establishes a novel link between chromatin and nuclear RNA decay in spermatogenesis and beyond.",
       "titleKo": "A histone variant establishes a novel link between chromatin and nuclear RNA decay in spermatogenesis and beyond.",
@@ -2964,255 +3089,6 @@
       },
       "signals": {
         "baseRelevance": 97,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "spastic-and-non-spastic-spinal-cord-injury-induce-systemic-reproductiv-bea858a7",
-      "title": "Spastic and non-spastic spinal cord injury induce systemic reproductive impairment via alterations in testicular morphology, microenvironment, spermatogenesis, and modulation of sperm parameters.",
-      "titleKo": "Spastic and non-spastic spinal cord injury induce systemic reproductive impairment via alterations in testicular morphology, microenvironment, spermatogenesis, and modulation of sperm parameters.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline",
-        "mechanobiology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42622507"
-      },
-      "publishedAt": "2026-08-20",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42622507",
-      "doi": "10.1080/10790268.2026.2709255",
-      "pmid": "42622507",
-      "authors": [
-        "Guha L",
-        "Kumar H."
-      ],
-      "summary": "Context/objectives spinal cord injury (SCI) is frequently associated with male sexual dysfunction, including impaired spermatogenesis and poor semen quality. However, experimental models that accurately reflect injury-level-specific reproductive outcomes remain limited. This study aimed to establish thoracic (spastic) and sacral (non-spastic) SCI rat models and investigate differential effects on testicular architecture, microenvironment integrity, spermatogenesis, and sperm quality. Design Controlled in vivo experimental study. Setting Preclinical laboratory-based investigation. Participants Adult male Sprague-Dawley rats: thoracic sham (T 12 laminectomy), sacral sham (S 2 laminectomy), thoracic SCI (T 12 contusion), and sacral SCI (S 2 contusion). Interventions Induction of level-specific spinal cord contusion injuries at thoracic (T 1…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "mechanobiology",
-        "mechanotransduction"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-24",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "conserved-sex-biased-dna-methylation-patterns-target-key-developmental-2c5a3089",
-      "title": "Conserved sex-biased DNA methylation patterns target key developmental genes and reproductive function in two Poeciliid species.",
-      "titleKo": "Conserved sex-biased DNA methylation patterns target key developmental genes and reproductive function in two Poeciliid species.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "epigenetics",
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42617085"
-      },
-      "publishedAt": "2026-08-19",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42617085",
-      "doi": "10.1093/g3journal/jkag228",
-      "pmid": "42617085",
-      "authors": [
-        "Metzger DCH",
-        "Mank JE."
-      ],
-      "summary": "Sexual dimorphism provides a powerful framework for studying how regulatory mechanisms generate phenotypic divergence from a shared genome. Many sex-specific traits arise from differences in gene expression, which can be mediated by epigenetic mechanisms such as DNA methylation. These mechanisms contribute to the organisation of gene regulatory variation across tissues, genes, and chromosomes, with potential consequences for the emergence and maintenance of sexually dimorphic phenotypes. Using a comparative epigenomic approach we investigate sex-biased DNA methylation in gonad and muscle tissue across two closely related Poeciliid species, Poecilia reticulata and Poecilia wingei. We address three questions: (i) how conserved are sex-biased DNA methylation patterns across species and tissues; (ii) are conserved sex-biased methylation patt…",
-      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "epigenetic",
-        "epigenome",
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-23",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "type-i-prmts-play-a-role-in-mammalian-embryonic-lineage-specification-b07e335b",
-      "title": "Type I PRMTs Play a Role in Mammalian Embryonic Lineage Specification",
-      "titleKo": "Type I PRMTs Play a Role in Mammalian Embryonic Lineage Specification",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "developmental-biology",
-        "epigenetics",
-        "mechanobiology",
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.64898/2026.08.18.745309"
-      },
-      "publishedAt": "2026-08-19",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.64898/2026.08.18.745309",
-      "doi": "10.64898/2026.08.18.745309",
-      "pmid": null,
-      "authors": [
-        "Qiu J",
-        "Chen Y",
-        "Beltran-Alvarez P",
-        "Sturmey R."
-      ],
-      "summary": "Mammalian preimplantation development requires precisely coordinated lineage decisions to establish the trophectoderm (TE), inner cell mass (ICM), epiblast (EPI), and primitive endoderm (PrE). Glucose metabolism and epigenetic regulation are increasingly recognised as key determinants of lineage specification during preimplantation development. However, how glucose-dependent metabolic cues interface with epigenetic mechanisms to regulate embryonic cell fate remains poorly understood. Here, we investigated the role of glucose in regulating protein methylation by protein arginine methyltransferases (PRMT) in bovine preimplantation development. PRMT1 and its associated histone mark H4R3me2a were detected throughout bovine oocyte maturation and embryo development. Pharmacological inhibition of Type I PRMTs using two structurally distinct inh…",
-      "whyItMatters": "초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "early embryo",
-        "embryogenesis",
-        "epigenetic",
-        "epigenome",
-        "mechanobiology",
-        "mechanotransduction"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-23",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "in-vivo-single-molecule-tracking-of-chd-family-chromatin-remodeler-hrp-8f3443b7",
-      "title": "In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.",
-      "titleKo": "In vivo single-molecule tracking of CHD family chromatin remodeler Hrp3 defines the chromatin context-dependent binding dynamics in S. pombe.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "epigenetics",
-        "single-molecule",
-        "3d-genome"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42612791"
-      },
-      "publishedAt": "2026-08-18",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42612791",
-      "doi": "10.1016/j.jmb.2026.169992",
-      "pmid": "42612791",
-      "authors": [
-        "Kumari A",
-        "Varde O",
-        "Gopi V",
-        "Rajakumara E",
-        "Nambiar M",
-        "Mehta G."
-      ],
-      "summary": "ATP-dependent chromatin remodelers of the CHD family regulate genome organization and transcription, yet their dynamic behaviour in native chromatin remains unclear. Here, we performed in vivo single-molecule tracking of the CHD remodeler Hrp3 in live Schizosaccharomyces pombe cells to quantify its chromatin interaction dynamics. By generating domain-deletion mutants (Δchromo, ATPase K406A (ATPase-dead), Δcoupling region, DNA binding domains (ΔSANT, ΔSLIDE), and ΔDUF), we systematically dissected the contribution of each domain to DNA binding in vivo. While some observations align with previous in vitro studies, key differences highlight the critical influence of the cellular chromatin environment on remodeler function. We find that Hrp3 exhibits specific binding only with constitutive heterochromatin, but not with euchromatin or faculta…",
-      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "epigenetic",
-        "epigenome",
-        "single-molecule",
-        "single molecule",
-        "3d genome",
-        "three-dimensional genome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-23",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -3467,6 +3343,130 @@
       },
       "signals": {
         "baseRelevance": 96,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "conserved-sex-biased-dna-methylation-patterns-target-key-developmental-2c5a3089",
+      "title": "Conserved sex-biased DNA methylation patterns target key developmental genes and reproductive function in two Poeciliid species.",
+      "titleKo": "Conserved sex-biased DNA methylation patterns target key developmental genes and reproductive function in two Poeciliid species.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "epigenetics",
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42617085"
+      },
+      "publishedAt": "2026-08-19",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42617085",
+      "doi": "10.1093/g3journal/jkag228",
+      "pmid": "42617085",
+      "authors": [
+        "Metzger DCH",
+        "Mank JE."
+      ],
+      "summary": "Sexual dimorphism provides a powerful framework for studying how regulatory mechanisms generate phenotypic divergence from a shared genome. Many sex-specific traits arise from differences in gene expression, which can be mediated by epigenetic mechanisms such as DNA methylation. These mechanisms contribute to the organisation of gene regulatory variation across tissues, genes, and chromosomes, with potential consequences for the emergence and maintenance of sexually dimorphic phenotypes. Using a comparative epigenomic approach we investigate sex-biased DNA methylation in gonad and muscle tissue across two closely related Poeciliid species, Poecilia reticulata and Poecilia wingei. We address three questions: (i) how conserved are sex-biased DNA methylation patterns across species and tissues; (ii) are conserved sex-biased methylation patt…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome",
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-23",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "type-i-prmts-play-a-role-in-mammalian-embryonic-lineage-specification-b07e335b",
+      "title": "Type I PRMTs Play a Role in Mammalian Embryonic Lineage Specification",
+      "titleKo": "Type I PRMTs Play a Role in Mammalian Embryonic Lineage Specification",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "developmental-biology",
+        "epigenetics",
+        "mechanobiology",
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.64898/2026.08.18.745309"
+      },
+      "publishedAt": "2026-08-19",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.64898/2026.08.18.745309",
+      "doi": "10.64898/2026.08.18.745309",
+      "pmid": null,
+      "authors": [
+        "Qiu J",
+        "Chen Y",
+        "Beltran-Alvarez P",
+        "Sturmey R."
+      ],
+      "summary": "Mammalian preimplantation development requires precisely coordinated lineage decisions to establish the trophectoderm (TE), inner cell mass (ICM), epiblast (EPI), and primitive endoderm (PrE). Glucose metabolism and epigenetic regulation are increasingly recognised as key determinants of lineage specification during preimplantation development. However, how glucose-dependent metabolic cues interface with epigenetic mechanisms to regulate embryonic cell fate remains poorly understood. Here, we investigated the role of glucose in regulating protein methylation by protein arginine methyltransferases (PRMT) in bovine preimplantation development. PRMT1 and its associated histone mark H4R3me2a were detected throughout bovine oocyte maturation and embryo development. Pharmacological inhibition of Type I PRMTs using two structurally distinct inh…",
+      "whyItMatters": "초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "early embryo",
+        "embryogenesis",
+        "epigenetic",
+        "epigenome",
+        "mechanobiology",
+        "mechanotransduction"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-23",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -3802,7 +3802,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -3893,6 +3893,246 @@
       "ingestedBy": "europepmc"
     },
     {
+      "id": "irisin-restores-testicular-metabolic-homeostasis-and-spermatogenesis-a-aa189e1a",
+      "title": "Irisin restores testicular metabolic homeostasis and spermatogenesis against chronic unpredictable stress in rats: An integrated 1 H NMR metabolomics and molecular study.",
+      "titleKo": "Irisin restores testicular metabolic homeostasis and spermatogenesis against chronic unpredictable stress in rats: An integrated 1 H NMR metabolomics and molecular study.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42648650"
+      },
+      "publishedAt": "2026-08-26",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42648650",
+      "doi": "10.1016/j.taap.2026.118019",
+      "pmid": "42648650",
+      "authors": [
+        "Dubey I",
+        "Singh G",
+        "Kumar D",
+        "Kushwaha S."
+      ],
+      "summary": "Chronic unpredictable stress (CUS) is a significant contributor to male reproductive dysfunction; however, no effective clinical therapies are available, highlighting the need to explore novel preclinical interventions with translational potential. CUS disrupts testicular metabolic homeostasis, but the metabolic mechanisms underlying spermatogenic dysfunction remain poorly understood. Irisin is an exerkine with recognized metabolic functions and may counteract stress-induced testicular injury. In the present study, we investigated whether Irisin restores stress-induced metabolic remodeling in the testis using 1H NMR-based metabolomics together with molecular and histological analyses. The study demonstrated for the first time that Irisin (100 ng/kg/day, s.c., for 4 weeks) exerts protective effects in a CUS-induced adult male rat model. C…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "gnrh-agonist-with-low-dose-hcg-dual-trigger-versus-gnrh-agonist-only-t-d53f982e",
+      "title": "GnRH agonist with low-dose hCG (dual Trigger) versus GnRH agonist only trigger in high responders in GnRH antagonist cycle : a systematic review and meta-analysis.",
+      "titleKo": "GnRH agonist with low-dose hCG (dual Trigger) versus GnRH agonist only trigger in high responders in GnRH antagonist cycle : a systematic review and meta-analysis.",
+      "kind": "review",
+      "section": "papers",
+      "subsection": "review",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42647434"
+      },
+      "publishedAt": "2026-08-26",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42647434",
+      "doi": "10.1159/goi/aczag007",
+      "pmid": "42647434",
+      "authors": [
+        "Syam HH",
+        "Bayuaji H",
+        "Tjahyadi D",
+        "Rachmawati A",
+        "Ritonga MA",
+        "Adrianto N."
+      ],
+      "summary": "Introduction Ovarian hyperstimulation syndrome (OHSS) remains a serious complication of assisted reproductive technology, particularly in high ovarian responders. Although a GnRHa-only trigger effectively minimizes the risk of OHSS, it has been associated with reduced oocyte yield and, in some reports, lower oocyte maturity, and may also compromise luteal function. Dual trigger, combining GnRHa with low-dose human chorionic gonadotropin (hCG), was developed to enhance reproductive outcomes, however, concerns persist that even low-dose hCG may reintroduce OHSS risk. This systematic review and meta-analysis aimed to compare the efficacy and safety of dual trigger versus GnRHa-only trigger in high ovarian responders. Methods A systematic search of PubMed, Scopus, and Google Scholar from January 2000 to December 2025 identified studies compa…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "novel-biallelic-patl2-variants-causing-predominant-germinal-vesicle-ar-a93812dd",
+      "title": "Novel biallelic PATL2 variants causing predominant germinal vesicle arrest and recurrent ART failure: expanded mutational spectrum and evidence-based reproductive counseling guidance.",
+      "titleKo": "Novel biallelic PATL2 variants causing predominant germinal vesicle arrest and recurrent ART failure: expanded mutational spectrum and evidence-based reproductive counseling guidance.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42645692"
+      },
+      "publishedAt": "2026-08-26",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42645692",
+      "doi": "10.1007/s10815-026-04007-9",
+      "pmid": "42645692",
+      "authors": [
+        "Zhuang XJ",
+        "Li Y",
+        "Qiu X",
+        "Zhu JL",
+        "Li M",
+        "Zhi X",
+        "Li R",
+        "Liu P."
+      ],
+      "summary": "The mutational landscape of PATL2 and corresponding genotype-phenotype correlations remain incompletely defined in patients presenting unexplained oocyte maturation defect (OOMD) and repeated assisted reproductive technology (ART) failure. This study aimed to identify pathogenic biallelic PATL2 variants, characterize their molecular structural defects, and delineate consistent reproductive phenotypes to support standardized genetic testing and reproductive counseling for affected infertile individuals. Single-center retrospective observational cohort study including six unrelated infertile women with refractory, idiopathic OOMD and ≥ 2 consecutive failed ART cycles. Whole-exome sequencing (WES) followed by Sanger sequencing validation was performed for pathogenic variant screening. A panel of bioinformatic pipelines was applied to assess…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "human-umbilical-cord-mesenchymal-stem-cell-derived-exosomes-ameliorate-07cf51ab",
+      "title": "Human umbilical cord mesenchymal stem cell-derived exosomes ameliorate ovarian aging by inhibiting ferroptosis.",
+      "titleKo": "Human umbilical cord mesenchymal stem cell-derived exosomes ameliorate ovarian aging by inhibiting ferroptosis.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42644839"
+      },
+      "publishedAt": "2026-08-26",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42644839",
+      "doi": "10.1093/reprod/xaag104",
+      "pmid": "42644839",
+      "authors": [
+        "Li CJ",
+        "Lin LT",
+        "Lin PH",
+        "Wang B",
+        "Wen ZH",
+        "Tsui KH."
+      ],
+      "summary": "Ovarian aging is characterized by a decline in oocyte quantity and quality, often driven by oxidative stress and cellular damage. Human umbilical cord mesenchymal stem cell-derived exosomes (hUC-MSC-Exos) have emerged as a potent cell-free therapy for regenerative medicine. In this study, Female mice with early ovarian aging (31-33 weeks; n = 8 per group) received 10 intraperitoneal injections of hUC-MSC-Exos (240 µL/dose, 6.5 × 10¹⁰ particles/mL) over two weeks. Ovarian function, follicular development, DNA damage, and ferroptosis-related markers were evaluated. hUC-MSC-Exo treatment significantly increased the number of primary and antral follicles without a significant change in primordial follicle counts. Exosome administration reduced genomic stress, evidenced by decreased TUNEL intensity, and improved oocyte yield and mitochondrial…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
       "id": "clinical-and-genetic-characterization-of-angelman-syndrome-in-a-chines-4cf67702",
       "title": "Clinical and Genetic Characterization of Angelman Syndrome in a Chinese Cohort: UBE3A Variant Spectrum Expansion and Utility of Long-read Sequencing",
       "titleKo": "Clinical and Genetic Characterization of Angelman Syndrome in a Chinese Cohort: UBE3A Variant Spectrum Expansion and Utility of Long-read Sequencing",
@@ -3947,7 +4187,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -4023,500 +4263,6 @@
       "featured": false,
       "status": "new",
       "ingestedBy": "biorxiv"
-    },
-    {
-      "id": "irisin-restores-testicular-metabolic-homeostasis-and-spermatogenesis-a-aa189e1a",
-      "title": "Irisin restores testicular metabolic homeostasis and spermatogenesis against chronic unpredictable stress in rats: An integrated 1 H NMR metabolomics and molecular study.",
-      "titleKo": "Irisin restores testicular metabolic homeostasis and spermatogenesis against chronic unpredictable stress in rats: An integrated 1 H NMR metabolomics and molecular study.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42648650"
-      },
-      "publishedAt": "2026-08-26",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42648650",
-      "doi": "10.1016/j.taap.2026.118019",
-      "pmid": "42648650",
-      "authors": [
-        "Dubey I",
-        "Singh G",
-        "Kumar D",
-        "Kushwaha S."
-      ],
-      "summary": "Chronic unpredictable stress (CUS) is a significant contributor to male reproductive dysfunction; however, no effective clinical therapies are available, highlighting the need to explore novel preclinical interventions with translational potential. CUS disrupts testicular metabolic homeostasis, but the metabolic mechanisms underlying spermatogenic dysfunction remain poorly understood. Irisin is an exerkine with recognized metabolic functions and may counteract stress-induced testicular injury. In the present study, we investigated whether Irisin restores stress-induced metabolic remodeling in the testis using 1H NMR-based metabolomics together with molecular and histological analyses. The study demonstrated for the first time that Irisin (100 ng/kg/day, s.c., for 4 weeks) exerts protective effects in a CUS-induced adult male rat model. C…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "gnrh-agonist-with-low-dose-hcg-dual-trigger-versus-gnrh-agonist-only-t-d53f982e",
-      "title": "GnRH agonist with low-dose hCG (dual Trigger) versus GnRH agonist only trigger in high responders in GnRH antagonist cycle : a systematic review and meta-analysis.",
-      "titleKo": "GnRH agonist with low-dose hCG (dual Trigger) versus GnRH agonist only trigger in high responders in GnRH antagonist cycle : a systematic review and meta-analysis.",
-      "kind": "review",
-      "section": "papers",
-      "subsection": "review",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42647434"
-      },
-      "publishedAt": "2026-08-26",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42647434",
-      "doi": "10.1159/goi/aczag007",
-      "pmid": "42647434",
-      "authors": [
-        "Syam HH",
-        "Bayuaji H",
-        "Tjahyadi D",
-        "Rachmawati A",
-        "Ritonga MA",
-        "Adrianto N."
-      ],
-      "summary": "Introduction Ovarian hyperstimulation syndrome (OHSS) remains a serious complication of assisted reproductive technology, particularly in high ovarian responders. Although a GnRHa-only trigger effectively minimizes the risk of OHSS, it has been associated with reduced oocyte yield and, in some reports, lower oocyte maturity, and may also compromise luteal function. Dual trigger, combining GnRHa with low-dose human chorionic gonadotropin (hCG), was developed to enhance reproductive outcomes, however, concerns persist that even low-dose hCG may reintroduce OHSS risk. This systematic review and meta-analysis aimed to compare the efficacy and safety of dual trigger versus GnRHa-only trigger in high ovarian responders. Methods A systematic search of PubMed, Scopus, and Google Scholar from January 2000 to December 2025 identified studies compa…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "novel-biallelic-patl2-variants-causing-predominant-germinal-vesicle-ar-a93812dd",
-      "title": "Novel biallelic PATL2 variants causing predominant germinal vesicle arrest and recurrent ART failure: expanded mutational spectrum and evidence-based reproductive counseling guidance.",
-      "titleKo": "Novel biallelic PATL2 variants causing predominant germinal vesicle arrest and recurrent ART failure: expanded mutational spectrum and evidence-based reproductive counseling guidance.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42645692"
-      },
-      "publishedAt": "2026-08-26",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42645692",
-      "doi": "10.1007/s10815-026-04007-9",
-      "pmid": "42645692",
-      "authors": [
-        "Zhuang XJ",
-        "Li Y",
-        "Qiu X",
-        "Zhu JL",
-        "Li M",
-        "Zhi X",
-        "Li R",
-        "Liu P."
-      ],
-      "summary": "The mutational landscape of PATL2 and corresponding genotype-phenotype correlations remain incompletely defined in patients presenting unexplained oocyte maturation defect (OOMD) and repeated assisted reproductive technology (ART) failure. This study aimed to identify pathogenic biallelic PATL2 variants, characterize their molecular structural defects, and delineate consistent reproductive phenotypes to support standardized genetic testing and reproductive counseling for affected infertile individuals. Single-center retrospective observational cohort study including six unrelated infertile women with refractory, idiopathic OOMD and ≥ 2 consecutive failed ART cycles. Whole-exome sequencing (WES) followed by Sanger sequencing validation was performed for pathogenic variant screening. A panel of bioinformatic pipelines was applied to assess…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "human-umbilical-cord-mesenchymal-stem-cell-derived-exosomes-ameliorate-07cf51ab",
-      "title": "Human umbilical cord mesenchymal stem cell-derived exosomes ameliorate ovarian aging by inhibiting ferroptosis.",
-      "titleKo": "Human umbilical cord mesenchymal stem cell-derived exosomes ameliorate ovarian aging by inhibiting ferroptosis.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42644839"
-      },
-      "publishedAt": "2026-08-26",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42644839",
-      "doi": "10.1093/reprod/xaag104",
-      "pmid": "42644839",
-      "authors": [
-        "Li CJ",
-        "Lin LT",
-        "Lin PH",
-        "Wang B",
-        "Wen ZH",
-        "Tsui KH."
-      ],
-      "summary": "Ovarian aging is characterized by a decline in oocyte quantity and quality, often driven by oxidative stress and cellular damage. Human umbilical cord mesenchymal stem cell-derived exosomes (hUC-MSC-Exos) have emerged as a potent cell-free therapy for regenerative medicine. In this study, Female mice with early ovarian aging (31-33 weeks; n = 8 per group) received 10 intraperitoneal injections of hUC-MSC-Exos (240 µL/dose, 6.5 × 10¹⁰ particles/mL) over two weeks. Ovarian function, follicular development, DNA damage, and ferroptosis-related markers were evaluated. hUC-MSC-Exo treatment significantly increased the number of primary and antral follicles without a significant change in primordial follicle counts. Exosome administration reduced genomic stress, evidenced by decreased TUNEL intensity, and improved oocyte yield and mitochondrial…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "meiosin-retains-a-stra8-independent-activity-that-contributes-to-meiot-5a76004d",
-      "title": "MEIOSIN retains a STRA8-independent activity that contributes to meiotic gene activation across vertebrates.",
-      "titleKo": "MEIOSIN retains a STRA8-independent activity that contributes to meiotic gene activation across vertebrates.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42642181"
-      },
-      "publishedAt": "2026-08-25",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42642181",
-      "doi": "10.1101/gad.353802.126",
-      "pmid": "42642181",
-      "authors": [
-        "Shimada R",
-        "Imai Y",
-        "Araki K",
-        "Kawasaki T",
-        "Iisaka S",
-        "Usuki S",
-        "Yasunaga KI",
-        "Fujimura S",
-        "Tani N",
-        "Niwa H",
-        "Kuraku S",
-        "Sakai N",
-        "Ishiguro KI."
-      ],
-      "summary": "Meiotic entry in vertebrates has been viewed as a transcriptional switch driven by the MEIOSIN-STRA8 axis, but whether this represents the ancestral regulatory logic of meiosis has remained unclear. Here we combine comparative genomics with genetic and single-cell analyses in zebrafish and mice to show that MEIOSIN retains an intrinsic STRA8-independent activity. We identify Meiosin orthologs in zebrafish and hagfish, vertebrate lineages that lack Stra8, and show that these proteins retain the HMG domain but have lost the bHLH domain required for the canonical MEIOSIN-STRA8 interaction. In zebrafish, meiosin is transiently induced at meiotic entry in both sexes, yet its loss selectively disrupts the female germline, causing failure of oogenesis and female-to-male sex reversal. In mice, MEIOSIN lacking the bHLH domain still initiates key…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "potential-neuroendocrine-disruption-by-benzodiazepines-and-its-impact-36499db8",
-      "title": "Potential Neuroendocrine Disruption by Benzodiazepines and Its Impact on Male Fertility.",
-      "titleKo": "Potential Neuroendocrine Disruption by Benzodiazepines and Its Impact on Male Fertility.",
-      "kind": "review",
-      "section": "papers",
-      "subsection": "review",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42642070"
-      },
-      "publishedAt": "2026-08-25",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42642070",
-      "doi": "10.1002/jat.70405",
-      "pmid": "42642070",
-      "authors": [
-        "Rodrigues ACMA",
-        "Rodrigues JG",
-        "Gomes MLM",
-        "Dias FCR."
-      ],
-      "summary": "Neuroactive substances have emerged as potent endocrine disruptors affecting male reproductive health through central and peripheral mechanisms. Among these, benzodiazepines, which are widely used for the management of anxiety, insomnia, epilepsy, and neuromuscular disorders, are known as GABA A (gamma-aminobutyric acid type A) receptor positive allosteric modulators. These are traditionally believed to have central nervous system effects. However, recent experimental findings suggest that benzodiazepines may have peripheral effects through testicular homeostasis and the hypothalamic-pituitary-gonadal axis. This article aims to present an overview of experimental and clinical studies focusing on the potential harmful effects of benzodiazepines on male reproductive health, particularly concerning pharmacokinetics and neuroendocrine, cellu…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "expression-and-positive-impact-of-omentin-1-on-in-vitro-porcine-oocyte-1b5ddf1e",
-      "title": "Expression and positive impact of omentin-1 on in vitro porcine oocyte maturation via the ERK1/2 and PRKAA1.",
-      "titleKo": "Expression and positive impact of omentin-1 on in vitro porcine oocyte maturation via the ERK1/2 and PRKAA1.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42640570"
-      },
-      "publishedAt": "2026-08-25",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42640570",
-      "doi": "10.1093/reprod/xaag101",
-      "pmid": "42640570",
-      "authors": [
-        "Kubicka K",
-        "Respekta-Długosz N",
-        "Kurowska P",
-        "Marynowicz W",
-        "Smolińska N",
-        "Dawid M",
-        "Kostilek M",
-        "Bryła M",
-        "Trzcińska M",
-        "Rak A."
-      ],
-      "summary": "Oocyte maturation is a critical stage in embryo development and female reproduction, and is regulated by adipokines- hormones produced by adipose tissue. Omentin-1 (ITLN1) is an adipokine known to regulate ovarian follicle function, however, its role in oocyte maturation remains unclear. This study investigated ITLN1 expression in porcine oocytes and cumulus cells before and after in vitro maturation (RT-qPCR, Western blotting, immunofluorescence) and the effect of ITLN1 on: oocyte maturation by assessing the percentage of oocytes in metaphase II (M2) (DAPI) and progesterone (P4) secretion (ELISA); glucose metabolism, including glucose transporter type 4 (GLUT4) expression, glucose and lactate secretion, and mitochondrial function (Seahorse Test); lipid metabolism, as assessed by lipid droplet area (Nile Red) and adipose differentiation-…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "single-cell-roadmap-of-bovine-oogenesis-and-somatic-niche-interactions-06abf6f5",
-      "title": "Single-cell roadmap of bovine oogenesis and somatic niche interactions during fetal ovarian development",
-      "titleKo": "Single-cell roadmap of bovine oogenesis and somatic niche interactions during fetal ovarian development",
-      "kind": "review",
-      "section": "papers",
-      "subsection": "review",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.64898/2026.08.24.745837"
-      },
-      "publishedAt": "2026-08-25",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.64898/2026.08.24.745837",
-      "doi": "10.64898/2026.08.24.745837",
-      "pmid": null,
-      "authors": [
-        "Guiltinan C",
-        "Botigelli RC",
-        "Arcanjo RB",
-        "Smith JM",
-        "Grimm CK",
-        "Plummer SK",
-        "Keough BP",
-        "Paulsen MN",
-        "Rajput SK",
-        "Beaton B",
-        "Denicol AC."
-      ],
-      "summary": "The major events of female germline establishment, from primordial germ cell (PGC) specification to assembly of primordial follicles, occur during embryonic/fetal development. This study presents a single-cell RNA-sequencing atlas of the bovine fetal ovary at four gestational timepoints: estimated day 50, and timed pregnancies at days 70, 90, and 120, capturing the progression of PGCs through commitment, meiotic entry, and early oocyte growth. Fourteen transcriptionally distinct cell populations were identified, including stromal, epithelial, endothelial, immune, somatic support cell, and germ cell lineages. Sub-clustering of the germ cell population resolved six developmental stages (PGCs, transitioning oogonia, proliferative oogonia, committed oogonia, meiotic prophase I oogonia, and oocytes), while that of the somatic support cell com…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
     },
     {
       "id": "emergent-3d-genome-reorganization-and-graded-gene-control-from-the-ste-bbf9ad4b",
@@ -4761,7 +4507,261 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "meiosin-retains-a-stra8-independent-activity-that-contributes-to-meiot-5a76004d",
+      "title": "MEIOSIN retains a STRA8-independent activity that contributes to meiotic gene activation across vertebrates.",
+      "titleKo": "MEIOSIN retains a STRA8-independent activity that contributes to meiotic gene activation across vertebrates.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42642181"
+      },
+      "publishedAt": "2026-08-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42642181",
+      "doi": "10.1101/gad.353802.126",
+      "pmid": "42642181",
+      "authors": [
+        "Shimada R",
+        "Imai Y",
+        "Araki K",
+        "Kawasaki T",
+        "Iisaka S",
+        "Usuki S",
+        "Yasunaga KI",
+        "Fujimura S",
+        "Tani N",
+        "Niwa H",
+        "Kuraku S",
+        "Sakai N",
+        "Ishiguro KI."
+      ],
+      "summary": "Meiotic entry in vertebrates has been viewed as a transcriptional switch driven by the MEIOSIN-STRA8 axis, but whether this represents the ancestral regulatory logic of meiosis has remained unclear. Here we combine comparative genomics with genetic and single-cell analyses in zebrafish and mice to show that MEIOSIN retains an intrinsic STRA8-independent activity. We identify Meiosin orthologs in zebrafish and hagfish, vertebrate lineages that lack Stra8, and show that these proteins retain the HMG domain but have lost the bHLH domain required for the canonical MEIOSIN-STRA8 interaction. In zebrafish, meiosin is transiently induced at meiotic entry in both sexes, yet its loss selectively disrupts the female germline, causing failure of oogenesis and female-to-male sex reversal. In mice, MEIOSIN lacking the bHLH domain still initiates key…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "potential-neuroendocrine-disruption-by-benzodiazepines-and-its-impact-36499db8",
+      "title": "Potential Neuroendocrine Disruption by Benzodiazepines and Its Impact on Male Fertility.",
+      "titleKo": "Potential Neuroendocrine Disruption by Benzodiazepines and Its Impact on Male Fertility.",
+      "kind": "review",
+      "section": "papers",
+      "subsection": "review",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42642070"
+      },
+      "publishedAt": "2026-08-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42642070",
+      "doi": "10.1002/jat.70405",
+      "pmid": "42642070",
+      "authors": [
+        "Rodrigues ACMA",
+        "Rodrigues JG",
+        "Gomes MLM",
+        "Dias FCR."
+      ],
+      "summary": "Neuroactive substances have emerged as potent endocrine disruptors affecting male reproductive health through central and peripheral mechanisms. Among these, benzodiazepines, which are widely used for the management of anxiety, insomnia, epilepsy, and neuromuscular disorders, are known as GABA A (gamma-aminobutyric acid type A) receptor positive allosteric modulators. These are traditionally believed to have central nervous system effects. However, recent experimental findings suggest that benzodiazepines may have peripheral effects through testicular homeostasis and the hypothalamic-pituitary-gonadal axis. This article aims to present an overview of experimental and clinical studies focusing on the potential harmful effects of benzodiazepines on male reproductive health, particularly concerning pharmacokinetics and neuroendocrine, cellu…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "expression-and-positive-impact-of-omentin-1-on-in-vitro-porcine-oocyte-1b5ddf1e",
+      "title": "Expression and positive impact of omentin-1 on in vitro porcine oocyte maturation via the ERK1/2 and PRKAA1.",
+      "titleKo": "Expression and positive impact of omentin-1 on in vitro porcine oocyte maturation via the ERK1/2 and PRKAA1.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42640570"
+      },
+      "publishedAt": "2026-08-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42640570",
+      "doi": "10.1093/reprod/xaag101",
+      "pmid": "42640570",
+      "authors": [
+        "Kubicka K",
+        "Respekta-Długosz N",
+        "Kurowska P",
+        "Marynowicz W",
+        "Smolińska N",
+        "Dawid M",
+        "Kostilek M",
+        "Bryła M",
+        "Trzcińska M",
+        "Rak A."
+      ],
+      "summary": "Oocyte maturation is a critical stage in embryo development and female reproduction, and is regulated by adipokines- hormones produced by adipose tissue. Omentin-1 (ITLN1) is an adipokine known to regulate ovarian follicle function, however, its role in oocyte maturation remains unclear. This study investigated ITLN1 expression in porcine oocytes and cumulus cells before and after in vitro maturation (RT-qPCR, Western blotting, immunofluorescence) and the effect of ITLN1 on: oocyte maturation by assessing the percentage of oocytes in metaphase II (M2) (DAPI) and progesterone (P4) secretion (ELISA); glucose metabolism, including glucose transporter type 4 (GLUT4) expression, glucose and lactate secretion, and mitochondrial function (Seahorse Test); lipid metabolism, as assessed by lipid droplet area (Nile Red) and adipose differentiation-…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "single-cell-roadmap-of-bovine-oogenesis-and-somatic-niche-interactions-06abf6f5",
+      "title": "Single-cell roadmap of bovine oogenesis and somatic niche interactions during fetal ovarian development",
+      "titleKo": "Single-cell roadmap of bovine oogenesis and somatic niche interactions during fetal ovarian development",
+      "kind": "review",
+      "section": "papers",
+      "subsection": "review",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.64898/2026.08.24.745837"
+      },
+      "publishedAt": "2026-08-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.64898/2026.08.24.745837",
+      "doi": "10.64898/2026.08.24.745837",
+      "pmid": null,
+      "authors": [
+        "Guiltinan C",
+        "Botigelli RC",
+        "Arcanjo RB",
+        "Smith JM",
+        "Grimm CK",
+        "Plummer SK",
+        "Keough BP",
+        "Paulsen MN",
+        "Rajput SK",
+        "Beaton B",
+        "Denicol AC."
+      ],
+      "summary": "The major events of female germline establishment, from primordial germ cell (PGC) specification to assembly of primordial follicles, occur during embryonic/fetal development. This study presents a single-cell RNA-sequencing atlas of the bovine fetal ovary at four gestational timepoints: estimated day 50, and timed pregnancies at days 70, 90, and 120, capturing the progression of PGCs through commitment, meiotic entry, and early oocyte growth. Fourteen transcriptionally distinct cell populations were identified, including stromal, epithelial, endothelial, immune, somatic support cell, and germ cell lineages. Sub-clustering of the germ cell population resolved six developmental stages (PGCs, transitioning oogonia, proliferative oogonia, committed oogonia, meiotic prophase I oogonia, and oocytes), while that of the somatic support cell com…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -5089,6 +5089,78 @@
       "featured": false,
       "status": "new",
       "ingestedBy": "europepmc"
+    },
+    {
+      "id": "kdm6b-interacts-with-nucleo-adhesome-components-csrp2-and-tgfb1i1-to-r-6bbb4054",
+      "title": "KDM6B interacts with nucleo-adhesome components CSRP2 and TGFB1I1 to regulate EMT",
+      "titleKo": "KDM6B interacts with nucleo-adhesome components CSRP2 and TGFB1I1 to regulate EMT",
+      "kind": "preprint",
+      "section": "papers",
+      "subsection": "preprint",
+      "topics": [
+        "epigenetics",
+        "mechanobiology"
+      ],
+      "source": {
+        "name": "bioRxiv",
+        "type": "index",
+        "authority": 3,
+        "url": "https://www.biorxiv.org/content/10.64898/2026.08.24.737021v1"
+      },
+      "publishedAt": "2026-08-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.24.737021v1",
+      "doi": "10.64898/2026.08.24.737021",
+      "pmid": null,
+      "authors": [
+        "Durand, J.",
+        "Frederic, M.",
+        "Jaramillo Ortiz, S.",
+        "Schaeffer-Reiss, C.",
+        "Herfs, M.",
+        "Nokin, M.-J.",
+        "Pallandre, J.-R.",
+        "Borg, C.",
+        "Peigney, A.",
+        "Overs, A.",
+        "Lupien, M.",
+        "Guittaut, M.",
+        "Hervouet, E.",
+        "Delage-Mourroux, R.",
+        "Peixoto, P."
+      ],
+      "summary": "The methyltransferase EZH2 (Enhancer of Zest Homolog 2) and the demethylase KDM6B (Lysine Demethylase 6B) have been associated with epithelial to mesenchymal transition (EMT) and poor prognosis in various cancers. These enzymes methylate and demethylate H3K27me3 and regulate distinct sets of genes controlling EMT induction, despite having opposite catalytic activities. This could be due to their recruitment or the modulation of their activity by partner proteins on specific loci. This work sought to identify proteins associated with chromatin and interacting with EZH2 or with KDM6B during EMT. To do so, co-immunoprecipitation and mass spectroscopy was used under TGF{beta} (Tumor growth factor {beta}) and TNF (Tumor necrosis factor ) treatment to induce EMT in A549 lung cancer cells. Surprisingly, numerous proteins related to focal adhesi…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome",
+        "mechanobiology",
+        "mechanotransduction"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "preprint",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.58,
+        "note": "Not peer reviewed; metadata and abstract automatically filtered."
+      },
+      "signals": {
+        "baseRelevance": 77,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 76
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "biorxiv"
     },
     {
       "id": "an-inherited-hypomorphic-variant-in-piezo2-reveals-structural-features-49dcae24",
@@ -6100,68 +6172,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "comprehensive-analysis-of-differentially-expressed-mrnas-lncrnas-and-m-02fefe49",
-      "title": "Comprehensive analysis of differentially expressed mRNAs, lncRNAs, and miRNAs involved in ovarian differentiation and development in Qihe gibel carp (Carassius gibelio var. Qihe).",
-      "titleKo": "Comprehensive analysis of differentially expressed mRNAs, lncRNAs, and miRNAs involved in ovarian differentiation and development in Qihe gibel carp (Carassius gibelio var. Qihe).",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42612885"
-      },
-      "publishedAt": "2026-08-18",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42612885",
-      "doi": "10.1016/j.ygeno.2026.111306",
-      "pmid": "42612885",
-      "authors": [
-        "Li Y",
-        "Jin Y",
-        "Li Y",
-        "Wang Y",
-        "Lv L",
-        "Xu C",
-        "Li X",
-        "Wu L."
-      ],
-      "summary": "Qihe gibel carp (Carassius gibelio var. Qihe) exhibits diverse reproductive modes including gynogenesis and sexual reproduction, yet the molecular mechanisms of ovarian differentiation remain poorly understood. Ovarian tissues at 20, 30, and 60 days after hatching (dah), representing key stages covering early ovarian differentiation and primary oocyte growth, were subjected to whole-transcriptome sequencing. A total of 27,259 mRNAs, 2622 lncRNAs, and 2467 miRNAs were differentially expressed. Cell cycle, transcription, translation, and DNA replication pathways were significantly upregulated from 20 to 60 dah. Oocyte meiosis was enriched between 20 and 30 dah, whereas metabolic pathways (lipid, carbohydrate, and nucleotide metabolism) were enriched from 30 to 60 dah, indicating sequential progression from meiosis initiation to primary ooc…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-23",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 74,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "nipbl-pancreas",
       "title": "Impaired cohesin loading disrupts pancreatic differentiation by Polycomb-driven chromatin rewiring and loop collapse",
       "titleKo": "NIPBL 저하는 E–P loop 붕괴와 Polycomb rewiring을 통해 췌장 분화를 방해한다",
@@ -6343,12 +6353,141 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-08-29",
+        "checkedAt": "2026-08-30",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
         "baseRelevance": 77,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "irregular-nucleosome-positioning-governs-a-crystalline-to-liquid-like-8112d171",
+      "title": "Irregular nucleosome positioning governs a crystalline to liquid-like phase transition and tunes chromatin accessibility",
+      "titleKo": "Irregular nucleosome positioning governs a crystalline to liquid-like phase transition and tunes chromatin accessibility",
+      "kind": "preprint",
+      "section": "papers",
+      "subsection": "preprint",
+      "topics": [
+        "epigenetics"
+      ],
+      "source": {
+        "name": "bioRxiv",
+        "type": "index",
+        "authority": 3,
+        "url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746683v1"
+      },
+      "publishedAt": "2026-08-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.08.24.746683v1",
+      "doi": "10.64898/2026.08.24.746683",
+      "pmid": null,
+      "authors": [
+        "Albawardi, W.",
+        "Thomas, M.",
+        "Kuijntjes, G.-J.",
+        "Wheeldon, H.",
+        "Kaczmarczyk, A.",
+        "Allan, J.",
+        "Ding, J.",
+        "Chiang, M.",
+        "Vanderlinden, W.",
+        "van Noort, J.",
+        "Marenduzzo, D.",
+        "Brackley, C. A.",
+        "Gilbert, N."
+      ],
+      "summary": "Chromatin must fold tightly enough to protect the genome while being sufficiently accessible for DNA dependent processes such as transcription. The physical rules that balance these competing roles remain unclear, as DNA sequence encodes both biochemical information such as transcription factor binding sites, and biophysical cues that shape chromatin structure. Here, using synthetic chromatin fibres assembled from physiologically relevant DNA sequences, we show that nucleosome positioning dictates the material state of chromatin. Heterochromatin-like sequences produce compact fibres stabilised by nucleosome stacking, whereas euchromatin-like sequences generate irregular nucleosome positioning that yields disrupted, heterogeneous, and mechanically deformable fibres. Quantitative polymer modelling reveals that these irregular arrays are hi…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "preprint",
+        "checkedAt": "2026-08-30",
+        "confidence": 0.58,
+        "note": "Not peer reviewed; metadata and abstract automatically filtered."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 76
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "biorxiv"
+    },
+    {
+      "id": "comprehensive-analysis-of-differentially-expressed-mrnas-lncrnas-and-m-02fefe49",
+      "title": "Comprehensive analysis of differentially expressed mRNAs, lncRNAs, and miRNAs involved in ovarian differentiation and development in Qihe gibel carp (Carassius gibelio var. Qihe).",
+      "titleKo": "Comprehensive analysis of differentially expressed mRNAs, lncRNAs, and miRNAs involved in ovarian differentiation and development in Qihe gibel carp (Carassius gibelio var. Qihe).",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42612885"
+      },
+      "publishedAt": "2026-08-18",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42612885",
+      "doi": "10.1016/j.ygeno.2026.111306",
+      "pmid": "42612885",
+      "authors": [
+        "Li Y",
+        "Jin Y",
+        "Li Y",
+        "Wang Y",
+        "Lv L",
+        "Xu C",
+        "Li X",
+        "Wu L."
+      ],
+      "summary": "Qihe gibel carp (Carassius gibelio var. Qihe) exhibits diverse reproductive modes including gynogenesis and sexual reproduction, yet the molecular mechanisms of ovarian differentiation remain poorly understood. Ovarian tissues at 20, 30, and 60 days after hatching (dah), representing key stages covering early ovarian differentiation and primary oocyte growth, were subjected to whole-transcriptome sequencing. A total of 27,259 mRNAs, 2622 lncRNAs, and 2467 miRNAs were differentially expressed. Cell cycle, transcription, translation, and DNA replication pathways were significantly upregulated from 20 to 60 dah. Oocyte meiosis was enriched between 20 and 30 dah, whereas metabolic pathways (lipid, carbohydrate, and nucleotide metabolism) were enriched from 30 to 60 dah, indicating sequential progression from meiosis initiation to primary ooc…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-23",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -6617,73 +6756,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "a-protein-dependent-riboswitch-activates-ribosomal-frameshifting-in-ca-92b4a1e7",
-      "title": "A protein-dependent riboswitch activates ribosomal frameshifting in cardioviruses.",
-      "titleKo": "A protein-dependent riboswitch activates ribosomal frameshifting in cardioviruses.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "single-molecule"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42628533"
-      },
-      "publishedAt": "2026-08-21",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42628533",
-      "doi": "10.1016/j.molcel.2026.07.036",
-      "pmid": "42628533",
-      "authors": [
-        "Betts JK",
-        "Jeffries CM",
-        "Passchier TC",
-        "Kung HCY",
-        "Graham SP",
-        "Abdelhamid MAS",
-        "Howard JAL",
-        "Craggs TD",
-        "Graham SC",
-        "Brierley I",
-        "Leake MC",
-        "Quinn SD",
-        "Hill CH."
-      ],
-      "summary": "Programmed -1 ribosomal frameshifting (PRF) is a translational control mechanism used by RNA viruses to regulate the relative abundance of proteins encoded in different reading frames. Cardioviruses exhibit the highest known PRF efficiency, with ∼85% of ribosomes shifting into the -1 frame. This unusual event requires an interaction between the viral 2A protein and a stimulatory element in the RNA genome, but the basis for protein dependence is unclear. To address this, here we investigate the structure and dynamics of the PRF signal in Theiler's murine encephalitis virus (TMEV). By combining X-ray crystallography, small-angle X-ray scattering (SAXS), and single-molecule fluorescence resonance energy transfer (smFRET), we show that 2A binding switches the RNA from a stem-loop conformation into a pseudoknot, and we demonstrate that pseudo…",
-      "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "single-molecule",
-        "single molecule"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-08-25",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 71,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "ivg-hype",
       "title": "Changing Discourse on In Vitro Gametogenesis: Expectation, Scientific Reality, and the Ethics of Hype",
       "titleKo": "IVG 담론은 기술 현실보다 임상 기대가 앞서고 있다는 비판",
@@ -6810,6 +6882,73 @@
       "ingestedBy": "curated-seed",
       "section": "papers",
       "subsection": "insight"
+    },
+    {
+      "id": "a-protein-dependent-riboswitch-activates-ribosomal-frameshifting-in-ca-92b4a1e7",
+      "title": "A protein-dependent riboswitch activates ribosomal frameshifting in cardioviruses.",
+      "titleKo": "A protein-dependent riboswitch activates ribosomal frameshifting in cardioviruses.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "single-molecule"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42628533"
+      },
+      "publishedAt": "2026-08-21",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42628533",
+      "doi": "10.1016/j.molcel.2026.07.036",
+      "pmid": "42628533",
+      "authors": [
+        "Betts JK",
+        "Jeffries CM",
+        "Passchier TC",
+        "Kung HCY",
+        "Graham SP",
+        "Abdelhamid MAS",
+        "Howard JAL",
+        "Craggs TD",
+        "Graham SC",
+        "Brierley I",
+        "Leake MC",
+        "Quinn SD",
+        "Hill CH."
+      ],
+      "summary": "Programmed -1 ribosomal frameshifting (PRF) is a translational control mechanism used by RNA viruses to regulate the relative abundance of proteins encoded in different reading frames. Cardioviruses exhibit the highest known PRF efficiency, with ∼85% of ribosomes shifting into the -1 frame. This unusual event requires an interaction between the viral 2A protein and a stimulatory element in the RNA genome, but the basis for protein dependence is unclear. To address this, here we investigate the structure and dynamics of the PRF signal in Theiler's murine encephalitis virus (TMEV). By combining X-ray crystallography, small-angle X-ray scattering (SAXS), and single-molecule fluorescence resonance energy transfer (smFRET), we show that 2A binding switches the RNA from a stem-loop conformation into a pseudoknot, and we demonstrate that pseudo…",
+      "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "single-molecule",
+        "single molecule"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-08-25",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 71,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
     },
     {
       "id": "single-molecule-proteomics-via-a-dynamic-translocase-and-physics-infor-8ba46d25",

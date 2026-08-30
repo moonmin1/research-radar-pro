@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T13:05:12+09:00",
+  "generatedAt": "2026-08-30T10:10:41+09:00",
   "items": [
     {
       "id": "watch-error-stowers-scholars-2026-08-23",
@@ -130,6 +130,19 @@
       ],
       "section": "opportunities",
       "detectedAt": "2026-08-29T13:05:23+09:00",
+      "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
+      "status": "check-failed"
+    },
+    {
+      "id": "watch-error-stowers-scholars-2026-08-30",
+      "pageId": "stowers-scholars",
+      "name": "Stowers Research Scholars",
+      "url": "https://www.stowers.org/gradschool/research-scholars",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-08-30T10:10:54+09:00",
       "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
       "status": "check-failed"
     }
