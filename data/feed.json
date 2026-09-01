@@ -8281,7 +8281,7 @@
         "single molecule"
       ],
       "access": {
-        "openAccess": false,
+        "openAccess": true,
         "fullText": "index-metadata"
       },
       "eligibility": null,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:44:20+09:00",
+  "generatedAt": "2026-09-01T19:17:00+09:00",
   "items": [
     {
       "id": "watch-error-stowers-scholars-2026-08-23",
@@ -184,7 +184,7 @@
         "us-opportunity"
       ],
       "section": "opportunities",
-      "detectedAt": "2026-09-01T10:44:56+09:00",
+      "detectedAt": "2026-09-01T19:17:10+09:00",
       "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
       "status": "check-failed"
     }
