@@ -9,7 +9,7 @@
   const ROUTES = {
     home: { title: 'Research Radar', eyebrow: 'PAPERS · OPPORTUNITIES · GRADUATE ADMISSIONS' },
     papers: { title: '논문', eyebrow: 'PAPERS · PREPRINTS · REVIEWS · METHODS' },
-    opportunities: { title: '학회·연구기회', eyebrow: 'CONFERENCES · WORKSHOPS · INTERNSHIPS · VISITING' },
+    opportunities: { title: '학회 및 연구기회', eyebrow: 'CONFERENCES · WORKSHOPS · INTERNSHIPS · VISITING' },
     graduate: { title: '대학원 공고', eyebrow: 'PHD · ADMISSIONS · FUNDING · APPLICATION TRACKER' },
     deadlines: { title: '마감 캘린더', eyebrow: 'DEADLINES · EVENTS · APPLICATIONS' },
     library: { title: '내 라이브러리', eyebrow: 'SAVED · SHORTLISTED · READ · ARCHIVED' },
@@ -17,9 +17,9 @@
   };
 
   const SECTION_META = {
-    papers: { label: '논문', eyebrow: 'PAPERS', route: 'papers', icon: 'flask', color: '#0b6757', description: 'Peer-reviewed 논문, preprint, review, method를 분야별로 선별합니다.' },
-    opportunities: { label: '학회·연구기회', eyebrow: 'OPPORTUNITIES', route: 'opportunities', icon: 'conference', color: '#b66b2c', description: '학회·워크숍·인턴·postbac·visiting·funding을 지원 가능성과 함께 봅니다.' },
-    graduate: { label: '대학원 공고', eyebrow: 'GRADUATE', route: 'graduate', icon: 'cap', color: '#315f9b', description: 'PhD 입학 일정, 국제학생 자격, 시험, 재정지원을 비교합니다.' }
+    papers: { label: '논문', eyebrow: 'PAPERS', route: 'papers', icon: 'flask', color: '#23866a', description: 'Peer-reviewed 논문, preprint, review, method를 분야별로 선별합니다.' },
+    opportunities: { label: '학회 및 연구기회', eyebrow: 'OPPORTUNITIES', route: 'opportunities', icon: 'conference', color: '#c8793f', description: '학회·워크숍·인턴·postbac·visiting·funding을 지원 가능성과 함께 봅니다.' },
+    graduate: { label: '대학원 공고', eyebrow: 'GRADUATE', route: 'graduate', icon: 'cap', color: '#4d79b8', description: 'PhD 입학 일정, 국제학생 자격, 시험, 재정지원을 비교합니다.' }
   };
 
   const KIND_LABELS = {
@@ -356,6 +356,55 @@
     return `<button type="button" class="deadline-row" data-item-id="${escapeAttr(item.id)}" style="--topic-color:${itemColor(item)}"><span class="d-day">${dDay(item.deadlineAt)}</span><span><strong>${escapeHTML(truncate(item.titleKo,58))}</strong><small>${formatDate(item.deadlineAt)} · ${escapeHTML(item.source?.name || '')}</small></span><span>›</span></button>`;
   }
 
+  function representativeFacts(item) {
+    const section = sectionFor(item);
+    const facts = [];
+    if (item.source?.name) facts.push(item.source.name);
+    if (section === 'papers') {
+      if (item.publishedAt) facts.push(formatShortDate(item.publishedAt));
+      if (item.access?.openAccess) facts.push('Open Access');
+      facts.push(kindLabel(item));
+    } else if (section === 'opportunities') {
+      if (item.deadlineAt) facts.push(`${dDay(item.deadlineAt)} · ${formatShortDate(item.deadlineAt)}`);
+      if (item.eligibility?.international === true) facts.push('International 가능');
+      else if (item.eligibility?.international === false) facts.push('International 제한');
+      if (item.location) facts.push(truncate(item.location, 34));
+    } else {
+      if (item.deadlineAt) facts.push(`${dDay(item.deadlineAt)} · ${formatShortDate(item.deadlineAt)}`);
+      if (item.admission?.gre) facts.push(`GRE: ${item.admission.gre}`);
+      if (item.eligibility?.international === true) facts.push('International 가능');
+    }
+    return facts.filter(Boolean).slice(0, 4);
+  }
+
+  function representativeCover(item, size = 'standard') {
+    if (!item) return '';
+    const section = sectionFor(item);
+    const meta = sectionMeta(section);
+    const topic = topicMeta(primaryTopic(item));
+    const summary = section === 'papers' ? (item.whyItMatters || item.summary) : (item.summary || item.whyItMatters);
+    const heading = section === 'papers' ? '대표 논문' : section === 'opportunities' ? '대표 기회' : '대표 대학원 공고';
+    return `<article class="rep-cover ${size} ${section}" data-item-id="${escapeAttr(item.id)}" style="--section-color:${meta.color};--topic-color:${itemColor(item)}">
+      <div class="rep-cover-visual" aria-hidden="true">
+        <span class="rep-orbit one"></span><span class="rep-orbit two"></span><span class="rep-orbit three"></span>
+        <span class="rep-icon">${icon(meta.icon)}</span>
+        <strong>${escapeHTML(topic.label || meta.label)}</strong>
+      </div>
+      <div class="rep-cover-copy">
+        <div class="rep-cover-kicker"><span>${escapeHTML(meta.eyebrow)}</span><b>${escapeHTML(heading)}</b>${scoreBadge(item,'score-badge compact-score')}</div>
+        <h3>${escapeHTML(item.titleKo)}</h3>
+        <p>${escapeHTML(truncate(summary, size === 'wide' ? 260 : 190))}</p>
+        <div class="rep-facts">${representativeFacts(item).map(fact=>`<span>${escapeHTML(fact)}</span>`).join('')}</div>
+        <footer><span>${escapeHTML(item.recommendedAction ? truncate(item.recommendedAction, 92) : '상세 내용을 확인하십시오.')}</span><b>상세 보기 →</b></footer>
+      </div>
+    </article>`;
+  }
+
+  function representativeSection(title, description, item, size = 'wide') {
+    if (!item) return '';
+    return `<div class="section-title representative-title"><div><span class="mini-label">FEATURED SIGNAL</span><h2>${escapeHTML(title)}</h2><p>${escapeHTML(description)}</p></div></div>${representativeCover(item,size)}`;
+  }
+
   function renderHome() {
     const ranked = [...app.items].filter(item => item.status !== 'closed').sort(byScore);
     const papers = ranked.filter(isResearch);
@@ -366,7 +415,6 @@
       .filter(item => item.deadlineAt && (daysUntil(item.deadlineAt) ?? -1) >= 0)
       .sort(byDeadline)
       .slice(0, 7);
-    const priority = ['papers','opportunities','graduate'].map(section => sectionLists[section][0]).filter(Boolean);
     const new72 = section => sectionLists[section].filter(item => {
       const d = parseDate(item.publishedAt);
       return d && Score.daysBetween(d, new Date()) <= 3;
@@ -378,10 +426,10 @@
     $('#viewRoot').innerHTML = `<div class="view-enter portal-home">
       <section class="portal-masthead">
         <div class="portal-mast-copy">
-          <span class="hero-kicker"><i></i> RESEARCH RADAR DAILY · ${formatDate(app.brief?.date || new Date())}</span>
-          <h2>논문, 학회·연구기회, 대학원 공고를<br><em>세 개의 독립된 정보 흐름</em>으로 관리합니다.</h2>
-          <p>한 화면에 섞인 뉴스 피드가 아니라, 읽을 연구와 지원할 기회와 준비할 대학원을 목적별로 분리했습니다.</p>
-          <div class="mast-actions"><button class="button primary" data-route="papers">오늘의 논문 보기</button><button class="button ghost" data-route="graduate">대학원 지원판 열기</button>${app.deferredInstall ? '<button class="button ghost" data-action="install">앱 설치</button>' : ''}</div>
+          <span class="hero-kicker"><i></i> RESEARCH RADAR · ${formatDate(app.brief?.date || new Date())}</span>
+          <h2>논문, 학회 및 연구기회, 대학원 공고를<br><em>세 개의 명확한 정보 축</em>으로 관리합니다.</h2>
+          <p>오늘 읽을 연구, 지금 지원할 기회, 준비해야 할 대학원 일정을 서로 섞지 않고 독립된 화면과 기준으로 제공합니다.</p>
+          <div class="mast-actions"><button class="button primary" data-route="papers">논문</button><button class="button ghost" data-route="opportunities">학회 및 연구기회</button><button class="button ghost" data-route="graduate">대학원 공고</button>${app.deferredInstall ? '<button class="button ghost" data-action="install">앱 설치</button>' : ''}</div>
         </div>
         <aside class="mast-status">
           <span>LAST BUILD</span><strong>${formatDate(app.meta.generatedAt)}</strong>
@@ -394,11 +442,15 @@
       <section class="pillar-grid">
         ${pillarCard('papers', papers, new72('papers'), `${papers.filter(item=>item.access?.openAccess).length} Open Access`)}
         ${pillarCard('opportunities', opportunities, openOpp, `${opportunities.filter(item=>item.eligibility?.international===true).length} International`)}
-        ${pillarCard('graduate', graduate, eligibleGrad, `${graduate.filter(item=>/not required|not considered/i.test(String(item.admission?.gre||''))).length} GRE-free`)}
+        ${pillarCard('graduate', graduate, eligibleGrad, `${graduate.filter(item=>/not required|not considered|optional/i.test(String(item.admission?.gre||''))).length} GRE-free`)}
       </section>
 
-      <div class="section-title editorial-title"><div><span class="mini-label">EDITOR'S THREE</span><h2>오늘 먼저 볼 3건</h2><p>각 대분류에서 한 건씩만 뽑아 서로 다른 행동으로 연결합니다.</p></div></div>
-      <section class="three-brief-grid">${priority.map(editorialPick).join('')}</section>
+      <div class="section-title representative-title"><div><span class="mini-label">TODAY'S REPRESENTATIVE SIGNALS</span><h2>오늘의 핵심 대표 정보</h2><p>세 분류에서 가장 중요한 항목을 실제 제목과 판단 근거가 보이는 표지형 카드로 제시합니다.</p></div></div>
+      <section class="representative-grid">
+        ${representativeCover(papers[0])}
+        ${representativeCover(opportunities[0])}
+        ${representativeCover(graduate[0])}
+      </section>
 
       <section class="home-newsroom-grid">
         <div class="newsroom-column panel">
@@ -411,9 +463,9 @@
         </div>
       </section>
 
-      <div class="section-title"><div><h2>지원 준비 현황</h2><p>학회·연구기회와 대학원 공고를 행동 단계로 분리합니다.</p></div><button data-route="library">내 라이브러리 →</button></div>
+      <div class="section-title"><div><h2>지원 준비 현황</h2><p>학회 및 연구기회와 대학원 공고를 행동 단계로 분리합니다.</p></div><button data-route="library">내 라이브러리 →</button></div>
       <section class="action-board">
-        <div class="action-board-card opportunities"><span>${icon('conference')}</span><div><strong>${openOpp}</strong><p>열려 있거나 감시 중인 학회·연구기회</p></div><button data-route="opportunities">기회 탐색</button></div>
+        <div class="action-board-card opportunities"><span>${icon('conference')}</span><div><strong>${openOpp}</strong><p>열려 있거나 감시 중인 학회 및 연구기회</p></div><button data-route="opportunities">기회 탐색</button></div>
         <div class="action-board-card graduate"><span>${icon('cap')}</span><div><strong>${eligibleGrad}</strong><p>국제학생 지원 가능성이 확인된 대학원 공고</p></div><button data-route="graduate">지원 비교</button></div>
         <div class="action-board-card deadlines"><span>${icon('calendar')}</span><div><strong>${deadlines.filter(item=>(daysUntil(item.deadlineAt)??999)<=60).length}</strong><p>60일 이내 우선 대응 마감</p></div><button data-route="deadlines">일정 관리</button></div>
       </section>
@@ -522,8 +574,9 @@
         {value:peerReviewed,label:'Peer-reviewed',note:'원저 중심'},
         {value:openAccess,label:'Open Access',note:`${preprints} preprints`}
       ],'<button class="button primary" data-action="export-csv">현재 목록 CSV</button><a class="button ghost" href="feed.xml">RSS 구독</a>')}
-      <div class="section-title"><div><span class="mini-label">PAPER SPOTLIGHT</span><h2>우선 분석할 논문</h2><p>맞춤도, 최신성, source authority를 결합한 상위 3건입니다.</p></div></div>
-      <section class="spotlight-grid">${spotlights.length?spotlights.map(signalCard).join(''):emptyState('논문 없음','수집 결과를 확인하십시오.')}</section>
+      ${representativeSection('오늘의 대표 논문','사용자 연구방향과 가장 직접적으로 연결되는 논문 1건을 실제 제목과 판단 근거 중심으로 크게 표시합니다.',spotlights[0])}
+      <div class="section-title"><div><span class="mini-label">NEXT PAPERS</span><h2>이어서 볼 논문</h2><p>대표 논문 다음으로 우선순위가 높은 항목입니다.</p></div></div>
+      <section class="spotlight-grid">${spotlights.slice(1).length?spotlights.slice(1).map(signalCard).join(''):emptyState('추가 논문 없음','수집 결과를 확인하십시오.')}</section>
       <div class="section-title feed-section-title"><div><span class="mini-label">CURATED PAPER FEED</span><h2>전체 논문 피드</h2><p>유형·상태·관심 분야로 좁히고 상세 패널에서 근거와 권장 행동을 확인합니다.</p></div></div>
       ${feedToolbar('papers',items.length)}
       <div class="feed-list ${app.feedView==='grid'?'grid-mode':''}" id="feedList">${items.length ? items.map(feedCard).join('') : emptyState('조건에 맞는 논문이 없습니다','검색어 또는 필터를 조정하십시오.')}</div>
@@ -553,6 +606,7 @@
         {value:visa,label:'Visa/J-1 정보',note:'explicit support'},
         {value:upcoming,label:'다가오는 마감',note:'calendar tracked'}
       ],'<button class="button primary" data-route="deadlines">마감 캘린더</button><button class="button ghost" data-opportunity-filter="visa">Visa/J-1만 보기</button>')}
+      ${representativeSection('현재 가장 중요한 학회 및 연구기회','마감, 국제학생 지원 가능성, Visa/J-1 근거와 연구 적합도를 함께 반영한 대표 항목입니다.',[...items].sort(byScore)[0])}
       <section class="opportunity-lanes">
         ${opportunityLane('events','학회·워크숍','CONFERENCES & TRAINING',events,'conference')}
         ${opportunityLane('research-experience','인턴·Postbac·Visiting','RESEARCH EXPERIENCE',research,'plane')}
@@ -612,6 +666,7 @@
         {value:noGre,label:'GRE 불요',note:'official wording'},
         {value:funded,label:'Funding 확인',note:`${urgent} within 120d`}
       ],'<button class="button primary" data-route="deadlines">지원 일정 보기</button><button class="button ghost" data-action="export-csv">비교표 CSV</button>')}
+      ${representativeSection('현재 가장 중요한 대학원 공고','지원 cycle, deadline, 시험요건, funding과 연구 적합도를 함께 본 대표 프로그램입니다.',[...items].sort(byScore)[0])}
       <div class="graduate-filter-bar">${filterTabs.map(([value,label])=>`<button type="button" class="graduate-filter ${app.graduateFilter===value?'is-active':''}" data-graduate-filter="${value}">${label}</button>`).join('')}<span>${items.length}개 표시</span></div>
       <section class="graduate-card-grid">${items.length?items.map(graduateCard).join(''):emptyState('조건에 맞는 대학원 공고가 없습니다','필터를 조정하십시오.')}</section>
       <div class="section-title"><div><span class="mini-label">ADMISSIONS COMPARISON</span><h2>지원 조건 비교표</h2><p>공식 페이지에서 확인된 필드만 확정적으로 표시합니다.</p></div></div>

@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Research Radar · Three-Pillar Edition",
   "short_name": "Research Radar",
-  "description": "논문, 학회·연구기회, 대학원 공고를 세 개의 독립된 정보 흐름으로 관리하는 개인화 생명과학 연구정보 포털",
+  "description": "논문, 학회 및 연구기회, 대학원 공고를 세 개의 독립된 정보 흐름으로 관리하는 개인화 생명과학 연구정보 포털",
   "lang": "ko-KR",
   "dir": "ltr",
   "start_url": "./",
@@ -14,8 +14,8 @@
     "minimal-ui"
   ],
   "orientation": "any",
-  "background_color": "#f4f2ec",
-  "theme_color": "#0b6757",
+  "background_color": "#fcfbf8",
+  "theme_color": "#23866a",
   "categories": [
     "education",
     "productivity",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "name": "학회·연구기회",
+      "name": "학회 및 연구기회",
       "short_name": "연구기회",
       "url": "./#/opportunities",
       "icons": [
