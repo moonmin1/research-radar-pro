@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
-  "generatedAt": "2026-09-05T09:46:23+09:00",
+  "generatedAt": "2026-09-06T09:45:10+09:00",
   "timezone": "Asia/Seoul",
-  "itemCount": 217,
+  "itemCount": 225,
   "pipeline": "curated-first + Europe PMC + bioRxiv + NIH RSS + page-watch",
   "build": "pro-v4-three-pillar",
   "mode": "live",
