@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:45:10 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:48:24 +0900</lastBuildDate>
     <item>
       <title>Stanford Biosciences PhD 2027–28 — 14개 Home Program, 12월 1일 마감</title>
       <link>https://biosciences.stanford.edu/how-to-apply/</link>
@@ -160,33 +160,6 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>Methylome profiling of SetDB1-deficient ESCs reveals coordinated epigenetic cross-talk during pluripotency.</title>
-      <link>https://europepmc.org/article/MED/42692011</link>
-      <guid isPermaLink="false">methylome-profiling-of-setdb1-deficient-escs-reveals-coordinated-epige-d491c1d5</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, cohesin-ctcf, developmental-biology, events-funding</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Multiscale physical effects of CpG methylation on DNA mechanics, nucleosome wrapping, and chromatin condensates.</title>
-      <link>https://europepmc.org/article/MED/42686850</link>
-      <guid isPermaLink="false">multiscale-physical-effects-of-cpg-methylation-on-dna-mechanics-nucleo-97c09448</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, 3d-genome, single-molecule</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Hi-cGAN: Prediction of Hi-C interaction matrices with conditional generative adversarial networks</title>
-      <link>https://doi.org/10.64898/2026.08.30.748103</link>
-      <guid isPermaLink="false">hi-cgan-prediction-of-hi-c-interaction-matrices-with-conditional-gener-b4d66079</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, cohesin-ctcf</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
       <title>Rhbg is dispensable for spermatogenesis but fine-tunes sperm motility trajectory during capacitation in mice.</title>
       <link>https://europepmc.org/article/MED/42695280</link>
       <guid isPermaLink="false">rhbg-is-dispensable-for-spermatogenesis-but-fine-tunes-sperm-motility-188bb5ea</guid>
@@ -194,6 +167,15 @@
       <category>papers</category>
       <category>ivg-germline, crispr-engineering</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
+    </item>
+    <item>
+      <title>Methylome profiling of SetDB1-deficient ESCs reveals coordinated epigenetic cross-talk during pluripotency.</title>
+      <link>https://europepmc.org/article/MED/42692011</link>
+      <guid isPermaLink="false">methylome-profiling-of-setdb1-deficient-escs-reveals-coordinated-epige-d491c1d5</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, cohesin-ctcf, developmental-biology, events-funding</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>Molecular Regulation of Primordial Germ Cell Specification and Implications for In Vitro Gametogenesis.</title>
@@ -223,6 +205,24 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
+      <title>Multiscale physical effects of CpG methylation on DNA mechanics, nucleosome wrapping, and chromatin condensates.</title>
+      <link>https://europepmc.org/article/MED/42686850</link>
+      <guid isPermaLink="false">multiscale-physical-effects-of-cpg-methylation-on-dna-mechanics-nucleo-97c09448</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, 3d-genome, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Hi-cGAN: Prediction of Hi-C interaction matrices with conditional generative adversarial networks</title>
+      <link>https://doi.org/10.64898/2026.08.30.748103</link>
+      <guid isPermaLink="false">hi-cgan-prediction-of-hi-c-interaction-matrices-with-conditional-gener-b4d66079</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, cohesin-ctcf</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
       <title>A Promoter Competition Hub Orchestrates Runx1 Alternative Promoter Usage during Skeletal Muscle Stem Cell Activation</title>
       <link>https://doi.org/10.21203/rs.3.rs-10346668/v1</link>
       <guid isPermaLink="false">a-promoter-competition-hub-orchestrates-runx1-alternative-promoter-usa-4881c119</guid>
@@ -230,24 +230,6 @@
       <category>papers</category>
       <category>3d-genome, enhancer-promoter, developmental-biology</category>
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
-    </item>
-    <item>
-      <title>Comparative single-cell transcriptomics highlights species-biased developmental trajectories and candidate regulatory modules in primate spermatogenesis.</title>
-      <link>https://europepmc.org/article/MED/42685515</link>
-      <guid isPermaLink="false">comparative-single-cell-transcriptomics-highlights-species-biased-deve-58c4a648</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, cohesin-ctcf</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Sperm as a multilayered epigenetic information system: encoding and transmission of paternal environmental signals.</title>
-      <link>https://europepmc.org/article/MED/42680481</link>
-      <guid isPermaLink="false">sperm-as-a-multilayered-epigenetic-information-system-encoding-and-tra-946da7d3</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, ivg-germline, developmental-biology</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression</title>
@@ -286,15 +268,6 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>LncRNA THOR regulates spermatogenesis by interacting with and stabilizing Sycp3 protein in zebrafish.</title>
-      <link>https://europepmc.org/article/MED/42673516</link>
-      <guid isPermaLink="false">lncrna-thor-regulates-spermatogenesis-by-interacting-with-and-stabiliz-83c91bae</guid>
-      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, crispr-engineering, 3d-genome, cohesin-ctcf</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
-    </item>
-    <item>
       <title>Improved FRET cGAMP reporter가 DNA-damage 후 rare cGAS activation을 직접 포착</title>
       <link>https://www.nature.com/articles/s41556-026-02037-0</link>
       <guid isPermaLink="false">cgamp-fret-2026</guid>
@@ -311,6 +284,15 @@
       <category>opportunities</category>
       <category>us-opportunity</category>
       <description>국제 학부생을 명시적으로 받는 드문 미국 생명과학 연구 프로그램이다. 다만 사용자의 졸업·대학원 입학 시점 때문에 2027 eligibility가 제한될 가능성이 높다.</description>
+    </item>
+    <item>
+      <title>Sequential refinement of ovum pick-up technical parameters improves oocyte recovery and developmental competence in Holstein cows.</title>
+      <link>https://europepmc.org/article/MED/42700768</link>
+      <guid isPermaLink="false">sequential-refinement-of-ovum-pick-up-technical-parameters-improves-oo-85b220c4</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
       <title>Prevalence of BRCA1/2 variants in an Ovarian Cancer Cohort: outcomes from a Nationwide Testing Program.</title>
@@ -331,6 +313,15 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
+      <title>Comparative single-cell transcriptomics highlights species-biased developmental trajectories and candidate regulatory modules in primate spermatogenesis.</title>
+      <link>https://europepmc.org/article/MED/42685515</link>
+      <guid isPermaLink="false">comparative-single-cell-transcriptomics-highlights-species-biased-deve-58c4a648</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, cohesin-ctcf</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Profiling NFκB and VEGF Expression in Mouse Embryonic Stem Cells, Lung Cancer Cells, and Fibroblasts.</title>
       <link>https://europepmc.org/article/MED/42684189</link>
       <guid isPermaLink="false">profiling-nf-b-and-vegf-expression-in-mouse-embryonic-stem-cells-lung-80607d6c</guid>
@@ -338,6 +329,15 @@
       <category>papers</category>
       <category>developmental-biology, cohesin-ctcf</category>
       <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Sperm as a multilayered epigenetic information system: encoding and transmission of paternal environmental signals.</title>
+      <link>https://europepmc.org/article/MED/42680481</link>
+      <guid isPermaLink="false">sperm-as-a-multilayered-epigenetic-information-system-encoding-and-tra-946da7d3</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, ivg-germline, developmental-biology</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>Spatial chromatin architecture and accessibility co-profiling of mammalian tissues.</title>
@@ -349,15 +349,6 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
-      <title>Mapping ovarian cellular and molecular landscape across the lifespan of women: a scoping review.</title>
-      <link>https://europepmc.org/article/MED/42467724</link>
-      <guid isPermaLink="false">mapping-ovarian-cellular-and-molecular-landscape-across-the-lifespan-o-b370640c</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, epigenetics</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
-    </item>
-    <item>
       <title>Sperm mitochondrial DNA copy number: a marker of male fertility and reproductive success.</title>
       <link>https://europepmc.org/article/MED/42172631</link>
       <guid isPermaLink="false">sperm-mitochondrial-dna-copy-number-a-marker-of-male-fertility-and-rep-7babc498</guid>
@@ -365,6 +356,15 @@
       <category>papers</category>
       <category>epigenetics, ivg-germline, developmental-biology</category>
       <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>LncRNA THOR regulates spermatogenesis by interacting with and stabilizing Sycp3 protein in zebrafish.</title>
+      <link>https://europepmc.org/article/MED/42673516</link>
+      <guid isPermaLink="false">lncrna-thor-regulates-spermatogenesis-by-interacting-with-and-stabiliz-83c91bae</guid>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, crispr-engineering, 3d-genome, cohesin-ctcf</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
     </item>
   </channel>
 </rss>
