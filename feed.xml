@@ -5,16 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:48:24 +0900</lastBuildDate>
-    <item>
-      <title>Stanford Biosciences PhD 2027–28 — 14개 Home Program, 12월 1일 마감</title>
-      <link>https://biosciences.stanford.edu/how-to-apply/</link>
-      <guid isPermaLink="false">stanford-biosciences-phd-2027</guid>
-      <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
-      <category>graduate</category>
-      <category>us-opportunity, epigenetics, developmental-biology, 3d-genome</category>
-      <description>chromatin·development·biophysics·quantitative biology 연구진을 Home Program 경계를 넘어 rotation할 수 있어 장기 목표와 잘 맞는다. 다만 international funding이 제한적이므로 연구 적합도뿐 아니라 실제 funding 구조를 함께 평가해야 한다.</description>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 10:03:05 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -23,6 +14,15 @@
       <category>opportunities</category>
       <category>us-opportunity, developmental-biology, epigenetics</category>
       <description>미국 PhD 전에 장기간 미국 연구경험을 확보할 수 있는 현실적인 경로이며, chromatin·development·genomics와 맞는 lab을 직접 골라 PI에게 접근하는 구조다.</description>
+    </item>
+    <item>
+      <title>Stanford Biosciences PhD 2027–28 — 14개 Home Program, 12월 1일 마감</title>
+      <link>https://biosciences.stanford.edu/how-to-apply/</link>
+      <guid isPermaLink="false">stanford-biosciences-phd-2027</guid>
+      <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
+      <category>graduate</category>
+      <category>us-opportunity, epigenetics, developmental-biology, 3d-genome</category>
+      <description>chromatin·development·biophysics·quantitative biology 연구진을 Home Program 경계를 넘어 rotation할 수 있어 장기 목표와 잘 맞는다. 다만 international funding이 제한적이므로 연구 적합도뿐 아니라 실제 funding 구조를 함께 평가해야 한다.</description>
     </item>
     <item>
       <title>MIT Biology PhD 2027 — 10월 1일 지원 개시, BAAP 11월 1일까지</title>
@@ -43,15 +43,6 @@
       <description>IVG의 초기 병목을 growth factor 조합만으로 보지 않고 spatial geometry와 substrate mechanics가 germline competence를 결정하는 변수로 확장한다. 사용자의 mechanobiology × developmental epigenetics 관심과 직접 연결된다.</description>
     </item>
     <item>
-      <title>Stowers Summer Scholars — 국제학생·visa support 가능</title>
-      <link>https://www.stowers.org/gradschool/summer-scholars</link>
-      <guid isPermaLink="false">stowers-summer</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>us-opportunity</category>
-      <description>Chromatin regulation, chromosome structure, developmental genetics, stem cells를 연구하는 기관이라 사용자의 관심과 매우 잘 맞는다. 국제학생과 visa support가 명시된 점도 강점이다.</description>
-    </item>
-    <item>
       <title>hnRNPK condensate가 nascent RNA를 매개로 enhancer–promoter looping과 Pol II recruitment를 연결</title>
       <link>https://www.nature.com/articles/s41588-026-02710-y</link>
       <guid isPermaLink="false">hnrnpk-ep-loop-2026</guid>
@@ -68,6 +59,15 @@
       <category>papers</category>
       <category>epigenetics, mechanobiology</category>
       <description>기존의 mechanics→chromatin 방향뿐 아니라 chromatin state→whole-cell mechanics의 역방향 인과축을 제시한다. LEMD3–H3K9me3–HP1 및 nuclear deformation 프로젝트의 해석 범위를 넓힌다.</description>
+    </item>
+    <item>
+      <title>Stowers Summer Scholars — 국제학생·visa support 가능</title>
+      <link>https://www.stowers.org/gradschool/summer-scholars</link>
+      <guid isPermaLink="false">stowers-summer</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>opportunities</category>
+      <category>us-opportunity</category>
+      <description>Chromatin regulation, chromosome structure, developmental genetics, stem cells를 연구하는 기관이라 사용자의 관심과 매우 잘 맞는다. 국제학생과 visa support가 명시된 점도 강점이다.</description>
     </item>
     <item>
       <title>RBM46–MEIOC–YTHDC2 complex가 female meiotic initiation을 촉진</title>
@@ -151,6 +151,15 @@
       <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
     </item>
     <item>
+      <title>Evaluating embryo euploidy among patients diagnosed with inflammatory bowel disease undergoing in vitro fertilization.</title>
+      <link>https://europepmc.org/article/MED/42704288</link>
+      <guid isPermaLink="false">evaluating-embryo-euploidy-among-patients-diagnosed-with-inflammatory-bf5fce1d</guid>
+      <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
       <title>CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.</title>
       <link>https://europepmc.org/article/MED/42696576</link>
       <guid isPermaLink="false">ctcf-aligns-single-cell-tad-like-domain-boundaries-and-stabilizes-long-0cb883b3</guid>
@@ -176,6 +185,51 @@
       <category>papers</category>
       <category>epigenetics, cohesin-ctcf, developmental-biology, events-funding</category>
       <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Multiscale physical effects of CpG methylation on DNA mechanics, nucleosome wrapping, and chromatin condensates.</title>
+      <link>https://europepmc.org/article/MED/42686850</link>
+      <guid isPermaLink="false">multiscale-physical-effects-of-cpg-methylation-on-dna-mechanics-nucleo-97c09448</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, 3d-genome, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Hi-cGAN: Prediction of Hi-C interaction matrices with conditional generative adversarial networks</title>
+      <link>https://doi.org/10.64898/2026.08.30.748103</link>
+      <guid isPermaLink="false">hi-cgan-prediction-of-hi-c-interaction-matrices-with-conditional-gener-b4d66079</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, cohesin-ctcf</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression</title>
+      <link>https://doi.org/10.64898/2026.09.01.748477</link>
+      <guid isPermaLink="false">4-integrins-safeguard-nuclear-mechanics-to-suppress-prostate-cancer-pr-d41bc4c5</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>mechanobiology, 3d-genome, epigenetics</category>
+      <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>CSHL Undergraduate Research Program — 다음 cycle 감시</title>
+      <link>https://www.cshl.edu/education/undergraduate-research-program/</link>
+      <guid isPermaLink="false">cshl-urp</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>opportunities</category>
+      <category>us-opportunity</category>
+      <description>국제 학부생을 명시적으로 받는 드문 미국 생명과학 연구 프로그램이다. 다만 사용자의 졸업·대학원 입학 시점 때문에 2027 eligibility가 제한될 가능성이 높다.</description>
+    </item>
+    <item>
+      <title>Sequential refinement of ovum pick-up technical parameters improves oocyte recovery and developmental competence in Holstein cows.</title>
+      <link>https://europepmc.org/article/MED/42700768</link>
+      <guid isPermaLink="false">sequential-refinement-of-ovum-pick-up-technical-parameters-improves-oo-85b220c4</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
       <title>Molecular Regulation of Primordial Germ Cell Specification and Implications for In Vitro Gametogenesis.</title>
@@ -205,24 +259,6 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
-      <title>Multiscale physical effects of CpG methylation on DNA mechanics, nucleosome wrapping, and chromatin condensates.</title>
-      <link>https://europepmc.org/article/MED/42686850</link>
-      <guid isPermaLink="false">multiscale-physical-effects-of-cpg-methylation-on-dna-mechanics-nucleo-97c09448</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, 3d-genome, single-molecule</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Hi-cGAN: Prediction of Hi-C interaction matrices with conditional generative adversarial networks</title>
-      <link>https://doi.org/10.64898/2026.08.30.748103</link>
-      <guid isPermaLink="false">hi-cgan-prediction-of-hi-c-interaction-matrices-with-conditional-gener-b4d66079</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, cohesin-ctcf</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
       <title>A Promoter Competition Hub Orchestrates Runx1 Alternative Promoter Usage during Skeletal Muscle Stem Cell Activation</title>
       <link>https://doi.org/10.21203/rs.3.rs-10346668/v1</link>
       <guid isPermaLink="false">a-promoter-competition-hub-orchestrates-runx1-alternative-promoter-usa-4881c119</guid>
@@ -230,87 +266,6 @@
       <category>papers</category>
       <category>3d-genome, enhancer-promoter, developmental-biology</category>
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
-    </item>
-    <item>
-      <title>β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression</title>
-      <link>https://doi.org/10.64898/2026.09.01.748477</link>
-      <guid isPermaLink="false">4-integrins-safeguard-nuclear-mechanics-to-suppress-prostate-cancer-pr-d41bc4c5</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>mechanobiology, 3d-genome, epigenetics</category>
-      <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>A dynamic meiotic cohesin complex regulates synaptonemal complex assembly in Drosophila oocytes.</title>
-      <link>https://europepmc.org/article/MED/42334453</link>
-      <guid isPermaLink="false">a-dynamic-meiotic-cohesin-complex-regulates-synaptonemal-complex-assem-8958e3b3</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, ivg-germline</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Phase separation of DUX family proteins drives totipotent-like state via 3D genome reorganization and retrotransposon activation.</title>
-      <link>https://europepmc.org/article/MED/41832971</link>
-      <guid isPermaLink="false">phase-separation-of-dux-family-proteins-drives-totipotent-like-state-v-73b9442f</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, enhancer-promoter, developmental-biology, cohesin-ctcf</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
-    </item>
-    <item>
-      <title>X-inactivation escapee domains are CTCF-cohesin independent chromatin compartments</title>
-      <link>https://doi.org/10.64898/2026.08.31.748372</link>
-      <guid isPermaLink="false">x-inactivation-escapee-domains-are-ctcf-cohesin-independent-chromatin-ec472622</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, 3d-genome</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Improved FRET cGAMP reporter가 DNA-damage 후 rare cGAS activation을 직접 포착</title>
-      <link>https://www.nature.com/articles/s41556-026-02037-0</link>
-      <guid isPermaLink="false">cgamp-fret-2026</guid>
-      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>single-molecule, epigenetics, crispr-engineering</category>
-      <description>FRET sensor를 live-cell, population, purified system으로 연결하는 assay architecture가 매우 선명하다. 향후 3D epi-editor 또는 cohesin regulator의 biochemical–cellular validation workflow 설계에 참고할 수 있다.</description>
-    </item>
-    <item>
-      <title>CSHL Undergraduate Research Program — 다음 cycle 감시</title>
-      <link>https://www.cshl.edu/education/undergraduate-research-program/</link>
-      <guid isPermaLink="false">cshl-urp</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>us-opportunity</category>
-      <description>국제 학부생을 명시적으로 받는 드문 미국 생명과학 연구 프로그램이다. 다만 사용자의 졸업·대학원 입학 시점 때문에 2027 eligibility가 제한될 가능성이 높다.</description>
-    </item>
-    <item>
-      <title>Sequential refinement of ovum pick-up technical parameters improves oocyte recovery and developmental competence in Holstein cows.</title>
-      <link>https://europepmc.org/article/MED/42700768</link>
-      <guid isPermaLink="false">sequential-refinement-of-ovum-pick-up-technical-parameters-improves-oo-85b220c4</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Prevalence of BRCA1/2 variants in an Ovarian Cancer Cohort: outcomes from a Nationwide Testing Program.</title>
-      <link>https://europepmc.org/article/MED/42693191</link>
-      <guid isPermaLink="false">prevalence-of-brca1-2-variants-in-an-ovarian-cancer-cohort-outcomes-fr-149b2e56</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, single-molecule</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
-    </item>
-    <item>
-      <title>Oocyte quality in endometriosis-associated infertility: a narrative analysis of mechanisms and therapeutic options.</title>
-      <link>https://europepmc.org/article/MED/42690563</link>
-      <guid isPermaLink="false">oocyte-quality-in-endometriosis-associated-infertility-a-narrative-ana-b15b6b35</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
       <title>Comparative single-cell transcriptomics highlights species-biased developmental trajectories and candidate regulatory modules in primate spermatogenesis.</title>
@@ -340,6 +295,33 @@
       <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
+      <title>A dynamic meiotic cohesin complex regulates synaptonemal complex assembly in Drosophila oocytes.</title>
+      <link>https://europepmc.org/article/MED/42334453</link>
+      <guid isPermaLink="false">a-dynamic-meiotic-cohesin-complex-regulates-synaptonemal-complex-assem-8958e3b3</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, ivg-germline</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Phase separation of DUX family proteins drives totipotent-like state via 3D genome reorganization and retrotransposon activation.</title>
+      <link>https://europepmc.org/article/MED/41832971</link>
+      <guid isPermaLink="false">phase-separation-of-dux-family-proteins-drives-totipotent-like-state-v-73b9442f</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, enhancer-promoter, developmental-biology, cohesin-ctcf</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
+    </item>
+    <item>
+      <title>X-inactivation escapee domains are CTCF-cohesin independent chromatin compartments</title>
+      <link>https://doi.org/10.64898/2026.08.31.748372</link>
+      <guid isPermaLink="false">x-inactivation-escapee-domains-are-ctcf-cohesin-independent-chromatin-ec472622</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Spatial chromatin architecture and accessibility co-profiling of mammalian tissues.</title>
       <link>https://europepmc.org/article/MED/42680843</link>
       <guid isPermaLink="false">spatial-chromatin-architecture-and-accessibility-co-profiling-of-mamma-79e1a04b</guid>
@@ -365,6 +347,24 @@
       <category>papers</category>
       <category>ivg-germline, crispr-engineering, 3d-genome, cohesin-ctcf</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
+    </item>
+    <item>
+      <title>Improved FRET cGAMP reporter가 DNA-damage 후 rare cGAS activation을 직접 포착</title>
+      <link>https://www.nature.com/articles/s41556-026-02037-0</link>
+      <guid isPermaLink="false">cgamp-fret-2026</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>single-molecule, epigenetics, crispr-engineering</category>
+      <description>FRET sensor를 live-cell, population, purified system으로 연결하는 assay architecture가 매우 선명하다. 향후 3D epi-editor 또는 cohesin regulator의 biochemical–cellular validation workflow 설계에 참고할 수 있다.</description>
+    </item>
+    <item>
+      <title>Rockefeller SURF — 국제학생 가능, 다음 cycle 감시</title>
+      <link>https://www.rockefeller.edu/education-and-training/surf/application-information/</link>
+      <guid isPermaLink="false">rockefeller-surf</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>opportunities</category>
+      <category>us-opportunity</category>
+      <description>국제학생을 명시적으로 허용하고 housing까지 제공하는 미국 biomedical summer program이라는 점에서 가치가 높다. 그러나 sophomores/juniors 중심이므로 졸업 시점 eligibility를 주의해야 한다.</description>
     </item>
   </channel>
 </rss>
