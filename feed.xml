@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:03:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:07:24 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -151,6 +151,15 @@
       <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
     </item>
     <item>
+      <title>Residual cohesin function and PARP1 levels determine PARP inhibitor sensitivity in STAG2-deficient cancers</title>
+      <link>https://doi.org/10.64898/2026.09.04.749084</link>
+      <guid isPermaLink="false">residual-cohesin-function-and-parp1-levels-determine-parp-inhibitor-se-0aedfa53</guid>
+      <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Evaluating embryo euploidy among patients diagnosed with inflammatory bowel disease undergoing in vitro fertilization.</title>
       <link>https://europepmc.org/article/MED/42704288</link>
       <guid isPermaLink="false">evaluating-embryo-euploidy-among-patients-diagnosed-with-inflammatory-bf5fce1d</guid>
@@ -167,15 +176,6 @@
       <category>papers</category>
       <category>cohesin-ctcf, 3d-genome, enhancer-promoter</category>
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Rhbg is dispensable for spermatogenesis but fine-tunes sperm motility trajectory during capacitation in mice.</title>
-      <link>https://europepmc.org/article/MED/42695280</link>
-      <guid isPermaLink="false">rhbg-is-dispensable-for-spermatogenesis-but-fine-tunes-sperm-motility-188bb5ea</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, crispr-engineering</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
     </item>
     <item>
       <title>Methylome profiling of SetDB1-deficient ESCs reveals coordinated epigenetic cross-talk during pluripotency.</title>
@@ -205,31 +205,13 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression</title>
-      <link>https://doi.org/10.64898/2026.09.01.748477</link>
-      <guid isPermaLink="false">4-integrins-safeguard-nuclear-mechanics-to-suppress-prostate-cancer-pr-d41bc4c5</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>mechanobiology, 3d-genome, epigenetics</category>
-      <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>CSHL Undergraduate Research Program — 다음 cycle 감시</title>
-      <link>https://www.cshl.edu/education/undergraduate-research-program/</link>
-      <guid isPermaLink="false">cshl-urp</guid>
-      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>us-opportunity</category>
-      <description>국제 학부생을 명시적으로 받는 드문 미국 생명과학 연구 프로그램이다. 다만 사용자의 졸업·대학원 입학 시점 때문에 2027 eligibility가 제한될 가능성이 높다.</description>
-    </item>
-    <item>
-      <title>Sequential refinement of ovum pick-up technical parameters improves oocyte recovery and developmental competence in Holstein cows.</title>
-      <link>https://europepmc.org/article/MED/42700768</link>
-      <guid isPermaLink="false">sequential-refinement-of-ovum-pick-up-technical-parameters-improves-oo-85b220c4</guid>
+      <title>Rhbg is dispensable for spermatogenesis but fine-tunes sperm motility trajectory during capacitation in mice.</title>
+      <link>https://europepmc.org/article/MED/42695280</link>
+      <guid isPermaLink="false">rhbg-is-dispensable-for-spermatogenesis-but-fine-tunes-sperm-motility-188bb5ea</guid>
       <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+      <category>ivg-germline, crispr-engineering</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
     </item>
     <item>
       <title>Molecular Regulation of Primordial Germ Cell Specification and Implications for In Vitro Gametogenesis.</title>
@@ -268,6 +250,15 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
     </item>
     <item>
+      <title>β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression</title>
+      <link>https://doi.org/10.64898/2026.09.01.748477</link>
+      <guid isPermaLink="false">4-integrins-safeguard-nuclear-mechanics-to-suppress-prostate-cancer-pr-d41bc4c5</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>mechanobiology, 3d-genome, epigenetics</category>
+      <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Comparative single-cell transcriptomics highlights species-biased developmental trajectories and candidate regulatory modules in primate spermatogenesis.</title>
       <link>https://europepmc.org/article/MED/42685515</link>
       <guid isPermaLink="false">comparative-single-cell-transcriptomics-highlights-species-biased-deve-58c4a648</guid>
@@ -275,15 +266,6 @@
       <category>papers</category>
       <category>ivg-germline, cohesin-ctcf</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Profiling NFκB and VEGF Expression in Mouse Embryonic Stem Cells, Lung Cancer Cells, and Fibroblasts.</title>
-      <link>https://europepmc.org/article/MED/42684189</link>
-      <guid isPermaLink="false">profiling-nf-b-and-vegf-expression-in-mouse-embryonic-stem-cells-lung-80607d6c</guid>
-      <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>developmental-biology, cohesin-ctcf</category>
-      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>Sperm as a multilayered epigenetic information system: encoding and transmission of paternal environmental signals.</title>
@@ -322,24 +304,6 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>Spatial chromatin architecture and accessibility co-profiling of mammalian tissues.</title>
-      <link>https://europepmc.org/article/MED/42680843</link>
-      <guid isPermaLink="false">spatial-chromatin-architecture-and-accessibility-co-profiling-of-mamma-79e1a04b</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, epigenetics</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
-    </item>
-    <item>
-      <title>Sperm mitochondrial DNA copy number: a marker of male fertility and reproductive success.</title>
-      <link>https://europepmc.org/article/MED/42172631</link>
-      <guid isPermaLink="false">sperm-mitochondrial-dna-copy-number-a-marker-of-male-fertility-and-rep-7babc498</guid>
-      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, ivg-germline, developmental-biology</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
-    </item>
-    <item>
       <title>LncRNA THOR regulates spermatogenesis by interacting with and stabilizing Sycp3 protein in zebrafish.</title>
       <link>https://europepmc.org/article/MED/42673516</link>
       <guid isPermaLink="false">lncrna-thor-regulates-spermatogenesis-by-interacting-with-and-stabiliz-83c91bae</guid>
@@ -358,6 +322,15 @@
       <description>FRET sensor를 live-cell, population, purified system으로 연결하는 assay architecture가 매우 선명하다. 향후 3D epi-editor 또는 cohesin regulator의 biochemical–cellular validation workflow 설계에 참고할 수 있다.</description>
     </item>
     <item>
+      <title>CSHL Undergraduate Research Program — 다음 cycle 감시</title>
+      <link>https://www.cshl.edu/education/undergraduate-research-program/</link>
+      <guid isPermaLink="false">cshl-urp</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+      <category>opportunities</category>
+      <category>us-opportunity</category>
+      <description>국제 학부생을 명시적으로 받는 드문 미국 생명과학 연구 프로그램이다. 다만 사용자의 졸업·대학원 입학 시점 때문에 2027 eligibility가 제한될 가능성이 높다.</description>
+    </item>
+    <item>
       <title>Rockefeller SURF — 국제학생 가능, 다음 cycle 감시</title>
       <link>https://www.rockefeller.edu/education-and-training/surf/application-information/</link>
       <guid isPermaLink="false">rockefeller-surf</guid>
@@ -365,6 +338,33 @@
       <category>opportunities</category>
       <category>us-opportunity</category>
       <description>국제학생을 명시적으로 허용하고 housing까지 제공하는 미국 biomedical summer program이라는 점에서 가치가 높다. 그러나 sophomores/juniors 중심이므로 졸업 시점 eligibility를 주의해야 한다.</description>
+    </item>
+    <item>
+      <title>Sequential refinement of ovum pick-up technical parameters improves oocyte recovery and developmental competence in Holstein cows.</title>
+      <link>https://europepmc.org/article/MED/42700768</link>
+      <guid isPermaLink="false">sequential-refinement-of-ovum-pick-up-technical-parameters-improves-oo-85b220c4</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Prevalence of BRCA1/2 variants in an Ovarian Cancer Cohort: outcomes from a Nationwide Testing Program.</title>
+      <link>https://europepmc.org/article/MED/42693191</link>
+      <guid isPermaLink="false">prevalence-of-brca1-2-variants-in-an-ovarian-cancer-cohort-outcomes-fr-149b2e56</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, single-molecule</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
+    </item>
+    <item>
+      <title>Oocyte quality in endometriosis-associated infertility: a narrative analysis of mechanisms and therapeutic options.</title>
+      <link>https://europepmc.org/article/MED/42690563</link>
+      <guid isPermaLink="false">oocyte-quality-in-endometriosis-associated-infertility-a-narrative-ana-b15b6b35</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
   </channel>
 </rss>
