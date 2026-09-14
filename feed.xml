@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 13 Sep 2026 09:43:33 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:51:15 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -151,13 +151,22 @@
       <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
     </item>
     <item>
-      <title>Remodelling of chromatin architecture and super-enhancer landscape in lamin A/C depleted HGSOC</title>
-      <link>https://doi.org/10.64898/2026.09.07.749802</link>
-      <guid isPermaLink="false">remodelling-of-chromatin-architecture-and-super-enhancer-landscape-in-8442baeb</guid>
-      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+      <title>dcHiChIP: A comprehensive Nextflow-based pipeline for multiscale analysis of chromatin architecture from HiChIP data.</title>
+      <link>https://europepmc.org/article/MED/42730630</link>
+      <guid isPermaLink="false">dchichip-a-comprehensive-nextflow-based-pipeline-for-multiscale-analys-8405db3c</guid>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>mechanobiology, 3d-genome, enhancer-promoter</category>
-      <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+      <category>3d-genome, cohesin-ctcf</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Generation of eight-cell embryo-like cells from human pluripotent stem cells.</title>
+      <link>https://europepmc.org/article/MED/42728405</link>
+      <guid isPermaLink="false">generation-of-eight-cell-embryo-like-cells-from-human-pluripotent-stem-ed10444e</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>developmental-biology, ivg-germline, epigenetics</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>First Reported Live Birth Following ICSI in a Man with Combined Complete AZFb and AZFc Y-Chromosome Microdeletions and 45,X/46,XY Mosaicism</title>
@@ -169,13 +178,13 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
-      <title>Cumulus cell DNA fragmentation in relation to oocyte yield and blastocyst quality.</title>
-      <link>https://europepmc.org/article/MED/42715118</link>
-      <guid isPermaLink="false">cumulus-cell-dna-fragmentation-in-relation-to-oocyte-yield-and-blastoc-a5b63ffc</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+      <title>Remodelling of chromatin architecture and super-enhancer landscape in lamin A/C depleted HGSOC</title>
+      <link>https://doi.org/10.64898/2026.09.07.749802</link>
+      <guid isPermaLink="false">remodelling-of-chromatin-architecture-and-super-enhancer-landscape-in-8442baeb</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>developmental-biology, ivg-germline</category>
-      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+      <category>mechanobiology, 3d-genome, enhancer-promoter</category>
+      <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>Mechanotransduction in musculoskeletal mesenchymal tissues: implications for bone, tendon, and cartilage regenerative engineering-a narrative review.</title>
@@ -187,13 +196,13 @@
       <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
-      <title>In vitro oocyte maturation is associated with altered OCT4 promoter methylation, DNMT expression, and early embryonic development in transgenic mouse embryos.</title>
-      <link>https://europepmc.org/article/MED/42710902</link>
-      <guid isPermaLink="false">in-vitro-oocyte-maturation-is-associated-with-altered-oct4-promoter-me-a92b3da2</guid>
+      <title>First Cornelia de Lange Syndrome Type 4 Caused by the Gonadal Mosaicism of RAD21 Deletion.</title>
+      <link>https://europepmc.org/article/MED/42719089</link>
+      <guid isPermaLink="false">first-cornelia-de-lange-syndrome-type-4-caused-by-the-gonadal-mosaicis-f72a9592</guid>
       <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>ivg-germline, epigenetics, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+      <category>cohesin-ctcf, ivg-germline</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>Cohesin prevents local mixing of condensed euchromatic domains in living human cells.</title>
@@ -214,12 +223,21 @@
       <description>정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>Postnatal Ketone Deficiency Impairs Adult Oocyte Quality via Enhancing Histone Acetylation in Malnourished Mice.</title>
-      <link>https://europepmc.org/article/MED/42710673</link>
-      <guid isPermaLink="false">postnatal-ketone-deficiency-impairs-adult-oocyte-quality-via-enhancing-8beb583d</guid>
-      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+      <title>Cumulus cell DNA fragmentation in relation to oocyte yield and blastocyst quality.</title>
+      <link>https://europepmc.org/article/MED/42715118</link>
+      <guid isPermaLink="false">cumulus-cell-dna-fragmentation-in-relation-to-oocyte-yield-and-blastoc-a5b63ffc</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>ivg-germline, epigenetics</category>
+      <category>developmental-biology, ivg-germline</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>In vitro oocyte maturation is associated with altered OCT4 promoter methylation, DNMT expression, and early embryonic development in transgenic mouse embryos.</title>
+      <link>https://europepmc.org/article/MED/42710902</link>
+      <guid isPermaLink="false">in-vitro-oocyte-maturation-is-associated-with-altered-oct4-promoter-me-a92b3da2</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, epigenetics, developmental-biology</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
@@ -259,15 +277,6 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
-      <title>CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.</title>
-      <link>https://europepmc.org/article/MED/42696576</link>
-      <guid isPermaLink="false">ctcf-aligns-single-cell-tad-like-domain-boundaries-and-stabilizes-long-0cb883b3</guid>
-      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, 3d-genome, enhancer-promoter</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
       <title>CSHL Undergraduate Research Program — 다음 cycle 감시</title>
       <link>https://www.cshl.edu/education/undergraduate-research-program/</link>
       <guid isPermaLink="false">cshl-urp</guid>
@@ -277,13 +286,31 @@
       <description>국제 학부생을 명시적으로 받는 드문 미국 생명과학 연구 프로그램이다. 다만 사용자의 졸업·대학원 입학 시점 때문에 2027 eligibility가 제한될 가능성이 높다.</description>
     </item>
     <item>
-      <title>Repeat element-anchored enhancer-promoter interactions (REEPIs) shape the regulatory landscape of hormone-resistant breast cancer</title>
-      <link>https://doi.org/10.64898/2026.09.09.750334</link>
-      <guid isPermaLink="false">repeat-element-anchored-enhancer-promoter-interactions-reepis-shape-th-1bb3ca56</guid>
-      <pubDate>Fri, 11 Sep 2026 12:00:00 +0000</pubDate>
+      <title>Enhancer-promoter interaction maps in pig implantation tissue identify candidate cis-regulatory elements and regulatory variants.</title>
+      <link>https://europepmc.org/article/MED/42731767</link>
+      <guid isPermaLink="false">enhancer-promoter-interaction-maps-in-pig-implantation-tissue-identify-33434c57</guid>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
       <category>enhancer-promoter, epigenetics</category>
       <description>enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
+      <title>Postnatal Ketone Deficiency Impairs Adult Oocyte Quality via Enhancing Histone Acetylation in Malnourished Mice.</title>
+      <link>https://europepmc.org/article/MED/42710673</link>
+      <guid isPermaLink="false">postnatal-ketone-deficiency-impairs-adult-oocyte-quality-via-enhancing-8beb583d</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, epigenetics</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
+      <title>CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.</title>
+      <link>https://europepmc.org/article/MED/42696576</link>
+      <guid isPermaLink="false">ctcf-aligns-single-cell-tad-like-domain-boundaries-and-stabilizes-long-0cb883b3</guid>
+      <pubDate>Fri, 04 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome, enhancer-promoter</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>Rhbg is dispensable for spermatogenesis but fine-tunes sperm motility trajectory during capacitation in mice.</title>
@@ -322,42 +349,6 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>Molecular Regulation of Primordial Germ Cell Specification and Implications for In Vitro Gametogenesis.</title>
-      <link>https://europepmc.org/article/MED/42691131</link>
-      <guid isPermaLink="false">molecular-regulation-of-primordial-germ-cell-specification-and-implica-fc5409ad</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, epigenetics, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
-    </item>
-    <item>
-      <title>Maternal DNA repair safeguards genome stability during the oocyte-to-embryo transition.</title>
-      <link>https://europepmc.org/article/MED/42690696</link>
-      <guid isPermaLink="false">maternal-dna-repair-safeguards-genome-stability-during-the-oocyte-to-e-e7994183</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Characterization of the metabolome and proteome of stem cell-derived human primordial germ cell-like cells: a multi-omics approach.</title>
-      <link>https://europepmc.org/article/MED/42687859</link>
-      <guid isPermaLink="false">characterization-of-the-metabolome-and-proteome-of-stem-cell-derived-h-4cceb1f6</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>A Promoter Competition Hub Orchestrates Runx1 Alternative Promoter Usage during Skeletal Muscle Stem Cell Activation</title>
-      <link>https://doi.org/10.21203/rs.3.rs-10346668/v1</link>
-      <guid isPermaLink="false">a-promoter-competition-hub-orchestrates-runx1-alternative-promoter-usa-4881c119</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, enhancer-promoter, developmental-biology</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
-    </item>
-    <item>
       <title>β4-integrins safeguard nuclear mechanics to suppress prostate cancer progression</title>
       <link>https://doi.org/10.64898/2026.09.01.748477</link>
       <guid isPermaLink="false">4-integrins-safeguard-nuclear-mechanics-to-suppress-prostate-cancer-pr-d41bc4c5</guid>
@@ -365,6 +356,15 @@
       <category>papers</category>
       <category>mechanobiology, 3d-genome, epigenetics</category>
       <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>A dynamic meiotic cohesin complex regulates synaptonemal complex assembly in Drosophila oocytes.</title>
+      <link>https://europepmc.org/article/MED/42334453</link>
+      <guid isPermaLink="false">a-dynamic-meiotic-cohesin-complex-regulates-synaptonemal-complex-assem-8958e3b3</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, ivg-germline</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
   </channel>
 </rss>
