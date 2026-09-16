@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T09:51:15+09:00",
+  "generatedAt": "2026-09-16T10:11:37+09:00",
   "items": [
     {
       "id": "watch-error-stowers-scholars-2026-08-23",
@@ -473,6 +473,60 @@
       "detectedAt": "2026-09-14T09:51:57+09:00",
       "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
       "status": "check-failed"
+    },
+    {
+      "id": "watch-cshl-phd-2026-09-16",
+      "pageId": "cshl-phd",
+      "name": "CSHL PhD Admissions",
+      "url": "https://www.cshl.edu/phd-program/how-to-apply/",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "graduate",
+      "detectedAt": "2026-09-16T10:11:48+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
+    },
+    {
+      "id": "watch-cshl-urp-2026-09-16",
+      "pageId": "cshl-urp",
+      "name": "CSHL Undergraduate Research Program",
+      "url": "https://www.cshl.edu/education/undergraduate-research-program/",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-09-16T10:11:48+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
+    },
+    {
+      "id": "watch-error-stowers-scholars-2026-09-16",
+      "pageId": "stowers-scholars",
+      "name": "Stowers Research Scholars",
+      "url": "https://www.stowers.org/gradschool/research-scholars",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-09-16T10:11:48+09:00",
+      "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
+      "status": "check-failed"
+    },
+    {
+      "id": "watch-stanford-biosciences-phd-2026-09-16",
+      "pageId": "stanford-biosciences-phd",
+      "name": "Stanford Biosciences Admissions",
+      "url": "https://biosciences.stanford.edu/how-to-apply/",
+      "topics": [
+        "us-opportunity",
+        "epigenetics",
+        "developmental-biology"
+      ],
+      "section": "graduate",
+      "detectedAt": "2026-09-16T10:11:50+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
     }
   ]
 }
