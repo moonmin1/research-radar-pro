@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-18T10:08:42+09:00",
+  "generatedAt": "2026-09-19T10:03:26+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-09-18T10:08:42+09:00",
+      "lastSuccess": "2026-09-19T10:03:26+09:00",
       "latencyMs": 0,
       "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -14,26 +14,26 @@
       "id": "europepmc",
       "label": "Europe PMC",
       "status": "healthy",
-      "lastSuccess": "2026-09-18T10:08:42+09:00",
-      "latencyMs": 2308,
-      "items": 44,
-      "message": "Received 107; retained 44 after relevance filtering."
+      "lastSuccess": "2026-09-19T10:03:26+09:00",
+      "latencyMs": 2041,
+      "items": 52,
+      "message": "Received 140; retained 52 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
-      "status": "healthy",
-      "lastSuccess": "2026-09-18T10:08:42+09:00",
-      "latencyMs": 15707,
+      "status": "error",
+      "lastSuccess": null,
+      "latencyMs": null,
       "items": 0,
-      "message": "Received 30; retained 0 after relevance filtering."
+      "message": "TimeoutError: The read operation timed out"
     },
     {
       "id": "nih-rss",
       "label": "NIH Guide RSS",
       "status": "healthy",
-      "lastSuccess": "2026-09-18T10:08:42+09:00",
-      "latencyMs": 227,
+      "lastSuccess": "2026-09-19T10:03:26+09:00",
+      "latencyMs": 174,
       "items": 0,
       "message": "Received 5; retained 0 after relevance filtering."
     },
@@ -41,10 +41,10 @@
       "id": "page-watch",
       "label": "Curated programme page-watch",
       "status": "healthy",
-      "lastSuccess": "2026-09-18T10:08:42+09:00",
-      "latencyMs": 5886,
+      "lastSuccess": "2026-09-19T10:03:26+09:00",
+      "latencyMs": 5878,
       "items": 9,
-      "message": "Checked 10 pages; 1 change/error flags added."
+      "message": "Checked 10 pages; 3 change/error flags added."
     }
   ]
 }

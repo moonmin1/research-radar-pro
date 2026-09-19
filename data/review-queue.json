@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:08:42+09:00",
+  "generatedAt": "2026-09-19T10:03:26+09:00",
   "items": [
     {
       "id": "watch-error-stowers-scholars-2026-08-23",
@@ -565,6 +565,45 @@
       ],
       "section": "opportunities",
       "detectedAt": "2026-09-18T10:09:04+09:00",
+      "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
+      "status": "check-failed"
+    },
+    {
+      "id": "watch-rockefeller-phd-2026-09-19",
+      "pageId": "rockefeller-phd",
+      "name": "Rockefeller Graduate Admissions",
+      "url": "https://www.rockefeller.edu/education-and-training/graduate-program-in-bioscience/admissions/",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "graduate",
+      "detectedAt": "2026-09-19T10:04:04+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
+    },
+    {
+      "id": "watch-rockefeller-surf-2026-09-19",
+      "pageId": "rockefeller-surf",
+      "name": "Rockefeller SURF",
+      "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-09-19T10:04:06+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
+    },
+    {
+      "id": "watch-error-stowers-scholars-2026-09-19",
+      "pageId": "stowers-scholars",
+      "name": "Stowers Research Scholars",
+      "url": "https://www.stowers.org/gradschool/research-scholars",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-09-19T10:04:06+09:00",
       "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
       "status": "check-failed"
     }
