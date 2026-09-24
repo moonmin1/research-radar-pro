@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:21:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:15:36 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -151,13 +151,22 @@
       <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
     </item>
     <item>
+      <title>A splicing factor-cohesin association links RNA processing to cohesin-dependent genome folding.</title>
+      <link>https://europepmc.org/article/MED/42771525</link>
+      <guid isPermaLink="false">a-splicing-factor-cohesin-association-links-rna-processing-to-cohesin-6c70d494</guid>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Genomic imprinting of the metabolic regulator gene Klf14 is regulated by a paternal sub-TAD anchored at Mest .</title>
       <link>https://europepmc.org/article/MED/42767818</link>
       <guid isPermaLink="false">genomic-imprinting-of-the-metabolic-regulator-gene-klf14-is-regulated-35895f5e</guid>
       <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, cohesin-ctcf, epigenetics, crispr-engineering</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+      <category>epigenetics, 3d-genome, cohesin-ctcf, crispr-engineering</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>Spatial genome organization in nematodes with programmed DNA elimination.</title>
@@ -178,13 +187,13 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>Targeted Epigenetic Reactivation strategies as new treatments for Prader-Willi Syndrome: Achievements and Challenges.</title>
-      <link>https://europepmc.org/article/MED/42768751</link>
-      <guid isPermaLink="false">targeted-epigenetic-reactivation-strategies-as-new-treatments-for-prad-022b70c9</guid>
+      <title>FMR1-Associated Diminished Ovarian Reserve: Reduced Oocyte Yield Without Loss of Per-Embryo Ploidy.</title>
+      <link>https://europepmc.org/article/MED/42772432</link>
+      <guid isPermaLink="false">fmr1-associated-diminished-ovarian-reserve-reduced-oocyte-yield-withou-0ae403bc</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>epigenetics, crispr-engineering</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
       <title>Investigation of laparoscopic ovum-pickup in juvenile heifers followed by in vitro embryo production and embryo transfer in dairy cattle.</title>
@@ -214,22 +223,22 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
     </item>
     <item>
-      <title>Developmentally programmed loss of long-range Polycomb interactions is regulated by cohesin</title>
-      <link>https://doi.org/10.64898/2026.09.15.749901</link>
-      <guid isPermaLink="false">developmentally-programmed-loss-of-long-range-polycomb-interactions-is-9125b39e</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <title>Targeted Epigenetic Reactivation strategies as new treatments for Prader-Willi Syndrome: Achievements and Challenges.</title>
+      <link>https://europepmc.org/article/MED/42768751</link>
+      <guid isPermaLink="false">targeted-epigenetic-reactivation-strategies-as-new-treatments-for-prad-022b70c9</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>cohesin-ctcf, epigenetics</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+      <category>epigenetics, crispr-engineering</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
     </item>
     <item>
-      <title>Epi-PoreC: a nanopore-based method for simultaneous profiling of chromatin conformation, DNA methylation, and chromatin accessibility</title>
-      <link>https://doi.org/10.64898/2026.09.15.751767</link>
-      <guid isPermaLink="false">epi-porec-a-nanopore-based-method-for-simultaneous-profiling-of-chroma-d609022c</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <title>INO80 rapidly shuttles nucleosomes between chromatin barriers</title>
+      <link>https://doi.org/10.64898/2026.09.20.752975</link>
+      <guid isPermaLink="false">ino80-rapidly-shuttles-nucleosomes-between-chromatin-barriers-dd8ccc1e</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>epigenetics, 3d-genome, single-molecule</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+      <category>epigenetics, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
     </item>
     <item>
       <title>Density Gradient Centrifugation Versus Swim-Up for Cumulative Live Birth in IVF/ICSI Cycles With High Sperm DNA Fragmentation: A Propensity Score Matching Analysis.</title>
@@ -239,15 +248,6 @@
       <category>papers</category>
       <category>developmental-biology, ivg-germline</category>
       <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>CRISPR and Gene Editing Approaches in Prostate Cancer: Clinical Applications and Therapeutic Potential.</title>
-      <link>https://europepmc.org/article/MED/42763006</link>
-      <guid isPermaLink="false">crispr-and-gene-editing-approaches-in-prostate-cancer-clinical-applica-b8a6262c</guid>
-      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>crispr-engineering, epigenetics</category>
-      <description>programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
       <title>Viral Infection of Cumulus Cells Impairs the Developmental Competence of Ovulated Mouse Oocytes.</title>
@@ -293,6 +293,24 @@
       <category>papers</category>
       <category>ivg-germline, mechanobiology, developmental-biology</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다.</description>
+    </item>
+    <item>
+      <title>Developmentally programmed loss of long-range Polycomb interactions is regulated by cohesin</title>
+      <link>https://doi.org/10.64898/2026.09.15.749901</link>
+      <guid isPermaLink="false">developmentally-programmed-loss-of-long-range-polycomb-interactions-is-9125b39e</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, epigenetics</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
+      <title>Epi-PoreC: a nanopore-based method for simultaneous profiling of chromatin conformation, DNA methylation, and chromatin accessibility</title>
+      <link>https://doi.org/10.64898/2026.09.15.751767</link>
+      <guid isPermaLink="false">epi-porec-a-nanopore-based-method-for-simultaneous-profiling-of-chroma-d609022c</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, 3d-genome, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>DiffDomain-Spectrum identifies structurally reorganized TADs from sparse aggregated single-cell Hi-C contact maps</title>
@@ -347,24 +365,6 @@
       <category>papers</category>
       <category>cohesin-ctcf, 3d-genome</category>
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Disruption of CTCF-mediated IGF2 repression promotes AKT-dependent mitochondrial oxidative stress and chondrocyte senescence in osteoarthritis.</title>
-      <link>https://europepmc.org/article/MED/42749046</link>
-      <guid isPermaLink="false">disruption-of-ctcf-mediated-igf2-repression-promotes-akt-dependent-mit-ace19525</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, epigenetics</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
-    </item>
-    <item>
-      <title>3D chromatin remodeling during domestication defines novel targets for crop improvement.</title>
-      <link>https://europepmc.org/article/MED/42748920</link>
-      <guid isPermaLink="false">3d-chromatin-remodeling-during-domestication-defines-novel-targets-for-ec696815</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, epigenetics</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
   </channel>
 </rss>
