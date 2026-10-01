@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:54:56+09:00",
+  "generatedAt": "2026-10-01T10:55:19+09:00",
   "items": [
     {
       "id": "watch-error-stowers-scholars-2026-08-23",
@@ -807,6 +807,35 @@
       "detectedAt": "2026-09-30T10:55:02+09:00",
       "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
       "status": "check-failed"
+    },
+    {
+      "id": "watch-error-stowers-scholars-2026-10-01",
+      "pageId": "stowers-scholars",
+      "name": "Stowers Research Scholars",
+      "url": "https://www.stowers.org/gradschool/research-scholars",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-10-01T10:55:25+09:00",
+      "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
+      "status": "check-failed"
+    },
+    {
+      "id": "watch-cshl-meetings-2026-10-01",
+      "pageId": "cshl-meetings",
+      "name": "CSHL Meetings",
+      "url": "https://meetings.cshl.edu/",
+      "topics": [
+        "events-funding",
+        "3d-genome",
+        "epigenetics",
+        "ivg-germline"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-10-01T10:55:26+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
     }
   ]
 }
