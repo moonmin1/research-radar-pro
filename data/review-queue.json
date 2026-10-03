@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T11:04:49+09:00",
+  "generatedAt": "2026-10-03T10:48:58+09:00",
   "items": [
     {
       "id": "watch-error-stowers-scholars-2026-08-23",
@@ -863,6 +863,34 @@
       ],
       "section": "opportunities",
       "detectedAt": "2026-10-02T11:05:09+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
+    },
+    {
+      "id": "watch-error-stowers-scholars-2026-10-03",
+      "pageId": "stowers-scholars",
+      "name": "Stowers Research Scholars",
+      "url": "https://www.stowers.org/gradschool/research-scholars",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-10-03T10:49:11+09:00",
+      "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
+      "status": "check-failed"
+    },
+    {
+      "id": "watch-mit-biology-phd-2026-10-03",
+      "pageId": "mit-biology-phd",
+      "name": "MIT Biology Graduate Admissions",
+      "url": "https://biology.mit.edu/graduate/prospective-students/application-process/",
+      "topics": [
+        "us-opportunity",
+        "epigenetics",
+        "developmental-biology"
+      ],
+      "section": "graduate",
+      "detectedAt": "2026-10-03T10:49:14+09:00",
       "reason": "Visible page content hash changed; editorial review required.",
       "status": "needs-review"
     }
