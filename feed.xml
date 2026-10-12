@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 11 Oct 2026 10:44:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:11:38 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -151,6 +151,15 @@
       <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
     </item>
     <item>
+      <title>Disrupted chromatin architecture blocks B lymphopoiesis in Down syndrome</title>
+      <link>https://doi.org/10.64898/2026.10.07.757425</link>
+      <guid isPermaLink="false">disrupted-chromatin-architecture-blocks-b-lymphopoiesis-in-down-syndro-1daa1985</guid>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, epigenetics</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
       <title>A modular DNA toolkit for single-molecule biophysics</title>
       <link>https://doi.org/10.64898/2026.10.09.757888</link>
       <guid isPermaLink="false">a-modular-dna-toolkit-for-single-molecule-biophysics-fb55488d</guid>
@@ -178,15 +187,6 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains</title>
-      <link>https://doi.org/10.64898/2026.10.05.753292</link>
-      <guid isPermaLink="false">heterochromatin-protein-1-acts-as-an-essential-stabilizer-of-chromatin-f3a9142a</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, cohesin-ctcf, 3d-genome, crispr-engineering</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
       <title>MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation</title>
       <link>https://doi.org/10.64898/2026.10.08.757605</link>
       <guid isPermaLink="false">macroh2a1-and-h3k27me3-target-cgas-to-facultative-heterochromatin-to-r-d3819fa2</guid>
@@ -196,13 +196,13 @@
       <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>Active maintenance of accessible chromatin at poised meiotic promoters by the NFYA-NURF axis is required for meiotic entry in mice</title>
-      <link>https://doi.org/10.64898/2026.10.07.757370</link>
-      <guid isPermaLink="false">active-maintenance-of-accessible-chromatin-at-poised-meiotic-promoters-0a0c6b4a</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains</title>
+      <link>https://doi.org/10.64898/2026.10.05.753292</link>
+      <guid isPermaLink="false">heterochromatin-protein-1-acts-as-an-essential-stabilizer-of-chromatin-f3a9142a</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>ivg-germline, epigenetics</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+      <category>epigenetics, cohesin-ctcf, 3d-genome, crispr-engineering</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>Human FACT complex coordinates cohesin and transcription on chromatin</title>
@@ -241,6 +241,15 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
+      <title>Active maintenance of accessible chromatin at poised meiotic promoters by the NFYA-NURF axis is required for meiotic entry in mice</title>
+      <link>https://doi.org/10.64898/2026.10.07.757370</link>
+      <guid isPermaLink="false">active-maintenance-of-accessible-chromatin-at-poised-meiotic-promoters-0a0c6b4a</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, epigenetics</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
       <title>Multi-omic long-read sequencing reveals nucleosome control of transcriptional fidelity at the isoform level</title>
       <link>https://doi.org/10.64898/2026.10.08.757737</link>
       <guid isPermaLink="false">multi-omic-long-read-sequencing-reveals-nucleosome-control-of-transcri-2731ceef</guid>
@@ -257,24 +266,6 @@
       <category>papers</category>
       <category>3d-genome, enhancer-promoter, epigenetics</category>
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
-    </item>
-    <item>
-      <title>Single-molecule chromatin tracing reveals a diversity of megabase heterochromatin domains.</title>
-      <link>https://europepmc.org/article/MED/42827176</link>
-      <guid isPermaLink="false">single-molecule-chromatin-tracing-reveals-a-diversity-of-megabase-hete-ffacab6c</guid>
-      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, 3d-genome, single-molecule, developmental-biology</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4 + T cells.</title>
-      <link>https://europepmc.org/article/MED/42826184</link>
-      <guid isPermaLink="false">aging-associated-satb1-deficiency-remodels-3d-genome-architecture-and-c5362444</guid>
-      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, cohesin-ctcf, enhancer-promoter, developmental-biology</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>Systematic mapping of enhancers, silencers, and topological elements with prime editing deletion screens</title>
@@ -311,6 +302,24 @@
       <category>papers</category>
       <category>epigenetics, 3d-genome</category>
       <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Single-molecule chromatin tracing reveals a diversity of megabase heterochromatin domains.</title>
+      <link>https://europepmc.org/article/MED/42827176</link>
+      <guid isPermaLink="false">single-molecule-chromatin-tracing-reveals-a-diversity-of-megabase-hete-ffacab6c</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, 3d-genome, single-molecule, developmental-biology</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Aging-associated SATB1 deficiency remodels 3D genome architecture and transcriptional programs in naive CD4 + T cells.</title>
+      <link>https://europepmc.org/article/MED/42826184</link>
+      <guid isPermaLink="false">aging-associated-satb1-deficiency-remodels-3d-genome-architecture-and-c5362444</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, cohesin-ctcf, enhancer-promoter, developmental-biology</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>Maternal obesity imprints methylation marks in oocytes to drive intergenerational metabolic dysfunction.</title>
@@ -356,15 +365,6 @@
       <category>papers</category>
       <category>3d-genome, enhancer-promoter</category>
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
-    </item>
-    <item>
-      <title>Cohesin on the move: navigating genomic traffic during loop extrusion.</title>
-      <link>https://europepmc.org/article/MED/42822246</link>
-      <guid isPermaLink="false">cohesin-on-the-move-navigating-genomic-traffic-during-loop-extrusion-59df481f</guid>
-      <pubDate>Thu, 01 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, 3d-genome</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
   </channel>
 </rss>

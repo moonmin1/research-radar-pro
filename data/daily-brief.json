@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T10:44:05+09:00",
-  "title": "Research Radar — 2026-10-11",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T11:11:38+09:00",
+  "title": "Research Radar — 2026-10-12",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
     "janelia-visiting-scientist",
-    "a-modular-dna-toolkit-for-single-molecule-biophysics-fb55488d",
     "mit-biology-phd-2027",
+    "disrupted-chromatin-architecture-blocks-b-lymphopoiesis-in-down-syndro-1daa1985",
+    "a-modular-dna-toolkit-for-single-molecule-biophysics-fb55488d",
     "senescence-induced-spatio-temporal-re-organization-of-the-nuclear-lami-86e43cba",
-    "mitochondrial-amino-acid-export-preserves-mitochondrial-volume-at-the-c241c9e8",
-    "heterochromatin-protein-1-acts-as-an-essential-stabilizer-of-chromatin-f3a9142a"
+    "mitochondrial-amino-acid-export-preserves-mitochondrial-volume-at-the-c241c9e8"
   ],
   "counts": {
     "total": 250,
-    "new72h": 12,
+    "new72h": 11,
     "papers": 239,
     "opportunities": 6,
     "graduate": 5,
