@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T11:11:38+09:00",
-  "title": "Research Radar — 2026-10-12",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T12:25:55+09:00",
+  "title": "Research Radar — 2026-10-13",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
@@ -9,12 +9,12 @@
     "mit-biology-phd-2027",
     "disrupted-chromatin-architecture-blocks-b-lymphopoiesis-in-down-syndro-1daa1985",
     "a-modular-dna-toolkit-for-single-molecule-biophysics-fb55488d",
-    "senescence-induced-spatio-temporal-re-organization-of-the-nuclear-lami-86e43cba",
-    "mitochondrial-amino-acid-export-preserves-mitochondrial-volume-at-the-c241c9e8"
+    "macroh2a1-and-h3k27me3-target-cgas-to-facultative-heterochromatin-to-r-d3819fa2",
+    "senescence-induced-spatio-temporal-re-organization-of-the-nuclear-lami-86e43cba"
   ],
   "counts": {
     "total": 250,
-    "new72h": 11,
+    "new72h": 2,
     "papers": 239,
     "opportunities": 6,
     "graduate": 5,
