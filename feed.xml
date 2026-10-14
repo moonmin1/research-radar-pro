@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:25:55 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:42:43 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -169,15 +169,6 @@
       <description>정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation</title>
-      <link>https://doi.org/10.64898/2026.10.08.757605</link>
-      <guid isPermaLink="false">macroh2a1-and-h3k27me3-target-cgas-to-facultative-heterochromatin-to-r-d3819fa2</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, cohesin-ctcf</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
       <title>Senescence-induced Spatio-temporal Re-organization of the Nuclear Lamina Dynamic Landscape at Single-molecule Level in Live Human RPE Cells</title>
       <link>https://doi.org/10.64898/2026.10.08.756399</link>
       <guid isPermaLink="false">senescence-induced-spatio-temporal-re-organization-of-the-nuclear-lami-86e43cba</guid>
@@ -205,13 +196,13 @@
       <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>Human FACT complex coordinates cohesin and transcription on chromatin</title>
-      <link>https://doi.org/10.64898/2026.10.06.754922</link>
-      <guid isPermaLink="false">human-fact-complex-coordinates-cohesin-and-transcription-on-chromatin-8d79299c</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <title>MacroH2A1 and H3K27me3 target cGAS to facultative heterochromatin to restrain innate immune activation</title>
+      <link>https://doi.org/10.64898/2026.10.08.757605</link>
+      <guid isPermaLink="false">macroh2a1-and-h3k27me3-target-cgas-to-facultative-heterochromatin-to-r-d3819fa2</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>cohesin-ctcf, 3d-genome, epigenetics</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+      <category>epigenetics, cohesin-ctcf</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>Active maintenance of accessible chromatin at poised meiotic promoters by the NFYA-NURF axis is required for meiotic entry in mice</title>
@@ -223,13 +214,13 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
-      <title>Multi-omic long-read sequencing reveals nucleosome control of transcriptional fidelity at the isoform level</title>
-      <link>https://doi.org/10.64898/2026.10.08.757737</link>
-      <guid isPermaLink="false">multi-omic-long-read-sequencing-reveals-nucleosome-control-of-transcri-2731ceef</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Human FACT complex coordinates cohesin and transcription on chromatin</title>
+      <link>https://doi.org/10.64898/2026.10.06.754922</link>
+      <guid isPermaLink="false">human-fact-complex-coordinates-cohesin-and-transcription-on-chromatin-8d79299c</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>epigenetics, single-molecule</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
+      <category>cohesin-ctcf, 3d-genome, epigenetics</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>Molecular Mechanisms of Three-Dimensional Genome Architecture and Its Implications for Cancer</title>
@@ -259,13 +250,13 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
-      <title>ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.</title>
-      <link>https://europepmc.org/article/MED/42829930</link>
-      <guid isPermaLink="false">elf5-mediated-enhancer-promoter-interaction-regulates-lalba-expression-5320e66b</guid>
-      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Multi-omic long-read sequencing reveals nucleosome control of transcriptional fidelity at the isoform level</title>
+      <link>https://doi.org/10.64898/2026.10.08.757737</link>
+      <guid isPermaLink="false">multi-omic-long-read-sequencing-reveals-nucleosome-control-of-transcri-2731ceef</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, enhancer-promoter, epigenetics</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
+      <category>epigenetics, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
     </item>
     <item>
       <title>Epigenome Alterations and 3D Chromatin Architecture Remodeling in Inflammatory Macrophage Activation under Diabetic Conditions</title>
@@ -277,22 +268,13 @@
       <description>enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
-      <title>Adenosine refines the balance of spermatogonial proliferation and differentiation</title>
-      <link>https://doi.org/10.64898/2026.10.04.756557</link>
-      <guid isPermaLink="false">adenosine-refines-the-balance-of-spermatogonial-proliferation-and-diff-d956f290</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <title>ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.</title>
+      <link>https://europepmc.org/article/MED/42829930</link>
+      <guid isPermaLink="false">elf5-mediated-enhancer-promoter-interaction-regulates-lalba-expression-5320e66b</guid>
+      <pubDate>Sun, 04 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Cell-free DNA fragmentomics: from chromatin biology to clinical stratification.</title>
-      <link>https://europepmc.org/article/MED/42829334</link>
-      <guid isPermaLink="false">cell-free-dna-fragmentomics-from-chromatin-biology-to-clinical-stratif-93d9ee00</guid>
-      <pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, 3d-genome</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+      <category>3d-genome, enhancer-promoter, epigenetics</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
     </item>
     <item>
       <title>Single-molecule chromatin tracing reveals a diversity of megabase heterochromatin domains.</title>
@@ -349,6 +331,15 @@
       <description>programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
+      <title>Adenosine refines the balance of spermatogonial proliferation and differentiation</title>
+      <link>https://doi.org/10.64898/2026.10.04.756557</link>
+      <guid isPermaLink="false">adenosine-refines-the-balance-of-spermatogonial-proliferation-and-diff-d956f290</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
       <title>Integrated genetic and epigenetic diagnosis of facioscapulohumeral muscular dystrophy using Oxford Nanopore long-read sequencing.</title>
       <link>https://europepmc.org/article/MED/42830351</link>
       <guid isPermaLink="false">integrated-genetic-and-epigenetic-diagnosis-of-facioscapulohumeral-mus-a67a9fbe</guid>
@@ -356,6 +347,15 @@
       <category>papers</category>
       <category>epigenetics, single-molecule</category>
       <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
+    </item>
+    <item>
+      <title>Cell-free DNA fragmentomics: from chromatin biology to clinical stratification.</title>
+      <link>https://europepmc.org/article/MED/42829334</link>
+      <guid isPermaLink="false">cell-free-dna-fragmentomics-from-chromatin-biology-to-clinical-stratif-93d9ee00</guid>
+      <pubDate>Sat, 03 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, 3d-genome</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>Maternal obesity imprints methylation marks in oocytes to drive intergenerational metabolic dysfunction.</title>
