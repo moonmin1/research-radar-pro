@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-14T10:42:43+09:00",
-  "title": "Research Radar — 2026-10-14",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T10:19:06+09:00",
+  "title": "Research Radar — 2026-10-15",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
@@ -14,7 +14,7 @@
   ],
   "counts": {
     "total": 250,
-    "new72h": 1,
+    "new72h": 0,
     "papers": 239,
     "opportunities": 6,
     "graduate": 5,
