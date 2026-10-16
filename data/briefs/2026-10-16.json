@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T10:04:44+09:00",
+  "title": "Research Radar — 2026-10-16",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "mit-biology-phd-2027",
+    "a-modular-dna-toolkit-for-single-molecule-biophysics-fb55488d",
+    "disrupted-chromatin-architecture-blocks-b-lymphopoiesis-in-down-syndro-1daa1985",
+    "senescence-induced-spatio-temporal-re-organization-of-the-nuclear-lami-86e43cba",
+    "mitochondrial-amino-acid-export-preserves-mitochondrial-volume-at-the-c241c9e8"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 0,
+    "papers": 239,
+    "opportunities": 6,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
