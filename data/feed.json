@@ -1138,6 +1138,79 @@
       "subsection": "research-experience"
     },
     {
+      "id": "guanine-content-in-the-ctcf-motif-encodes-a-vulnerability-to-persisten-b6e2b0b0",
+      "title": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution",
+      "titleKo": "Guanine content in the CTCF motif encodes a vulnerability to persistent, alcohol-induced redistribution",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "cohesin-ctcf",
+        "enhancer-promoter",
+        "3d-genome"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.64898/2026.10.14.759128"
+      },
+      "publishedAt": "2026-10-16",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.64898/2026.10.14.759128",
+      "doi": "10.64898/2026.10.14.759128",
+      "pmid": null,
+      "authors": [
+        "Nolan B",
+        "Puspo JA",
+        "Querry-Peterson IM",
+        "Maurina S",
+        "Wright RA",
+        "Schmitz A",
+        "Jacobsen LE",
+        "Ortiz C",
+        "Reznicek TE",
+        "Ethell A",
+        "Harris HL",
+        "Cummings CT",
+        "Rowley MJ."
+      ],
+      "summary": "Alcohol consumption is a leading contributor to the global disease burden, yet its molecular consequences remain incompletely understood. Ethanols first metabolite, acetaldehyde, modifies guanine to form DNA adducts and DNA-protein crosslinks that block elongating RNA polymerase II. Because acetaldehyde acts specifically on guanine, we hypothesized that chromatin features would be disrupted in a sequence-dependent rather than stochastic manner. Here we confirm that alcohol exposure displaces elongating RNA polymerase II (RNAPIIs2p) from gene bodies, relocating to promoters. In addition to this confirmation, we found that RNAPIIs2p also relocates to discrete guanine-rich intergenic CTCF sites. Loci with high guanine content at the CTCF motifs zinc finger 5 (ZF5) binding position showed the largest increase in both CTCF and cohesin (RAD21)…",
+      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "cohesin",
+        "ctcf",
+        "enhancer-promoter",
+        "enhancer promoter",
+        "3d genome",
+        "three-dimensional genome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-10-18",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
       "id": "understanding-the-role-of-chromatin-accessibility-and-compaction-on-lo-bd488f93",
       "title": "Understanding the role of chromatin accessibility and compaction on loop extrusion dynamics",
       "titleKo": "Understanding the role of chromatin accessibility and compaction on loop extrusion dynamics",
@@ -1189,7 +1262,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
+        "checkedAt": "2026-10-18",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -1235,7 +1308,7 @@
         "Naik S",
         "Stillman B."
       ],
-      "summary": "DNA replication licensing is tightly coordinated with cell-cycle progression to ensure genome stability. Here we demonstrate that CIZ1, a nuclear matrix scaffold protein in human cells, coordinates DNA replication licensing through direct interactions with the Origin Recognition Complex (ORC), CDC6, and Cyclins E/A–CDK2. The C–terminal zinc finger region of CIZ1 mediates binding to the cyclin-binding motifs of ORC1 and CDC6, and Cyclin –CDK-dependent phosphorylation regulates these interactions. Cell cycle analyses demonstrated a dynamic association of CIZ1 with ORC1 and CDC6. Functional studies showed that CIZ1 depletion impaired MCM loading, reduced DNA synthesis, delayed S-phase progression and inhibited cell proliferation. Cancer cells overexpressing CIZ1 exhibited an enhanced dependency on its expression, and CRISPR tiling screens i…",
+      "summary": "DNA replication licensing is tightly coordinated with cell-cycle progression to ensure genome stability. Here we demonstrate that CIZ1, a nuclear matrix scaffold protein in human cells, coordinates DNA replication licensing through direct interactions with the Origin Recognition Complex (ORC), CDC6, and Cyclins E/A–CDK2. The C-terminal zinc finger region of CIZ1 mediates binding to the cyclin-binding motifs of ORC1 and CDC6, and Cyclin–CDK-dependent phosphorylation regulates these interactions. Cell cycle analyses demonstrated a dynamic association of CIZ1 with ORC1 and CDC6. Functional studies showed that CIZ1 depletion impaired MCM loading, reduced DNA synthesis, delayed S-phase progression and inhibited cell proliferation. Cancer cells overexpressing CIZ1 exhibited an enhanced dependency on its expression, and CRISPR tiling screens id…",
       "whyItMatters": "3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
@@ -1253,84 +1326,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 96,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "systemic-control-and-inter-organ-communication-of-ovarian-aging-f3af2497",
-      "title": "Systemic control and inter-organ communication of ovarian aging",
-      "titleKo": "Systemic control and inter-organ communication of ovarian aging",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "epigenetics",
-        "ivg-germline"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.64898/2026.10.11.758357"
-      },
-      "publishedAt": "2026-10-13",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.64898/2026.10.11.758357",
-      "doi": "10.64898/2026.10.11.758357",
-      "pmid": null,
-      "authors": [
-        "Iqbal S",
-        "Tyshkovskiy A",
-        "Zhang B",
-        "Zhang S",
-        "Moliere A",
-        "Ying K",
-        "Bai Y",
-        "Steven H",
-        "Goeminne L",
-        "Alba-Linares JJ",
-        "Jacques E",
-        "Hossain MA",
-        "Glubokov D",
-        "Moldakozhayev A",
-        "Poganik JR",
-        "Moqri M",
-        "Agar N",
-        "Chen F",
-        "Horvath S",
-        "Gladyshev VN."
-      ],
-      "summary": "Whether ovarian aging is intrinsic and unidirectional or dynamically regulated by systemic context remains an open question for fertility and women's healthspan. To address it, we developed a mouse ovarian transcriptomic aging clock (OvaAge) and applied it, together with published transcriptomic, epigenetic and pathway-resolved DNA methylation (PathAge) clocks, multi-omic analyses and reproductive outcomes, to new reciprocal heterochronic ovary transplantation and parabiosis experiments. Ovarian molecular age shifted in both directions: aged ovaries became younger in young hosts and young ovaries became older in aged hosts, and in each case the shift was partial across transcriptomic, epigenetic and pathway-resolved measures. Ovaries from 13-month-old C57BL/6J donors supported full-term pregnancies and live births at 17-18 months of age…",
-      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "epigenetic",
-        "epigenome",
-        "in vitro gametogenesis",
-        "ivg"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
+        "checkedAt": "2026-10-18",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -1620,78 +1616,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "heterochromatin-protein-1-acts-as-an-essential-stabilizer-of-chromatin-f3a9142a",
-      "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains",
-      "titleKo": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "epigenetics",
-        "cohesin-ctcf",
-        "3d-genome",
-        "crispr-engineering"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.64898/2026.10.05.753292"
-      },
-      "publishedAt": "2026-10-08",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.64898/2026.10.05.753292",
-      "doi": "10.64898/2026.10.05.753292",
-      "pmid": null,
-      "authors": [
-        "Kuo T",
-        "Carrillo Gonzalez P",
-        "Acosta N",
-        "Carter LM",
-        "Pujadas Liwag E",
-        "Arriaga CV",
-        "Johnson B",
-        "Dunton CL",
-        "Almassalha LM",
-        "Szleifer I",
-        "Backman V."
-      ],
-      "summary": "Background: : The spatial organization of the human genome emerges from an enzyme-guided self-assembly process in which chromatin has a bidirectional relationship with transcription. Central to this architecture are chromatin packing domains, 50-200 nm structures exhibiting mass-scaling behavior. Nascent domains arise through transcription and cohesin/CTCF-mediated loop extrusion, while their maturation depends on conditions that permit differential access of epigenetic enzymes to their dense cores and continuously lower density periphery, resulting in the accumulation of heterochromatic marks in domain cores and euchromatic marks outside of the domain cores. In turn, packing domains support transcription by creating an \"ideal zone\" peripherally to their cores due to a nonmonotonic dependence of transcription rate on local chromatin dens…",
-      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "epigenetic",
-        "epigenome",
-        "cohesin",
-        "ctcf",
-        "3d genome",
-        "three-dimensional genome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-13",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "peripheral-bdnf-regulation-and-inflammation-in-bipolar-disorder-a-mult-0adc1d6a",
       "title": "Peripheral BDNF regulation and inflammation in bipolar disorder: a multimodal study",
       "titleKo": "Peripheral BDNF regulation and inflammation in bipolar disorder: a multimodal study",
@@ -1750,12 +1674,89 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
+        "checkedAt": "2026-10-18",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
         "baseRelevance": 95,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "systemic-control-and-inter-organ-communication-of-ovarian-aging-f3af2497",
+      "title": "Systemic control and inter-organ communication of ovarian aging",
+      "titleKo": "Systemic control and inter-organ communication of ovarian aging",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "epigenetics",
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.64898/2026.10.11.758357"
+      },
+      "publishedAt": "2026-10-13",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.64898/2026.10.11.758357",
+      "doi": "10.64898/2026.10.11.758357",
+      "pmid": null,
+      "authors": [
+        "Iqbal S",
+        "Tyshkovskiy A",
+        "Zhang B",
+        "Zhang S",
+        "Moliere A",
+        "Ying K",
+        "Bai Y",
+        "Steven H",
+        "Goeminne L",
+        "Alba-Linares JJ",
+        "Jacques E",
+        "Hossain MA",
+        "Glubokov D",
+        "Moldakozhayev A",
+        "Poganik JR",
+        "Moqri M",
+        "Agar N",
+        "Chen F",
+        "Horvath S",
+        "Gladyshev VN."
+      ],
+      "summary": "Whether ovarian aging is intrinsic and unidirectional or dynamically regulated by systemic context remains an open question for fertility and women's healthspan. To address it, we developed a mouse ovarian transcriptomic aging clock (OvaAge) and applied it, together with published transcriptomic, epigenetic and pathway-resolved DNA methylation (PathAge) clocks, multi-omic analyses and reproductive outcomes, to new reciprocal heterochronic ovary transplantation and parabiosis experiments. Ovarian molecular age shifted in both directions: aged ovaries became younger in young hosts and young ovaries became older in aged hosts, and in each case the shift was partial across transcriptomic, epigenetic and pathway-resolved measures. Ovaries from 13-month-old C57BL/6J donors supported full-term pregnancies and live births at 17-18 months of age…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome",
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-10-18",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 96,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -1833,47 +1834,55 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "active-maintenance-of-accessible-chromatin-at-poised-meiotic-promoters-0a0c6b4a",
-      "title": "Active maintenance of accessible chromatin at poised meiotic promoters by the NFYA-NURF axis is required for meiotic entry in mice",
-      "titleKo": "Active maintenance of accessible chromatin at poised meiotic promoters by the NFYA-NURF axis is required for meiotic entry in mice",
+      "id": "heterochromatin-protein-1-acts-as-an-essential-stabilizer-of-chromatin-f3a9142a",
+      "title": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains",
+      "titleKo": "Heterochromatin protein 1α acts as an essential stabilizer of chromatin packing domains",
       "kind": "paper",
       "section": "papers",
       "subsection": "paper",
       "topics": [
-        "ivg-germline",
-        "epigenetics"
+        "epigenetics",
+        "cohesin-ctcf",
+        "3d-genome",
+        "crispr-engineering"
       ],
       "source": {
         "name": "Europe PMC",
         "type": "index",
         "authority": 4,
-        "url": "https://doi.org/10.64898/2026.10.07.757370"
+        "url": "https://doi.org/10.64898/2026.10.05.753292"
       },
-      "publishedAt": "2026-10-09",
+      "publishedAt": "2026-10-08",
       "deadlineAt": null,
       "eventStart": null,
       "eventEnd": null,
       "location": null,
-      "url": "https://doi.org/10.64898/2026.10.07.757370",
-      "doi": "10.64898/2026.10.07.757370",
+      "url": "https://doi.org/10.64898/2026.10.05.753292",
+      "doi": "10.64898/2026.10.05.753292",
       "pmid": null,
       "authors": [
-        "Eghbali A",
-        "Saflund M",
-        "Askari M",
-        "Abdi MM",
-        "Ostlund Farrants A",
-        "Yu T",
-        "Ozata DM."
+        "Kuo T",
+        "Carrillo Gonzalez P",
+        "Acosta N",
+        "Carter LM",
+        "Pujadas Liwag E",
+        "Arriaga CV",
+        "Johnson B",
+        "Dunton CL",
+        "Almassalha LM",
+        "Szleifer I",
+        "Backman V."
       ],
-      "summary": "Developmental genes often acquire accessible chromatin prior to their activation, yet the mechanisms regulating this permissive state remain poorly understood. During spermatogenesis, many meiotic gene promoters display this poised state in spermatogonia, characterized by accessible promoters and paused RNA Pol II occupancy before their activation during meiosis. Here, we identify the NURF chromatin remodeling complex, comprised of SMARCA5 and its accessory subunit BPTF, as a key regulator of this process. We demonstrate that the transcription factor NFYA interacts with SMARCA5 and is required for its occupancy at poised meiotic gene promoters. Approximately one-third of poised meiotic gene promoters is co-occupied by NFYA, SMARCA5, and BPTF. Germline deletion of Smarca5 disrupts chromatin accessibility at poised meiotic promoters, impai…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
+      "summary": "Background: : The spatial organization of the human genome emerges from an enzyme-guided self-assembly process in which chromatin has a bidirectional relationship with transcription. Central to this architecture are chromatin packing domains, 50-200 nm structures exhibiting mass-scaling behavior. Nascent domains arise through transcription and cohesin/CTCF-mediated loop extrusion, while their maturation depends on conditions that permit differential access of epigenetic enzymes to their dense cores and continuously lower density periphery, resulting in the accumulation of heterochromatic marks in domain cores and euchromatic marks outside of the domain cores. In turn, packing domains support transcription by creating an \"ideal zone\" peripherally to their cores due to a nonmonotonic dependence of transcription rate on local chromatin dens…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
-        "in vitro gametogenesis",
-        "ivg",
         "epigenetic",
-        "epigenome"
+        "epigenome",
+        "cohesin",
+        "ctcf",
+        "3d genome",
+        "three-dimensional genome"
       ],
       "access": {
         "openAccess": false,
@@ -1882,12 +1891,12 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-14",
+        "checkedAt": "2026-10-13",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
-        "baseRelevance": 97,
+        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -2187,55 +2196,48 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "elf5-mediated-enhancer-promoter-interaction-regulates-lalba-expression-5320e66b",
-      "title": "ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.",
-      "titleKo": "ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.",
-      "kind": "paper",
+      "id": "a-single-epigenetic-repressor-controls-opposing-developmental-tempos-i-6996bc57",
+      "title": "A single epigenetic repressor controls opposing developmental tempos in human neural and cranial neural crest lineages",
+      "titleKo": "A single epigenetic repressor controls opposing developmental tempos in human neural and cranial neural crest lineages",
+      "kind": "preprint",
       "section": "papers",
-      "subsection": "paper",
+      "subsection": "preprint",
       "topics": [
-        "3d-genome",
-        "enhancer-promoter",
-        "epigenetics"
+        "epigenetics",
+        "developmental-biology"
       ],
       "source": {
-        "name": "Europe PMC",
+        "name": "bioRxiv",
         "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42829930"
+        "authority": 3,
+        "url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758088v1"
       },
-      "publishedAt": "2026-10-04",
+      "publishedAt": "2026-10-13",
       "deadlineAt": null,
       "eventStart": null,
       "eventEnd": null,
       "location": null,
-      "url": "https://europepmc.org/article/MED/42829930",
-      "doi": "10.1002/advs.78138",
-      "pmid": "42829930",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.09.758088v1",
+      "doi": "10.64898/2026.10.09.758088",
+      "pmid": null,
       "authors": [
-        "Wu X",
-        "Wang J",
-        "Hao Z",
-        "Li M",
-        "Zhen H",
-        "Liu Y",
-        "Zhao G",
-        "Ren C",
-        "Zhou X",
-        "Hu H",
-        "Li M",
-        "Shi N."
+        "Bell, O.",
+        "Atmaca Duran, Z. E.",
+        "Birtele, M.",
+        "Quadrato, G.",
+        "Mendiratta, S.",
+        "Yelagandula, R.",
+        "Stevens, C.",
+        "Rhie, S."
       ],
-      "summary": "Epigenetic mechanisms underlying lactation traits in sheep remain poorly understood. Here, we systematically characterized the transcriptomic dynamics, chromatin accessibility landscape, and histone modification profiles of mammary gland tissues from Yuansheng Aite dairy sheep with divergent lactation performance. The lactalbumin alpha (LALBA) locus harbors a super-enhancer, and expression of LALBA was upregulated in sheep with low lactation performance. Enhancer E4 functions as the core active element within the LALBA super-enhancer, and its repression reduced LALBA expression. Chromosome conformation capture-polymerase chain reaction (3C-PCR) confirmed a direct chromatin interaction between E4 and the LALBA promoter. The E74-like ETS transcription factor 5 (ELF5) binds to both E4 and the LALBA promoter, consistent with the observation…",
-      "whyItMatters": "3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.",
+      "summary": "The precise timing of lineage specification is essential for embryonic development, yet the epigenetic mechanisms enforcing human developmental tempo remain poorly understood. Heterozygous loss-of-function variants in ZNF462 cause Weiss-Kruszka syndrome (WKS), a pleiotropic disorder characterized by neurodevelopmental delays and craniofacial dysmorphisms. Here, we show that ZNF462 acts as an epigenetic gatekeeper that coordinates human developmental tempo across divergent lineages by repressing cell lineage-specific gene enhancers. In human embryonic stem cells (hESCs), ZNF462 maintains self-renewal by recruiting the G9A/GLP histone methyltransferase complex to silence primate-specific retrotransposon-derived enhancers. Upon neural lineage commitment, ZNF462 redirects to hominoid-specific LTR5_Hs elements and divergent lineage-specific e…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
-        "3d genome",
-        "three-dimensional genome",
-        "enhancer-promoter",
-        "enhancer promoter",
         "epigenetic",
-        "epigenome"
+        "epigenome",
+        "early embryo",
+        "embryogenesis"
       ],
       "access": {
         "openAccess": true,
@@ -2243,58 +2245,63 @@
       },
       "eligibility": null,
       "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-09",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
+        "level": "preprint",
+        "checkedAt": "2026-10-18",
+        "confidence": 0.58,
+        "note": "Not peer reviewed; metadata and abstract automatically filtered."
       },
       "signals": {
         "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
-        "authority": 90
+        "authority": 76
       },
       "featured": false,
       "status": "new",
-      "ingestedBy": "europepmc"
+      "ingestedBy": "biorxiv"
     },
     {
-      "id": "latent-developmental-arrest-burden-after-cleavage-stage-transfer-a-cou-ede59113",
-      "title": "Latent developmental-arrest burden after cleavage-stage transfer: a counterfactual reanalysis of a published IVF cohort",
-      "titleKo": "Latent developmental-arrest burden after cleavage-stage transfer: a counterfactual reanalysis of a published IVF cohort",
+      "id": "active-maintenance-of-accessible-chromatin-at-poised-meiotic-promoters-0a0c6b4a",
+      "title": "Active maintenance of accessible chromatin at poised meiotic promoters by the NFYA-NURF axis is required for meiotic entry in mice",
+      "titleKo": "Active maintenance of accessible chromatin at poised meiotic promoters by the NFYA-NURF axis is required for meiotic entry in mice",
       "kind": "paper",
       "section": "papers",
       "subsection": "paper",
       "topics": [
-        "developmental-biology",
-        "ivg-germline"
+        "ivg-germline",
+        "epigenetics"
       ],
       "source": {
         "name": "Europe PMC",
         "type": "index",
         "authority": 4,
-        "url": "https://doi.org/10.21203/rs.3.rs-11174662/v1"
+        "url": "https://doi.org/10.64898/2026.10.07.757370"
       },
-      "publishedAt": "2026-10-13",
+      "publishedAt": "2026-10-09",
       "deadlineAt": null,
       "eventStart": null,
       "eventEnd": null,
       "location": null,
-      "url": "https://doi.org/10.21203/rs.3.rs-11174662/v1",
-      "doi": "10.21203/rs.3.rs-11174662/v1",
+      "url": "https://doi.org/10.64898/2026.10.07.757370",
+      "doi": "10.64898/2026.10.07.757370",
       "pmid": null,
       "authors": [
-        "Dirican EK",
-        "Olgan Ş."
+        "Eghbali A",
+        "Saflund M",
+        "Askari M",
+        "Abdi MM",
+        "Ostlund Farrants A",
+        "Yu T",
+        "Ozata DM."
       ],
-      "summary": "Abstract Purpose To estimate how many cleavage-stage (day-3) transfers in low-zygote IVF cycles occur where extended culture would have yielded no transferable blastocyst, and to compare clinical pregnancy after day-5 transfer with that in day-3 cycles inferred to be progressable. Methods Counterfactual secondary analysis of a published single-center cohort of 1116 first fresh cycles in which transfer day was assigned by the weekday of oocyte retrieval (584 day 3; 532 day 5, including 70 extended-culture cancellations). Zygote-specific day-5 cancellation rates were applied to the day-3 arm to estimate a latent-arrest fraction, and the day-5 per-protocol clinical pregnancy rate was compared with the implied day-3 progressable rate. The published arm-level comparison is not repeated as a finding. Results With ≤ 5 zygotes, an estimated 104…",
-      "whyItMatters": "초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "summary": "Developmental genes often acquire accessible chromatin prior to their activation, yet the mechanisms regulating this permissive state remain poorly understood. During spermatogenesis, many meiotic gene promoters display this poised state in spermatogonia, characterized by accessible promoters and paused RNA Pol II occupancy before their activation during meiosis. Here, we identify the NURF chromatin remodeling complex, comprised of SMARCA5 and its accessory subunit BPTF, as a key regulator of this process. We demonstrate that the transcription factor NFYA interacts with SMARCA5 and is required for its occupancy at poised meiotic gene promoters. Approximately one-third of poised meiotic gene promoters is co-occupied by NFYA, SMARCA5, and BPTF. Germline deletion of Smarca5 disrupts chromatin accessibility at poised meiotic promoters, impai…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
-        "early embryo",
-        "embryogenesis",
         "in vitro gametogenesis",
-        "ivg"
+        "ivg",
+        "epigenetic",
+        "epigenome"
       ],
       "access": {
         "openAccess": false,
@@ -2303,12 +2310,12 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
+        "checkedAt": "2026-10-14",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
-        "baseRelevance": 87,
+        "baseRelevance": 97,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -2453,6 +2460,78 @@
       "featured": false,
       "status": "new",
       "ingestedBy": "biorxiv"
+    },
+    {
+      "id": "elf5-mediated-enhancer-promoter-interaction-regulates-lalba-expression-5320e66b",
+      "title": "ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.",
+      "titleKo": "ELF5-Mediated Enhancer-Promoter Interaction Regulates LALBA Expression in Ovine Mammary Gland.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "3d-genome",
+        "enhancer-promoter",
+        "epigenetics"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42829930"
+      },
+      "publishedAt": "2026-10-04",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42829930",
+      "doi": "10.1002/advs.78138",
+      "pmid": "42829930",
+      "authors": [
+        "Wu X",
+        "Wang J",
+        "Hao Z",
+        "Li M",
+        "Zhen H",
+        "Liu Y",
+        "Zhao G",
+        "Ren C",
+        "Zhou X",
+        "Hu H",
+        "Li M",
+        "Shi N."
+      ],
+      "summary": "Epigenetic mechanisms underlying lactation traits in sheep remain poorly understood. Here, we systematically characterized the transcriptomic dynamics, chromatin accessibility landscape, and histone modification profiles of mammary gland tissues from Yuansheng Aite dairy sheep with divergent lactation performance. The lactalbumin alpha (LALBA) locus harbors a super-enhancer, and expression of LALBA was upregulated in sheep with low lactation performance. Enhancer E4 functions as the core active element within the LALBA super-enhancer, and its repression reduced LALBA expression. Chromosome conformation capture-polymerase chain reaction (3C-PCR) confirmed a direct chromatin interaction between E4 and the LALBA promoter. The E74-like ETS transcription factor 5 (ELF5) binds to both E4 and the LALBA promoter, consistent with the observation…",
+      "whyItMatters": "3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "3d genome",
+        "three-dimensional genome",
+        "enhancer-promoter",
+        "enhancer promoter",
+        "epigenetic",
+        "epigenome"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-10-09",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
     },
     {
       "id": "single-molecule-chromatin-tracing-reveals-a-diversity-of-megabase-hete-ffacab6c",
@@ -2841,12 +2920,71 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
+        "checkedAt": "2026-10-18",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
         "baseRelevance": 78,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "latent-developmental-arrest-burden-after-cleavage-stage-transfer-a-cou-ede59113",
+      "title": "Latent developmental-arrest burden after cleavage-stage transfer: a counterfactual reanalysis of a published IVF cohort",
+      "titleKo": "Latent developmental-arrest burden after cleavage-stage transfer: a counterfactual reanalysis of a published IVF cohort",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "developmental-biology",
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.21203/rs.3.rs-11174662/v1"
+      },
+      "publishedAt": "2026-10-13",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.21203/rs.3.rs-11174662/v1",
+      "doi": "10.21203/rs.3.rs-11174662/v1",
+      "pmid": null,
+      "authors": [
+        "Dirican EK",
+        "Olgan Ş."
+      ],
+      "summary": "Abstract Purpose To estimate how many cleavage-stage (day-3) transfers in low-zygote IVF cycles occur where extended culture would have yielded no transferable blastocyst, and to compare clinical pregnancy after day-5 transfer with that in day-3 cycles inferred to be progressable. Methods Counterfactual secondary analysis of a published single-center cohort of 1116 first fresh cycles in which transfer day was assigned by the weekday of oocyte retrieval (584 day 3; 532 day 5, including 70 extended-culture cancellations). Zygote-specific day-5 cancellation rates were applied to the day-3 arm to estimate a latent-arrest fraction, and the day-5 per-protocol clinical pregnancy rate was compared with the implied day-3 progressable rate. The published arm-level comparison is not repeated as a finding. Results With ≤ 5 zygotes, an estimated 104…",
+      "whyItMatters": "초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "early embryo",
+        "embryogenesis",
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-10-18",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 87,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -4272,45 +4410,51 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "radiotherapy-reshapes-the-3d-genome-in-medulloblastoma-cells-5b2f24fc",
-      "title": "Radiotherapy Reshapes the 3D Genome in Medulloblastoma Cells",
-      "titleKo": "Radiotherapy Reshapes the 3D Genome in Medulloblastoma Cells",
+      "id": "live-imaging-reveals-oocyte-membrane-pre-remodeling-forming-permissive-deba5ecf",
+      "title": "Live imaging reveals oocyte membrane pre-remodeling forming permissive space for asymmetric division",
+      "titleKo": "Live imaging reveals oocyte membrane pre-remodeling forming permissive space for asymmetric division",
       "kind": "paper",
       "section": "papers",
       "subsection": "paper",
       "topics": [
-        "3d-genome"
+        "ivg-germline"
       ],
       "source": {
         "name": "Europe PMC",
         "type": "index",
         "authority": 4,
-        "url": "https://doi.org/10.64898/2026.10.09.757887"
+        "url": "https://doi.org/10.64898/2026.10.14.759078"
       },
-      "publishedAt": "2026-10-12",
+      "publishedAt": "2026-10-16",
       "deadlineAt": null,
       "eventStart": null,
       "eventEnd": null,
       "location": null,
-      "url": "https://doi.org/10.64898/2026.10.09.757887",
-      "doi": "10.64898/2026.10.09.757887",
+      "url": "https://doi.org/10.64898/2026.10.14.759078",
+      "doi": "10.64898/2026.10.14.759078",
       "pmid": null,
       "authors": [
-        "Challis DR",
-        "Wilson R",
-        "Navickas SM",
-        "Huskins SN",
-        "Azimi I",
-        "Holloway AF",
-        "Brettingham-Moore KH",
-        "Taberlay PC."
+        "Geng K",
+        "Hu X",
+        "Fu P",
+        "Bo Y",
+        "Wang G",
+        "Yang X",
+        "Liang J",
+        "Cheng K",
+        "Sun N",
+        "Wang Z",
+        "Zhao X",
+        "Li Z",
+        "Zhang H",
+        "Zhang Y."
       ],
-      "summary": "Radiotherapy is central to medulloblastoma treatment, yet the molecular and three-dimensional (3D) genome responses to irradiation remain poorly understood. Here, we integrated RNA sequencing, proteomics, and Micro-C to characterise the response of ONS-76 medulloblastoma cells to clinically relevant radiation exposures. A single 2 Gy dose induced widespread transcriptional and proteomic changes, including altered cell adhesion, migration, DNA replication, and ribosome biogenesis pathways. Integrated analysis identified LAMB3 and AKR1B10 as candidate mediators of radioresponse that remained elevated following fractionated irradiation. Micro-C profiling following single and repeated 2 Gy exposures revealed radiation-induced 3D genome remodelling. While global genome organisation remained largely stable, irradiation promoted shifts towards…",
-      "whyItMatters": "3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
+      "summary": "Abstract Successful oocyte maturation requires first polar body (PB1) extrusion, yet how the oocyte prepares for this asymmetric event remains unclear. Live membrane imaging of mouse oocytes reveals pronounced regional heterogeneity in plasma-membrane dynamics, generating an early polarized pattern across the surface. Whereas most of the oocyte surface and its microvilli remain relatively stable, a discrete membrane domain collapses and retracts around germinal vesicle breakdown (GVBD), separating from the zona pellucida to establish a pre-extrusion space (PES). Transient oocyte comb-like protrusions arise within the PES and subsequently collapse, converting the protrusion-filled region into an open cavity before PB1 extrusion. Mechanistically, early ERK28 dependent dissociation of the cortical scaffold ZO-1 is required for this space to…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
-        "3d genome",
-        "three-dimensional genome"
+        "in vitro gametogenesis",
+        "ivg"
       ],
       "access": {
         "openAccess": false,
@@ -4319,12 +4463,12 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
+        "checkedAt": "2026-10-18",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
-        "baseRelevance": 75,
+        "baseRelevance": 74,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -4399,67 +4543,6 @@
       },
       "signals": {
         "baseRelevance": 88,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "single-molecule-dna-protein-experiments-using-magnetic-tweezers-535e4aa0",
-      "title": "Single-Molecule DNA–Protein Experiments Using Magnetic Tweezers",
-      "titleKo": "Single-Molecule DNA–Protein Experiments Using Magnetic Tweezers",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "single-molecule",
-        "epigenetics"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.20944/preprints202610.0208.v1"
-      },
-      "publishedAt": "2026-10-05",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.20944/preprints202610.0208.v1",
-      "doi": "10.20944/preprints202610.0208.v1",
-      "pmid": null,
-      "authors": [
-        "Bhandari R",
-        "Gaire S",
-        "Pegg I",
-        "Sarkar A."
-      ],
-      "summary": "Magnetic tweezers (MT) have become an important single-molecule manipulation tool, with several advantages over alternate methods such as optical tweezers and atomic force microscopy. MT are easy to operate, cost effective, and can apply forces ranging from sub-piconewton (~ 0.1 pN) to hundreds of piconewtons. Furthermore, they offer exceptional spatial and temporal resolution. These features position MT as a versatile and powerful tool to study many biomolecular processes at the single-molecule level. MT have played an important role in advancing our understanding of DNA–protein interactions, making significant contributions across molecular biology, enzymology, and chromatin dynamics. In this review, we start by describing principal MT geometries along with force calibration methods and then pivot to a discussion of MT-based studies of…",
-      "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "single-molecule",
-        "single molecule",
-        "epigenetic",
-        "epigenome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-10",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 93,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -5319,77 +5402,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "melatonin-synergizes-with-constant-fsh-stimulation-to-improve-oocyte-y-5aeae5a3",
-      "title": "Melatonin synergizes with constant FSH stimulation to improve oocyte yield and in vitro embryo production in dairy goats.",
-      "titleKo": "Melatonin synergizes with constant FSH stimulation to improve oocyte yield and in vitro embryo production in dairy goats.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42826441"
-      },
-      "publishedAt": "2026-09-29",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42826441",
-      "doi": "10.1016/j.theriogenology.2026.118223",
-      "pmid": "42826441",
-      "authors": [
-        "Ma W",
-        "Chen Q",
-        "Yin D",
-        "Tan Z",
-        "Chen X",
-        "Ji P",
-        "Deng S",
-        "Wang B",
-        "Zhao G",
-        "Li X",
-        "Wang J",
-        "Liu L",
-        "Liu G",
-        "Zhang L."
-      ],
-      "summary": "Ovum Pick-Up (OPU) enables efficient, repeated oocyte retrieval from elite dairy goats, making it a critical technology for accelerating genetic progress through in vitro embryo production (IVEP) in dairy goat breeding. However, the limited quality and quantity of retrieved oocytes often restrict its overall efficiency. Melatonin (MT) has been known to regulate mammalian reproductive physiology and the ovarian microenvironment, but its specific effects across different follicle-stimulating hormone (FSH) superovulation protocols to enhance oocyte yield and quality remain unclear. This study investigated the effects of MT supplementation (20 mg/dose, total 120 mg/goat across 6 injections) on oocyte recovery in dairy goats subjected to three different FSH injection protocols (incremental, constant, and decremental). Following in vitro ferti…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-04",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 96,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "double-trouble-for-spermatogenesis-polystyrene-nanoplastics-aggravate-0a8a3a81",
       "title": "Double trouble for spermatogenesis: Polystyrene nanoplastics aggravate microcystin-LR toxicity by hijacking mitochondrial function in zebrafish.",
       "titleKo": "Double trouble for spermatogenesis: Polystyrene nanoplastics aggravate microcystin-LR toxicity by hijacking mitochondrial function in zebrafish.",
@@ -5741,72 +5753,6 @@
       },
       "signals": {
         "baseRelevance": 97,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "testis-predominant-gene-mfap3l-is-dispensable-for-spermatogenesis-unde-711dab01",
-      "title": "Testis-predominant gene Mfap3l is dispensable for spermatogenesis under physiological conditions.",
-      "titleKo": "Testis-predominant gene Mfap3l is dispensable for spermatogenesis under physiological conditions.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline",
-        "crispr-engineering"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42740358"
-      },
-      "publishedAt": "2026-09-25",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42740358",
-      "doi": "10.7555/jbr.40.20260258",
-      "pmid": "42740358",
-      "authors": [
-        "Xie Y",
-        "Xiao H",
-        "Wang H",
-        "Zhang B",
-        "Liu Q",
-        "Yuan Y",
-        "Zhu Y",
-        "Yao Y",
-        "Li H."
-      ],
-      "summary": "The microfibril-associated protein (MFAP) family members play critical roles in extracellular matrix (ECM) assembly and tissue homeostasis maintenance. Among them, MFAP3L (microfibril-associated protein 3-like), a paralog of MFAP3, is predominantly expressed in testicular tissue. Conventional hypotheses propose that it may participate in spermatogenesis by regulating ECM remodeling; however, direct functional evidence and mechanistic insights remain limited. To test this hypothesis, we generated a systemic Mfap3l knockout mouse model using the clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (Cas9) technology to investigate its role in spermatogenesis. Unexpectedly, although Mfap3l is predominantly expressed in testis, Mfap3l -/- male mice exhibited normal fertility, with no significant defec…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "crispr",
-        "dcas9"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-09-28",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -6414,7 +6360,7 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
+        "checkedAt": "2026-10-18",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
@@ -6470,12 +6416,74 @@
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-17",
+        "checkedAt": "2026-10-18",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
         "baseRelevance": 78,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "radiotherapy-reshapes-the-3d-genome-in-medulloblastoma-cells-5b2f24fc",
+      "title": "Radiotherapy Reshapes the 3D Genome in Medulloblastoma Cells",
+      "titleKo": "Radiotherapy Reshapes the 3D Genome in Medulloblastoma Cells",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "3d-genome"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.64898/2026.10.09.757887"
+      },
+      "publishedAt": "2026-10-12",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.64898/2026.10.09.757887",
+      "doi": "10.64898/2026.10.09.757887",
+      "pmid": null,
+      "authors": [
+        "Challis DR",
+        "Wilson R",
+        "Navickas SM",
+        "Huskins SN",
+        "Azimi I",
+        "Holloway AF",
+        "Brettingham-Moore KH",
+        "Taberlay PC."
+      ],
+      "summary": "Radiotherapy is central to medulloblastoma treatment, yet the molecular and three-dimensional (3D) genome responses to irradiation remain poorly understood. Here, we integrated RNA sequencing, proteomics, and Micro-C to characterise the response of ONS-76 medulloblastoma cells to clinically relevant radiation exposures. A single 2 Gy dose induced widespread transcriptional and proteomic changes, including altered cell adhesion, migration, DNA replication, and ribosome biogenesis pathways. Integrated analysis identified LAMB3 and AKR1B10 as candidate mediators of radioresponse that remained elevated following fractionated irradiation. Micro-C profiling following single and repeated 2 Gy exposures revealed radiation-induced 3D genome remodelling. While global genome organisation remained largely stable, irradiation promoted shifts towards…",
+      "whyItMatters": "3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "3d genome",
+        "three-dimensional genome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-10-17",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 75,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -6567,6 +6575,67 @@
       "ingestedBy": "biorxiv"
     },
     {
+      "id": "single-molecule-dna-protein-experiments-using-magnetic-tweezers-535e4aa0",
+      "title": "Single-Molecule DNA–Protein Experiments Using Magnetic Tweezers",
+      "titleKo": "Single-Molecule DNA–Protein Experiments Using Magnetic Tweezers",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "single-molecule",
+        "epigenetics"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://doi.org/10.20944/preprints202610.0208.v1"
+      },
+      "publishedAt": "2026-10-05",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://doi.org/10.20944/preprints202610.0208.v1",
+      "doi": "10.20944/preprints202610.0208.v1",
+      "pmid": null,
+      "authors": [
+        "Bhandari R",
+        "Gaire S",
+        "Pegg I",
+        "Sarkar A."
+      ],
+      "summary": "Magnetic tweezers (MT) have become an important single-molecule manipulation tool, with several advantages over alternate methods such as optical tweezers and atomic force microscopy. MT are easy to operate, cost effective, and can apply forces ranging from sub-piconewton (~ 0.1 pN) to hundreds of piconewtons. Furthermore, they offer exceptional spatial and temporal resolution. These features position MT as a versatile and powerful tool to study many biomolecular processes at the single-molecule level. MT have played an important role in advancing our understanding of DNA–protein interactions, making significant contributions across molecular biology, enzymology, and chromatin dynamics. In this review, we start by describing principal MT geometries along with force calibration methods and then pivot to a discussion of MT-based studies of…",
+      "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "single-molecule",
+        "single molecule",
+        "epigenetic",
+        "epigenome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-10-10",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 93,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
       "id": "single-allele-nanoscale-mapping-of-regulatory-variants-53e78a69",
       "title": "Single-allele nanoscale mapping of regulatory variants.",
       "titleKo": "Single-allele nanoscale mapping of regulatory variants.",
@@ -6649,74 +6718,6 @@
       "featured": false,
       "status": "new",
       "ingestedBy": "europepmc"
-    },
-    {
-      "id": "bmp6-coordinates-dermal-papilla-and-epithelial-cell-states-for-hair-fo-06d967ad",
-      "title": "BMP6 coordinates dermal papilla and epithelial cell states for hair follicle engineering and regeneration",
-      "titleKo": "BMP6 coordinates dermal papilla and epithelial cell states for hair follicle engineering and regeneration",
-      "kind": "preprint",
-      "section": "papers",
-      "subsection": "preprint",
-      "topics": [
-        "ivg-germline",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "bioRxiv",
-        "type": "index",
-        "authority": 3,
-        "url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755211v1"
-      },
-      "publishedAt": "2026-10-02",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755211v1",
-      "doi": "10.64898/2026.09.30.755211",
-      "pmid": null,
-      "authors": [
-        "Siegfried, L. G.",
-        "Zhou, L.",
-        "Wang, J.",
-        "Hahn, J. M.",
-        "Dodson, C.",
-        "Choi, Y. S.",
-        "Babitt, J. L.",
-        "Supp, D. M.",
-        "Millar, S. E.",
-        "Andl, T.",
-        "Zhang, Y."
-      ],
-      "summary": "Human hair follicle engineering is hindered by the rapid loss of inductive competence in culture-expanded dermal papilla (DP) fibroblasts. Here we show that bone morphogenetic protein 6 (BMP6) maintains and restores DP-associated characteristics while promoting follicular epithelial differentiation by restricting keratinocyte (KC) proliferation and inducing hair follicle-associated marker expression. Human follicle transcriptomics further linked BMP activity to DP identity and follicular epithelial differentiation. Genetic mouse studies demonstrate that BMP6 in Sox2-positive DP cells contributes to normal anagen onset, progression, and maintenance. Gain- and loss-of-function studies in KC-DP organoids show that BMP6 promotes epithelial-mesenchymal organization and spatially patterned follicular structures. In vivo, topical BMP6 promotes…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
-      ],
-      "access": {
-        "openAccess": true,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "preprint",
-        "checkedAt": "2026-10-07",
-        "confidence": 0.58,
-        "note": "Not peer reviewed; metadata and abstract automatically filtered."
-      },
-      "signals": {
-        "baseRelevance": 96,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 76
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "biorxiv"
     },
     {
       "id": "chromatin-dynamics-and-cellular-energy-homeostasis-3bb40008",
@@ -6969,43 +6970,54 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "evolution-application-and-clinical-significance-of-profiling-chromatin-675dff8d",
-      "title": "Evolution, application and clinical significance of profiling chromatin interactions at a genome-wide scale.",
-      "titleKo": "Evolution, application and clinical significance of profiling chromatin interactions at a genome-wide scale.",
+      "id": "melatonin-synergizes-with-constant-fsh-stimulation-to-improve-oocyte-y-5aeae5a3",
+      "title": "Melatonin synergizes with constant FSH stimulation to improve oocyte yield and in vitro embryo production in dairy goats.",
+      "titleKo": "Melatonin synergizes with constant FSH stimulation to improve oocyte yield and in vitro embryo production in dairy goats.",
       "kind": "paper",
       "section": "papers",
       "subsection": "paper",
       "topics": [
-        "3d-genome",
-        "epigenetics"
+        "ivg-germline",
+        "developmental-biology"
       ],
       "source": {
         "name": "Europe PMC",
         "type": "index",
         "authority": 4,
-        "url": "https://europepmc.org/article/MED/42809370"
+        "url": "https://europepmc.org/article/MED/42826441"
       },
       "publishedAt": "2026-09-29",
       "deadlineAt": null,
       "eventStart": null,
       "eventEnd": null,
       "location": null,
-      "url": "https://europepmc.org/article/MED/42809370",
-      "doi": "10.3724/abbs.2026165",
-      "pmid": "42809370",
+      "url": "https://europepmc.org/article/MED/42826441",
+      "doi": "10.1016/j.theriogenology.2026.118223",
+      "pmid": "42826441",
       "authors": [
-        "Qian Q",
-        "Xu Y",
-        "Wei L."
+        "Ma W",
+        "Chen Q",
+        "Yin D",
+        "Tan Z",
+        "Chen X",
+        "Ji P",
+        "Deng S",
+        "Wang B",
+        "Zhao G",
+        "Li X",
+        "Wang J",
+        "Liu L",
+        "Liu G",
+        "Zhang L."
       ],
-      "summary": "Over the past few decades, chromatin biology has evolved from viewing chromatin as a static structural scaffold to decoding it as a dynamic, programmable regulatory landscape. At the heart of this transformation is the precise mapping of interactions between functional proteins and cognate DNA elements. Although high-throughput technologies have generated comprehensive atlases of these genomic features, the field is now transitioning from descriptive mapping to mechanistic elucidation, paving the way for predictive diagnostics and target therapeutics. Here, we review the conceptual and methodological evolution of chromatin-protein interaction profiling, tracing the history from classical biochemical footprints to single-cell multi-omic integration. We reason that specific chromatin-protein interactions may serve as key structural linchpi…",
-      "whyItMatters": "3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
+      "summary": "Ovum Pick-Up (OPU) enables efficient, repeated oocyte retrieval from elite dairy goats, making it a critical technology for accelerating genetic progress through in vitro embryo production (IVEP) in dairy goat breeding. However, the limited quality and quantity of retrieved oocytes often restrict its overall efficiency. Melatonin (MT) has been known to regulate mammalian reproductive physiology and the ovarian microenvironment, but its specific effects across different follicle-stimulating hormone (FSH) superovulation protocols to enhance oocyte yield and quality remain unclear. This study investigated the effects of MT supplementation (20 mg/dose, total 120 mg/goat across 6 injections) on oocyte recovery in dairy goats subjected to three different FSH injection protocols (incremental, constant, and decremental). Following in vitro ferti…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
-        "3d genome",
-        "three-dimensional genome",
-        "epigenetic",
-        "epigenome"
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
       ],
       "access": {
         "openAccess": false,
@@ -7019,7 +7031,7 @@
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
-        "baseRelevance": 88,
+        "baseRelevance": 96,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -7161,6 +7173,72 @@
       },
       "signals": {
         "baseRelevance": 96,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "testis-predominant-gene-mfap3l-is-dispensable-for-spermatogenesis-unde-711dab01",
+      "title": "Testis-predominant gene Mfap3l is dispensable for spermatogenesis under physiological conditions.",
+      "titleKo": "Testis-predominant gene Mfap3l is dispensable for spermatogenesis under physiological conditions.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline",
+        "crispr-engineering"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42740358"
+      },
+      "publishedAt": "2026-09-25",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42740358",
+      "doi": "10.7555/jbr.40.20260258",
+      "pmid": "42740358",
+      "authors": [
+        "Xie Y",
+        "Xiao H",
+        "Wang H",
+        "Zhang B",
+        "Liu Q",
+        "Yuan Y",
+        "Zhu Y",
+        "Yao Y",
+        "Li H."
+      ],
+      "summary": "The microfibril-associated protein (MFAP) family members play critical roles in extracellular matrix (ECM) assembly and tissue homeostasis maintenance. Among them, MFAP3L (microfibril-associated protein 3-like), a paralog of MFAP3, is predominantly expressed in testicular tissue. Conventional hypotheses propose that it may participate in spermatogenesis by regulating ECM remodeling; however, direct functional evidence and mechanistic insights remain limited. To test this hypothesis, we generated a systemic Mfap3l knockout mouse model using the clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated protein 9 (Cas9) technology to investigate its role in spermatogenesis. Unexpectedly, although Mfap3l is predominantly expressed in testis, Mfap3l -/- male mice exhibited normal fertility, with no significant defec…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "crispr",
+        "dcas9"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-09-28",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -7793,136 +7871,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "cohesin-reshapes-replication-fork-contacts-to-aid-fork-slowing-and-rev-6ca7b887",
-      "title": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal.",
-      "titleKo": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "cohesin-ctcf",
-        "3d-genome"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42749806"
-      },
-      "publishedAt": "2026-09-16",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42749806",
-      "doi": "10.1038/s41586-026-11034-0",
-      "pmid": "42749806",
-      "authors": [
-        "González-Acosta D",
-        "Giménez-Llorente D",
-        "Rodrigues M",
-        "Aouami M",
-        "Barroso-Gomila O",
-        "Muñoz J",
-        "Cuadrado A",
-        "Losada A",
-        "Lopes M."
-      ],
-      "summary": "DNA replication forks can be challenged by cancer chemotherapeutic treatments, leading to accumulation of single-stranded DNA and slowdown of DNA synthesis. The marked plasticity of replication forks under replication stress ensures fork stability, damage tolerance and complete genome duplication 1 . Initiation and progression of replication forks occur in a three-dimensionally organized genome. DNA loop extrusion by the cohesin complex organizes the genome 2 and regulates the initiation and positioning of DNA replication origins 3,4 . Although transient interaction of sister forks was recently reported during unperturbed replication 5 , the functional relevance of fork contacts during replication stress and the role of cohesin in this context remain unknown. Here we show that cohesin-mediated loop extrusion rearranges nascent DNA contac…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf",
-        "3d genome",
-        "three-dimensional genome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-09-21",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 98,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "cohesin-preservation-across-mitosis-contributes-to-restart-transcripti-62589a3c",
-      "title": "Cohesin preservation across mitosis contributes to restart transcription via Cdk9-mediated activation of RNAPol2.",
-      "titleKo": "Cohesin preservation across mitosis contributes to restart transcription via Cdk9-mediated activation of RNAPol2.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "cohesin-ctcf",
-        "3d-genome"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42748911"
-      },
-      "publishedAt": "2026-09-16",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42748911",
-      "doi": "10.1016/j.molcel.2026.08.021",
-      "pmid": "42748911",
-      "authors": [
-        "Contreras-Pérez A",
-        "Espinosa H",
-        "Sayago EI",
-        "Basu A",
-        "Emili A",
-        "Blower MD",
-        "Perea-Resa C."
-      ],
-      "summary": "Cohesin organizes 3D genome architecture yet its acute depletion in vitro minimally affects transcription, leaving its regulatory role puzzling. We hypothesized that cohesin function is relevant when first encounters chromatin after mitosis. Using in vivo labeling and cell-cycle synchronization in human cells, we demonstrate that cohesin complexes persist through mitosis. This inherited pool dominates over newly translated cohesin during telophase-G1, highlighting the relevance of such transmission. Acute depletion of cohesin Rad21 at mitotic exit impairs the expression of hundreds of genes, mostly downregulated, enriched on functions related to tissue growth and development. Rad21 binds the promoter of this group of genes. Remarkably, we uncover a direct interaction during the M-G1 transition between Rad21 and Cdk9, the kinase component…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf",
-        "3d genome",
-        "three-dimensional genome"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-09-21",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 98,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "regulation-of-immune-signal-integration-and-memory-by-inflammation-ind-147b566c",
       "title": "Regulation of immune signal integration and memory by inflammation-induced chromosome conformation.",
       "titleKo": "Regulation of immune signal integration and memory by inflammation-induced chromosome conformation.",
@@ -8369,6 +8317,74 @@
       "ingestedBy": "biorxiv"
     },
     {
+      "id": "bmp6-coordinates-dermal-papilla-and-epithelial-cell-states-for-hair-fo-06d967ad",
+      "title": "BMP6 coordinates dermal papilla and epithelial cell states for hair follicle engineering and regeneration",
+      "titleKo": "BMP6 coordinates dermal papilla and epithelial cell states for hair follicle engineering and regeneration",
+      "kind": "preprint",
+      "section": "papers",
+      "subsection": "preprint",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "bioRxiv",
+        "type": "index",
+        "authority": 3,
+        "url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755211v1"
+      },
+      "publishedAt": "2026-10-02",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.30.755211v1",
+      "doi": "10.64898/2026.09.30.755211",
+      "pmid": null,
+      "authors": [
+        "Siegfried, L. G.",
+        "Zhou, L.",
+        "Wang, J.",
+        "Hahn, J. M.",
+        "Dodson, C.",
+        "Choi, Y. S.",
+        "Babitt, J. L.",
+        "Supp, D. M.",
+        "Millar, S. E.",
+        "Andl, T.",
+        "Zhang, Y."
+      ],
+      "summary": "Human hair follicle engineering is hindered by the rapid loss of inductive competence in culture-expanded dermal papilla (DP) fibroblasts. Here we show that bone morphogenetic protein 6 (BMP6) maintains and restores DP-associated characteristics while promoting follicular epithelial differentiation by restricting keratinocyte (KC) proliferation and inducing hair follicle-associated marker expression. Human follicle transcriptomics further linked BMP activity to DP identity and follicular epithelial differentiation. Genetic mouse studies demonstrate that BMP6 in Sox2-positive DP cells contributes to normal anagen onset, progression, and maintenance. Gain- and loss-of-function studies in KC-DP organoids show that BMP6 promotes epithelial-mesenchymal organization and spatially patterned follicular structures. In vivo, topical BMP6 promotes…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "preprint",
+        "checkedAt": "2026-10-07",
+        "confidence": 0.58,
+        "note": "Not peer reviewed; metadata and abstract automatically filtered."
+      },
+      "signals": {
+        "baseRelevance": 96,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 76
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "biorxiv"
+    },
+    {
       "id": "methylglyoxal-derived-glycation-tunes-nuclear-viscoelasticity-152a8d98",
       "title": "Methylglyoxal-derived glycation tunes nuclear viscoelasticity",
       "titleKo": "Methylglyoxal-derived glycation tunes nuclear viscoelasticity",
@@ -8498,65 +8514,64 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "distinct-transcriptional-responses-to-mild-cold-versus-warm-temperatur-107e6a19",
-      "title": "Distinct transcriptional responses to mild cold versus warm temperatures in adult Drosophila melanogaster ovaries",
-      "titleKo": "Distinct transcriptional responses to mild cold versus warm temperatures in adult Drosophila melanogaster ovaries",
-      "kind": "preprint",
+      "id": "evolution-application-and-clinical-significance-of-profiling-chromatin-675dff8d",
+      "title": "Evolution, application and clinical significance of profiling chromatin interactions at a genome-wide scale.",
+      "titleKo": "Evolution, application and clinical significance of profiling chromatin interactions at a genome-wide scale.",
+      "kind": "paper",
       "section": "papers",
-      "subsection": "preprint",
+      "subsection": "paper",
       "topics": [
-        "ivg-germline",
-        "developmental-biology"
+        "3d-genome",
+        "epigenetics"
       ],
       "source": {
-        "name": "bioRxiv",
+        "name": "Europe PMC",
         "type": "index",
-        "authority": 3,
-        "url": "https://www.biorxiv.org/content/10.64898/2026.09.24.754180v1"
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42809370"
       },
-      "publishedAt": "2026-09-28",
+      "publishedAt": "2026-09-29",
       "deadlineAt": null,
       "eventStart": null,
       "eventEnd": null,
       "location": null,
-      "url": "https://www.biorxiv.org/content/10.64898/2026.09.24.754180v1",
-      "doi": "10.64898/2026.09.24.754180",
-      "pmid": null,
+      "url": "https://europepmc.org/article/MED/42809370",
+      "doi": "10.3724/abbs.2026165",
+      "pmid": "42809370",
       "authors": [
-        "Gandara, A. C. P.",
-        "Gao, Z. Y.",
-        "Lee, G. Y. C.",
-        "Drummond-Barbosa, D."
+        "Qian Q",
+        "Xu Y",
+        "Wei L."
       ],
-      "summary": "Temperature influences fertility across diverse organisms, yet the mechanisms underlying how suboptimal temperatures affect gamete production and quality remain largely unknown. We previously showed that chronic exposure of adult Drosophila melanogaster females to mild cold promotes the maintenance of germline stem cells (GSCs) and high oocyte quality over time despite reducing the rates of oogenesis, while exposure to warm temperature causes death of early germline cysts and vitellogenic follicles and a severe decrease in oocyte quality. To explore potential mechanisms underlying these highly distinct responses, we compared the ovarian transcriptomes of females maintained at these temperatures (18{degrees}C or 29{degrees}C) to that of 25{degrees}C controls. We found that 18{degrees}C upregulates or downregulates ~2.5 times as many genes…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
+      "summary": "Over the past few decades, chromatin biology has evolved from viewing chromatin as a static structural scaffold to decoding it as a dynamic, programmable regulatory landscape. At the heart of this transformation is the precise mapping of interactions between functional proteins and cognate DNA elements. Although high-throughput technologies have generated comprehensive atlases of these genomic features, the field is now transitioning from descriptive mapping to mechanistic elucidation, paving the way for predictive diagnostics and target therapeutics. Here, we review the conceptual and methodological evolution of chromatin-protein interaction profiling, tracing the history from classical biochemical footprints to single-cell multi-omic integration. We reason that specific chromatin-protein interactions may serve as key structural linchpi…",
+      "whyItMatters": "3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
+        "3d genome",
+        "three-dimensional genome",
+        "epigenetic",
+        "epigenome"
       ],
       "access": {
-        "openAccess": true,
+        "openAccess": false,
         "fullText": "index-metadata"
       },
       "eligibility": null,
       "verification": {
-        "level": "preprint",
-        "checkedAt": "2026-10-03",
-        "confidence": 0.58,
-        "note": "Not peer reviewed; metadata and abstract automatically filtered."
+        "level": "automated-metadata",
+        "checkedAt": "2026-10-04",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
-        "baseRelevance": 96,
+        "baseRelevance": 88,
         "novelty": 88,
         "actionability": 62,
-        "authority": 76
+        "authority": 90
       },
       "featured": false,
       "status": "new",
-      "ingestedBy": "biorxiv"
+      "ingestedBy": "europepmc"
     },
     {
       "id": "matrix-rigidity-mechanoprimes-microglia-for-inflammation-through-cytos-eec5b256",
@@ -9392,71 +9407,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "novel-and-recurrent-tubb8-variants-cause-irreversible-meiotic-spindle-ce3043ae",
-      "title": "Novel and recurrent TUBB8 variants cause irreversible meiotic spindle defects and refractory ART failure in Chinese women with oocyte maturation arrest.",
-      "titleKo": "Novel and recurrent TUBB8 variants cause irreversible meiotic spindle defects and refractory ART failure in Chinese women with oocyte maturation arrest.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "ivg-germline",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42760497"
-      },
-      "publishedAt": "2026-09-18",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42760497",
-      "doi": "10.1007/s10815-026-04025-7",
-      "pmid": "42760497",
-      "authors": [
-        "Zhuang XJ",
-        "Li Y",
-        "Lian Y",
-        "Qiu X",
-        "Liu NN",
-        "Wang Y",
-        "Li R",
-        "Liu P."
-      ],
-      "summary": "Purpose Oocyte maturation arrest (OMA) is a major monogenic cause of unexplained female infertility and recurrent assisted reproductive technology (ART) failure. TUBB8, which encodes an oocyte-specific β-tubulin isoform essential for acentrosomal spindle assembly, represents the most common genetic etiology of metaphase I (MI) arrest. This study aimed to identify pathogenic TUBB8 variants and characterize their clinical phenotypes and molecular mechanisms in Chinese women with unexplained recurrent OMA. Methods Six unrelated Chinese women with primary infertility and persistent OMA were enrolled. Whole-exome sequencing and Sanger sequencing were performed to identify and validate TUBB8 variants. Inheritance patterns, oocyte morphology, spindle integrity, and clinical ART outcomes were systematically evaluated. Three-dimensional structura…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-09-23",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 96,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "mitochondria-associated-transcription-precedes-oxidative-phosphorylati-61341251",
       "title": "Mitochondria-Associated Transcription Precedes Oxidative Phosphorylation in Human Embryos.",
       "titleKo": "Mitochondria-Associated Transcription Precedes Oxidative Phosphorylation in Human Embryos.",
@@ -9514,6 +9464,136 @@
       },
       "signals": {
         "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "cohesin-reshapes-replication-fork-contacts-to-aid-fork-slowing-and-rev-6ca7b887",
+      "title": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal.",
+      "titleKo": "Cohesin reshapes replication fork contacts to aid fork slowing and reversal.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "cohesin-ctcf",
+        "3d-genome"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42749806"
+      },
+      "publishedAt": "2026-09-16",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42749806",
+      "doi": "10.1038/s41586-026-11034-0",
+      "pmid": "42749806",
+      "authors": [
+        "González-Acosta D",
+        "Giménez-Llorente D",
+        "Rodrigues M",
+        "Aouami M",
+        "Barroso-Gomila O",
+        "Muñoz J",
+        "Cuadrado A",
+        "Losada A",
+        "Lopes M."
+      ],
+      "summary": "DNA replication forks can be challenged by cancer chemotherapeutic treatments, leading to accumulation of single-stranded DNA and slowdown of DNA synthesis. The marked plasticity of replication forks under replication stress ensures fork stability, damage tolerance and complete genome duplication 1 . Initiation and progression of replication forks occur in a three-dimensionally organized genome. DNA loop extrusion by the cohesin complex organizes the genome 2 and regulates the initiation and positioning of DNA replication origins 3,4 . Although transient interaction of sister forks was recently reported during unperturbed replication 5 , the functional relevance of fork contacts during replication stress and the role of cohesin in this context remain unknown. Here we show that cohesin-mediated loop extrusion rearranges nascent DNA contac…",
+      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "cohesin",
+        "ctcf",
+        "3d genome",
+        "three-dimensional genome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-09-21",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 98,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "cohesin-preservation-across-mitosis-contributes-to-restart-transcripti-62589a3c",
+      "title": "Cohesin preservation across mitosis contributes to restart transcription via Cdk9-mediated activation of RNAPol2.",
+      "titleKo": "Cohesin preservation across mitosis contributes to restart transcription via Cdk9-mediated activation of RNAPol2.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "cohesin-ctcf",
+        "3d-genome"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42748911"
+      },
+      "publishedAt": "2026-09-16",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42748911",
+      "doi": "10.1016/j.molcel.2026.08.021",
+      "pmid": "42748911",
+      "authors": [
+        "Contreras-Pérez A",
+        "Espinosa H",
+        "Sayago EI",
+        "Basu A",
+        "Emili A",
+        "Blower MD",
+        "Perea-Resa C."
+      ],
+      "summary": "Cohesin organizes 3D genome architecture yet its acute depletion in vitro minimally affects transcription, leaving its regulatory role puzzling. We hypothesized that cohesin function is relevant when first encounters chromatin after mitosis. Using in vivo labeling and cell-cycle synchronization in human cells, we demonstrate that cohesin complexes persist through mitosis. This inherited pool dominates over newly translated cohesin during telophase-G1, highlighting the relevance of such transmission. Acute depletion of cohesin Rad21 at mitotic exit impairs the expression of hundreds of genes, mostly downregulated, enriched on functions related to tissue growth and development. Rad21 binds the promoter of this group of genes. Remarkably, we uncover a direct interaction during the M-G1 transition between Rad21 and Cdk9, the kinase component…",
+      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "cohesin",
+        "ctcf",
+        "3d genome",
+        "three-dimensional genome"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-09-21",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 98,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -10573,75 +10653,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "ctcf-aligns-single-cell-tad-like-domain-boundaries-and-stabilizes-long-0cb883b3",
-      "title": "CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.",
-      "titleKo": "CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "cohesin-ctcf",
-        "3d-genome",
-        "enhancer-promoter"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42696576"
-      },
-      "publishedAt": "2026-09-04",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42696576",
-      "doi": "10.1126/sciadv.aee2863",
-      "pmid": "42696576",
-      "authors": [
-        "Chen Z",
-        "Li X",
-        "Dai Y",
-        "Shao K",
-        "Sun H",
-        "Wu N",
-        "Yan J",
-        "Zhang Y",
-        "Yu M."
-      ],
-      "summary": "CCCTC-binding factor (CTCF) is a key architectural protein in the three-dimensional (3D) genome, yet how its loss reshapes chromatin structure and transcription at single-cell resolution remains unclear. Using HiRES, which jointly profiles chromatin contacts and RNA from the same nucleus, we examined genome-wide effects of CTCF depletion. Topologically associating domain (TAD)-like domains (TLDs) across single cells remained largely unchanged in number and size after CTCF loss, but their boundaries became more variably positioned, and pseudobulk analyses revealed reduced interactions within A compartments. We also developed SALTAFinder to identify Spatially Aggregated Long-distance TLD Assemblies (SALTAs), clusters of TLDs occupying shared 3D space within single cells. A subset of SALTAs is enriched for highly expressed genes and super-e…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf",
-        "3d genome",
-        "three-dimensional genome",
-        "enhancer-promoter",
-        "enhancer promoter"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-09-09",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "rockefeller-phd",
       "title": "Rockefeller University Graduate Program in Bioscience — 2027 Entry",
       "titleKo": "Rockefeller University Bioscience PhD 2027 입학 지원",
@@ -10984,64 +10995,6 @@
       "ingestedBy": "biorxiv"
     },
     {
-      "id": "multi-omics-integration-across-regulatory-layers-reveals-candidate-dri-20628108",
-      "title": "Multi-Omics Integration Across Regulatory Layers Reveals Candidate Drivers of Severe COVID-19 Immunopathology",
-      "titleKo": "Multi-Omics Integration Across Regulatory Layers Reveals Candidate Drivers of Severe COVID-19 Immunopathology",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "cohesin-ctcf"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.20944/preprints202610.0091.v1"
-      },
-      "publishedAt": "2026-10-02",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.20944/preprints202610.0091.v1",
-      "doi": "10.20944/preprints202610.0091.v1",
-      "pmid": null,
-      "authors": [
-        "Basharat N",
-        "Ghania G",
-        "Fahad H",
-        "Raziq F."
-      ],
-      "summary": "The clinical heterogeneity of COVID-19 is well known but its determinants are not fully understood, and the regulatory mechanisms connecting host genetic risk to the transcriptional signature of severe disease have seldom been addressed in one framework. Peripheral blood mononuclear cells (PBMCs) provide a convenient way to measure the systemic immune dysregulation seen in severe SARS-CoV-2 infection, yet most transcriptomic studies of this cell type stop at describing differential expression, rather than asking what drives it. In this study, a focused discovery cohort of 10 PBMC transcriptomes (five healthy controls and five severe COVID-19 patients) from the RNA-sequencing dataset GSE152418 processed through a HISAT2/featureCounts pipeline and differential expression was determined using DESeq2. The gene set was then tested against fou…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-07",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 75,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "granular-assessment-of-paediatric-and-adolescent-ovaries-following-low-555b6486",
       "title": "Granular assessment of paediatric and adolescent ovaries following low levels of alkylating treatment reveals significant morphologic differences in early stage follicles.",
       "titleKo": "Granular assessment of paediatric and adolescent ovaries following low levels of alkylating treatment reveals significant morphologic differences in early stage follicles.",
@@ -11161,6 +11114,67 @@
       "featured": false,
       "status": "new",
       "ingestedBy": "europepmc"
+    },
+    {
+      "id": "distinct-transcriptional-responses-to-mild-cold-versus-warm-temperatur-107e6a19",
+      "title": "Distinct transcriptional responses to mild cold versus warm temperatures in adult Drosophila melanogaster ovaries",
+      "titleKo": "Distinct transcriptional responses to mild cold versus warm temperatures in adult Drosophila melanogaster ovaries",
+      "kind": "preprint",
+      "section": "papers",
+      "subsection": "preprint",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "bioRxiv",
+        "type": "index",
+        "authority": 3,
+        "url": "https://www.biorxiv.org/content/10.64898/2026.09.24.754180v1"
+      },
+      "publishedAt": "2026-09-28",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://www.biorxiv.org/content/10.64898/2026.09.24.754180v1",
+      "doi": "10.64898/2026.09.24.754180",
+      "pmid": null,
+      "authors": [
+        "Gandara, A. C. P.",
+        "Gao, Z. Y.",
+        "Lee, G. Y. C.",
+        "Drummond-Barbosa, D."
+      ],
+      "summary": "Temperature influences fertility across diverse organisms, yet the mechanisms underlying how suboptimal temperatures affect gamete production and quality remain largely unknown. We previously showed that chronic exposure of adult Drosophila melanogaster females to mild cold promotes the maintenance of germline stem cells (GSCs) and high oocyte quality over time despite reducing the rates of oogenesis, while exposure to warm temperature causes death of early germline cysts and vitellogenic follicles and a severe decrease in oocyte quality. To explore potential mechanisms underlying these highly distinct responses, we compared the ovarian transcriptomes of females maintained at these temperatures (18{degrees}C or 29{degrees}C) to that of 25{degrees}C controls. We found that 18{degrees}C upregulates or downregulates ~2.5 times as many genes…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "preprint",
+        "checkedAt": "2026-10-03",
+        "confidence": 0.58,
+        "note": "Not peer reviewed; metadata and abstract automatically filtered."
+      },
+      "signals": {
+        "baseRelevance": 96,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 76
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "biorxiv"
     },
     {
       "id": "duet-seq-an-open-source-droplet-platform-for-high-fidelity-joint-chrom-82bad7b9",
@@ -11304,6 +11318,71 @@
       "featured": false,
       "status": "new",
       "ingestedBy": "biorxiv"
+    },
+    {
+      "id": "novel-and-recurrent-tubb8-variants-cause-irreversible-meiotic-spindle-ce3043ae",
+      "title": "Novel and recurrent TUBB8 variants cause irreversible meiotic spindle defects and refractory ART failure in Chinese women with oocyte maturation arrest.",
+      "titleKo": "Novel and recurrent TUBB8 variants cause irreversible meiotic spindle defects and refractory ART failure in Chinese women with oocyte maturation arrest.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42760497"
+      },
+      "publishedAt": "2026-09-18",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42760497",
+      "doi": "10.1007/s10815-026-04025-7",
+      "pmid": "42760497",
+      "authors": [
+        "Zhuang XJ",
+        "Li Y",
+        "Lian Y",
+        "Qiu X",
+        "Liu NN",
+        "Wang Y",
+        "Li R",
+        "Liu P."
+      ],
+      "summary": "Purpose Oocyte maturation arrest (OMA) is a major monogenic cause of unexplained female infertility and recurrent assisted reproductive technology (ART) failure. TUBB8, which encodes an oocyte-specific β-tubulin isoform essential for acentrosomal spindle assembly, represents the most common genetic etiology of metaphase I (MI) arrest. This study aimed to identify pathogenic TUBB8 variants and characterize their clinical phenotypes and molecular mechanisms in Chinese women with unexplained recurrent OMA. Methods Six unrelated Chinese women with primary infertility and persistent OMA were enrolled. Whole-exome sequencing and Sanger sequencing were performed to identify and validate TUBB8 variants. Inheritance patterns, oocyte morphology, spindle integrity, and clinical ART outcomes were systematically evaluated. Three-dimensional structura…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-09-23",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 96,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
     },
     {
       "id": "inverted-logic-of-ecdna-localization-converts-nuclear-periphery-into-o-382f2a4e",
@@ -12581,6 +12660,75 @@
       "ingestedBy": "europepmc"
     },
     {
+      "id": "ctcf-aligns-single-cell-tad-like-domain-boundaries-and-stabilizes-long-0cb883b3",
+      "title": "CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.",
+      "titleKo": "CTCF aligns single-cell TAD-like domain boundaries and stabilizes long-range active chromatin clusters.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "cohesin-ctcf",
+        "3d-genome",
+        "enhancer-promoter"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42696576"
+      },
+      "publishedAt": "2026-09-04",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42696576",
+      "doi": "10.1126/sciadv.aee2863",
+      "pmid": "42696576",
+      "authors": [
+        "Chen Z",
+        "Li X",
+        "Dai Y",
+        "Shao K",
+        "Sun H",
+        "Wu N",
+        "Yan J",
+        "Zhang Y",
+        "Yu M."
+      ],
+      "summary": "CCCTC-binding factor (CTCF) is a key architectural protein in the three-dimensional (3D) genome, yet how its loss reshapes chromatin structure and transcription at single-cell resolution remains unclear. Using HiRES, which jointly profiles chromatin contacts and RNA from the same nucleus, we examined genome-wide effects of CTCF depletion. Topologically associating domain (TAD)-like domains (TLDs) across single cells remained largely unchanged in number and size after CTCF loss, but their boundaries became more variably positioned, and pseudobulk analyses revealed reduced interactions within A compartments. We also developed SALTAFinder to identify Spatially Aggregated Long-distance TLD Assemblies (SALTAs), clusters of TLDs occupying shared 3D space within single cells. A subset of SALTAs is enriched for highly expressed genes and super-e…",
+      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "cohesin",
+        "ctcf",
+        "3d genome",
+        "three-dimensional genome",
+        "enhancer-promoter",
+        "enhancer promoter"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-09-09",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
       "id": "rhbg-is-dispensable-for-spermatogenesis-but-fine-tunes-sperm-motility-188bb5ea",
       "title": "Rhbg is dispensable for spermatogenesis but fine-tunes sperm motility trajectory during capacitation in mice.",
       "titleKo": "Rhbg is dispensable for spermatogenesis but fine-tunes sperm motility trajectory during capacitation in mice.",
@@ -13196,70 +13344,6 @@
       },
       "signals": {
         "baseRelevance": 97,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "sperm-as-a-multilayered-epigenetic-information-system-encoding-and-tra-946da7d3",
-      "title": "Sperm as a multilayered epigenetic information system: encoding and transmission of paternal environmental signals.",
-      "titleKo": "Sperm as a multilayered epigenetic information system: encoding and transmission of paternal environmental signals.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "epigenetics",
-        "ivg-germline",
-        "developmental-biology"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42680481"
-      },
-      "publishedAt": "2026-09-02",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42680481",
-      "doi": null,
-      "pmid": "42680481",
-      "authors": [
-        "Kim S",
-        "Lee HY",
-        "Kim SY",
-        "Lee JY."
-      ],
-      "summary": "Spermatozoa are increasingly recognized as carriers of non-genetic paternal information, rather than passive vehicles for the haploid genome. During spermatogenesis and post-testicular epididymal maturation, the paternal germline establishes a compact but functionally organized epigenome composed of DNA methylation, retained histones and histone modifications, chromatin-associated factors, and diverse small RNAs. These layers are environmentally responsive. In animal models, paternal diet, stress, toxicant exposure, and inflammatory or microbiome-related challenges can alter sperm DNA methylation, chromatin states, and small RNA cargo, with many changes mapping to loci involved in development, metabolism, and stress-response pathways. After fertilization, the paternal genome undergoes extensive epigenetic reprogramming; nevertheless, a s…",
-      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "epigenetic",
-        "epigenome",
-        "in vitro gametogenesis",
-        "ivg",
-        "early embryo",
-        "embryogenesis"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-09-07",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -14428,57 +14512,55 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "lipoprotein-biology-during-induced-oogenesis-in-the-short-finned-eel-a-3c19b02a",
-      "title": "Lipoprotein biology during induced oogenesis in the short-finned eel, Anguilla australis-hepatic target gene expression and accumulation of nutrient sources into developing oocytes.",
-      "titleKo": "Lipoprotein biology during induced oogenesis in the short-finned eel, Anguilla australis-hepatic target gene expression and accumulation of nutrient sources into developing oocytes.",
+      "id": "multi-omics-integration-across-regulatory-layers-reveals-candidate-dri-20628108",
+      "title": "Multi-Omics Integration Across Regulatory Layers Reveals Candidate Drivers of Severe COVID-19 Immunopathology",
+      "titleKo": "Multi-Omics Integration Across Regulatory Layers Reveals Candidate Drivers of Severe COVID-19 Immunopathology",
       "kind": "paper",
       "section": "papers",
       "subsection": "paper",
       "topics": [
-        "ivg-germline"
+        "cohesin-ctcf"
       ],
       "source": {
         "name": "Europe PMC",
         "type": "index",
         "authority": 4,
-        "url": "https://europepmc.org/article/MED/42828554"
+        "url": "https://doi.org/10.20944/preprints202610.0091.v1"
       },
-      "publishedAt": "2026-10-03",
+      "publishedAt": "2026-10-02",
       "deadlineAt": null,
       "eventStart": null,
       "eventEnd": null,
       "location": null,
-      "url": "https://europepmc.org/article/MED/42828554",
-      "doi": "10.1007/s10695-026-01806-w",
-      "pmid": "42828554",
+      "url": "https://doi.org/10.20944/preprints202610.0091.v1",
+      "doi": "10.20944/preprints202610.0091.v1",
+      "pmid": null,
       "authors": [
-        "Damsteegt EL",
-        "Mercuriali B",
-        "Thomson-Laing G",
-        "Miner M",
-        "Nguyen AT",
-        "Lokman PM."
+        "Basharat N",
+        "Ghania G",
+        "Fahad H",
+        "Raziq F."
       ],
-      "summary": "Production of good quality eggs still plagues mass propagation efforts of anguillid eels. Understanding the lipid dynamics of artificially maturing eels will inevitably benefit captive rearing practices due to the importance of lipids for egg quality. Fortnightly sampling of shortfinned eels (Anguilla australis) subjected to hypophysation for 10 weeks allowed us to gather important information relating to multiple aspects of lipid physiology. Accordingly, expected increases in gonadosomatic (from 2.20 ± 0.14 to 23.20 ± 6.01%) and hepatic somatic indices (from 0.89 ± 0.04 to 1.93 ± 0.01%), as well as oocyte diameter (from ~ 220 to ~ 700 µm) were complemented with notable increases in hepatic and ovarian vitellogenin levels at both the gene and protein levels in treated eels compared to Ringer-injected controls. A fivefold increase in hepa…",
-      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "summary": "The clinical heterogeneity of COVID-19 is well known but its determinants are not fully understood, and the regulatory mechanisms connecting host genetic risk to the transcriptional signature of severe disease have seldom been addressed in one framework. Peripheral blood mononuclear cells (PBMCs) provide a convenient way to measure the systemic immune dysregulation seen in severe SARS-CoV-2 infection, yet most transcriptomic studies of this cell type stop at describing differential expression, rather than asking what drives it. In this study, a focused discovery cohort of 10 PBMC transcriptomes (five healthy controls and five severe COVID-19 patients) from the RNA-sequencing dataset GSE152418 processed through a HISAT2/featureCounts pipeline and differential expression was determined using DESeq2. The gene set was then tested against fou…",
+      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
       "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
       "tags": [
-        "in vitro gametogenesis",
-        "ivg"
+        "cohesin",
+        "ctcf"
       ],
       "access": {
-        "openAccess": true,
+        "openAccess": false,
         "fullText": "index-metadata"
       },
       "eligibility": null,
       "verification": {
         "level": "automated-metadata",
-        "checkedAt": "2026-10-08",
+        "checkedAt": "2026-10-07",
         "confidence": 0.7,
         "note": "Machine-filtered metadata; editorial review pending."
       },
       "signals": {
-        "baseRelevance": 74,
+        "baseRelevance": 75,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -14799,131 +14881,6 @@
       "ingestedBy": "europepmc"
     },
     {
-      "id": "human-antibody-heavy-chain-variable-region-exon-interacts-with-the-3-r-d805c94f",
-      "title": "Human antibody heavy chain variable region exon interacts with the 3' regulatory region to form a stable somatic hypermutation center.",
-      "titleKo": "Human antibody heavy chain variable region exon interacts with the 3' regulatory region to form a stable somatic hypermutation center.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "cohesin-ctcf"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42804635"
-      },
-      "publishedAt": "2026-09-28",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42804635",
-      "doi": "10.1073/pnas.2625638123",
-      "pmid": "42804635",
-      "authors": [
-        "Guan Y",
-        "Mikhova M",
-        "Yang Z",
-        "Xu K",
-        "Xie S",
-        "Lin X",
-        "Ye AY",
-        "Williams T",
-        "Wang J",
-        "Schatz DG",
-        "Alt FW",
-        "Chen X."
-      ],
-      "summary": "Activation-induced cytidine deaminase (AID) initiates somatic hypermutation (SHM) of immunoglobulin heavy chain (HC) variable region exons in germinal center (GC) B cells, allowing selection of affinity-matured B cell receptors. The V(D)J exon location is \"privileged\" for SHM targeting of diverse sequences within it. In analogy to the related HC class switch recombination center, we proposed that cohesin-mediated loop extrusion juxtaposes widely separated enhancers, including 3' Igh regulatory region (\"3'RR\"), with the V(D)J exon in GC B cells to establish a SHM-center (SHM-C) \"privileged\" for AID access. To test this hypothesis, we employed a human RAMOS GC B lymphoma cell SHM model with inducible AID expression in which we targeted an unmutated mouse HC V(D)J exon in place of its human counterpart. Activation of AID expression in this…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-03",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 75,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "ctcf-fxn-regulatory-axis-plays-critical-roles-in-clinical-assessments-5bed3751",
-      "title": "CTCF-FXN regulatory axis plays critical roles in clinical assessments and disease progression of primary open-angle glaucoma.",
-      "titleKo": "CTCF-FXN regulatory axis plays critical roles in clinical assessments and disease progression of primary open-angle glaucoma.",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "cohesin-ctcf"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://europepmc.org/article/MED/42803824"
-      },
-      "publishedAt": "2026-09-28",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://europepmc.org/article/MED/42803824",
-      "doi": "10.1007/s00109-026-02717-2",
-      "pmid": "42803824",
-      "authors": [
-        "Cai D",
-        "Yu Y",
-        "Ma J",
-        "Li T",
-        "Liu Z."
-      ],
-      "summary": "Primary open-angle glaucoma (POAG) is an irreversible ophthalmic disease that is the leading cause of blindness. Oxidative stress (OS) is considered an important contributor to POAG pathogenesis. However, its mechanism of action in POAG remains vague. FXN was identified as a candidate OS-related gene associated with POAG through WGCNA and two machine learning methods (LASSO regression and SVM-RFE). Through multiple bioinformatic analyses, FXN exhibited potential diagnostic value and was associated with immune-related signatures in POAG samples. GSEA revealed that high FXN expression was associated with enrichment of glycolysis- and pyruvate metabolism-related gene sets. FXN expression was significantly decreased in an H2O2 in vitro model (R28 cells). CCK8, EdU, TUNEL, ROS detection and flow cytometry assays indicated that FXN overexpress…",
-      "whyItMatters": "cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "cohesin",
-        "ctcf"
-      ],
-      "access": {
-        "openAccess": true,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-03",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 75,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
       "id": "gslr-drives-lung-adenocarcinoma-as-a-critical-regulator-of-energy-home-ecf0fa9b",
       "title": "GSLR Drives Lung Adenocarcinoma as a Critical Regulator of Energy Homeostasis Through Creatine Kinase B Activation.",
       "titleKo": "GSLR Drives Lung Adenocarcinoma as a Critical Regulator of Energy Homeostasis Through Creatine Kinase B Activation.",
@@ -14982,66 +14939,6 @@
       },
       "signals": {
         "baseRelevance": 79,
-        "novelty": 88,
-        "actionability": 62,
-        "authority": 90
-      },
-      "featured": false,
-      "status": "new",
-      "ingestedBy": "europepmc"
-    },
-    {
-      "id": "high-resolution-mapping-of-rna-structural-maturation-during-cas9-assem-8d1c4846",
-      "title": "High-resolution mapping of RNA structural maturation during Cas9 assembly with ABEL-FRET",
-      "titleKo": "High-resolution mapping of RNA structural maturation during Cas9 assembly with ABEL-FRET",
-      "kind": "paper",
-      "section": "papers",
-      "subsection": "paper",
-      "topics": [
-        "single-molecule",
-        "crispr-engineering"
-      ],
-      "source": {
-        "name": "Europe PMC",
-        "type": "index",
-        "authority": 4,
-        "url": "https://doi.org/10.64898/2026.09.25.754466"
-      },
-      "publishedAt": "2026-09-26",
-      "deadlineAt": null,
-      "eventStart": null,
-      "eventEnd": null,
-      "location": null,
-      "url": "https://doi.org/10.64898/2026.09.25.754466",
-      "doi": "10.64898/2026.09.25.754466",
-      "pmid": null,
-      "authors": [
-        "Choi B",
-        "Wilson H",
-        "Wang Q."
-      ],
-      "summary": "The structural flexibility of RNA is essential for forming ribonucleoprotein (RNP) complexes, which regulate diverse biological processes. This intrinsic property permits RNA to act as a dynamic scaffold along the assembly pathway as it folds into a specific structure for initial recognition by protein and undergoes conformational rearrangements for functional maturation as a complex. Yet, RNA flexibility and RNP multicomponent assembly create significant obstacles for traditional structural methods. To overcome these challenges, we applied recently developed ABEL-FRET spectroscopy to measure tether-free single-molecule Förster resonance energy transfer (smFRET) over extended observation times. Furthermore, ABEL-FRET enables the unique ability for simultaneous measurements of ultrahigh resolution smFRET and hydrodynamic size of individua…",
-      "whyItMatters": "정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.",
-      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
-      "tags": [
-        "single-molecule",
-        "single molecule",
-        "crispr",
-        "dcas9"
-      ],
-      "access": {
-        "openAccess": false,
-        "fullText": "index-metadata"
-      },
-      "eligibility": null,
-      "verification": {
-        "level": "automated-metadata",
-        "checkedAt": "2026-10-01",
-        "confidence": 0.7,
-        "note": "Machine-filtered metadata; editorial review pending."
-      },
-      "signals": {
-        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -15180,6 +15077,70 @@
       },
       "signals": {
         "baseRelevance": 97,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
+    },
+    {
+      "id": "sperm-as-a-multilayered-epigenetic-information-system-encoding-and-tra-946da7d3",
+      "title": "Sperm as a multilayered epigenetic information system: encoding and transmission of paternal environmental signals.",
+      "titleKo": "Sperm as a multilayered epigenetic information system: encoding and transmission of paternal environmental signals.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "epigenetics",
+        "ivg-germline",
+        "developmental-biology"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42680481"
+      },
+      "publishedAt": "2026-09-02",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42680481",
+      "doi": null,
+      "pmid": "42680481",
+      "authors": [
+        "Kim S",
+        "Lee HY",
+        "Kim SY",
+        "Lee JY."
+      ],
+      "summary": "Spermatozoa are increasingly recognized as carriers of non-genetic paternal information, rather than passive vehicles for the haploid genome. During spermatogenesis and post-testicular epididymal maturation, the paternal germline establishes a compact but functionally organized epigenome composed of DNA methylation, retained histones and histone modifications, chromatin-associated factors, and diverse small RNAs. These layers are environmentally responsive. In animal models, paternal diet, stress, toxicant exposure, and inflammatory or microbiome-related challenges can alter sperm DNA methylation, chromatin states, and small RNA cargo, with many changes mapping to loci involved in development, metabolism, and stress-response pathways. After fertilization, the paternal genome undergoes extensive epigenetic reprogramming; nevertheless, a s…",
+      "whyItMatters": "chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "epigenetic",
+        "epigenome",
+        "in vitro gametogenesis",
+        "ivg",
+        "early embryo",
+        "embryogenesis"
+      ],
+      "access": {
+        "openAccess": false,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-09-07",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 100,
         "novelty": 88,
         "actionability": 62,
         "authority": 90
@@ -15760,6 +15721,66 @@
       "featured": false,
       "status": "new",
       "ingestedBy": "biorxiv"
+    },
+    {
+      "id": "lipoprotein-biology-during-induced-oogenesis-in-the-short-finned-eel-a-3c19b02a",
+      "title": "Lipoprotein biology during induced oogenesis in the short-finned eel, Anguilla australis-hepatic target gene expression and accumulation of nutrient sources into developing oocytes.",
+      "titleKo": "Lipoprotein biology during induced oogenesis in the short-finned eel, Anguilla australis-hepatic target gene expression and accumulation of nutrient sources into developing oocytes.",
+      "kind": "paper",
+      "section": "papers",
+      "subsection": "paper",
+      "topics": [
+        "ivg-germline"
+      ],
+      "source": {
+        "name": "Europe PMC",
+        "type": "index",
+        "authority": 4,
+        "url": "https://europepmc.org/article/MED/42828554"
+      },
+      "publishedAt": "2026-10-03",
+      "deadlineAt": null,
+      "eventStart": null,
+      "eventEnd": null,
+      "location": null,
+      "url": "https://europepmc.org/article/MED/42828554",
+      "doi": "10.1007/s10695-026-01806-w",
+      "pmid": "42828554",
+      "authors": [
+        "Damsteegt EL",
+        "Mercuriali B",
+        "Thomson-Laing G",
+        "Miner M",
+        "Nguyen AT",
+        "Lokman PM."
+      ],
+      "summary": "Production of good quality eggs still plagues mass propagation efforts of anguillid eels. Understanding the lipid dynamics of artificially maturing eels will inevitably benefit captive rearing practices due to the importance of lipids for egg quality. Fortnightly sampling of shortfinned eels (Anguilla australis) subjected to hypophysation for 10 weeks allowed us to gather important information relating to multiple aspects of lipid physiology. Accordingly, expected increases in gonadosomatic (from 2.20 ± 0.14 to 23.20 ± 6.01%) and hepatic somatic indices (from 0.89 ± 0.04 to 1.93 ± 0.01%), as well as oocyte diameter (from ~ 220 to ~ 700 µm) were complemented with notable increases in hepatic and ovarian vitellogenin levels at both the gene and protein levels in treated eels compared to Ringer-injected controls. A fivefold increase in hepa…",
+      "whyItMatters": "PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.",
+      "recommendedAction": "초록과 핵심 Figure를 먼저 확인하고, 주장–실험–대안 설명을 3단 구조로 기록한다.",
+      "tags": [
+        "in vitro gametogenesis",
+        "ivg"
+      ],
+      "access": {
+        "openAccess": true,
+        "fullText": "index-metadata"
+      },
+      "eligibility": null,
+      "verification": {
+        "level": "automated-metadata",
+        "checkedAt": "2026-10-08",
+        "confidence": 0.7,
+        "note": "Machine-filtered metadata; editorial review pending."
+      },
+      "signals": {
+        "baseRelevance": 74,
+        "novelty": 88,
+        "actionability": 62,
+        "authority": 90
+      },
+      "featured": false,
+      "status": "new",
+      "ingestedBy": "europepmc"
     },
     {
       "id": "context-dependent-effects-of-whole-body-vibration-on-reproductive-func-c387094d",

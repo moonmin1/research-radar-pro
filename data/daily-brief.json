@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T10:11:16+09:00",
-  "title": "Research Radar — 2026-10-17",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T09:45:44+09:00",
+  "title": "Research Radar — 2026-10-18",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
     "janelia-visiting-scientist",
     "mit-biology-phd-2027",
+    "guanine-content-in-the-ctcf-motif-encodes-a-vulnerability-to-persisten-b6e2b0b0",
     "understanding-the-role-of-chromatin-accessibility-and-compaction-on-lo-bd488f93",
     "a-role-for-ciz1-a-nuclear-matrix-protein-overexpressed-in-cancer-cells-1cab1903",
-    "systemic-control-and-inter-organ-communication-of-ovarian-aging-f3af2497",
     "disrupted-chromatin-architecture-blocks-b-lymphopoiesis-in-down-syndro-1daa1985"
   ],
   "counts": {
     "total": 250,
-    "new72h": 4,
+    "new72h": 3,
     "papers": 239,
     "opportunities": 6,
     "graduate": 5,
