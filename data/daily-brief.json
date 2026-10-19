@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T09:45:44+09:00",
-  "title": "Research Radar — 2026-10-18",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T09:58:59+09:00",
+  "title": "Research Radar — 2026-10-19",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
@@ -10,7 +10,7 @@
     "guanine-content-in-the-ctcf-motif-encodes-a-vulnerability-to-persisten-b6e2b0b0",
     "understanding-the-role-of-chromatin-accessibility-and-compaction-on-lo-bd488f93",
     "a-role-for-ciz1-a-nuclear-matrix-protein-overexpressed-in-cancer-cells-1cab1903",
-    "disrupted-chromatin-architecture-blocks-b-lymphopoiesis-in-down-syndro-1daa1985"
+    "a-modular-dna-toolkit-for-single-molecule-biophysics-fb55488d"
   ],
   "counts": {
     "total": 250,
