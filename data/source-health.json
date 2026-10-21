@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T10:39:19+09:00",
+  "generatedAt": "2026-10-21T10:24:49+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-10-20T10:39:19+09:00",
+      "lastSuccess": "2026-10-21T10:24:49+09:00",
       "latencyMs": 0,
       "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -14,37 +14,37 @@
       "id": "europepmc",
       "label": "Europe PMC",
       "status": "healthy",
-      "lastSuccess": "2026-10-20T10:39:19+09:00",
-      "latencyMs": 2799,
-      "items": 30,
-      "message": "Received 140; retained 30 after relevance filtering."
+      "lastSuccess": "2026-10-21T10:24:49+09:00",
+      "latencyMs": 2320,
+      "items": 25,
+      "message": "Received 140; retained 25 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
       "status": "healthy",
-      "lastSuccess": "2026-10-20T10:39:19+09:00",
-      "latencyMs": 1562,
-      "items": 1,
-      "message": "Received 30; retained 1 after relevance filtering."
+      "lastSuccess": "2026-10-21T10:24:49+09:00",
+      "latencyMs": 2563,
+      "items": 2,
+      "message": "Received 30; retained 2 after relevance filtering."
     },
     {
       "id": "nih-rss",
       "label": "NIH Guide RSS",
       "status": "healthy",
-      "lastSuccess": "2026-10-20T10:39:19+09:00",
-      "latencyMs": 97,
+      "lastSuccess": "2026-10-21T10:24:49+09:00",
+      "latencyMs": 170,
       "items": 2,
-      "message": "Received 3; retained 2 after relevance filtering."
+      "message": "Received 8; retained 2 after relevance filtering."
     },
     {
       "id": "page-watch",
       "label": "Curated programme page-watch",
       "status": "healthy",
-      "lastSuccess": "2026-10-20T10:39:19+09:00",
-      "latencyMs": 7536,
-      "items": 9,
-      "message": "Checked 10 pages; 1 change/error flags added."
+      "lastSuccess": "2026-10-21T10:24:49+09:00",
+      "latencyMs": 3669,
+      "items": 7,
+      "message": "Checked 10 pages; 3 change/error flags added."
     }
   ]
 }
