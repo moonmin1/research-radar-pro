@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T10:22:30+09:00",
+  "generatedAt": "2026-10-23T10:21:11+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-10-22T10:22:30+09:00",
+      "lastSuccess": "2026-10-23T10:21:11+09:00",
       "latencyMs": 0,
       "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -14,35 +14,35 @@
       "id": "europepmc",
       "label": "Europe PMC",
       "status": "healthy",
-      "lastSuccess": "2026-10-22T10:22:30+09:00",
-      "latencyMs": 2150,
-      "items": 26,
-      "message": "Received 112; retained 26 after relevance filtering."
+      "lastSuccess": "2026-10-23T10:21:11+09:00",
+      "latencyMs": 1365,
+      "items": 23,
+      "message": "Received 106; retained 23 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
       "status": "healthy",
-      "lastSuccess": "2026-10-22T10:22:30+09:00",
-      "latencyMs": 1209,
-      "items": 4,
-      "message": "Received 30; retained 4 after relevance filtering."
+      "lastSuccess": "2026-10-23T10:21:11+09:00",
+      "latencyMs": 6615,
+      "items": 1,
+      "message": "Received 30; retained 1 after relevance filtering."
     },
     {
       "id": "nih-rss",
       "label": "NIH Guide RSS",
       "status": "healthy",
-      "lastSuccess": "2026-10-22T10:22:30+09:00",
+      "lastSuccess": "2026-10-23T10:21:11+09:00",
       "latencyMs": 98,
       "items": 2,
-      "message": "Received 9; retained 2 after relevance filtering."
+      "message": "Received 11; retained 2 after relevance filtering."
     },
     {
       "id": "page-watch",
       "label": "Curated programme page-watch",
       "status": "healthy",
-      "lastSuccess": "2026-10-22T10:22:30+09:00",
-      "latencyMs": 2988,
+      "lastSuccess": "2026-10-23T10:21:11+09:00",
+      "latencyMs": 3883,
       "items": 7,
       "message": "Checked 10 pages; 3 change/error flags added."
     }
