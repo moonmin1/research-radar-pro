@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T10:26:09+09:00",
+  "title": "Research Radar — 2026-10-24",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "mit-biology-phd-2027",
+    "epigenomic-heterogeneity-and-spatial-organization-during-human-reprogr-81c63478",
+    "evaluation-of-object-detection-neural-networks-to-find-topologically-a-cc074534",
+    "transcription-coupled-recruitment-of-smc-complexes-in-yeast-e635c0b5",
+    "msps-xmap215-is-essential-for-oocyte-specification-in-the-drosophila-o-6c524f31"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 11,
+    "papers": 237,
+    "opportunities": 8,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
