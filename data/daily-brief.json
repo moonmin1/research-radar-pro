@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-24T10:26:09+09:00",
-  "title": "Research Radar — 2026-10-24",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T09:55:47+09:00",
+  "title": "Research Radar — 2026-10-25",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
     "janelia-visiting-scientist",
-    "mit-biology-phd-2027",
-    "epigenomic-heterogeneity-and-spatial-organization-during-human-reprogr-81c63478",
-    "evaluation-of-object-detection-neural-networks-to-find-topologically-a-cc074534",
-    "transcription-coupled-recruitment-of-smc-complexes-in-yeast-e635c0b5",
-    "msps-xmap215-is-essential-for-oocyte-specification-in-the-drosophila-o-6c524f31"
+    "a-noncanonical-meiotic-cohesin-complex-associates-with-specific-mcm-co-fce1d393",
+    "smchd1-loss-rewires-myod1-enhancer-nexuses-and-chromatin-accessibility-7e550692",
+    "ctcf-gradually-acquires-novel-function-modalities-during-bilaterian-ev-9be738ba",
+    "micro-c-tale-bac-based-targeted-high-resolution-measurement-of-3d-chro-55fe0c90",
+    "specification-of-origins-of-dna-replication-within-distinct-chromatin-797de2dd"
   ],
   "counts": {
     "total": 250,
-    "new72h": 11,
+    "new72h": 13,
     "papers": 237,
     "opportunities": 8,
     "graduate": 5,
