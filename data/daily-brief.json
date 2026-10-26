@@ -1,20 +1,20 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T09:55:47+09:00",
-  "title": "Research Radar — 2026-10-25",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T10:03:52+09:00",
+  "title": "Research Radar — 2026-10-26",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
     "janelia-visiting-scientist",
+    "chromatin-rewiring-in-endothelial-cells-upon-cohesin-reduction-redistr-3850b999",
     "a-noncanonical-meiotic-cohesin-complex-associates-with-specific-mcm-co-fce1d393",
-    "smchd1-loss-rewires-myod1-enhancer-nexuses-and-chromatin-accessibility-7e550692",
-    "ctcf-gradually-acquires-novel-function-modalities-during-bilaterian-ev-9be738ba",
+    "evolution-of-ctcf-underlies-the-establishment-of-loop-extrusion-as-a-p-02270989",
     "micro-c-tale-bac-based-targeted-high-resolution-measurement-of-3d-chro-55fe0c90",
     "specification-of-origins-of-dna-replication-within-distinct-chromatin-797de2dd"
   ],
   "counts": {
     "total": 250,
-    "new72h": 13,
+    "new72h": 20,
     "papers": 237,
     "opportunities": 8,
     "graduate": 5,

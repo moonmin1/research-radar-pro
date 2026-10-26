@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T09:55:47+09:00",
+  "generatedAt": "2026-10-26T10:03:52+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-10-25T09:55:47+09:00",
+      "lastSuccess": "2026-10-26T10:03:52+09:00",
       "latencyMs": 0,
       "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -14,17 +14,17 @@
       "id": "europepmc",
       "label": "Europe PMC",
       "status": "healthy",
-      "lastSuccess": "2026-10-25T09:55:47+09:00",
-      "latencyMs": 1997,
-      "items": 40,
-      "message": "Received 106; retained 40 after relevance filtering."
+      "lastSuccess": "2026-10-26T10:03:52+09:00",
+      "latencyMs": 1278,
+      "items": 42,
+      "message": "Received 113; retained 42 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
       "status": "healthy",
-      "lastSuccess": "2026-10-25T09:55:47+09:00",
-      "latencyMs": 1221,
+      "lastSuccess": "2026-10-26T10:03:52+09:00",
+      "latencyMs": 4675,
       "items": 1,
       "message": "Received 30; retained 1 after relevance filtering."
     },
@@ -32,8 +32,8 @@
       "id": "nih-rss",
       "label": "NIH Guide RSS",
       "status": "healthy",
-      "lastSuccess": "2026-10-25T09:55:47+09:00",
-      "latencyMs": 248,
+      "lastSuccess": "2026-10-26T10:03:52+09:00",
+      "latencyMs": 59,
       "items": 2,
       "message": "Received 12; retained 2 after relevance filtering."
     },
@@ -41,10 +41,10 @@
       "id": "page-watch",
       "label": "Curated programme page-watch",
       "status": "healthy",
-      "lastSuccess": "2026-10-25T09:55:47+09:00",
-      "latencyMs": 6754,
+      "lastSuccess": "2026-10-26T10:03:52+09:00",
+      "latencyMs": 2896,
       "items": 9,
-      "message": "Checked 10 pages; 1 change/error flags added."
+      "message": "Checked 10 pages; 2 change/error flags added."
     }
   ]
 }
