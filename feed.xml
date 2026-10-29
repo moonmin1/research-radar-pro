@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:04:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:14:33 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -142,13 +142,13 @@
       <description>한국에서 직접 지원하는 사용자는 이번 cycle의 Utah Bioscience를 지원 목록에서 제외해야 한다. 단순 관심도 점수보다 eligibility exclusion을 우선 적용해야 하는 대표 사례다.</description>
     </item>
     <item>
-      <title>PDS5A restricts SYN4-dependent long-range chromatin contacts to shape TAD-like chromatin architecture in Arabidopsis.</title>
-      <link>https://europepmc.org/article/MED/42935326</link>
-      <guid isPermaLink="false">pds5a-restricts-syn4-dependent-long-range-chromatin-contacts-to-shape-3ef563cd</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, cohesin-ctcf</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+      <title>Notice of Informational Webinar on the Predoctoral to Postdoctoral Transition Award (F99/K00)</title>
+      <link>http://grants.nih.gov/grants/guide/notice-files/NOT-OD-27-009.html</link>
+      <guid isPermaLink="false">notice-of-informational-webinar-on-the-predoctoral-to-postdoctoral-tra-78201508</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <category>opportunities</category>
+      <category>events-funding, us-opportunity</category>
+      <description>교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
     </item>
     <item>
       <title>Janelia Visiting Scientist Program — non-US citizen 및 J-1 paperwork 지원</title>
@@ -158,6 +158,33 @@
       <category>opportunities</category>
       <category>us-opportunity, single-molecule, developmental-biology</category>
       <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
+    </item>
+    <item>
+      <title>PDS5A restricts SYN4-dependent long-range chromatin contacts to shape TAD-like chromatin architecture in Arabidopsis.</title>
+      <link>https://europepmc.org/article/MED/42935326</link>
+      <guid isPermaLink="false">pds5a-restricts-syn4-dependent-long-range-chromatin-contacts-to-shape-3ef563cd</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, cohesin-ctcf</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Modeling of human MLH1 and MLH3 variants in mice reveals novel functions of MutLγ in meiotic DNA repair and the ovarian reserve</title>
+      <link>https://doi.org/10.64898/2026.10.26.762008</link>
+      <guid isPermaLink="false">modeling-of-human-mlh1-and-mlh3-variants-in-mice-reveals-novel-functio-81b0c183</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, 3d-genome</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Intercalator effects on DNA loop extrusion by SMC proteins</title>
+      <link>https://doi.org/10.64898/2026.10.26.761753</link>
+      <guid isPermaLink="false">intercalator-effects-on-dna-loop-extrusion-by-smc-proteins-de70e002</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome, single-molecule</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>BRD8 deficiency leads to progressive impairment of spermatogenesis in mice.</title>
@@ -173,24 +200,6 @@
       <link>https://europepmc.org/article/MED/42932986</link>
       <guid isPermaLink="false">automation-of-sperm-preparation-oocyte-retrieval-and-denudation-icsi-a-ad8dd51d</guid>
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Ovine follicular fluid extracellular vesicles improve oocyte maturation and exhibit ribosome-related cargo signatures†.</title>
-      <link>https://europepmc.org/article/MED/42925265</link>
-      <guid isPermaLink="false">ovine-follicular-fluid-extracellular-vesicles-improve-oocyte-maturatio-74a22931</guid>
-      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Functional analysis of NANOS protein variants identified in men with infertility employing zebrafish embryos</title>
-      <link>https://doi.org/10.64898/2026.10.20.26366003</link>
-      <guid isPermaLink="false">functional-analysis-of-nanos-protein-variants-identified-in-men-with-i-47273d96</guid>
-      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
       <category>ivg-germline, developmental-biology</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
@@ -268,13 +277,22 @@
       <description>교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
     </item>
     <item>
-      <title>Endometrial compaction and ongoing pregnancy in modified natural cycle frozen euploid embryo transfer: a prospective multicentre cohort study with standardized transvaginal ultrasound assessment.</title>
-      <link>https://europepmc.org/article/MED/42926142</link>
-      <guid isPermaLink="false">endometrial-compaction-and-ongoing-pregnancy-in-modified-natural-cycle-540c3bc8</guid>
-      <pubDate>Sun, 25 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Ovine follicular fluid extracellular vesicles improve oocyte maturation and exhibit ribosome-related cargo signatures†.</title>
+      <link>https://europepmc.org/article/MED/42925265</link>
+      <guid isPermaLink="false">ovine-follicular-fluid-extracellular-vesicles-improve-oocyte-maturatio-74a22931</guid>
+      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>developmental-biology, ivg-germline, us-opportunity</category>
-      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Functional analysis of NANOS protein variants identified in men with infertility employing zebrafish embryos</title>
+      <link>https://doi.org/10.64898/2026.10.20.26366003</link>
+      <guid isPermaLink="false">functional-analysis-of-nanos-protein-variants-identified-in-men-with-i-47273d96</guid>
+      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
       <title>TET2-driven activation of AGO2 links epigenetic remodeling to myeloid commitment and leukemia.</title>
@@ -331,15 +349,6 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>Concentration-dependent effects of 2-oxothiazolidine-4-carboxylate during bovine oocyte in vitro maturation on oxidative status and embryo quality.</title>
-      <link>https://europepmc.org/article/MED/42914669</link>
-      <guid isPermaLink="false">concentration-dependent-effects-of-2-oxothiazolidine-4-carboxylate-dur-faae7cef</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
       <title>Abnormal nuclear organization impairs adipogenic lineage commitment and terminal maturation in Hutchinson-Gilford progeria syndrome (HGPS)</title>
       <link>https://doi.org/10.64898/2026.10.19.760205</link>
       <guid isPermaLink="false">abnormal-nuclear-organization-impairs-adipogenic-lineage-commitment-an-816389ba</guid>
@@ -349,22 +358,13 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
-      <title>Notice of NIBIB Participation in PA-27-037: Predoctoral to Postdoctoral Transition Award (Parent F99/K00 - Clinical Trial Not Allowed)</title>
-      <link>http://grants.nih.gov/grants/guide/notice-files/NOT-EB-26-005.html</link>
-      <guid isPermaLink="false">notice-of-nibib-participation-in-pa-27-037-predoctoral-to-postdoctoral-932c9659</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>events-funding, us-opportunity</category>
-      <description>교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
-    </item>
-    <item>
-      <title>Notice of Correction to Award Information and Application and Submission Information for PA-27-037 &quot;Predoctoral to Postdoctoral Transition Award (Parent F99/K00 - Clinical Trial Not Allowed)&quot;</title>
-      <link>http://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-091.html</link>
-      <guid isPermaLink="false">notice-of-correction-to-award-information-and-application-and-submissi-31449d82</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>events-funding, us-opportunity</category>
-      <description>교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
+      <title>Protein cofactors diversify PRC2 architecture and function</title>
+      <link>https://doi.org/10.64898/2026.10.24.761575</link>
+      <guid isPermaLink="false">protein-cofactors-diversify-prc2-architecture-and-function-78e05117</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
     </item>
   </channel>
 </rss>

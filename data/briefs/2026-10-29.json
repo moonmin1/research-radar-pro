@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T11:14:33+09:00",
+  "title": "Research Radar — 2026-10-29",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "notice-of-informational-webinar-on-the-predoctoral-to-postdoctoral-tra-78201508",
+    "janelia-visiting-scientist",
+    "pds5a-restricts-syn4-dependent-long-range-chromatin-contacts-to-shape-3ef563cd",
+    "modeling-of-human-mlh1-and-mlh3-variants-in-mice-reveals-novel-functio-81b0c183",
+    "intercalator-effects-on-dna-loop-extrusion-by-smc-proteins-de70e002",
+    "mit-biology-phd-2027"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 19,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
