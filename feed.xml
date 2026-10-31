@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 30 Oct 2026 11:28:23 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:10:21 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -151,6 +151,15 @@
       <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
     </item>
     <item>
+      <title>Oocyte-specific OMC1 is required for maintaining chromosome cohesion through reproductive life.</title>
+      <link>https://europepmc.org/article/MED/42957802</link>
+      <guid isPermaLink="false">oocyte-specific-omc1-is-required-for-maintaining-chromosome-cohesion-t-d7a6bd3b</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, cohesin-ctcf</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Cbfβ regulates DNA looping at the Il4-Il13 loci to control their differential expression in Th2 cells.</title>
       <link>https://europepmc.org/article/MED/42949637</link>
       <guid isPermaLink="false">cbf-regulates-dna-looping-at-the-il4-il13-loci-to-control-their-differ-11e6970b</guid>
@@ -214,22 +223,22 @@
       <description>교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
     </item>
     <item>
-      <title>Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.</title>
-      <link>https://europepmc.org/article/MED/42945616</link>
-      <guid isPermaLink="false">layered-regulation-of-plant-3d-chromatin-architecture-by-histone-marks-20af0efd</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Effects of Perfluorohexane Sulfonic Acid on Female Reproductive Function and Oocyte Quality.</title>
+      <link>https://europepmc.org/article/MED/42956977</link>
+      <guid isPermaLink="false">effects-of-perfluorohexane-sulfonic-acid-on-female-reproductive-functi-61dfeb50</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, cohesin-ctcf, epigenetics</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+      <category>ivg-germline, epigenetics</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
-      <title>PDS5A restricts SYN4-dependent long-range chromatin contacts to shape TAD-like chromatin architecture in Arabidopsis.</title>
-      <link>https://europepmc.org/article/MED/42935326</link>
-      <guid isPermaLink="false">pds5a-restricts-syn4-dependent-long-range-chromatin-contacts-to-shape-3ef563cd</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <title>FOSL1-associated condensates modulate superenhancer-mediated selected IL-1 family gene activation in psoriasis.</title>
+      <link>https://europepmc.org/article/MED/42950026</link>
+      <guid isPermaLink="false">fosl1-associated-condensates-modulate-superenhancer-mediated-selected-e22bbc30</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, cohesin-ctcf</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+      <category>epigenetics, 3d-genome, crispr-engineering</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>Histone modifications define distinct nucleosome positions in cell-free DNA</title>
@@ -250,6 +259,15 @@
       <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
+      <title>Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.</title>
+      <link>https://europepmc.org/article/MED/42945616</link>
+      <guid isPermaLink="false">layered-regulation-of-plant-3d-chromatin-architecture-by-histone-marks-20af0efd</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, cohesin-ctcf, epigenetics</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
       <title>An extensible deep learning framework for multi-type chromatin interaction prediction through hierarchical adaptation strategies.</title>
       <link>https://europepmc.org/article/MED/42945383</link>
       <guid isPermaLink="false">an-extensible-deep-learning-framework-for-multi-type-chromatin-interac-26f94ffa</guid>
@@ -257,6 +275,24 @@
       <category>papers</category>
       <category>enhancer-promoter, 3d-genome, cohesin-ctcf</category>
       <description>enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>PDS5A restricts SYN4-dependent long-range chromatin contacts to shape TAD-like chromatin architecture in Arabidopsis.</title>
+      <link>https://europepmc.org/article/MED/42935326</link>
+      <guid isPermaLink="false">pds5a-restricts-syn4-dependent-long-range-chromatin-contacts-to-shape-3ef563cd</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, cohesin-ctcf</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>A droplet-based long-read single-cell epigenome sequencing method for the high-throughput profiling of multidimensional regulatory elements within individual cells.</title>
+      <link>https://europepmc.org/article/MED/42934226</link>
+      <guid isPermaLink="false">a-droplet-based-long-read-single-cell-epigenome-sequencing-method-for-eeccfdf2</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, 3d-genome</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>Modeling of human MLH1 and MLH3 variants in mice reveals novel functions of MutLγ in meiotic DNA repair and the ovarian reserve</title>
@@ -268,15 +304,6 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>Automation of sperm preparation, oocyte retrieval and denudation, ICSI, and vitrification in IVF: insights from a proof-of-concept study.</title>
-      <link>https://europepmc.org/article/MED/42932986</link>
-      <guid isPermaLink="false">automation-of-sperm-preparation-oocyte-retrieval-and-denudation-icsi-a-ad8dd51d</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
       <title>Intercalator effects on DNA loop extrusion by SMC proteins</title>
       <link>https://doi.org/10.64898/2026.10.26.761753</link>
       <guid isPermaLink="false">intercalator-effects-on-dna-loop-extrusion-by-smc-proteins-de70e002</guid>
@@ -286,13 +313,22 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>In Step, the sole Drosophila TENT5 poly(A) polymerase, is required for spermatid elongation and individualization</title>
-      <link>https://doi.org/10.64898/2026.10.22.761032</link>
-      <guid isPermaLink="false">in-step-the-sole-drosophila-tent5-poly-a-polymerase-is-required-for-sp-9c3f891f</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Clinical characteristics and maternal whole-exome sequencing findings in patients with recurrent oocyte, zygote, and early embryo maturation arrest: a single-center experience.</title>
+      <link>https://europepmc.org/article/MED/42957105</link>
+      <guid isPermaLink="false">clinical-characteristics-and-maternal-whole-exome-sequencing-findings-00bb3c62</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>ivg-germline, crispr-engineering</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Does blastocyst transfer have a higher live birth rate than cleavage-stage embryo transfer in patients with delayed in vitro blastocyst development?</title>
+      <link>https://europepmc.org/article/MED/42955222</link>
+      <guid isPermaLink="false">does-blastocyst-transfer-have-a-higher-live-birth-rate-than-cleavage-s-44e2f42f</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>developmental-biology, ivg-germline</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
       <title>BRD8 deficiency leads to progressive impairment of spermatogenesis in mice.</title>
@@ -304,67 +340,31 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
-      <title>Notice of Information Webinar: NIDCD Fellowship Pre-Application Webinar</title>
-      <link>http://grants.nih.gov/grants/guide/notice-files/NOT-DC-27-010.html</link>
-      <guid isPermaLink="false">notice-of-information-webinar-nidcd-fellowship-pre-application-webinar-23bc74af</guid>
+      <title>Automation of sperm preparation, oocyte retrieval and denudation, ICSI, and vitrification in IVF: insights from a proof-of-concept study.</title>
+      <link>https://europepmc.org/article/MED/42932986</link>
+      <guid isPermaLink="false">automation-of-sperm-preparation-oocyte-retrieval-and-denudation-icsi-a-ad8dd51d</guid>
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>events-funding, us-opportunity</category>
-      <description>교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다. 미국 연구경험 또는 대학원 진입 경로로서 실제 지원 가능성과 visa 조건을 검토할 가치가 있다.</description>
-    </item>
-    <item>
-      <title>Ovine follicular fluid extracellular vesicles improve oocyte maturation and exhibit ribosome-related cargo signatures†.</title>
-      <link>https://europepmc.org/article/MED/42925265</link>
-      <guid isPermaLink="false">ovine-follicular-fluid-extracellular-vesicles-improve-oocyte-maturatio-74a22931</guid>
-      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
       <category>ivg-germline, developmental-biology</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
-      <title>Functional analysis of NANOS protein variants identified in men with infertility employing zebrafish embryos</title>
-      <link>https://doi.org/10.64898/2026.10.20.26366003</link>
-      <guid isPermaLink="false">functional-analysis-of-nanos-protein-variants-identified-in-men-with-i-47273d96</guid>
-      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Telomere Dynamics in Congenital Heart Defects: Hidden Architects of Cardiogenesis?</title>
+      <link>https://europepmc.org/article/MED/42935766</link>
+      <guid isPermaLink="false">telomere-dynamics-in-congenital-heart-defects-hidden-architects-of-car-763c9d68</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+      <category>developmental-biology, ivg-germline</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>Chromatin rewiring in endothelial cells upon cohesin reduction redistributes genome-wide FLI1 binding.</title>
-      <link>https://europepmc.org/article/MED/42925159</link>
-      <guid isPermaLink="false">chromatin-rewiring-in-endothelial-cells-upon-cohesin-reduction-redistr-3850b999</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <title>In Step, the sole Drosophila TENT5 poly(A) polymerase, is required for spermatid elongation and individualization</title>
+      <link>https://doi.org/10.64898/2026.10.22.761032</link>
+      <guid isPermaLink="false">in-step-the-sole-drosophila-tent5-poly-a-polymerase-is-required-for-sp-9c3f891f</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>cohesin-ctcf, 3d-genome, developmental-biology</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>A noncanonical meiotic cohesin complex associates with specific MCM complexes to promote cohesion establishment and homolog bias.</title>
-      <link>https://europepmc.org/article/MED/42912988</link>
-      <guid isPermaLink="false">a-noncanonical-meiotic-cohesin-complex-associates-with-specific-mcm-co-fce1d393</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, ivg-germline</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Evolution of CTCF underlies the establishment of loop extrusion as a predominant chromatin folding mechanism in vertebrates</title>
-      <link>https://doi.org/10.64898/2026.10.19.759930</link>
-      <guid isPermaLink="false">evolution-of-ctcf-underlies-the-establishment-of-loop-extrusion-as-a-p-02270989</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, 3d-genome, developmental-biology</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Micro-C-TALE: BAC-based targeted high-resolution measurement of 3D chromatin interactions</title>
-      <link>https://doi.org/10.64898/2026.10.21.760768</link>
-      <guid isPermaLink="false">micro-c-tale-bac-based-targeted-high-resolution-measurement-of-3d-chro-55fe0c90</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>3d-genome, cohesin-ctcf, crispr-engineering</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+      <category>ivg-germline, crispr-engineering</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
     </item>
   </channel>
 </rss>

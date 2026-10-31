@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T11:10:21+09:00",
+  "title": "Research Radar — 2026-10-31",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "oocyte-specific-omc1-is-required-for-maintaining-chromosome-cohesion-t-d7a6bd3b",
+    "cbf-regulates-dna-looping-at-the-il4-il13-loci-to-control-their-differ-11e6970b",
+    "swi-snf-complexes-shape-3d-chromatin-architecture-through-ctcf-and-coh-d811ffb9",
+    "the-plant-nuclear-mechanome-nuclear-envelope-chromatin-mechanics-in-en-29c21235",
+    "smarca5-facilitates-cohesin-localization-at-r-loops-to-prevent-transcr-0660af11"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 24,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
