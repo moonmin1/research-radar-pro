@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T11:00:06+09:00",
-  "title": "Research Radar — 2026-11-01",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T11:14:13+09:00",
+  "title": "Research Radar — 2026-11-02",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
     "the-role-of-actin-filament-bundling-protein-fimbrin-sac6-and-type-v-my-0797479d",
     "a-yap-tead-ctcf-transcriptional-regulatory-axis-associated-with-the-el-6b718b34",
-    "from-3d-to-4d-spatiotemporal-genome-architecture-and-functional-genomi-451e2ff0",
     "janelia-visiting-scientist",
-    "decoding-molecular-features-of-bovine-oocyte-maturation-by-integrating-87425132",
-    "frequent-blastocyst-contractions-with-area-reduction-30-are-associated-87757722"
+    "frequent-blastocyst-contractions-with-area-reduction-30-are-associated-87757722",
+    "stable-expression-of-human-endogenous-retrovirus-families-and-epigenet-d5b5e5d1",
+    "regulatory-roles-and-mechanistic-insights-of-chromatin-3d-structure-in-9863f661"
   ],
   "counts": {
     "total": 250,
-    "new72h": 32,
+    "new72h": 33,
     "papers": 235,
     "opportunities": 10,
     "graduate": 5,
