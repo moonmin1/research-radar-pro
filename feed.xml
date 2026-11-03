@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:14:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:52:30 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -142,6 +142,15 @@
       <description>한국에서 직접 지원하는 사용자는 이번 cycle의 Utah Bioscience를 지원 목록에서 제외해야 한다. 단순 관심도 점수보다 eligibility exclusion을 우선 적용해야 하는 대표 사례다.</description>
     </item>
     <item>
+      <title>Janelia Visiting Scientist Program — non-US citizen 및 J-1 paperwork 지원</title>
+      <link>https://www.janelia.org/you-janelia/visiting-scientists</link>
+      <guid isPermaLink="false">janelia-visiting-scientist</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
+      <category>opportunities</category>
+      <category>us-opportunity, single-molecule, developmental-biology</category>
+      <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
+    </item>
+    <item>
       <title>The Role of Actin-Filament Bundling Protein, Fimbrin Sac6, and Type-V Myosin Myo2, in the Motion of the SUN-Domain Protein, Mps3, During Yeast Meiosis.</title>
       <link>https://europepmc.org/article/MED/42951369</link>
       <guid isPermaLink="false">the-role-of-actin-filament-bundling-protein-fimbrin-sac6-and-type-v-my-0797479d</guid>
@@ -158,33 +167,6 @@
       <category>papers</category>
       <category>mechanobiology, cohesin-ctcf</category>
       <description>nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Janelia Visiting Scientist Program — non-US citizen 및 J-1 paperwork 지원</title>
-      <link>https://www.janelia.org/you-janelia/visiting-scientists</link>
-      <guid isPermaLink="false">janelia-visiting-scientist</guid>
-      <pubDate>Sat, 22 Aug 2026 12:00:00 +0000</pubDate>
-      <category>opportunities</category>
-      <category>us-opportunity, single-molecule, developmental-biology</category>
-      <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
-    </item>
-    <item>
-      <title>Frequent blastocyst contractions with area reduction &gt;30% are associated with reduced embryo quality but not IVF outcomes: A retrospective cohort study of fresh and frozen single embryo transfer.</title>
-      <link>https://europepmc.org/article/MED/42951472</link>
-      <guid isPermaLink="false">frequent-blastocyst-contractions-with-area-reduction-30-are-associated-87757722</guid>
-      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>developmental-biology, ivg-germline</category>
-      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Stable Expression of Human Endogenous Retrovirus Families and Epigenetic Repressors in Human Granulosa Cells Across Oocyte Maturation Stages.</title>
-      <link>https://europepmc.org/article/MED/42946542</link>
-      <guid isPermaLink="false">stable-expression-of-human-endogenous-retrovirus-families-and-epigenet-d5b5e5d1</guid>
-      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, epigenetics, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
       <title>Regulatory roles and mechanistic insights of chromatin 3D structure in mammalian growth and development: A research progress review.</title>
@@ -223,30 +205,30 @@
       <description>정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>PDS5A and TOP2B cooperate for chromatin recruitment via CTCF.</title>
-      <link>https://europepmc.org/article/MED/42962015</link>
-      <guid isPermaLink="false">pds5a-and-top2b-cooperate-for-chromatin-recruitment-via-ctcf-dd565cea</guid>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, 3d-genome</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>CTCF contributes with α-satellite and satellite 2 expression in cancer cells: implications for centromeric chromatin organisation.</title>
-      <link>https://europepmc.org/article/MED/42960724</link>
-      <guid isPermaLink="false">ctcf-contributes-with-satellite-and-satellite-2-expression-in-cancer-c-79c44ba1</guid>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, epigenetics</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
-    </item>
-    <item>
       <title>Decoding Molecular Features of Bovine Oocyte Maturation by Integrating Epigenomic and Transcriptomic Analyses.</title>
       <link>https://europepmc.org/article/MED/42963528</link>
       <guid isPermaLink="false">decoding-molecular-features-of-bovine-oocyte-maturation-by-integrating-87425132</guid>
       <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
       <category>ivg-germline, epigenetics</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
+      <title>Frequent blastocyst contractions with area reduction &gt;30% are associated with reduced embryo quality but not IVF outcomes: A retrospective cohort study of fresh and frozen single embryo transfer.</title>
+      <link>https://europepmc.org/article/MED/42951472</link>
+      <guid isPermaLink="false">frequent-blastocyst-contractions-with-area-reduction-30-are-associated-87757722</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>developmental-biology, ivg-germline</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Stable Expression of Human Endogenous Retrovirus Families and Epigenetic Repressors in Human Granulosa Cells Across Oocyte Maturation Stages.</title>
+      <link>https://europepmc.org/article/MED/42946542</link>
+      <guid isPermaLink="false">stable-expression-of-human-endogenous-retrovirus-families-and-epigenet-d5b5e5d1</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, epigenetics, developmental-biology</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
@@ -259,6 +241,15 @@
       <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
     </item>
     <item>
+      <title>PDS5A and TOP2B cooperate for chromatin recruitment via CTCF.</title>
+      <link>https://europepmc.org/article/MED/42962015</link>
+      <guid isPermaLink="false">pds5a-and-top2b-cooperate-for-chromatin-recruitment-via-ctcf-dd565cea</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Phospholipase C Zeta 1 Supports Post-Fertilization Embryo Development beyond Oocyte Activation: Evidence from Sperm mRNA Analysis and Functional Studies.</title>
       <link>https://europepmc.org/article/MED/42961595</link>
       <guid isPermaLink="false">phospholipase-c-zeta-1-supports-post-fertilization-embryo-development-8de7993e</guid>
@@ -268,6 +259,15 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
+      <title>CTCF contributes with α-satellite and satellite 2 expression in cancer cells: implications for centromeric chromatin organisation.</title>
+      <link>https://europepmc.org/article/MED/42960724</link>
+      <guid isPermaLink="false">ctcf-contributes-with-satellite-and-satellite-2-expression-in-cancer-c-79c44ba1</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, epigenetics</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
       <title>Oocyte-specific OMC1 is required for maintaining chromosome cohesion through reproductive life.</title>
       <link>https://europepmc.org/article/MED/42957802</link>
       <guid isPermaLink="false">oocyte-specific-omc1-is-required-for-maintaining-chromosome-cohesion-t-d7a6bd3b</guid>
@@ -275,15 +275,6 @@
       <category>papers</category>
       <category>ivg-germline, cohesin-ctcf</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Effects of Perfluorohexane Sulfonic Acid on Female Reproductive Function and Oocyte Quality.</title>
-      <link>https://europepmc.org/article/MED/42956977</link>
-      <guid isPermaLink="false">effects-of-perfluorohexane-sulfonic-acid-on-female-reproductive-functi-61dfeb50</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, epigenetics</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
       <title>Cbfβ regulates DNA looping at the Il4-Il13 loci to control their differential expression in Th2 cells.</title>
@@ -349,22 +340,31 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
     </item>
     <item>
-      <title>Layered regulation of plant 3D chromatin architecture by histone marks, transcription factors and cohesin‑mediated loops.</title>
-      <link>https://europepmc.org/article/MED/42945616</link>
-      <guid isPermaLink="false">layered-regulation-of-plant-3d-chromatin-architecture-by-histone-marks-20af0efd</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <title>Author Correction: Exhausted CD8 + T cell fate is programmed by dynamic CTCF-mediated enhancer activation and invariant CTCF-imposed barriers.</title>
+      <link>https://europepmc.org/article/MED/42778791</link>
+      <guid isPermaLink="false">author-correction-exhausted-cd8-t-cell-fate-is-programmed-by-dynamic-c-ac741e69</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, cohesin-ctcf, epigenetics</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+      <category>cohesin-ctcf, developmental-biology</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
-      <title>PDS5A restricts SYN4-dependent long-range chromatin contacts to shape TAD-like chromatin architecture in Arabidopsis.</title>
-      <link>https://europepmc.org/article/MED/42935326</link>
-      <guid isPermaLink="false">pds5a-restricts-syn4-dependent-long-range-chromatin-contacts-to-shape-3ef563cd</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <title>SMFnet reveals principles of combinatorial transcription factor assembly</title>
+      <link>https://doi.org/10.64898/2026.10.30.762954</link>
+      <guid isPermaLink="false">smfnet-reveals-principles-of-combinatorial-transcription-factor-assemb-9d5b8f5e</guid>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, cohesin-ctcf</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+      <category>epigenetics, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
+    </item>
+    <item>
+      <title>Paving the way for translational relevance in advanced therapies in Brazil: conference report from SBINT 2025.</title>
+      <link>https://europepmc.org/article/MED/42960841</link>
+      <guid isPermaLink="false">paving-the-way-for-translational-relevance-in-advanced-therapies-in-br-d0978acb</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>crispr-engineering, events-funding, epigenetics</category>
+      <description>programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. 교육·네트워킹·발표 또는 funding 기회로 전환할 수 있는 행동 가능한 공고다.</description>
     </item>
   </channel>
 </rss>

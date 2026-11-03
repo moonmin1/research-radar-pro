@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T11:14:13+09:00",
+  "generatedAt": "2026-11-03T12:52:30+09:00",
   "items": [
     {
       "id": "watch-error-stowers-scholars-2026-08-23",
@@ -1549,6 +1549,46 @@
       ],
       "section": "opportunities",
       "detectedAt": "2026-11-02T11:14:39+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
+    },
+    {
+      "id": "watch-rockefeller-surf-2026-11-03",
+      "pageId": "rockefeller-surf",
+      "name": "Rockefeller SURF",
+      "url": "https://www.rockefeller.edu/education-and-training/surf/application-information/",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-11-03T12:52:39+09:00",
+      "reason": "Visible page content hash changed; editorial review required.",
+      "status": "needs-review"
+    },
+    {
+      "id": "watch-error-stowers-scholars-2026-11-03",
+      "pageId": "stowers-scholars",
+      "name": "Stowers Research Scholars",
+      "url": "https://www.stowers.org/gradschool/research-scholars",
+      "topics": [
+        "us-opportunity"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-11-03T12:52:40+09:00",
+      "reason": "Page check failed: HTTPError: HTTP Error 403: Forbidden",
+      "status": "check-failed"
+    },
+    {
+      "id": "watch-janelia-visiting-2026-11-03",
+      "pageId": "janelia-visiting",
+      "name": "Janelia Visiting Scientists",
+      "url": "https://www.janelia.org/you-janelia/visiting-scientists",
+      "topics": [
+        "us-opportunity",
+        "single-molecule"
+      ],
+      "section": "opportunities",
+      "detectedAt": "2026-11-03T12:52:41+09:00",
       "reason": "Visible page content hash changed; editorial review required.",
       "status": "needs-review"
     }

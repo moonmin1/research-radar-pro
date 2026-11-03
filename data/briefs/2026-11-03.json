@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T12:52:30+09:00",
+  "title": "Research Radar — 2026-11-03",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "the-role-of-actin-filament-bundling-protein-fimbrin-sac6-and-type-v-my-0797479d",
+    "a-yap-tead-ctcf-transcriptional-regulatory-axis-associated-with-the-el-6b718b34",
+    "regulatory-roles-and-mechanistic-insights-of-chromatin-3d-structure-in-9863f661",
+    "from-3d-to-4d-spatiotemporal-genome-architecture-and-functional-genomi-451e2ff0",
+    "fiberbrowser-a-unified-framework-for-single-molecule-genomics-9205fe2c"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 21,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
