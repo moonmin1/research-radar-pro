@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T12:20:28+09:00",
-  "title": "Research Radar — 2026-11-05",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T12:18:23+09:00",
+  "title": "Research Radar — 2026-11-06",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
     "reference-guided-de-novo-retrieval-of-3d-chromatin-organizational-feat-34be42b5",
     "decoding-cell-type-specific-gene-regulation-with-cellreg3d-by-integrat-826ae667",
-    "janelia-visiting-scientist",
-    "a-dpy19l2-fam209-associated-protein-arp-complex-capza3-scaffold-is-ess-bde443a2",
-    "oocyte-stored-mif-promotes-preimplantation-development-as-an-embryonic-ed6dd735",
+    "niche-condensin-controls-stem-cell-differentiation-through-genome-arch-49f7b7a7",
+    "local-chromatin-3d-genome-folding-and-transposon-cargo-shape-sleeping-e802896a",
     "an-smn2-splicing-correcting-antisense-oligonucleotide-promotes-gene-lo-448d48db"
   ],
   "counts": {
     "total": 250,
-    "new72h": 41,
+    "new72h": 24,
     "papers": 235,
     "opportunities": 10,
     "graduate": 5,
