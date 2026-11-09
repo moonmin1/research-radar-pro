@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:30:08+09:00",
+  "title": "Research Radar — 2026-11-09",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "mit-biology-phd-2027",
+    "reference-guided-de-novo-retrieval-of-3d-chromatin-organizational-feat-34be42b5",
+    "decoding-cell-type-specific-gene-regulation-with-cellreg3d-by-integrat-826ae667",
+    "niche-condensin-controls-stem-cell-differentiation-through-genome-arch-49f7b7a7",
+    "local-chromatin-3d-genome-folding-and-transposon-cargo-shape-sleeping-e802896a"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 0,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
