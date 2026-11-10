@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T13:32:02+09:00",
+  "title": "Research Radar — 2026-11-10",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "mit-biology-phd-2027",
+    "dna-methylation-of-nuclear-donor-cells-and-cloning-efficiency-in-cattl-b23f64e9",
+    "standing-up-against-the-silencer-chromatin-factors-antagonizing-polyco-48612e09",
+    "from-folate-to-the-epigenetic-clock-one-carbon-metabolism-in-oocyte-qu-6d3c7124",
+    "epigenome-informed-polymer-modeling-reveals-chromosome-folding-landsca-5a197de0"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 1,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
