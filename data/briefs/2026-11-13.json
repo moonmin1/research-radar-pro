@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T12:19:06+09:00",
+  "title": "Research Radar — 2026-11-13",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "interplay-of-diffusive-and-active-motion-governs-cohesin-extrusion-and-1c78cf98",
+    "janelia-visiting-scientist",
+    "non-coding-rna-controls-long-range-enhancer-promoter-interactions-6e86e555",
+    "long-read-analysis-of-complete-human-5s-rdna-arrays-reveals-a-zoned-or-bd0a90a3",
+    "impairment-of-lem-domain-function-in-lemd2-associated-cardiomyopathy-c359bf13",
+    "mit-biology-phd-2027"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 14,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
