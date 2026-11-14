@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T12:19:06+09:00",
-  "title": "Research Radar — 2026-11-13",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T11:57:28+09:00",
+  "title": "Research Radar — 2026-11-14",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
-    "interplay-of-diffusive-and-active-motion-governs-cohesin-extrusion-and-1c78cf98",
+    "gene-therapy-strategy-to-treat-cornelia-de-lange-syndrome-due-to-hdac8-fc77177d",
+    "structural-insight-into-dual-roles-of-mecp2-in-chromatin-architecture-ccc77376",
     "janelia-visiting-scientist",
+    "interplay-of-diffusive-and-active-motion-governs-cohesin-extrusion-and-1c78cf98",
     "non-coding-rna-controls-long-range-enhancer-promoter-interactions-6e86e555",
-    "long-read-analysis-of-complete-human-5s-rdna-arrays-reveals-a-zoned-or-bd0a90a3",
-    "impairment-of-lem-domain-function-in-lemd2-associated-cardiomyopathy-c359bf13",
-    "mit-biology-phd-2027"
+    "long-read-analysis-of-complete-human-5s-rdna-arrays-reveals-a-zoned-or-bd0a90a3"
   ],
   "counts": {
     "total": 250,
-    "new72h": 14,
+    "new72h": 20,
     "papers": 235,
     "opportunities": 10,
     "graduate": 5,
