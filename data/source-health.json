@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-14T11:57:28+09:00",
+  "generatedAt": "2026-11-15T11:28:57+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-11-14T11:57:28+09:00",
+      "lastSuccess": "2026-11-15T11:28:57+09:00",
       "latencyMs": 0,
       "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -14,35 +14,35 @@
       "id": "europepmc",
       "label": "Europe PMC",
       "status": "healthy",
-      "lastSuccess": "2026-11-14T11:57:28+09:00",
-      "latencyMs": 1493,
-      "items": 41,
-      "message": "Received 119; retained 41 after relevance filtering."
+      "lastSuccess": "2026-11-15T11:28:57+09:00",
+      "latencyMs": 1034,
+      "items": 35,
+      "message": "Received 80; retained 35 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
       "status": "healthy",
-      "lastSuccess": "2026-11-14T11:57:28+09:00",
-      "latencyMs": 1228,
+      "lastSuccess": "2026-11-15T11:28:57+09:00",
+      "latencyMs": 1186,
       "items": 3,
       "message": "Received 30; retained 3 after relevance filtering."
     },
     {
       "id": "nih-rss",
       "label": "NIH Guide RSS",
-      "status": "healthy",
-      "lastSuccess": "2026-11-14T11:57:28+09:00",
-      "latencyMs": 63,
+      "status": "error",
+      "lastSuccess": null,
+      "latencyMs": null,
       "items": 0,
-      "message": "Received 3; retained 0 after relevance filtering."
+      "message": "HTTPError: HTTP Error 503: Service Unavailable"
     },
     {
       "id": "page-watch",
       "label": "Curated programme page-watch",
       "status": "healthy",
-      "lastSuccess": "2026-11-14T11:57:28+09:00",
-      "latencyMs": 6107,
+      "lastSuccess": "2026-11-15T11:28:57+09:00",
+      "latencyMs": 3561,
       "items": 9,
       "message": "Checked 10 pages; 1 change/error flags added."
     }

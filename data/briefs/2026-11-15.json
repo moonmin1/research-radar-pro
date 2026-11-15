@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T11:28:57+09:00",
+  "title": "Research Radar — 2026-11-15",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "ctcf-regulates-wild-type-and-recombinant-aav-gene-expression-by-shapin-2449a055",
+    "gene-therapy-strategy-to-treat-cornelia-de-lange-syndrome-due-to-hdac8-fc77177d",
+    "structural-insight-into-dual-roles-of-mecp2-in-chromatin-architecture-ccc77376",
+    "interplay-of-diffusive-and-active-motion-governs-cohesin-extrusion-and-1c78cf98",
+    "mit-biology-phd-2027"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 18,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
