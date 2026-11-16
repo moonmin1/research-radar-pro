@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T11:38:54+09:00",
+  "title": "Research Radar — 2026-11-16",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "gene-therapy-strategy-to-treat-cornelia-de-lange-syndrome-due-to-hdac8-fc77177d",
+    "dynamic-rewiring-of-super-enhancers-shapes-condition-specific-genome-r-6a84015f",
+    "structural-insight-into-dual-roles-of-mecp2-in-chromatin-architecture-ccc77376",
+    "mit-biology-phd-2027",
+    "post-icsi-oocyte-degeneration-inflates-the-conventional-blastocyst-uti-fbe28c6a"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 16,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
