@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T13:59:32+09:00",
+  "generatedAt": "2026-11-18T13:05:38+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-11-17T13:59:32+09:00",
+      "lastSuccess": "2026-11-18T13:05:38+09:00",
       "latencyMs": 0,
       "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -14,37 +14,37 @@
       "id": "europepmc",
       "label": "Europe PMC",
       "status": "healthy",
-      "lastSuccess": "2026-11-17T13:59:32+09:00",
-      "latencyMs": 2103,
-      "items": 36,
-      "message": "Received 54; retained 36 after relevance filtering."
+      "lastSuccess": "2026-11-18T13:05:38+09:00",
+      "latencyMs": 1345,
+      "items": 39,
+      "message": "Received 60; retained 39 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
       "status": "healthy",
-      "lastSuccess": "2026-11-17T13:59:32+09:00",
-      "latencyMs": 1540,
-      "items": 0,
-      "message": "Received 30; retained 0 after relevance filtering."
+      "lastSuccess": "2026-11-18T13:05:38+09:00",
+      "latencyMs": 1413,
+      "items": 1,
+      "message": "Received 30; retained 1 after relevance filtering."
     },
     {
       "id": "nih-rss",
       "label": "NIH Guide RSS",
       "status": "healthy",
-      "lastSuccess": "2026-11-17T13:59:32+09:00",
-      "latencyMs": 200,
+      "lastSuccess": "2026-11-18T13:05:38+09:00",
+      "latencyMs": 205,
       "items": 0,
-      "message": "Received 2; retained 0 after relevance filtering."
+      "message": "Received 6; retained 0 after relevance filtering."
     },
     {
       "id": "page-watch",
       "label": "Curated programme page-watch",
       "status": "healthy",
-      "lastSuccess": "2026-11-17T13:59:32+09:00",
-      "latencyMs": 5432,
+      "lastSuccess": "2026-11-18T13:05:38+09:00",
+      "latencyMs": 5381,
       "items": 9,
-      "message": "Checked 10 pages; 1 change/error flags added."
+      "message": "Checked 10 pages; 2 change/error flags added."
     }
   ]
 }

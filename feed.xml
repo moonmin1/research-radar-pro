@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:59:32 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:05:38 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -142,13 +142,22 @@
       <description>한국에서 직접 지원하는 사용자는 이번 cycle의 Utah Bioscience를 지원 목록에서 제외해야 한다. 단순 관심도 점수보다 eligibility exclusion을 우선 적용해야 하는 대표 사례다.</description>
     </item>
     <item>
-      <title>Dynamix identifies accurate chromatin stripes by Bayesian Normal Dynamic Linear Model on Hi-C signal probabilities</title>
-      <link>https://doi.org/10.21203/rs.3.rs-11721766/v1</link>
-      <guid isPermaLink="false">dynamix-identifies-accurate-chromatin-stripes-by-bayesian-normal-dynam-50c5010f</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <title>Pluripotent and differentiated cells display distinct genomic and nuclear landscapes of genome folding variability</title>
+      <link>https://doi.org/10.64898/2026.11.16.766639</link>
+      <guid isPermaLink="false">pluripotent-and-differentiated-cells-display-distinct-genomic-and-nucl-748427fe</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, enhancer-promoter</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
+      <category>developmental-biology, 3d-genome</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>CTCF-anchored cohesin loops are a vertebrate-specific innovation</title>
+      <link>https://doi.org/10.64898/2026.11.16.767090</link>
+      <guid isPermaLink="false">ctcf-anchored-cohesin-loops-are-a-vertebrate-specific-innovation-2def4735</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
       <title>Janelia Visiting Scientist Program — non-US citizen 및 J-1 paperwork 지원</title>
@@ -178,6 +187,33 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
+      <title>Distinct contributions of cohesin-STAG1 and cohesin-STAG2 to the pluripotent and totipotent states</title>
+      <link>https://doi.org/10.64898/2026.11.13.766432</link>
+      <guid isPermaLink="false">distinct-contributions-of-cohesin-stag1-and-cohesin-stag2-to-the-pluri-66f4ebf9</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, developmental-biology, 3d-genome</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>Dynamix identifies accurate chromatin stripes by Bayesian Normal Dynamic Linear Model on Hi-C signal probabilities</title>
+      <link>https://doi.org/10.21203/rs.3.rs-11721766/v1</link>
+      <guid isPermaLink="false">dynamix-identifies-accurate-chromatin-stripes-by-bayesian-normal-dynam-50c5010f</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>3d-genome, enhancer-promoter</category>
+      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
+    </item>
+    <item>
+      <title>Long-term low-intensity vibration attenuates age-associated adipogenic bias and enhances osteogenic potential in mesenchymal stem cells</title>
+      <link>https://doi.org/10.64898/2026.11.13.766500</link>
+      <guid isPermaLink="false">long-term-low-intensity-vibration-attenuates-age-associated-adipogenic-178cbce1</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, mechanobiology</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. nuclear mechanics와 chromatin organization 사이의 양방향 인과관계를 검토하는 데 유용하다.</description>
+    </item>
+    <item>
       <title>Sperm lipids transferred to the Zygote at fertilization contribute to morula metabolism.</title>
       <link>https://europepmc.org/article/MED/43036850</link>
       <guid isPermaLink="false">sperm-lipids-transferred-to-the-zygote-at-fertilization-contribute-to-8003edfa</guid>
@@ -194,15 +230,6 @@
       <category>papers</category>
       <category>ivg-germline, developmental-biology</category>
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin.</title>
-      <link>https://europepmc.org/article/MED/43024629</link>
-      <guid isPermaLink="false">ctcf-regulates-wild-type-and-recombinant-aav-gene-expression-by-shapin-2449a055</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, epigenetics</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
       <title>Gene therapy strategy to treat Cornelia de Lange syndrome due to Hdac8 Deficiency.</title>
@@ -241,6 +268,51 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
     </item>
     <item>
+      <title>A histone hitchhiking mechanism for chromatin maintenance during mammalian transcription elongation</title>
+      <link>https://doi.org/10.64898/2026.11.16.751813</link>
+      <guid isPermaLink="false">a-histone-hitchhiking-mechanism-for-chromatin-maintenance-during-mamma-510e3669</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
+    </item>
+    <item>
+      <title>Gene-scale DNA and chromatin ensembles with atomic resolution</title>
+      <link>https://doi.org/10.64898/2026.11.16.766978</link>
+      <guid isPermaLink="false">gene-scale-dna-and-chromatin-ensembles-with-atomic-resolution-2cb55835</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, single-molecule</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
+    </item>
+    <item>
+      <title>Somatic mutation probabilities learned from the DNA sequence</title>
+      <link>https://doi.org/10.64898/2026.11.13.766380</link>
+      <guid isPermaLink="false">somatic-mutation-probabilities-learned-from-the-dna-sequence-52babbe2</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, cohesin-ctcf</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>One number, no agreed definition: why uterine age is not yet a measurable quantity.</title>
+      <link>https://europepmc.org/article/MED/43033094</link>
+      <guid isPermaLink="false">one-number-no-agreed-definition-why-uterine-age-is-not-yet-a-measurabl-672d58e8</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
+    </item>
+    <item>
+      <title>CTCF regulates wild-type and recombinant AAV gene expression by shaping viral chromatin.</title>
+      <link>https://europepmc.org/article/MED/43024629</link>
+      <guid isPermaLink="false">ctcf-regulates-wild-type-and-recombinant-aav-gene-expression-by-shapin-2449a055</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, epigenetics</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
+    </item>
+    <item>
       <title>Non-coding RNA controls long-range enhancer-promoter interactions</title>
       <link>https://doi.org/10.64898/2026.11.10.765568</link>
       <guid isPermaLink="false">non-coding-rna-controls-long-range-enhancer-promoter-interactions-6e86e555</guid>
@@ -257,42 +329,6 @@
       <category>papers</category>
       <category>3d-genome, epigenetics, single-molecule</category>
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
-    </item>
-    <item>
-      <title>Somatic mutation probabilities learned from the DNA sequence</title>
-      <link>https://doi.org/10.64898/2026.11.13.766380</link>
-      <guid isPermaLink="false">somatic-mutation-probabilities-learned-from-the-dna-sequence-52babbe2</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, cohesin-ctcf</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Tex11 mutant mouse models of human azoospermia.</title>
-      <link>https://europepmc.org/article/MED/43034046</link>
-      <guid isPermaLink="false">tex11-mutant-mouse-models-of-human-azoospermia-535c9698</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, crispr-engineering</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
-    </item>
-    <item>
-      <title>One number, no agreed definition: why uterine age is not yet a measurable quantity.</title>
-      <link>https://europepmc.org/article/MED/43033094</link>
-      <guid isPermaLink="false">one-number-no-agreed-definition-why-uterine-age-is-not-yet-a-measurabl-672d58e8</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Noncanonical enhancers control gene expression and cell fate in human pluripotent stem cells.</title>
-      <link>https://europepmc.org/article/MED/43024730</link>
-      <guid isPermaLink="false">noncanonical-enhancers-control-gene-expression-and-cell-fate-in-human-ae418d2a</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>developmental-biology, crispr-engineering, epigenetics</category>
-      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
     </item>
     <item>
       <title>Impairment of LEM-domain function in LEMD2-associated cardiomyopathy.</title>
@@ -313,58 +349,22 @@
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
     </item>
     <item>
-      <title>Analyzing epigenetic modifications at sample-specific CpG loci in long-read data using a likelihood-based framework in bsseq.</title>
-      <link>https://europepmc.org/article/MED/43023421</link>
-      <guid isPermaLink="false">analyzing-epigenetic-modifications-at-sample-specific-cpg-loci-in-long-24c0135e</guid>
+      <title>Tex11 mutant mouse models of human azoospermia.</title>
+      <link>https://europepmc.org/article/MED/43034046</link>
+      <guid isPermaLink="false">tex11-mutant-mouse-models-of-human-azoospermia-535c9698</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, crispr-engineering</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
+    </item>
+    <item>
+      <title>Noncanonical enhancers control gene expression and cell fate in human pluripotent stem cells.</title>
+      <link>https://europepmc.org/article/MED/43024730</link>
+      <guid isPermaLink="false">noncanonical-enhancers-control-gene-expression-and-cell-fate-in-human-ae418d2a</guid>
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>epigenetics, single-molecule</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
-    </item>
-    <item>
-      <title>Epigenetic Allostasis in Alcohol Use Disorder: A Metabolic-Chromatin Framework Linking DNA Methylation, Circuit Remodeling, and Precision Therapeutics.</title>
-      <link>https://europepmc.org/article/MED/43020308</link>
-      <guid isPermaLink="false">epigenetic-allostasis-in-alcohol-use-disorder-a-metabolic-chromatin-fr-3e770b31</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, crispr-engineering</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
-    </item>
-    <item>
-      <title>Protective Effects of Astaxanthin on IVF-Related Outcomes in Experimental Ovarian Torsion–Detorsion: An Experimental Animal Study</title>
-      <link>https://doi.org/10.20944/preprints202611.1110.v1</link>
-      <guid isPermaLink="false">protective-effects-of-astaxanthin-on-ivf-related-outcomes-in-experimen-4542d782</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Association between non-invasive PGT-A (niPGT-A) and live birth using spent embryo culture medium in donor oocyte cycles: a prospective non-selection cohort study.</title>
-      <link>https://europepmc.org/article/MED/43008887</link>
-      <guid isPermaLink="false">association-between-non-invasive-pgt-a-nipgt-a-and-live-birth-using-sp-725389c1</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Interplay between epigenetic alterations and piRNA expression in cancer development.</title>
-      <link>https://europepmc.org/article/MED/43001886</link>
-      <guid isPermaLink="false">interplay-between-epigenetic-alterations-and-pirna-expression-in-cance-d2ee7d4f</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, crispr-engineering, ivg-germline</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
-    </item>
-    <item>
-      <title>Epigenome-informed Polymer Modeling Reveals Chromosome Folding Landscapes across Distinct Genetic and Epigenetic Contexts</title>
-      <link>https://doi.org/10.64898/2026.11.04.764273</link>
-      <guid isPermaLink="false">epigenome-informed-polymer-modeling-reveals-chromosome-folding-landsca-5a197de0</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, 3d-genome</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+      <category>developmental-biology, crispr-engineering, epigenetics</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다.</description>
     </item>
   </channel>
 </rss>

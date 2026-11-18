@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T13:05:38+09:00",
+  "title": "Research Radar — 2026-11-18",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "pluripotent-and-differentiated-cells-display-distinct-genomic-and-nucl-748427fe",
+    "ctcf-anchored-cohesin-loops-are-a-vertebrate-specific-innovation-2def4735",
+    "janelia-visiting-scientist",
+    "heterologous-expression-of-the-human-cohesin-complex-in-saccharomyces-a1c305c6",
+    "mettl8-orchestrates-tfh-cell-differentiation-through-m-c-mediated-tcf1-5a609dfc",
+    "distinct-contributions-of-cohesin-stag1-and-cohesin-stag2-to-the-pluri-66f4ebf9"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 16,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
