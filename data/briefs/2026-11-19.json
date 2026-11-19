@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T13:01:53+09:00",
+  "title": "Research Radar — 2026-11-19",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "changes-in-the-chromatin-accessibility-landscape-during-human-adenovir-f1b80541",
+    "draft-graph-recurrent-learning-of-dynamic-gene-regulatory-networks-alo-7710b689",
+    "epigenetic-memory-meets-transcriptional-plasticity-mechanistic-perspec-8649685f",
+    "nuclear-receptor-transcription-factors-promote-axon-regeneration-in-th-5b0dc933",
+    "pluripotent-and-differentiated-cells-display-distinct-genomic-and-nucl-748427fe"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 25,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
