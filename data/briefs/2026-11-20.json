@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T12:54:42+09:00",
+  "title": "Research Radar — 2026-11-20",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "yap1-induced-super-enhancer-rewiring-mediates-gene-environment-driven-5424831e",
+    "spatial-and-epigenetic-programs-underlie-heterogeneous-cellular-senesc-b489dad2",
+    "janelia-visiting-scientist",
+    "msps-is-essential-for-oocyte-specification-in-the-drosophila-ovary-6c524f31",
+    "chromatin-loci-move-coherently-due-to-spatially-correlated-fluctuation-6081ff22",
+    "changes-in-the-chromatin-accessibility-landscape-during-human-adenovir-f1b80541"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 25,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}

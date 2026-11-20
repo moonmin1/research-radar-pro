@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T13:01:53+09:00",
-  "title": "Research Radar — 2026-11-19",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T12:54:42+09:00",
+  "title": "Research Radar — 2026-11-20",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
+    "yap1-induced-super-enhancer-rewiring-mediates-gene-environment-driven-5424831e",
+    "spatial-and-epigenetic-programs-underlie-heterogeneous-cellular-senesc-b489dad2",
     "janelia-visiting-scientist",
-    "changes-in-the-chromatin-accessibility-landscape-during-human-adenovir-f1b80541",
-    "draft-graph-recurrent-learning-of-dynamic-gene-regulatory-networks-alo-7710b689",
-    "epigenetic-memory-meets-transcriptional-plasticity-mechanistic-perspec-8649685f",
-    "nuclear-receptor-transcription-factors-promote-axon-regeneration-in-th-5b0dc933",
-    "pluripotent-and-differentiated-cells-display-distinct-genomic-and-nucl-748427fe"
+    "msps-is-essential-for-oocyte-specification-in-the-drosophila-ovary-6c524f31",
+    "chromatin-loci-move-coherently-due-to-spatially-correlated-fluctuation-6081ff22",
+    "changes-in-the-chromatin-accessibility-landscape-during-human-adenovir-f1b80541"
   ],
   "counts": {
     "total": 250,
