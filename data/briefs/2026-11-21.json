@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T12:51:16+09:00",
+  "title": "Research Radar — 2026-11-21",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "janelia-visiting-scientist",
+    "dosage-compensation-is-regulated-by-segregated-chromatin-modules-durin-139b1a31",
+    "mapping-the-three-dimensional-chromatin-structure-of-the-harpegnathos-d466136d",
+    "yap1-induced-super-enhancer-rewiring-mediates-gene-environment-driven-5424831e",
+    "spatial-and-epigenetic-programs-underlie-heterogeneous-cellular-senesc-b489dad2",
+    "chromatin-loci-move-coherently-due-to-spatially-correlated-fluctuation-6081ff22"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 27,
+    "papers": 235,
+    "opportunities": 10,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
