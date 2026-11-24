@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T12:37:12+09:00",
-  "title": "Research Radar — 2026-11-23",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T15:51:46+09:00",
+  "title": "Research Radar — 2026-11-24",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
+    "integrating-crispri-perturbation-responses-and-transcription-factor-bi-59ef5666",
     "janelia-visiting-scientist",
     "mit-biology-phd-2027",
+    "cdk1-and-mapk-erk-prime-maternal-proteins-for-calcineurin-dependent-de-e56063c4",
     "dosage-compensation-is-regulated-by-segregated-chromatin-modules-durin-139b1a31",
-    "mapping-the-three-dimensional-chromatin-structure-of-the-harpegnathos-d466136d",
-    "msps-is-essential-for-oocyte-specification-in-the-drosophila-ovary-6c524f31",
-    "yap1-induced-super-enhancer-rewiring-mediates-gene-environment-driven-5424831e"
+    "mapping-the-three-dimensional-chromatin-structure-of-the-harpegnathos-d466136d"
   ],
   "counts": {
     "total": 250,
-    "new72h": 9,
+    "new72h": 6,
     "papers": 235,
     "opportunities": 10,
     "graduate": 5,

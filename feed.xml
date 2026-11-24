@@ -5,7 +5,7 @@
     <link>./</link>
     <description>Personalized papers, conferences and research opportunities, and graduate admissions.</description>
     <language>ko-KR</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:37:12 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:51:46 +0900</lastBuildDate>
     <item>
       <title>Stowers Research Scholars — international 지원 가능 postbac 연구 프로그램</title>
       <link>https://www.stowers.org/gradschool/research-scholars</link>
@@ -142,6 +142,15 @@
       <description>한국에서 직접 지원하는 사용자는 이번 cycle의 Utah Bioscience를 지원 목록에서 제외해야 한다. 단순 관심도 점수보다 eligibility exclusion을 우선 적용해야 하는 대표 사례다.</description>
     </item>
     <item>
+      <title>Integrating CRISPRi perturbation responses and transcription-factor binding priors for regulatory network inference in triple-negative breast cancer</title>
+      <link>https://doi.org/10.64898/2026.11.20.768082</link>
+      <guid isPermaLink="false">integrating-crispri-perturbation-responses-and-transcription-factor-bi-59ef5666</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>crispr-engineering, cohesin-ctcf, enhancer-promoter, epigenetics</category>
+      <description>programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Janelia Visiting Scientist Program — non-US citizen 및 J-1 paperwork 지원</title>
       <link>https://www.janelia.org/you-janelia/visiting-scientists</link>
       <guid isPermaLink="false">janelia-visiting-scientist</guid>
@@ -149,6 +158,15 @@
       <category>opportunities</category>
       <category>us-opportunity, single-molecule, developmental-biology</category>
       <description>advanced imaging, tool development, quantitative biology를 단기 또는 중기 공동연구로 경험할 수 있는 드문 경로다. 단순 인턴 공고보다 host scientist와 구체적 project proposal이 핵심이다.</description>
+    </item>
+    <item>
+      <title>CDK1 and MAPK/Erk prime maternal proteins for Calcineurin-dependent dephosphorylation during the oocyte-to-embryo transition in Drosophila</title>
+      <link>https://doi.org/10.64898/2026.11.20.768146</link>
+      <guid isPermaLink="false">cdk1-and-mapk-erk-prime-maternal-proteins-for-calcineurin-dependent-de-e56063c4</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>ivg-germline, developmental-biology</category>
+      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
       <title>Dosage compensation is regulated by segregated chromatin modules during development in Drosophila.</title>
@@ -167,15 +185,6 @@
       <category>papers</category>
       <category>3d-genome, enhancer-promoter, epigenetics</category>
       <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. enhancer–promoter communication을 구조와 전사 활성의 관점에서 함께 해석할 수 있다.</description>
-    </item>
-    <item>
-      <title>Msps is essential for oocyte specification in the Drosophila ovary.</title>
-      <link>https://europepmc.org/article/MED/42899498</link>
-      <guid isPermaLink="false">msps-is-essential-for-oocyte-specification-in-the-drosophila-ovary-6c524f31</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>ivg-germline, developmental-biology</category>
-      <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
     <item>
       <title>YAP1-induced super-enhancer rewiring mediates gene–environment-driven malignant reprogramming and metastatic ecosystem formation in head and neck cancer</title>
@@ -205,33 +214,6 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 정제 단백질·defined chromatin·single-molecule imaging 기반 실험 설계의 benchmark가 된다.</description>
     </item>
     <item>
-      <title>Epigenetic memory meets transcriptional plasticity: Mechanistic perspectives from a chromatin regulatory hub in plants.</title>
-      <link>https://europepmc.org/article/MED/43046586</link>
-      <guid isPermaLink="false">epigenetic-memory-meets-transcriptional-plasticity-mechanistic-perspec-8649685f</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>epigenetics, 3d-genome</category>
-      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>Pluripotent and differentiated cells display distinct genomic and nuclear landscapes of genome folding variability</title>
-      <link>https://doi.org/10.64898/2026.11.16.766639</link>
-      <guid isPermaLink="false">pluripotent-and-differentiated-cells-display-distinct-genomic-and-nucl-748427fe</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>developmental-biology, 3d-genome</category>
-      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
-      <title>CTCF-anchored cohesin loops are a vertebrate-specific innovation</title>
-      <link>https://doi.org/10.64898/2026.11.16.767090</link>
-      <guid isPermaLink="false">ctcf-anchored-cohesin-loops-are-a-vertebrate-specific-innovation-2def4735</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>cohesin-ctcf, 3d-genome</category>
-      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
-    </item>
-    <item>
       <title>AMOTL2: A key regulator of mechanotransduction in development, vascular disease and cancer.</title>
       <link>https://europepmc.org/article/MED/43064357</link>
       <guid isPermaLink="false">amotl2-a-key-regulator-of-mechanotransduction-in-development-vascular-e3d4dda5</guid>
@@ -250,9 +232,9 @@
       <description>programmable chromatin 또는 3D epigenome editor 설계·검증에 응용할 수 있다. chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다.</description>
     </item>
     <item>
-      <title>IVG and the future of embryo selection: from reproductive autonomy to reproductive optimization.</title>
-      <link>https://europepmc.org/article/MED/43056057</link>
-      <guid isPermaLink="false">ivg-and-the-future-of-embryo-selection-from-reproductive-autonomy-to-r-3b548650</guid>
+      <title>Msps is essential for oocyte specification in the Drosophila ovary.</title>
+      <link>https://europepmc.org/article/MED/42899498</link>
+      <guid isPermaLink="false">msps-is-essential-for-oocyte-specification-in-the-drosophila-ovary-6c524f31</guid>
       <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
       <category>ivg-germline, developmental-biology</category>
@@ -304,6 +286,33 @@
       <description>PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
+      <title>Epigenetic memory meets transcriptional plasticity: Mechanistic perspectives from a chromatin regulatory hub in plants.</title>
+      <link>https://europepmc.org/article/MED/43046586</link>
+      <guid isPermaLink="false">epigenetic-memory-meets-transcriptional-plasticity-mechanistic-perspec-8649685f</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>epigenetics, 3d-genome</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>Pluripotent and differentiated cells display distinct genomic and nuclear landscapes of genome folding variability</title>
+      <link>https://doi.org/10.64898/2026.11.16.766639</link>
+      <guid isPermaLink="false">pluripotent-and-differentiated-cells-display-distinct-genomic-and-nucl-748427fe</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>developmental-biology, 3d-genome</category>
+      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
+      <title>CTCF-anchored cohesin loops are a vertebrate-specific innovation</title>
+      <link>https://doi.org/10.64898/2026.11.16.767090</link>
+      <guid isPermaLink="false">ctcf-anchored-cohesin-loops-are-a-vertebrate-specific-innovation-2def4735</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>papers</category>
+      <category>cohesin-ctcf, 3d-genome</category>
+      <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
+    </item>
+    <item>
       <title>Heparin combined with D-penicillamine, hypotaurine, and epinephrine supports collared peccary sperm function and interspecific embryo development.</title>
       <link>https://europepmc.org/article/MED/43056791</link>
       <guid isPermaLink="false">heparin-combined-with-d-penicillamine-hypotaurine-and-epinephrine-supp-124e7eaa</guid>
@@ -349,22 +358,13 @@
       <description>cohesin loading·loop extrusion·CTCF barrier의 인과기전을 검토하는 데 직접 연결된다. 3D genome folding의 원리와 contact-domain 해석에 직접 연결된다.</description>
     </item>
     <item>
-      <title>METTL8 orchestrates TFH cell differentiation through m³C-mediated TCF1 regulation in infection and cancer models.</title>
-      <link>https://europepmc.org/article/MED/43037056</link>
-      <guid isPermaLink="false">mettl8-orchestrates-tfh-cell-differentiation-through-m-c-mediated-tcf1-5a609dfc</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <title>Epigenetic programming of immune cells: unleashing anti-tumor potential and clinical perspectives.</title>
+      <link>https://europepmc.org/article/MED/43065112</link>
+      <guid isPermaLink="false">epigenetic-programming-of-immune-cells-unleashing-anti-tumor-potential-5f08fd14</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
       <category>papers</category>
-      <category>3d-genome, developmental-biology</category>
-      <description>3D genome folding의 원리와 contact-domain 해석에 직접 연결된다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
-    </item>
-    <item>
-      <title>Sperm lipids transferred to the Zygote at fertilization contribute to morula metabolism.</title>
-      <link>https://europepmc.org/article/MED/43036850</link>
-      <guid isPermaLink="false">sperm-lipids-transferred-to-the-zygote-at-fertilization-contribute-to-8003edfa</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <category>papers</category>
-      <category>developmental-biology, ivg-germline, epigenetics</category>
-      <description>초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다. PGCLC 이후 meiosis·gamete maturation이라는 IVG 병목을 이해하는 데 직접 연결된다.</description>
+      <category>epigenetics, developmental-biology</category>
+      <description>chromatin state, epigenetic memory, 또는 epigenome engineering의 기전적 근거가 될 수 있다. 초기 발생의 lineage specification과 chromatin-state 전환을 연결해 볼 수 있다.</description>
     </item>
   </channel>
 </rss>
