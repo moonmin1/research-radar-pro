@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T15:51:46+09:00",
-  "title": "Research Radar — 2026-11-24",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T14:18:17+09:00",
+  "title": "Research Radar — 2026-11-25",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
-    "integrating-crispri-perturbation-responses-and-transcription-factor-bi-59ef5666",
+    "a-na-ve-genome-reveals-the-evolutionary-dependence-of-ctcf-functions-84b855e6",
     "janelia-visiting-scientist",
+    "crispr-cas9-mediated-functional-screening-identifies-14-testis-enriche-29247425",
+    "integrating-crispri-perturbation-responses-and-transcription-factor-bi-59ef5666",
     "mit-biology-phd-2027",
-    "cdk1-and-mapk-erk-prime-maternal-proteins-for-calcineurin-dependent-de-e56063c4",
-    "dosage-compensation-is-regulated-by-segregated-chromatin-modules-durin-139b1a31",
-    "mapping-the-three-dimensional-chromatin-structure-of-the-harpegnathos-d466136d"
+    "dosage-compensation-is-regulated-by-segregated-chromatin-modules-durin-139b1a31"
   ],
   "counts": {
     "total": 250,
-    "new72h": 6,
+    "new72h": 12,
     "papers": 235,
     "opportunities": 10,
     "graduate": 5,
