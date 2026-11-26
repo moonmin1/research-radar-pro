@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T14:18:17+09:00",
+  "generatedAt": "2026-11-26T13:48:58+09:00",
   "sources": [
     {
       "id": "curated",
       "label": "Curated editorial layer",
       "status": "healthy",
-      "lastSuccess": "2026-11-25T14:18:17+09:00",
+      "lastSuccess": "2026-11-26T13:48:58+09:00",
       "latencyMs": 0,
       "items": 30,
       "message": "Editorial records have deduplication priority over automated metadata."
@@ -14,17 +14,17 @@
       "id": "europepmc",
       "label": "Europe PMC",
       "status": "healthy",
-      "lastSuccess": "2026-11-25T14:18:17+09:00",
-      "latencyMs": 18848,
-      "items": 28,
-      "message": "Received 61; retained 28 after relevance filtering."
+      "lastSuccess": "2026-11-26T13:48:58+09:00",
+      "latencyMs": 30031,
+      "items": 38,
+      "message": "Received 85; retained 38 after relevance filtering."
     },
     {
       "id": "biorxiv",
       "label": "bioRxiv",
       "status": "healthy",
-      "lastSuccess": "2026-11-25T14:18:17+09:00",
-      "latencyMs": 3221,
+      "lastSuccess": "2026-11-26T13:48:58+09:00",
+      "latencyMs": 916,
       "items": 1,
       "message": "Received 30; retained 1 after relevance filtering."
     },
@@ -32,8 +32,8 @@
       "id": "nih-rss",
       "label": "NIH Guide RSS",
       "status": "healthy",
-      "lastSuccess": "2026-11-25T14:18:17+09:00",
-      "latencyMs": 56,
+      "lastSuccess": "2026-11-26T13:48:58+09:00",
+      "latencyMs": 139,
       "items": 0,
       "message": "Received 3; retained 0 after relevance filtering."
     },
@@ -41,10 +41,10 @@
       "id": "page-watch",
       "label": "Curated programme page-watch",
       "status": "healthy",
-      "lastSuccess": "2026-11-25T14:18:17+09:00",
-      "latencyMs": 6040,
-      "items": 10,
-      "message": "Checked 10 pages; 0 change/error flags added."
+      "lastSuccess": "2026-11-26T13:48:58+09:00",
+      "latencyMs": 9433,
+      "items": 9,
+      "message": "Checked 10 pages; 1 change/error flags added."
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T14:18:17+09:00",
-  "title": "Research Radar — 2026-11-25",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T13:48:58+09:00",
+  "title": "Research Radar — 2026-11-26",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
-    "a-na-ve-genome-reveals-the-evolutionary-dependence-of-ctcf-functions-84b855e6",
+    "transcriptional-activation-forms-insulation-boundaries-through-cohesin-3cd86f70",
     "janelia-visiting-scientist",
-    "crispr-cas9-mediated-functional-screening-identifies-14-testis-enriche-29247425",
-    "integrating-crispri-perturbation-responses-and-transcription-factor-bi-59ef5666",
-    "mit-biology-phd-2027",
-    "dosage-compensation-is-regulated-by-segregated-chromatin-modules-durin-139b1a31"
+    "identification-and-initial-characterization-of-proteins-involved-in-po-fc5a1005",
+    "buc2l-drives-higher-order-germplasm-assembly-in-zebrafish-dbc5826a",
+    "zcwpw1-organizes-telomeric-architecture-to-drive-meiotic-chromosome-mo-1c986d9a",
+    "a-na-ve-genome-reveals-the-evolutionary-dependence-of-ctcf-functions-84b855e6"
   ],
   "counts": {
     "total": 250,
-    "new72h": 12,
-    "papers": 235,
-    "opportunities": 10,
+    "new72h": 29,
+    "papers": 236,
+    "opportunities": 9,
     "graduate": 5,
     "deadlines": 6
   }
