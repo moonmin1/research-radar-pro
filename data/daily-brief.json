@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T13:48:58+09:00",
-  "title": "Research Radar — 2026-11-26",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T13:52:47+09:00",
+  "title": "Research Radar — 2026-11-27",
   "itemIds": [
     "stowers-research-scholars",
     "stanford-biosciences-phd-2027",
-    "transcriptional-activation-forms-insulation-boundaries-through-cohesin-3cd86f70",
     "janelia-visiting-scientist",
-    "identification-and-initial-characterization-of-proteins-involved-in-po-fc5a1005",
-    "buc2l-drives-higher-order-germplasm-assembly-in-zebrafish-dbc5826a",
-    "zcwpw1-organizes-telomeric-architecture-to-drive-meiotic-chromosome-mo-1c986d9a",
-    "a-na-ve-genome-reveals-the-evolutionary-dependence-of-ctcf-functions-84b855e6"
+    "transcription-from-megabase-scale-heterochromatin-generates-neural-bar-4da3ac3d",
+    "transcriptional-activation-forms-insulation-boundaries-through-cohesin-3cd86f70",
+    "a-na-ve-genome-reveals-the-evolutionary-dependence-of-ctcf-functions-84b855e6",
+    "mit-biology-phd-2027",
+    "oocyte-borne-alterations-in-extraembryonic-tissue-dna-methylation-of-d-1d45c9ad"
   ],
   "counts": {
     "total": 250,
-    "new72h": 29,
+    "new72h": 30,
     "papers": 236,
     "opportunities": 9,
     "graduate": 5,
