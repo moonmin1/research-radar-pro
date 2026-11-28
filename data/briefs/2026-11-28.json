@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T13:37:34+09:00",
+  "title": "Research Radar — 2026-11-28",
+  "itemIds": [
+    "stowers-research-scholars",
+    "stanford-biosciences-phd-2027",
+    "a-framework-for-identifying-determinants-of-epigenomic-state-decoding-4e04a32a",
+    "genomic-conformation-reflects-epigenetic-programming-rather-than-gene-45e035ca",
+    "janelia-visiting-scientist",
+    "tet-proteins-as-epigenetic-mediators-of-genetic-and-environmental-risk-56dc6dc0",
+    "transcription-from-megabase-scale-heterochromatin-generates-neural-bar-4da3ac3d",
+    "transcriptional-activation-forms-insulation-boundaries-through-cohesin-3cd86f70"
+  ],
+  "counts": {
+    "total": 250,
+    "new72h": 32,
+    "papers": 236,
+    "opportunities": 9,
+    "graduate": 5,
+    "deadlines": 6
+  }
+}
